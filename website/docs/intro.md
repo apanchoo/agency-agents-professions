@@ -7,7 +7,7 @@ title: The field guide
 
 import Link from '@docusaurus/Link';
 
-This library combines **283 Agency Agents specialists** with **1,923 profession agents and companion skills**. All operational content is in English.
+This open-source AI agent library combines **283 Agency Agents specialists** with **1,923 profession agents and companion skills**. All operational content is in English.
 
 <Link to="/explorer">Open the explorer</Link> to search titles, capabilities and working domains. Filter for specialists, professions or roles with companion skills. Select a role to read its instructions and copy the Markdown.
 

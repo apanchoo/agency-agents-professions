@@ -80,7 +80,7 @@ test('document tabs work with arrow keys, focus is visible and returns to the ro
   expect(await skill.evaluate(el => getComputedStyle(el).outlineStyle)).toBe('solid');
   expect(await textIssues(page, '.role-dialog')).toEqual([]);
   await page.keyboard.press('End');
-  await expect(page.getByRole('tab', {name: 'Methods', exact: true})).toBeFocused();
+  await expect(page.getByRole('tab', {name: 'Technologies', exact: true})).toBeFocused();
   await page.keyboard.press('Escape');
   await expect(role).toBeFocused();
 });

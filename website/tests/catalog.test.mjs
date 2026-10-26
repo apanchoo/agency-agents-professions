@@ -13,6 +13,15 @@ test('visitors can find a role using a capability query and library filter',()=>
  assert.ok(results.some(r=>r.title==='Software Developer'));
  assert.ok(results.every(r=>r.hasSkill&&r.type==='profession'));
 });
+
+test('named software is searchable and retained in the profession toolbox',async()=>{
+ const results=filterRecords(catalog.records,{query:'Docker',type:'profession'});
+ const role=results.find(record=>record.title==='DevOps Engineer');
+ assert.ok(role);assert.ok(role.technologies.includes('Kubernetes'));assert.ok(role.technologies.includes('Ansible'));
+ const artifact=JSON.parse(await readFile(new URL('../static/catalog/'+role.id+'.json',import.meta.url),'utf8'));
+ assert.match(artifact.technologies,/## Docker Compose/);assert.match(artifact.technologies,/## Terraform/);
+ assert.doesNotMatch(artifact.technologies,/France Travail|\bROME\b|\bBUT\b|R5\.DEVCLOUD/);
+});
 test('empty searches and pagination do not leak stale results',()=>{
  const results=filterRecords(catalog.records,{query:'zznonexistentcapabilityzz'});
  assert.equal(results.length,0);assert.deepEqual(paginate(results,7).items,[]);

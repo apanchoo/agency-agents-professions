@@ -63,3 +63,33 @@ test('domain options wrap inside the viewport and filter the cards',async({page}
  await domain.click();await page.keyboard.press('Escape');await expect(list).not.toBeVisible();
  await domain.click();await page.getByRole('heading',{name:'Find the right expertise.'}).click();await expect(list).not.toBeVisible();
 });
+
+test('find DevOps by Docker and follow its named technology toolbox',async({page})=>{
+ await page.goto('./explorer/');
+ await page.getByLabel('Search agents and skills').fill('Docker');
+ await page.getByLabel('Library',{exact:true}).selectOption('profession');
+ const role=page.getByRole('button').filter({has:page.getByRole('heading',{name:'DevOps Engineer',exact:true})});
+ await expect(role).toContainText('Docker');await role.click();
+ await page.getByRole('tab',{name:'Technologies',exact:true}).click();
+ const panel=page.getByRole('tabpanel',{name:'Technologies',exact:true});
+ await expect(panel.getByRole('heading',{name:'Docker Compose',exact:true})).toBeVisible();
+ await expect(panel.getByRole('heading',{name:'Terraform',exact:true})).toBeVisible();
+ await expect(page.getByRole('link',{name:/View file on GitHub/})).toHaveAttribute('href',/references\/technologies\.md$/);
+ await page.getByRole('tab',{name:'Skill',exact:true}).click();
+ await page.getByRole('link',{name:'technology toolbox',exact:true}).click();
+ await expect(page.getByRole('tab',{name:'Technologies',exact:true})).toHaveAttribute('aria-selected','true');
+ await expect(page.getByRole('dialog')).not.toContainText('—');
+});
+
+test('AI positioning, source attribution and social sharing metadata are explicit',async({page})=>{
+ await page.goto('./');
+ await expect(page.getByRole('heading',{name:/AI EXPERTISE/})).toBeVisible();
+ await expect(page.getByText('BUILT FROM FRANCE TRAVAIL OPEN DATA',{exact:true})).toBeVisible();
+ await expect(page.locator('main')).not.toContainText('—');
+ const image=page.locator('meta[property="og:image"]');
+ await expect(image).toHaveAttribute('content','https://apanchoo.github.io/agency-agents-professions/img/social-site.png');
+ await expect(page.locator('meta[name="twitter:card"]')).toHaveAttribute('content','summary_large_image');
+ const asset=await page.request.get('http://127.0.0.1:4173'+new URL(await image.getAttribute('content')).pathname);
+ expect(asset.ok()).toBe(true);const bytes=await asset.body();
+ expect(bytes.readUInt32BE(16)).toBe(1200);expect(bytes.readUInt32BE(20)).toBe(630);expect(bytes.length).toBeLessThan(1000000);
+});

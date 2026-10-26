@@ -1,6 +1,6 @@
 const config = {
   title: 'Agency / Professions',
-  tagline: 'Specialist thinking. Professional depth.',
+  tagline: 'Open-source AI agents. Specialist thinking. Professional depth.',
   url: 'https://apanchoo.github.io',
   baseUrl: '/agency-agents-professions/',
   organizationName: 'apanchoo',
@@ -15,6 +15,13 @@ const config = {
     theme: {customCss: require.resolve('./src/css/custom.css')},
   }]],
   themeConfig: {
+    image: 'img/social-site.png',
+    metadata: [
+      {property: 'og:image:width', content: '1200'},
+      {property: 'og:image:height', content: '630'},
+      {property: 'og:image:alt', content: 'Agency Professions: 2,206 AI agents and 1,923 companion skills, built from France Travail open data.'},
+      {name: 'twitter:image:alt', content: 'Open-source professional AI agent library, built from France Travail open data.'},
+    ],
     colorMode: {defaultMode: 'light', disableSwitch: true, respectPrefersColorScheme: false},
     navbar: {
       title: 'AGENCY / PROFESSIONS',

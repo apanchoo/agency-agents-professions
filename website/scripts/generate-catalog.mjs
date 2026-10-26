@@ -21,6 +21,8 @@ function field(text, key) {
 async function add(record, content) {
   if(ids.has(record.id)) throw Error(`Duplicate catalog identifier: ${record.id}`);
   record.domain=record.domain.trim();
+  record.title=record.title.replaceAll('—','-');
+  record.description=record.description.replaceAll('—',',');
   ids.add(record.id);records.push(record);
   await writeFile(path.join(output, record.id+'.json'), JSON.stringify(content));
 }
@@ -51,8 +53,8 @@ for(const role of catalog) {
   const refs=path.posix.dirname(skillPath)+'/references/';
   const agentPath=`professions/${role.name}/${role.name}.md`;
   const id='profession-'+role.name;
-  await add({id,title:role.title,description:`Professional methods, practical expertise and acceptance criteria for ${role.title}.`,domain:role.domain_title,type:'profession',hasSkill:true,path:agentPath,aliases:role.appellations}, {
-    agent:await read(agentPath),skill:await read(skillPath),expertise:await read(refs+'expertise.md'),practice:await read(refs+'practice.md'),path:agentPath,skillPath,
+  await add({id,title:role.title,description:`Professional methods, practical expertise and acceptance criteria for ${role.title}.`,domain:role.domain_title,type:'profession',hasSkill:true,path:agentPath,aliases:role.appellations,technologies:role.technologies??[]}, {
+    agent:await read(agentPath),skill:await read(skillPath),expertise:await read(refs+'expertise.md'),practice:await read(refs+'practice.md'),technologies:role.technologies?.length?await read(refs+'technologies.md'):'',path:agentPath,skillPath,
   });
 }
 records.sort((a,b)=>a.title.localeCompare(b.title,'en'));

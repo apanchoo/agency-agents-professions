@@ -2,6 +2,9 @@
 
 Keep the interface and documentation in English. The live library is the primary
 entry point for discovering agents and companion skills.
+Describe the product explicitly as an AI agent library. Present France Travail
+as the source of occupational data in the site introduction, keeping source
+attribution separate from agent instructions. Avoid em dashes in interface prose.
 
 ## Reading and accessibility
 

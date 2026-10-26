@@ -2,13 +2,13 @@
 
 <a href="https://apanchoo.github.io/agency-agents-professions/"><img src="website/static/img/mark.svg" alt="Agency Professions — open the live library" width="96" height="96"></a>
 
-# 🧭 Agency Agents · Professional Edition
+# 🧭 Agency Agents · Professional AI Edition
 
-**Specialist thinking. Professional depth. One place to find both.**
+**An open-source AI agent library. Specialist thinking, professional depth, and practical skills.**
 
 🇫🇷 **1,923 profession agents built from France Travail’s ROME occupational reference data.**
 
-[![Explore the live agent and skill directory — 2,206 agents and 1,923 companion skills](website/static/img/professional-library.svg)](https://apanchoo.github.io/agency-agents-professions/)
+[![Explore 2,206 AI agents and 1,923 companion skills built from France Travail open data](website/static/img/social-repository.png)](https://apanchoo.github.io/agency-agents-professions/)
 
 [![Explore the live site](https://img.shields.io/badge/Explore_the_live_site-172c28?style=for-the-badge&logo=githubpages&logoColor=c7f275)](https://apanchoo.github.io/agency-agents-professions/)
 [![Read the field guide](https://img.shields.io/badge/Read_the_field_guide-c7f275?style=for-the-badge&logo=readthedocs&logoColor=172c28)](https://apanchoo.github.io/agency-agents-professions/docs/intro/)
@@ -35,7 +35,7 @@ Start with the **[live library](https://apanchoo.github.io/agency-agents-profess
 | **283** | **1,923** | **1,923** | **2,206** |
 | Focused technical perspectives | Complete professional roles | Practical methods and references | One connected directory |
 
-**Try an assignment:** [💻 Software Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=software%20developer&type=profession) · [🎨 Frontend Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=frontend%20developer&type=agency) · [🏭 Industrial Quality Manager](https://apanchoo.github.io/agency-agents-professions/explorer/?q=industrial%20quality%20manager&type=profession)
+**Try an assignment:** [⚙️ DevOps Engineer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=devops&type=profession) · [💻 Software Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=software%20developer&type=profession) · [🎨 Frontend Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=frontend%20developer&type=agency) · [🏭 Industrial Quality Manager](https://apanchoo.github.io/agency-agents-professions/explorer/?q=industrial%20quality%20manager&type=profession)
 
 ## 🇫🇷 Real professions, grounded in France Travail data
 
@@ -54,6 +54,7 @@ A focused specialist can solve a precise technical problem. A profession agent b
 | What you get | Why it helps |
 | :--- | :--- |
 | 🧠 **A role with working depth** | Expertise, workflows, deliverables and acceptance criteria in the instructions. |
+| 🛠️ **Named technologies and software** | Relevant toolbox entries retain tools such as Docker, Kubernetes, Ansible and Terraform, with practical uses and separate page-level evidence. |
 | 🧰 **A skill that travels with the role** | Reusable operating guidance, plus detailed expertise and practice references. |
 | 🗂️ **Names you can navigate** | English profession names in folders, with stable identifier suffixes. |
 | 🔌 **The existing Agency tooling** | A registered `professions/` division supported by the converters and installer. |

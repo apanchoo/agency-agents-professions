@@ -5,7 +5,7 @@ export function filterRecords(records, {query='',type='all',domain='all',skillsO
     if(type!=='all'&&record.type!==type)return false;
     if(domain!=='all'&&record.domain!==domain)return false;
     if(skillsOnly&&!record.hasSkill)return false;
-    const text=normalize([record.title,record.description,record.domain,...(record.aliases??[])].join(' '));
+    const text=normalize([record.title,record.description,record.domain,...(record.aliases??[]),...(record.technologies??[])].join(' '));
     return words.every(word=>text.includes(word));
   });
 }
