@@ -212,6 +212,31 @@ for slug, (_gf_desc, _gf_name, path) in list(src.items()):
         src_bad.append(f"source {path}: {str(e).splitlines()[0]}")
         src[slug] = (None, _gf_name, path)
 
+# Aider discovers professional roles through a lazy catalog, keeping its
+# permanent conventions file within the existing context budget. Validate the
+# complete catalog independently against the strictly parsed source roster.
+aider_delegated = {}
+aider_file = os.path.join(OUT, "aider", "CONVENTIONS.md")
+if os.path.isfile(aider_file):
+    references = re.findall(r"^Profession catalog: (.+)$", open(aider_file, encoding="utf-8").read(), re.M)
+    if references:
+        try:
+            assert references == ["extensions/professions/native-index.json"], "unexpected or repeated catalog reference"
+            entries = json.load(open(os.path.join(R, references[0]), encoding="utf-8"))
+            by_name = {name: slug for slug, (_desc, name, _path) in src.items()}
+            for entry in entries:
+                slug = by_name[entry["name"]]
+                assert slug not in aider_delegated, f"duplicate role: {slug}"
+                assert entry["agent"] == src[slug][2] and entry["agent"].startswith("professions/"), f"wrong agent path: {slug}"
+                assert entry["title"].strip() and entry["domain"].strip(), f"missing discovery metadata: {slug}"
+                assert os.path.isfile(os.path.join(R, entry["skill"])), f"missing companion skill: {slug}"
+                aider_delegated[slug] = entry
+            expected = {slug for slug, (_desc, _name, path) in src.items() if path.startswith("professions/")}
+            assert set(aider_delegated) == expected, "professional catalog does not match the full source roster"
+            ok(f"aider: all {len(expected)} professional roles resolve through the lazy catalog")
+        except Exception as e:
+            bad(f"aider: invalid professional catalog ({e})")
+
 # --- Layer A: per-tool count + strict-parse + round-trip -----------------------
 def report(tool, bad_parse, bad_trip, label):
     if bad_trip > 3: bad(f"{tool}: ...and {bad_trip-3} more mismatches")
@@ -229,6 +254,7 @@ for tool in TOOLS:
         miss = 0
         for slug, (desc, name, path) in src.items():
             if desc is None: continue   # source failed strict parse; reported below
+            if tool == "aider" and slug in aider_delegated: continue
             idx = [i for i, l in enumerate(text) if l.rstrip() == f"## {name}"]
             if len(idx) != 1:
                 miss += 1
@@ -414,6 +440,7 @@ if os.path.isfile(aider_index):
         bad(f"aider: CONVENTIONS.md is {len(text):,} characters — it is loaded into "
             f"every request, so it has to stay an index, not the agents themselves")
     paths = re.findall(r"^Full instructions: (.+)$", text, re.M)
+    paths += [entry["agent"] for entry in aider_delegated.values()]
     dangling = sorted({p for p in paths if not os.path.isfile(os.path.join(R, p))})
     if len(paths) != N:
         bad(f"aider: CONVENTIONS.md points at {len(paths)} agent files, roster has {N}")
@@ -500,6 +527,8 @@ for tool in TOOLS:
             def flush():
                 if cur: per_agent[cur].append((f"{tool}:section", "\n".join(buf).encode()))
             for l in lines_:
+                if tool == "aider" and l == "## Professional role discovery":
+                    flush(); cur, buf = None, []; pre.append(l); continue
                 m = names.get(l.rstrip()[3:]) if l.startswith("## ") else None
                 if m: flush(); cur, buf = m, [l]; continue
                 (buf if cur else pre).append(l)
@@ -523,6 +552,9 @@ for tool in TOOLS:
             # the tool line — only template changes should.
             data = re.sub(rb"(?m)^(Generated agent count: )\d+$", rb"\1N", data)
         (per_agent[o] if o else per_tool[tool]).append((rel(f), data))
+
+for slug, entry in aider_delegated.items():
+    per_agent[slug].append(("aider:catalog-entry", json.dumps(entry, sort_keys=True, ensure_ascii=False).encode()))
 
 def digest(entries):
     h = hashlib.sha256()

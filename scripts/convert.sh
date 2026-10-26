@@ -657,6 +657,7 @@ HEREDOC
 AIDER_TMP="$(mktemp)"
 WINDSURF_TMP="$(mktemp)"
 PARALLEL_OUT_DIR=""
+AIDER_PROFESSIONS_REFERENCED=false
 trap 'rm -f "$AIDER_TMP" "$WINDSURF_TMP"; [[ -z "$PARALLEL_OUT_DIR" ]] || rm -rf "$PARALLEL_OUT_DIR"' EXIT
 
 # Write Aider/Windsurf headers once
@@ -701,6 +702,27 @@ accumulate_aider() {
   description="$(get_field "description" "$file")"
   source="${file#"$REPO_ROOT"/}"
   division="${source%%/*}"
+
+  # Keep the large professional roster out of Aider's permanent context. Its
+  # canonical discovery index is loaded only when a professional role is needed.
+  if [[ "$division" == "professions" && -f "$REPO_ROOT/extensions/professions/native-index.json" ]]; then
+    if ! $AIDER_PROFESSIONS_REFERENCED; then
+      cat >> "$AIDER_TMP" <<'HEREDOC'
+
+## Professional role discovery
+
+For professional roles, first load the catalog with /read-only, choose a role by
+title or domain, then load the entry's agent path. Load its companion skill folder
+when detailed methods are needed. Paths are relative to this repository checkout.
+
+Profession catalog: extensions/professions/native-index.json
+Browse professions: https://apanchoo.github.io/agency-agents-professions/explorer/?type=profession
+
+HEREDOC
+      AIDER_PROFESSIONS_REFERENCED=true
+    fi
+    return
+  fi
 
   # One index entry per agent, not the agent. A conventions file is read into
   # every request; the bodies together are 3.8 million characters and this

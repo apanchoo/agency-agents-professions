@@ -16,7 +16,9 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install PyYAML
       - name: Validate all integrations and regenerate their baseline
-        run: bash scripts/test-convert-outputs.sh --update
+        run: |
+          bash scripts/convert.sh --parallel --jobs 4 --out "$RUNNER_TEMP/conversion-outputs" > "$RUNNER_TEMP/conversion.log" 2>&1 || { tail -n 60 "$RUNNER_TEMP/conversion.log"; exit 1; }
+          bash scripts/test-convert-outputs.sh --out="$RUNNER_TEMP/conversion-outputs" --update
       - uses: actions/upload-artifact@v6
         with:
           name: conversion-manifest
