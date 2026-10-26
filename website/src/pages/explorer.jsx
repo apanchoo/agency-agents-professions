@@ -25,7 +25,7 @@ export default function Explorer(){
  useEffect(()=>setPage(1),[query,type,domain,skillsOnly]);
  const matches=useMemo(()=>filterRecords(catalog.records,{query,type,domain,skillsOnly}),[query,type,domain,skillsOnly]);
  const result=paginate(matches,page);
- useEffect(()=>{if(!selected)return;const controller=new AbortController();setContent(null);setError('');setTab('agent');setCopied(false);dialog.current?.showModal();fetch(base+selected.id+'.json?revision='+selected.revision,{signal:controller.signal}).then(r=>{if(!r.ok)throw Error('The role could not be loaded.');return r.json();}).then(setContent).catch(e=>{if(e.name!=='AbortError')setError(e.message);});return()=>controller.abort();},[selected,base]);
+ useEffect(()=>{if(!selected)return;const controller=new AbortController();setContent(null);setError('');setTab('agent');setCopied(false);dialog.current?.showModal();fetch(base+selected.document,{signal:controller.signal}).then(r=>{if(!r.ok)throw Error('The role could not be loaded.');return r.json();}).then(setContent).catch(e=>{if(e.name!=='AbortError')setError(e.message);});return()=>controller.abort();},[selected,base]);
  function close(){dialog.current?.close();setSelected(null);setContent(null);}
  function reset(){setQuery('');setType('all');setDomain('all');setSkillsOnly(false);setPage(1);search.current?.focus();}
  function documentPath(){

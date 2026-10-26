@@ -18,7 +18,7 @@ test('named software is searchable and retained in the profession toolbox',async
  const results=filterRecords(catalog.records,{query:'Docker',type:'profession'});
  const role=results.find(record=>record.title==='DevOps Engineer');
  assert.ok(role);assert.ok(role.technologies.includes('Kubernetes'));assert.ok(role.technologies.includes('Ansible'));
- const artifact=JSON.parse(await readFile(new URL('../static/catalog/'+role.id+'.json',import.meta.url),'utf8'));
+ const artifact=JSON.parse(await readFile(new URL('../static/catalog/'+role.document,import.meta.url),'utf8'));
  assert.match(artifact.technologies,/## Docker Compose/);assert.match(artifact.technologies,/## Terraform/);
  assert.doesNotMatch(artifact.technologies,/France Travail|\bROME\b|\bBUT\b|R5\.DEVCLOUD/);
 });

@@ -1,4 +1,4 @@
-import {readFile, readdir, mkdir, writeFile} from 'node:fs/promises';
+import {readFile, readdir, mkdir, writeFile, unlink} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
@@ -26,7 +26,10 @@ async function add(record, content) {
   record.description=record.description.replaceAll('—',',');
   const document=JSON.stringify(content);
   record.revision=createHash('sha256').update(document).digest('hex').slice(0,12);
+  record.document=record.id+'.'+record.revision+'.json';
   ids.add(record.id);records.push(record);
+  await writeFile(path.join(output, record.document), document);
+  // Keep the stable URL for clients already open during a deployment.
   await writeFile(path.join(output, record.id+'.json'), document);
 }
 async function walk(directory) {
@@ -65,4 +68,8 @@ const stats={total:records.length,agency:records.filter(r=>r.type==='agency').le
 const payload={records,stats};
 await writeFile(path.join(site,'src/data/catalog.json'),JSON.stringify(payload));
 await writeFile(path.join(output,'index.json'),JSON.stringify(payload));
+const currentDocuments=new Set(records.map(record=>record.document));
+for(const name of await readdir(output)) {
+  if(/\.[a-f0-9]{12}\.json$/.test(name)&&/^(agency|profession)-/.test(name)&&!currentDocuments.has(name))await unlink(path.join(output,name));
+}
 console.log(`Catalog: ${stats.total} agents, ${stats.skills} skills, ${stats.domains} domains`);
