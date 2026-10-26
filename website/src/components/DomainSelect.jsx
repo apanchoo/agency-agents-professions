@@ -1,4 +1,5 @@
 import React, {useEffect, useId, useRef, useState} from 'react';
+import Icon from './Icon';
 
 // Select-only combobox: focus stays on the trigger; the active option is named
 // with aria-activedescendant. The popup wraps long labels within the viewport.
@@ -55,14 +56,14 @@ export default function DomainSelect({options, value, onChange}) {
       aria-labelledby={`${id}-label`} aria-haspopup="listbox" aria-expanded={open}
       aria-controls={`${id}-list`} aria-activedescendant={open ? `${id}-option-${active}` : undefined}
       onClick={() => open ? setOpen(false) : show()} onKeyDown={keyDown}>
-      <span>{choices[selected].label}</span><span aria-hidden="true">⌄</span>
+      <span>{choices[selected].label}</span><Icon name="chevronDown"/>
     </button>
     {open && <div id={`${id}-list`} className="domain-options" role="listbox" aria-labelledby={`${id}-label`}
       data-side={placement.side} style={{maxHeight: placement.height}}>
       {choices.map((option, index) => <div key={option.value} id={`${id}-option-${index}`} role="option"
         aria-selected={value === option.value} data-active={active === index}
         onPointerMove={() => setActive(index)} onMouseDown={event => event.preventDefault()} onClick={() => choose(index)}>
-        <span>{option.label}</span>{value === option.value && <span aria-hidden="true">✓</span>}
+        <span>{option.label}</span>{value === option.value && <Icon name="check"/>}
       </div>)}
     </div>}
   </div>;

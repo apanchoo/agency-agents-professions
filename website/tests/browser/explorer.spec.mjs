@@ -28,6 +28,15 @@ test('landing page leads into the catalog',async({page})=>{
  await expect(page.getByLabel('Search agents and skills')).toBeVisible();
 });
 
+test('icon navigation retains its labels and works in the mobile menu',async({page})=>{
+ await page.goto('./');
+ const toggle=page.getByRole('button',{name:'Toggle navigation bar'});
+ if(await toggle.isVisible())await toggle.click();
+ await page.getByRole('link',{name:'Documentation',exact:true}).click();
+ await expect(page.getByRole('heading',{name:'A professional bench, ready for your next assignment',exact:true})).toBeVisible();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1)).toBe(true);
+});
+
 test('domain options wrap inside the viewport and filter the cards',async({page})=>{
  await page.setViewportSize({width:320,height:800});
  await page.goto('./explorer/');

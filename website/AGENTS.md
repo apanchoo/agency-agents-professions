@@ -25,6 +25,9 @@ when changing interface behavior or presentation, especially criteria 3.2, 7.1,
   restores focus to its trigger.
 - Keep text readable with increased line, paragraph, letter and word spacing.
   Respect reduced motion and forced color preferences.
+- Use the shared `Icon` SVG component for interface icons, including navigation
+  and actions. Keep the same stroke style; do not substitute emojis. Decorative
+  icons stay hidden from assistive technology and never replace visible labels.
 
 The automated browser suite checks selected typography, contrast, reflow,
 enlargement and keyboard regressions. It is not a complete RGAA audit: do not claim

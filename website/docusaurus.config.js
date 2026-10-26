@@ -20,9 +20,9 @@ const config = {
       title: 'AGENCY / PROFESSIONS',
       logo: {alt: 'Agency Professions', src: 'img/mark.svg'},
       items: [
-        {to: '/explorer', label: 'Explore the library', position: 'right'},
-        {to: '/docs/intro', label: 'Documentation', position: 'right'},
-        {href: 'https://github.com/apanchoo/agency-agents-professions', label: 'GitHub ↗', position: 'right'},
+        {type: 'custom-iconLink', icon: 'compass', to: '/explorer', label: 'Explore the library', position: 'right'},
+        {type: 'custom-iconLink', icon: 'book', to: '/docs/intro', label: 'Documentation', position: 'right'},
+        {type: 'custom-iconLink', icon: 'github', href: 'https://github.com/apanchoo/agency-agents-professions', label: 'GitHub', position: 'right'},
       ],
     },
     footer: {style: 'dark', copyright: `Agency Agents + Professional Library · MIT and source-specific licenses · ${new Date().getFullYear()}`},

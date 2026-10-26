@@ -361,7 +361,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible {
   padding:0 20px;
   gap:12px;
   min-height:64px}
-.search-bar>span:first-of-type {
+.search-bar>.icon {
   font-size:1.688rem;
   line-height:1;
   color:var(--muted)}
@@ -937,3 +937,31 @@ main a:not(.example-card):not(.primary-action):not(.secondary-action):not(.closi
 }
 .domain-icon svg { width: 100%; height: 100%; }
 @media (max-width: 720px) { .domain-field { flex: 1 1 100%; width: 100%; } }
+
+/* One consistent SVG stroke style throughout the interface. */
+.icon { display: inline-block; width: 1.25em; height: 1.25em; flex-shrink: 0; vertical-align: -.2em; }
+.icon-label, .example-meta, .workflow-meta, .metric-value { display: inline-flex; align-items: center; gap: .65rem; }
+.navbar .icon-label { vertical-align: middle; }
+.hero-actions .icon, .closing-link .icon { width: 1.2em; height: 1.2em; }
+.specimen-top .icon { width: 1.25rem; height: 1.25rem; }
+.specimen-symbol .icon { width: 1em; height: 1em; }
+.metric-value { display: flex; gap: .8rem; }
+.metric-value .icon { width: 2rem; height: 2rem; color: #245b43; }
+.example-icon { display: inline-flex; padding: .6rem; background: #e8eddd; color: #245b43; border-radius: .4rem; }
+.workflow-meta { color: #245b43; }
+.workflow-meta .icon { width: 1.75rem; height: 1.75rem; }
+.workflow-meta span { font-size: 1rem; }
+.explorer-heading > a, .dialog-footer a { display: inline-flex; align-items: center; flex-wrap: wrap; gap: .5rem; }
+.search-bar > .icon { color: var(--muted); width: 1.5rem; height: 1.5rem; }
+.reset-button, .pagination button, .empty-state button, .detail-tabs button, .copy-button {
+  display: inline-flex; align-items: center; justify-content: center; gap: .5rem;
+}
+.role-bottom > .icon { width: 1.25rem; height: 1.25rem; }
+.close-button { display: inline-flex; justify-content: center; align-items: center; padding: .65rem; }
+.close-button .icon { width: 1.5rem; height: 1.5rem; }
+.empty-state > .icon { width: 3rem; height: 3rem; color: #245b43; margin-bottom: 1rem; }
+.doc-title-icon { color: #245b43; width: .85em; height: .85em; margin-right: .35em; vertical-align: -.05em; }
+@media (max-width: 400px) {
+  .detail-tabs button { padding: .65rem; }
+  .metric-value { gap: .65rem; }
+}
