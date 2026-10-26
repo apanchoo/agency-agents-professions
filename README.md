@@ -4,7 +4,7 @@
 
 **Specialist thinking. Professional depth. One place to find both.**
 
-[![Explore the live agent and skill directory — 2,206 agents and 1,923 companion skills](docs/assets/professional-library.svg)](https://apanchoo.github.io/agency-agents-professions/)
+[![Explore the live agent and skill directory — 2,206 agents and 1,923 companion skills](website/static/img/professional-library.svg)](https://apanchoo.github.io/agency-agents-professions/)
 
 [![Explore the live site](https://img.shields.io/badge/Explore_the_live_site-172c28?style=for-the-badge&logo=githubpages&logoColor=c7f275)](https://apanchoo.github.io/agency-agents-professions/)
 [![Read the field guide](https://img.shields.io/badge/Read_the_field_guide-c7f275?style=for-the-badge&logo=readthedocs&logoColor=172c28)](https://apanchoo.github.io/agency-agents-professions/docs/intro/)
