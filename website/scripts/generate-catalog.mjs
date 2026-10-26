@@ -1,6 +1,7 @@
 import {readFile, readdir, mkdir, writeFile} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {createHash} from 'node:crypto';
 
 const site = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const root = path.dirname(site);
@@ -23,8 +24,10 @@ async function add(record, content) {
   record.domain=record.domain.trim();
   record.title=record.title.replaceAll('—','-');
   record.description=record.description.replaceAll('—',',');
+  const document=JSON.stringify(content);
+  record.revision=createHash('sha256').update(document).digest('hex').slice(0,12);
   ids.add(record.id);records.push(record);
-  await writeFile(path.join(output, record.id+'.json'), JSON.stringify(content));
+  await writeFile(path.join(output, record.id+'.json'), document);
 }
 async function walk(directory) {
   const found=[];
