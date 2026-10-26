@@ -1,6 +1,6 @@
 ---
 name: fiber-optic-cable-network-installation-technician-i1311
-description: "Prepare, analyze and produce deliverables as a Fiber optic cable network installation technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Fiber optic cable network installation technician; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Fiber optic cable network installation technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Diagnose malfunctions on a fiber optic network
 - Diagnose, prevent and locate malfunctions, remedy them or recommend alternative solutions
 - Respect safety rules
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

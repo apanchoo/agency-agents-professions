@@ -1,6 +1,6 @@
 ---
 name: electromechanic-electromechanic-of-industrial-i1335
-description: "Prepare, analyze and produce deliverables as a Electromechanic / Electromechanic of industrial equipment; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Electromechanic / Electromechanic of industrial equipment; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab."
 ---
 
 # Electromechanic / Electromechanic of industrial equipment
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide technical assistance to teams
 - Collaborate with teams to improve quality
 - Encourage continuous improvement in practices
+
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

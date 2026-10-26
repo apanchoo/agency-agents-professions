@@ -1,6 +1,6 @@
 ---
 name: geophysicist-f1143
-description: "Prepare, analyze and produce deliverables as a Geophysicist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Geophysicist; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Geophysicist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Interpret geological surveys of soils, subsoils, rocks and study the characteristics (extents, compositions, geometry, etc.)
 - Define risk prevention measures
 - Present research results within the scientific community or to the public or clients
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

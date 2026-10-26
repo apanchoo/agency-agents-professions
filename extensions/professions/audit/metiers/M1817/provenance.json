@@ -262,5 +262,341 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "Docker",
+          "snippet": " partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long de la pha",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "GitLab",
+      "area": "delivery",
+      "use": "Version code and pipeline definitions; separate build, test, package and deployment stages.",
+      "priority": 7,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "GitLab",
+          "snippet": "plateformes collaboratives dédiées au développement comme par exemple GitLab – Gestion des branches de développement et production – Création de clones – Gestion des ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualific",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Linux",
+          "snippet": "re les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fixées par l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Windows",
+          "snippet": "e reconnaître les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fix",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.09",
+          "module_title": "Programmation web",
+          "page": 110,
+          "matched_text": "Javascript",
+          "snippet": "tudiants, en particulier sur les aspects client/serveur. Contenus : – Javascript – Utilisation de librairies autour des données – Programmation client/serveur Lors de la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=110",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "HTML",
+          "snippet": ", scénarios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (W",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "CSS",
+          "snippet": "arios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (World ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "SQL",
+          "snippet": "n de données issues de sources hétérogènes avec : – rappel CSV, SGBD (SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressourc",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Talend",
+      "area": "data",
+      "use": "Define ETL mappings, data-quality rules and repeatable import/export workflows.",
+      "priority": 41,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Talend",
+          "snippet": "turés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes avec : –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "area": "development",
+      "use": "Share workspace, debugging and task configuration without embedding credentials.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "VSCode",
+          "snippet": "r chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et q",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Tableau Software",
+      "area": "data",
+      "use": "Build dashboards with defined measures, appropriate encodings and traceable data sources.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Tableau Prep",
+          "snippet": "ers mais structurés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VLAN",
+          "snippet": "– sur les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – Wi-Fi. – sur la mise en place et la configurati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JSON",
+      "area": "configuration",
+      "use": "Validate structured data and schemas; preserve types and check serialization round trips.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "JSON",
+          "snippet": "SGBD (SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressource vise à former les étudiants aux techniques et aux outils indisp",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "XML",
+      "area": "configuration",
+      "use": "Validate document structure and schemas; control parsing and verify transformed output.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "XML",
+          "snippet": "SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressource vise à former les étudiants aux techniques et aux outils indispensab",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

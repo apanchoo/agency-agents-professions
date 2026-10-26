@@ -25,6 +25,12 @@ The Urban Planner optimizes and organizes all information systems, he is the key
 
 Consult the [detailed expertise](../../skills/information-systems-planner-m1838/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/information-systems-planner-m1838/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

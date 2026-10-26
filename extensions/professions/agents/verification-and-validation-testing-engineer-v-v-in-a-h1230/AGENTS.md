@@ -25,6 +25,12 @@ The Verification and Validation Test Engineer in a nuclear environment manages e
 
 Consult the [detailed expertise](../../skills/verification-and-validation-testing-engineer-v-v-in-a-h1230/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+VLAN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/verification-and-validation-testing-engineer-v-v-in-a-h1230/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the measurand, range and expected decision.

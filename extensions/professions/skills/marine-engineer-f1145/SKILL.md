@@ -1,6 +1,6 @@
 ---
 name: marine-engineer-f1145
-description: "Prepare, analyze and produce deliverables as a Marine engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Marine engineer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Marine engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop solutions for the exploitation of renewable marine energies
 - Test prototypes in a test tank or via digital simulations
 - Analyze the operational implementation of the site and propose avenues for improvement by exploiting data from the digital model (BIM)
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

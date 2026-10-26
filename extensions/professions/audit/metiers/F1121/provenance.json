@@ -103,5 +103,37 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "BIM",
+      "area": "cad",
+      "use": "Coordinate model information, naming, exchange requirements and discipline interfaces.",
+      "priority": 53,
+      "evidence": [
+        {
+          "programme_id": "gccd",
+          "module_code": "5.BAT.01",
+          "module_title": "Etablissement de la synthèse (travaux TCE) d’un projet de bâtiment (BIM)",
+          "page": 165,
+          "matched_text": "BIM",
+          "snippet": ": Etablissement de la synthèse (travaux TCE) d’un projet de bâtiment (BIM) Compétence ciblée : – Elaborer des solutions techniques de tout ou partie d’un projet de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=165",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "gccd",
+          "module_code": "R5.08",
+          "module_title": "Technologie des Travaux Publics 5",
+          "page": 253,
+          "matched_text": "BIM",
+          "snippet": "t combinée : – SAÉ 5.TP .01 | Projet de conception Aménagement Urbain-BIM – PORTFOLIO | Portfolio 5 Descriptif : Objectifs : – Dimensionner des réseaux éclairage, ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=253",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

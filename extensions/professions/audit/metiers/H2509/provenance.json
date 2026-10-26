@@ -264,5 +264,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "qlio",
+          "module_code": "R5.MTD.14",
+          "module_title": "Interopérabilité et hygiène numérique",
+          "page": 434,
+          "matched_text": "Excel",
+          "snippet": "le Galia) – Langages et formats d’échanges (ouverts ou fermés) : XML, Excel, connecteurs, API, Webservices, etc. – Démarche projet SI : comment gérer un projet inter",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=434",
+          "sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "XML",
+      "area": "configuration",
+      "use": "Validate document structure and schemas; control parsing and verify transformed output.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "qlio",
+          "module_code": "R5.MTD.14",
+          "module_title": "Interopérabilité et hygiène numérique",
+          "page": 434,
+          "matched_text": "XML",
+          "snippet": "exemple Galia) – Langages et formats d’échanges (ouverts ou fermés) : XML, Excel, connecteurs, API, Webservices, etc. – Démarche projet SI : comment gérer un proje",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=434",
+          "sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

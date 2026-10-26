@@ -1,6 +1,6 @@
 ---
 name: cybersecurity-technician-m1819
-description: "Prepare, analyze and produce deliverables as a Cybersecurity Technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Cybersecurity Technician; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Cybersecurity Technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement IT security measures
 - Conduct a cybersecurity testing process
 - Raise awareness about IT security
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

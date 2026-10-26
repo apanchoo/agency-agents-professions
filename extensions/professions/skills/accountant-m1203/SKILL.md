@@ -1,6 +1,6 @@
 ---
 name: accountant-m1203
-description: "Prepare, analyze and produce deliverables as a Accountant; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Accountant; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Accountant
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Record or validate automated entries of current accounting operations (sales, purchases)
 - Participate in the development of forecast budgets and justify forecast or actual discrepancies
 - Prepare and account for year-end or monthly or quarterly closing operations
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

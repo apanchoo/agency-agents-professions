@@ -1,6 +1,6 @@
 ---
 name: banking-product-manager-c1204
-description: "Prepare, analyze and produce deliverables as a Banking Product Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Banking Product Manager; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Banking Product Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Collect and analyze customer needs
 - Design and promote a commercial offer
 - Design a launch plan for a financial product
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

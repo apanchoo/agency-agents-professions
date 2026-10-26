@@ -27,6 +27,12 @@ The elevator engineer carries out maintenance, troubleshooting, monitoring or in
 
 Consult the [detailed expertise](../../skills/elevator-i1301/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/elevator-i1301/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

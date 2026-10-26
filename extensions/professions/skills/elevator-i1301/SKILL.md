@@ -1,6 +1,6 @@
 ---
 name: elevator-i1301
-description: "Prepare, analyze and produce deliverables as a Elevator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Elevator; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, Scilab."
 ---
 
 # Elevator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Read and interpret technical data and documents, if necessary in English
 - Make adjustments to industrial equipment
 - Carry out an intervention requiring authorization
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

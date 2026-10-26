@@ -25,6 +25,12 @@ The IoT - Internet of Things Architect plays a key role in the digital transform
 
 Consult the [detailed expertise](../../skills/iot-architect-internet-of-things-m1845/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Python, VLAN, VPN, LoRa, Modbus.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/iot-architect-internet-of-things-m1845/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

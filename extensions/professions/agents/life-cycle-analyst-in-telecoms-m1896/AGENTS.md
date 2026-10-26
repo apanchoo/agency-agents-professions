@@ -26,6 +26,12 @@ The Life Cycle Analyst evaluates and optimizes the environmental impact of produ
 
 Consult the [detailed expertise](../../skills/life-cycle-analyst-in-telecoms-m1896/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/life-cycle-analyst-in-telecoms-m1896/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

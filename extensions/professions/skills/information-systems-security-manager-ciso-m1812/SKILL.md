@@ -1,6 +1,6 @@
 ---
 name: information-systems-security-manager-ciso-m1812
-description: "Prepare, analyze and produce deliverables as a Information Systems Security Manager (CISO); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information Systems Security Manager (CISO); use for requests within this professional scope. Relevant technologies include Docker, GitLab, Python, Linux, Windows, JavaScript."
 ---
 
 # Information Systems Security Manager (CISO)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage the functionalities of IT security equipment and systems
 - Write all the documents for a repository (policies, procedures, standards, etc.)
 - Analyze risks and malfunctions, room for improvement in security systems
+
+## Technologies and Software
+
+Docker, GitLab, Python, Linux, Windows, JavaScript, HTML, CSS, Visual Studio Code, virtualenv.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

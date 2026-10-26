@@ -25,6 +25,12 @@ Key role in the digital transformation of territories, for a more intelligent, i
 
 Consult the [detailed expertise](../../skills/network-maintenance-manager-for-connected-territories-i1106/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/network-maintenance-manager-for-connected-territories-i1106/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

@@ -198,5 +198,94 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R3.PUB.11",
+          "module_title": "Image et Web (niveau 2, AV, PAO, Web)",
+          "page": 638,
+          "matched_text": "HTML",
+          "snippet": "ra (Wordpress ou autre). Il s’agira aussi de : approfondir le langage HTML et CSS (réalisation d’une lansing page) retravailler la mise en page d’un site créer du c",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=638",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R3.STRAT-UX.09",
+          "module_title": "Création et design interactif (UI)",
+          "page": 180,
+          "matched_text": "CSS",
+          "snippet": "front\" pour intégrer des contenus interactifs multimédias : – Langage CSS : mise en page adaptative : responsive design, media queries, points de ruptures ; – Maît",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=180",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R3.PUB.11",
+          "module_title": "Image et Web (niveau 2, AV, PAO, Web)",
+          "page": 638,
+          "matched_text": "CSS",
+          "snippet": "press ou autre). Il s’agira aussi de : approfondir le langage HTML et CSS (réalisation d’une lansing page) retravailler la mise en page d’un site créer du contenu ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=638",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "WebGL",
+      "area": "design",
+      "use": "Prepare browser-rendered graphics and verify geometry, shaders, interaction and rendering performance.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebGL",
+          "snippet": "echnologies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "WebXR",
+      "area": "design",
+      "use": "Define immersive browser interactions and test device capability, input and user comfort constraints.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebXR",
+          "snippet": "gies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ces tec",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

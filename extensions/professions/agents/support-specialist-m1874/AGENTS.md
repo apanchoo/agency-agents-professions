@@ -25,6 +25,12 @@ The IT Support Specialist is responsible for guaranteeing the fluidity and effic
 
 Consult the [detailed expertise](../../skills/support-specialist-m1874/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, Wireshark, SQL, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/support-specialist-m1874/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

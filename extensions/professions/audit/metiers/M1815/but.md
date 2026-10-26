@@ -458,283 +458,260 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > http://www.enseignementsup-recherche.gouv.fr - B.U.T. Métiers du multimédia et de l’Internet
 > 163
 
-## BUT Génie électrique et informatique industrielle
+## BUT Réseaux et télécommunications
 
-Fondement : `code_parent_rome_cite_dans_programme`. Termes de rapprochement : automati. Pages citant le code exact : aucune ; pages citant le parent M1805 : [11].
+Fondement : `rapprochement_editorial_domaine_et_termes`. Termes de rapprochement : informatique. Pages citant le code exact : aucune ; pages citant le parent M1805 : aucune.
 
-[Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf) ; SHA-256 `14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c`.
+[Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf) ; SHA-256 `5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f`.
 
-### Ressource R5.ESE.10 — Systèmes embarqués
+### Ressource R5.CYBER.12 — Normes, standards et analyse de risques
 
-[Page 154](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154). Termes communs : embarque.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 3.3.10. Ressource R5.ESE.10 : Systèmes embarqués
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Implanter un système matériel ou logiciel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 5.ESE.01 | Mettre en œuvre un système électronique et/ou embarqué spécifique
-> – PORTFOLIO | Portfolio
-> Descriptif :
-> Acquis d’apprentissages visés
-> À l’issue de cette ressource, l’étudiant doit être capable de :
-> – Mettre en œuvre une gestion d’énergie sur les systèmes embarqués ;
-> – Prendre en compte la sécurisation des systèmes électroniques ;
-> – Mettre en œuvre des systèmes embarqués intelligents.
-> Contenu
-> Les thèmes recommandés à développer pour atteindre les acquis d’apprentissage visés sont :
-> – Gestion de l’énergie dans les systèmes embarqués :
-> – Gestion logicielle, modes de veille ;
-> – Tensions d’alimentation.
-> – Sécurisation des systèmes électroniques :
-> – Composants matériels pour la sécurité des systèmes électroniques (ex : reverse engineering) ;
-> – Utilisation de périphériques pour le chiffrement/déchiffrement des données.
-> – Systèmes d’exploitation embarqués :
-> – Noyau temps réel ;
-> – Ordonnancement, priorité, communication de données entre tâches ;
-> – Temps critique et souple, temps de réponse, latence, gigue ;
-> – Synchronisation (file de messagerie) ;
-> – Gestion des ressources (sémaphore, mutex), interruption, périphériques, mémoire... ;
-> – Vérification du programme temps réel ;
-> – OS embarqué (freeRTOS, chibiOS, Linux embarqué...).
-> – Bases de données (approfondissement) :
-> – Base de données orientées série temporelle (influxDB) ;
-> – Archivage, agrégation de données.
-> – Programmation orientée objet :
-> – Définir une classe/prototype, définir un objet, établir des liaisons entre objets ;
-> – Utilisation d’un langage objet (Python, C++, Java...) ;
-> – Constructeurs, destructeurs, interfaces, méthodes, propriétés ;
-> – Programmation en langage objet ;
-> – Développement d’une librairie ou d’une application en langage objet ;
-> – Présentation et utilisation des API standard.
-> Prérequis :
-> – R5.ESE.09 | Electronique spécialisée
-> Apprentissages critiques ciblés :
-> – AC31.01 | Contribuer à la rédaction d’un cahier des charges
-> – AC31.02 | Prouver la pertinence de ses choix technologiques
-> – AC31.03 | Rédiger un dossier de conception
-> – AC32.01 | Evaluer la cause racine d’un dysfonctionnement
-> – AC32.02 | Proposer une solution corrective à un dysfonctionnement
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 154
-
-### Ressource R3.06 — Automatique
-
-[Page 102](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=102). Termes communs : automatique.
+[Page 180](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180). Termes communs : norme, standard.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 1.3.6. Ressource R3.06 : Automatique
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Implanter un système matériel ou logiciel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 3.ESE.01 | Implantation d’une chaîne d’acquisition ou de restitution sur un système électronique
-> – PORTFOLIO | Portfolio
-> Descriptif :
-> Acquis d’apprentissage visés
-> À l’issue de cette ressource, l’étudiant doit être capable de :
-> – Comprendre les objectifs de l’automatique ;
-> – Distinguer et définir les éléments qui composent un système élémentaire ;
-> – Manipuler les fonctions de transfert d’une boucle ouverte et fermée ;
-> – Identifier/modéliser un système dans son environnement ;
-> – Analyser les performances statiques et dynamiques d’un système asservi.
-> Contenu
-> L ’automatique touche à l’étude, l’analyse et au contrôle des systèmes dynamiques industriels ou non. Dans un cadre à temps
-> continu, nous nous focaliserons sur les systèmes élémentaires et leurs combinaisons.
-> Les thèmes recommandés à développer pour atteindre les acquis d’apprentissage visés sont :
-> – Définition de la notion de système ;
-> – Distinguer les différents éléments qui composent un système ;
-> – Comprendre et analyser un schéma fonctionnel d’une installation, un schéma de régulation ou un schéma bloc ainsi
-> que la notion de système.
-> – Introduction à la modélisation et la fonction de transfert :
-> – Connaître les étapes principales menant à la modélisation mathématique des systèmes ;
-> – Déterminer la fonction de transfert à partir d’une équation différentielle traduisant le comportement d’un système
-> linéaire à paramètres constants ;
-> – Établir la campagne de mesures pour la modélisation des systèmes et analyser les résultats.
-> – Systèmes élémentaires, analyses temporelle et/ou fréquentielle :
-> – Comprendre et prédire le comportement/fonctionnement d’un système élémentaire ;
-> – Mettre en œuvre des outils et des critères d’analyses temporelles et/ou fréquentielles.
-> – Identification des systèmes élémentaires :
-> – Mettre en œuvre, sur la base de mesures "terrain", des outils, par exemple graphiques, d’identification/estimation ;
-> – Vérifier et valider le modèle obtenu.
-> – Systèmes bouclés, performances (stabilité, précision, rapidité) :
-> – Réaliser une boucle fermée à partir d’un signal issu d’un capteur ;
-> – Évaluer les performances d’un système bouclé en terme de stabilité, précision et rapidité en lien avec le cahier des
-> charges.
-> Apprentissages critiques ciblés :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC21.02 | Dérisquer les solutions techniques retenues
-> – AC22.01 | Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système
-> – AC23.02 | Exécuter une opération de maintenance (corrective, préventive, améliorative)
-> – AC24.01ESE | Appliquer une procédure de fabrication pour implanter les composants matériels et/ou logiciels dans un
-> système
-> – AC24.02ESE | Évaluer la conformité du système
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 102
-
-### Ressource R1.03 — Vie de l’Entreprise : introduction à la gestion de projet
-
-[Page 51](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=51). Termes communs : vie.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 1.3.3. Ressource R1.03 : Vie de l’Entreprise : introduction à la gestion de projet
+> 3.3.12. Ressource R5.Cyber.12 : Normes, standards et analyse de risques
 > Compétence ciblée :
-> – Concevoir la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 1.01 | Concevoir la partie GEII d’un système
-> – SAÉ 1.02 | Vérifier la partie GEII d’un système
-> – PORTFOLIO | Portfolio
+> – Administrer un système d’information sécurisé
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 5.Cyber.03 | Assurer la sécurisation et la supervision avancées d’un système d’information
 > Descriptif :
-> Acquis d’apprentissage visés
-> Ce module d’initiation a pour objectifs de sensibiliser l’étudiant aux enjeux de la démarche projet et d’appréhender les éléments
-> de langage de la démarche projet. L ’étudiant pourra ainsi prendre en charge des projets et SAÉ liés au GEII.
-> À l’issue de ce module, l’étudiant doit être capable de :
-> – identifier les partenaires clés et les différentes étapes d’un projet, du cahier des charges aux livrables,
-> – analyser le besoin du client/demandeur
-> – déduire les caractéristiques et fonctions attendues d’un produit à partir de la lecture d’un cahier des charges.
-> Modalités (exemples) : découverte des notions clés à partir d’un cahier des charges et/ou d’un produit donné. Ex : lecture du
-> cahier des charges du challenge robot ; gamification possible (pédagogie de projet collaborative en TD).
-> Contenu
-> Les thèmes qu’il est recommandé de développer pour atteindre les acquis d’apprentissage visés sont les suivants.
-> Cahier des charges, analyse fonctionnelle du besoin, produit, livrable, acteurs projet (maîtrise d’ouvrage, maîtrise d’oeuvre,
-> etc.), ressources, contraintes, dossier de fabrication, prototype, découpage en étapes et planification
-> Cette liste thématique doit être considérée comme une boîte à outils dans laquelle chacun sélectionne les notions en fonction
-> des besoins locaux liés aux SAÉ.
-> Apprentissage critique ciblé :
-> – AC11.01 | Produire une analyse fonctionnelle d’un système simple
+> Contexte et ancrage professionnel :
+> Les étudiants seront capables de se conformer aux exigences de la réglementation en vigueur, concernant la manipulation, le
+> stockage et plus généralement la sécurisation des données du SI dont ils ont la responsabilité.
+> Contenus :
+> Ils seront capables de participer activement à une analyse de risques menée au sein de leur entreprise. Ce faisant :
+> – Ils auront participé à une analyse de risques sur un périmètre réduit,
+> – Ils auront acquis le vocabulaire spécifique à la gestion du risque,
+> – Ils sauront décrire les différentes phases du processus de gestion du risque (appréciation du risque, traitement du risque,
+> ...),
+> – Ils auront eu une introduction aux diverses normes du domaine (ISO 27001, ISO 27002, ... et surtout ISO 27005).
+> Prérequis :
+> – R5.Cyber.09 | Architectures sécurisées
+> Apprentissages critiques ciblés :
+> – AC34.01Cyber | Participer activement à une analyse de risque pour définir une politique de sécurité pour une petite
+> structure
+> – AC34.04Cyber | Proposer une architecture sécurisée de système d’information pour une petite structure
 > Mots clés :
-> Cahier des charges – analyse fonctionnelle du besoin – produit – livrables – acteurs – ressources – contraintes – dossier de
-> fabrication – planification – coût – faisabilité – impact et risque – processus itératif et collaboratif – revue de projet
+> Risque – Menaces – Vulnérabilités – Disponibilité – Intégrité – Confidentialité – Traçabilité – DICT – Mode opératoire – Valeur
+> métier – Biens essentiels – EBIOS – Analyse de risques – ISO 27005 – RGPD – LPM
 > Volume horaire :
-> Volume horaire défini nationalement : 6 heures
+> Volume horaire défini nationalement : 15 heures dont 9 heures de TP
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 51
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 180
 
-### SAÉ 5.ESE.01 — Mettre en œuvre un système électronique et/ou embarqué spécifique
+### Ressource R5.04 — Cycle de vie d’un projet informatique
 
-[Page 136](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=136). Termes communs : embarque, specifique, uvre.
+[Page 169](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169). Termes communs : cycle, informatique, vie.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 3.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 3.2.1. SAÉ 5.ESE.01 : Mettre en œuvre un système électronique et/ou embarqué spécifique
+> 3.3.4. Ressource R5.04 : Cycle de vie d’un projet informatique
 > Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Implanter un système matériel ou logiciel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> Objectifs et problématique professionnelle :
-> L ’objectif de la SAÉ sera de concevoir un circuit imprimé ou intégré mixte (analogique, numérique, otique, RF ...) pour un système
-> électronique embarqué ou pas, correspondant à une situation professionnelle, pouvant faire intervenir (liste non exhaustive) :
-> – La mise en œuvre d’un système embarqué connecté autonome en énergie
-> – La mise en œuvre d’un système embarqué sécurisé
-> – L ’implantation de circuits passifs ou actifs RF (filtre, ampli, coupleur, répartiteur, mixer...)
-> – L ’implantation d’une antenne sur le système embarqué
-> – La conception d’un ASIC
-> Descriptif générique :
-> L ’étudiant sera placé dans une démarche professionnelle de projet où il devra
-> – mener une analyse du cycle de vie (ACV) du produit pour définir l’impact environnemental du système et des technolo-
-> gies mises en œuvre dans le cadre d’une démarche de développement durable,
-> – effectuer les tests et mesures nécessaires à la vérification du système en mettant en œuvre un plan d’essais et d’éva-
-> luation, dans une analyse qualitative et corrective tout en tenant compte des spécificités matérielles, règlementaires et
-> contextuelles ainsi que des enjeux économiques, environnementaux et réglementaires de la société
-> – mener la maintenance corrective, préventive et améliorative du système électronique/embarqué où il devra par exemple :
-> – planifier/organiser un plan de maintenance préventive pour assurer l’entretien d’un système électronique ou embar-
-> qué
-> – dresser le calendrier des interventions d’entretien électronique ainsi que garder les registres d’entretien à jour
-> – renseigner les supports de suivi d’intervention et transmettre les informations aux services concernés
-> – évaluer les coûts d’indisponibilité et de maintenance pour assurer la maintenance préventive d’un système électro-
-> nique ou embarqué
-> – organiser la maintenance préventive systématique (entretien régulier) basée sur une collecte, analyse et exploitation
-> de données/informations sur les différents blocs du système électronique (durée de vie des batteries, potentiomètres,
-> interrupteurs, relais, condensateur : données issues de datasheet ou de retour d’informations)
-> – proposer des solutions d’améliorations du système
-> – proposer un appui technique aux différents acteurs à l’échelle nationale et internationale
-> – rédiger une notice de maintenance détaillée du système à destination des utilisateurs
-> – dépanner sur site ou à distance (simulation)
-> – implanter un système en garantissant un livrable conforme aux dossiers de conception, de fabrication et des normes
-> tout en tenant compte des aspects organisationnels liés aux contextes industriels, humains et environnementaux.
-> Types de livrables attendus en fin de SAÉ :
-> – une analyse fonctionnelle simple du système
-> – un schéma structurel du système
-> – la rédaction du cahier des charges
-> – un prototype opérationnel
-> – un dossier de conception
-> – un dossier de fabrication
-> – une procédure et un rapport de tests unitaires et du système ou sous-système
-> – une procédure de maintenance
-> Apprentissages critiques :
-> – AC31.01 | Contribuer à la rédaction d’un cahier des charges
-> – AC31.02 | Prouver la pertinence de ses choix technologiques
+> – Administrer les réseaux et l’Internet
+> – Créer des outils et applications informatiques pour les R&T
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 5.01 | Concevoir, réaliser et présenter une solution technique
+> – SAÉ 5.02 | Piloter un projet informatique
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Le professionnel R&T peut être amené à gérer toutes les étapes d’un projet informatique depuis le cahier des charges jusqu’à
+> la mise en production et la fourniture de documentation tant utilisateurs que technique. Cette ressource a donc pour objectif de
+> faire appréhender toutes les étapes d’un projet informatique depuis l’expression d’un besoin jusqu’au produit fini.
+> Contenus :
+> Cette ressource aborde les notions suivantes :
+> – Analyse du besoin aboutissant au lancement d’un projet de développement :
+> – Définition des objectifs,
+> – Rédaction du cahier des charges en spécifiant les attentes/contraintes fonctionnelles et techniques,
+> – Choix de la stratégie de mise en production,
+> – Prise en compte des problèmes de sécurité.
+> – Mise en place d’un environnement de travail collaboratif :
+> – Utilisation des plateformes collaboratives dédiées au développement (par ex. GitLab) à travers la gestion des branches
+> de développement et production, la création de clones, la gestion des tickets, la gestion des versions,
+> – Découpage du travail pour affecter les tâches entre les membres de l’équipe de développement.
+> – Choix des environnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker,
+> ...).
+> – Mise en place des procédures de tests unitaires et de qualification tout au long de la phase de développement.
+> – Production de documentations :
+> – Documentation technique pour la maintenance et l’évolution de l’application,
+> – Documentation utilisateur en vue de la formation des usagers,
+> – Outils pour la génération de documentation : générateurs à partir du code (Sphinx, Javadoc, ...), langage pour la
+> documentation (markdown, asciidoc, restructured text, ...)
+> – Mise en production des différentes versions de l’application en tenant compte des aspects de sécurité (stockage des
+> mots de passe, base de données de production, ...).
+> Cette ressource s’appuiera sur la réalisation d’un projet informatique en groupe restreint dans la SAÉ5.02 “Piloter un projet
+> informatique”. Elle pourra mobiliser les concepts des méthodes Agile et Scrum vus dans la ressource R5.08 “Gestion de
+> projets”.
+> On pourra approfondir certains de ces contenus en s’appuyant sur ceux décrits dans la ressource R5.DevCloud.09 « Outils et
+> méthodes DevOps ».
+> Prérequis :
+> – R5.08 | Gestion de projets 3 : Mener un projet professionnel
+> Apprentissages critiques ciblés :
+> – AC31.02 | Réaliser la documentation technique de ce projet
+> – AC31.03 | Réaliser une maquette de démonstration du projet
+> – AC31.04 | Défendre/argumenter un projet
+> – AC31.05 | Communiquer avec les acteurs du projet
+> – AC31.06 | Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais
+> – AC33.01 | Élaborer les spécifications techniques et le cahier des charges d’une application informatique
+> – AC33.02 | Mettre en place un environnement de travail collaboratif
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 136
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 169
 
-### SAÉ 3.AII.01 — Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal
+### Ressource R4.PILPRO.09 — Technologies des réseaux et télécoms
 
-[Page 252](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252). Termes communs : automatise, integration, programmation.
+[Page 386](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386). Termes communs : reseaux, telecom.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 1.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 1.2.1. SAÉ 3.AII.01 : Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal
+> 2.3.9. Ressource R4.PilPro.09 : Technologies des réseaux et télécoms
 > Compétences ciblées :
-> – Intégrer un système de commande et de contrôle dans un procédé industriel
-> – Concevoir la partie GEII d’un système
+> – Mettre en œuvre des projets techniques et réglementaires des R&T dans son activité
+> – Gérer des activités réseaux et télécommunications en termes organisationnels, relationnels, financiers et commerciaux
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 4.PilPro.01 | Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client
+> – STAGE.PilPro | Stage
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Cette ressource permet d’aborder les savoir-faire techniques réseaux et télécoms de manière transversale afin que l’étudiant
+> puisse analyser judicieusement les besoins techniques d’un client, choisir la solution efficiente, restituer les données techniques
+> en réponse à ce besoin.
+> Contenus :
+> Le contenu concerne au choix :
+> – le domaine de la sécurité des réseaux LAN (services et fonctionnalités fondamentales des LAN et WLAN, les limites,
+> mise en évidence leurs faiblesses et exploitation de leurs vulnérabilités)
+> – le domaine des sécurité des services réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et
+> proposition des solutions sécurisées).
+> – le domaine des services réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN
+> N3, MPLS TE, SD-WAN, etc)
+> – le domaine des infrastructures des réseaux d’accès cuivre/fibre/radio
+> Apprentissages critiques ciblés :
+> – AC24.01PilPro | Compréhension d’un cahier des charges technique R&T
+> – AC24.04PilPro | Proposition de solutions techniques R&T efficientes
+> – AC25.01PilPro | Prise en compte des contraintes d’un pilotage de projet R&T
+> Mots clés :
+> Sécurité des réseaux – Infrastructures des réseaux télécoms
+> Volume horaire :
+> Volume horaire défini nationalement : 15 heures dont 8 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 386
+
+### SAÉ 3.ROM.03 — Concevoir un réseau informatique adapté au multimédia
+
+[Page 425](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425). Termes communs : informatique, multimedia.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.2.3. SAÉ 3.ROM.03 : Concevoir un réseau informatique adapté au multimédia
+> Compétences ciblées :
+> – Gérer les infrastructures et les services des réseaux opérateurs
+> – Gérer les communications unifiées et la vidéo sur Internet
+> – Administrer les réseaux et l’Internet
+> – Connecter les entreprises et les usagers
 > Objectifs et problématique professionnelle :
-> L ’objectif de la SAÉ sera de réaliser l’automatisation du fonctionnement normal d’une plateforme, telle qu’on pourrait la trouver
-> en milieu professionnel, en utilisant un langage de programmation avancé et structuré.
+> Le professionnel R&T spécialisé en Réseaux d’Opérateurs et Multimédia doit faire évoluer régulièrement l’infrastructure du
+> réseau pour permettre aux différents sites d’accéder aux services et aux ressources de son entreprise en veillant à la qualité
+> des services multimédias (téléphonie IP , vidéo-surveillance, ...).
 > Descriptif générique :
-> La SAÉ mettra en œuvre les thèmes suivants (liste non exhaustive) :
-> – Choix et dimensionnement de la partie opérative (capteurs, actionneurs)
-> – Acquisition et génération d’une grandeur analogique
-> – Commande de variateur (TOR et/ou module de commande analogique)
-> – Mise en œuvre et configuration d’un réseau de communication pour la commande d’un équipement distant
-> – Réalisation d’un équipement d’automatisme communiquant (exemple : esclave ModBus microprogrammé, gestion de
-> trames...)
-> – Application à un process industriel ou un bâtiment intelligent
-> Types de livrable attendus en fin de SAÉ :
-> – schéma fonctionnel simple du système
-> – schéma structurel du système
-> – logigrammes
-> – prototype opérationnel
-> – dossier de conception
-> – dossier de fabrication
-> – analyse des limites de fonctionnement (dérisquer)
+> A partir d’un cahier des charges spécifiant les besoins du réseau d’une entreprise, le professionnel ROM doit mettre en œuvre
+> une infrastructure multi-sites en justifiant les solutions apportées notamment sur l’intégration des services multimédias (vidéo-
+> surveillance, téléphonie IP , vidéoconférence) en intégrant les enjeux de qualité de service. Cette infrastructure repose sur :
+> – les concepts fondamentaux du réseau :
+> – routage, filtrage inter-VLAN ;
+> – redondance (STP , routage dynamique, VRRP) ;
+> – tunnel (VPN, VPN opérateurs) ;
+> – services avancés ;
+> – la mise en place et la configuration des équipements ;
+> – les caractéristiques spécifiques des données transmises (codec vidéo et audio, ...) ;
+> – le test des fonctionnalités et les performances de l’infrastructure (QoS, MLS3) ;
+> – les besoins spécifiques en terme de téléphonie et vidéo IP , en utilisant les outils mis en place dans le cadre de la
+> SAÉ3.ROM.04 "Déployer un service de téléphonie multi-sites" notamment en vérifiant l’intégration des systèmes de
+> téléphonie ;
+> – une documentation détaillée de l’infrastructure mise en oeuvre.
 > Apprentissages critiques :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC24.01AII | Appliquer la procédure d’installation d’un système
-> – AC24.02AII | Exécuter la mise en service d’un système en respectant la procédure
+> – AC21.01 | Configurer et dépanner le routage dynamique dans un réseau
+> – AC21.02 | Configurer et expliquer une politique simple de QoS et les fonctions de base de la sécurité d’un réseau
+> – AC21.03 | Déployer des postes clients et des solutions virtualisées adaptées à une situation donnée
+> – AC21.04 | Déployer des services réseaux avancés
+> – AC21.05 | Identifier les réseaux opérateurs et l’architecture d’Internet
+> – AC21.06 | Travailler en équipe pour développer ses compétences professionnelles
+> – AC22.02 | Mettre en place un accès distant sécurisé
+> – AC22.03 | Mettre en place une connexion multi-site via un réseau opérateur
+> – AC24.01ROM | Administrer les réseaux d’accès fixes et mobiles
+> – AC24.02ROM | Virtualiser des services réseaux
+> – AC24.03ROM | Décrire/comprendre l’architecture et les offres des opérateurs
+> – AC24.04ROM | Gérer le routage/commutation et les interconnexions
+> – AC24.05ROM | Automatiser la gestion des équipements réseaux
+> – AC25.01ROM | Choisir une architecture et déployer des services de ToIP
 > Ressources mobilisées et combinées :
-> – R3.01 | Anglais
-> – R3.02 | Culture et communication
-> – R3.03 | Vie de l’Entreprise : Environnement éco-socio-technologique de l’entreprise, normalisation, réglementation REP
-> – R3.04 | Outils Mathématiques et Logiciels
-> – R3.05 | Projet Personnel et Professionnel
-> – R3.06 | Automatique
-> – R3.07 | Informatique Industrielle
-> – R3.08 | Electronique
-> – R3.09 | Energie
-> – R3.10 | Physique Appliquée : Mécanique et Propagation guidée
-> – R3.11 | Maintenance
-> – R3.12 | Généralités sur les réseaux et la cybersécurité
-> – R3.13 | Physique Appliquée spéc AII et EME : Complément Mécanique
-> – R3.14 | Réseaux spécialisés AII et EME
-> – R3.AII.15 | Supervision / Télégestion
-> – R3.AII.16 | Automatisme spécialisé
+> – R3.01 | Réseaux de campus
+> – R3.02 | Réseaux opérateurs
+> – R3.03 | Services réseaux avancés
+> – R3.04 | Services d’annuaires
+> – R3.11 | Anglais professionnel 1
+> – R3.12 | Expression-Culture-Communication professionnelles : Savoir collaborer
+> – R3.13 | Projet Personnel et Professionnel
+> – R3.15 | Gestion de projet 2 : Utiliser les méthodes de gestion de projet
+> – R3.ROM.16 | Ingénierie de la téléphonie sur IP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 425
+
+### SAÉ 4.PILPRO.01 — Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client
+
+[Page 373](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=373). Termes communs : informatique, securite, solution.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 2.2.1. SAÉ 4.PilPro.01 : Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client
+> Compétences ciblées :
+> – Mettre en œuvre des projets techniques et réglementaires des R&T dans son activité
+> – Gérer des activités réseaux et télécommunications en termes organisationnels, relationnels, financiers et commerciaux
+> – Administrer les réseaux et l’Internet
+> – Connecter les entreprises et les usagers
+> – Créer des outils et applications informatiques pour les R&T
+> Objectifs et problématique professionnelle :
+> Le professionnel R&T spécialisé en Pilotage de Projets Réseaux, lorsqu’il est missionné pour sécuriser un réseau, est amené
+> à faire des choix techniques et à les expliquer à son client.
+> Descriptif générique :
+> Le professionnel PilPro répond à une demande d’un client (un futur acheteur ou un service informatique d’une entreprise) pour
+> sécuriser son infrastructure. Son objectif est de proposer une réponse argumentée qui l’amène à :
+> – analyser l’offre ;
+> – en faire une présentation écrite ou orale, éventuellement de proposer une maquette ;
+> – déployer ou assurer la migration en proposant des améliorations ;
+> – réaliser des tests de validation ;
+> – restituer les données techniques sous forme de tableaux de bords accompagnés d’explications techniques.
+> Le professionnel PilPro doit également étudier les aspects juridiques, dont la protection juridique issue des lois françaises et
+> européennes (droit pénal, droit social, RGPD, diffusion de la charte internet, droits d’administration, etc.). Il doit aussi prendre
+> en compte les relations interpersonnelles, comprendre le rôle de chaque participant, savoir travailler en équipe, tenir compte
+> des contraintes du client. Pour cela, des compétences techniques, relationnelles, organisationnelles sont nécessaires.
+> Apprentissages critiques :
+> – AC21.05 | Identifier les réseaux opérateurs et l’architecture d’Internet
+> – AC21.06 | Travailler en équipe pour développer ses compétences professionnelles
+> – AC22.04 | Déployer des réseaux d’accès des opérateurs
+> – AC22.05 | Capacité à questionner un cahier des charges RT
+> – AC23.02 | Développer une application à partir d’un cahier des charges donné, pour le Web ou les périphériques mobiles
+> – AC23.03 | Utiliser un protocole réseau pour programmer une application client/serveur
+> – AC24.01PilPro | Compréhension d’un cahier des charges technique R&T
+> – AC24.02PilPro | Planification des étapes d’un projet technique R&T
+> – AC24.03PilPro | Co-animation d’une équipe technique
+> – AC24.04PilPro | Proposition de solutions techniques R&T efficientes
+> – AC24.05PilPro | Échanges vulgarisés ou techniques avec tous les acteurs d’un projet
+> – AC25.01PilPro | Prise en compte des contraintes d’un pilotage de projet R&T
+> – AC25.02PilPro | Planification de solutions techniques R&T efficientes
+> – AC25.03PilPro | Prise de conscience des enjeux de la communication dans les relations interpersonnelles
+> – AC25.04PilPro | Établissement d’un relationnel de qualité
+> Ressources mobilisées et combinées :
+> – R4.06 | Anglais professionnel 2
+> – R4.07 | Expression-Culture-Communication professionnelles : Préparer l’insertion professionnelle
+> – R4.08 | Projet Personnel et Professionnel
+> – R4.PilPro.09 | Technologies des réseaux et télécoms
+> – R4.PilPro.10 | Management d’équipe
 > Volume horaire :
 > Volume horaire : à définir localement par chaque IUT
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 252
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 373

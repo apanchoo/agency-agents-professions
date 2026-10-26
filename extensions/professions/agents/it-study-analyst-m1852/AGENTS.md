@@ -26,6 +26,12 @@ The IT Study Analyst plays a key role in the design and improvement of IT system
 
 Consult the [detailed expertise](../../skills/it-study-analyst-m1852/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+OpenStack, HTML, CSS, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-study-analyst-m1852/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

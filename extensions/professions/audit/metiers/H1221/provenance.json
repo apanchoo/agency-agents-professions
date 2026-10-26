@@ -97,5 +97,121 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "Docker",
+          "snippet": " partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long de la pha",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "GitLab",
+      "area": "delivery",
+      "use": "Version code and pipeline definitions; separate build, test, package and deployment stages.",
+      "priority": 7,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "GitLab",
+          "snippet": "plateformes collaboratives dédiées au développement comme par exemple GitLab – Gestion des branches de développement et production – Création de clones – Gestion des ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualific",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "area": "development",
+      "use": "Share workspace, debugging and task configuration without embedding credentials.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "VSCode",
+          "snippet": "r chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et q",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.PILPRO.01",
+          "module_title": "Piloter des projets techniques complexes R&T",
+          "page": 414,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=414",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

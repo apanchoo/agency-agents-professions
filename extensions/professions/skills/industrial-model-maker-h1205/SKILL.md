@@ -1,6 +1,6 @@
 ---
 name: industrial-model-maker-h1205
-description: "Prepare, analyze and produce deliverables as a Industrial model maker; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial model maker; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Industrial model maker
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Cast a canvas on a mannequin from a sketch or figurine
 - Make the pattern of clothing items
 - Create technical documentation
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

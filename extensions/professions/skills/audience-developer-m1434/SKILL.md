@@ -1,6 +1,6 @@
 ---
 name: audience-developer-m1434
-description: "Prepare, analyze and produce deliverables as a Audience Developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Audience Developer; use for requests within this professional scope. Relevant technologies include Python, JavaScript, HTML, CSS, SQL."
 ---
 
 # Audience Developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage the audience strategy in conjunction with marketing and distribution services
 - Identify growth levers and propose recommendations
 - Ensure artistic monitoring
+
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

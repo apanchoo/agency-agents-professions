@@ -25,6 +25,12 @@ The Quality Consultant ensures that processes and products comply with required 
 
 Consult the [detailed expertise](../../skills/quality-consultant-h1518/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+MATLAB, Scilab, Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/quality-consultant-h1518/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

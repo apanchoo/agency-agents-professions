@@ -184,5 +184,334 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.07",
+          "module_title": "Fondamentaux de la programmation",
+          "page": 80,
+          "matched_text": "Python",
+          "snippet": "els. Contenus : En utilisant un langage de programmation (par exemple Python), les contenus suivants sont traités : – Notions d’algorithmique : – Variables, types de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualific",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "SQL",
+          "snippet": "ion à la sécurisation de sites : failles XSS, XSS stockée, injections SQL. L ’utilisation de l’anglais est préconisée dans la documentation du code. Prérequis : – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "3.02",
+          "module_title": "Développer des applications communicantes",
+          "page": 118,
+          "matched_text": "SQL",
+          "snippet": "Objets (socket, websocket, socket-io), Sérialisation (base de données SQL ou no-SQL, fichier binaire ou fichier texte, ...). Apprentissages critiques : – AC21.06 |",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=118",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "1.04",
+          "module_title": "Création d’une base de données",
+          "page": 65,
+          "matched_text": "SQL",
+          "snippet": "ilisées et combinées : – R1.05 | Introduction aux bases de données et SQL – R1.06 | Mathématiques discrètes – R1.09 | Introduction à l’économie durable et numériqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=65",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "pandas",
+      "area": "data",
+      "use": "Prepare tabular transformations with explicit types, missing-value handling and reconciliation checks.",
+      "priority": 40,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R5.ADMIN.09",
+          "module_title": "Statistique inférentielle",
+          "page": 298,
+          "matched_text": "pandas",
+          "snippet": "Analyse de données (utilisation d’une bibliothèque adaptée, par ex. : pandas, R...) Prolongements suggérés – Science des données (analyse en composantes principales, ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=298",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "R",
+      "area": "statistics",
+      "use": "Prepare reproducible statistical analyses with explicit packages, seeds and validation assumptions.",
+      "priority": 49,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R5.ADMIN.09",
+          "module_title": "Statistique inférentielle",
+          "page": 298,
+          "matched_text": "pandas, R",
+          "snippet": "Analyse de données (utilisation d’une bibliothèque adaptée, par ex. : pandas, R...) Prolongements suggérés – Science des données (analyse en composantes principales, arb",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=298",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "BGP",
+          "snippet": "HCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les différents savoi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "DHCP",
+          "snippet": "s équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "DNS",
+          "snippet": "ements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux f",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "IPV4",
+          "snippet": "s (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "IPV6",
+          "snippet": "teurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sé",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "OSPF",
+          "snippet": " (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les diff",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.03",
+          "module_title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "matched_text": "VLAN",
+          "snippet": "formation dont il est le support (segmentation physique et virtuelle, VLAN). Ces compétences s’appuient sur la compréhension des mécanismes intrinsèques aux réseaux",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.03",
+          "module_title": "Piloter la mise en production d’un réseau informatique multi-sites",
+          "page": 347,
+          "matched_text": "VLAN",
+          "snippet": "e : – les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=347",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.ADMIN.09",
+          "module_title": "Réseau avancé",
+          "page": 282,
+          "matched_text": "VLAN",
+          "snippet": "voirs de référence étudiés – Configuration des équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (p",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.03",
+          "module_title": "Piloter la mise en production d’un réseau informatique multi-sites",
+          "page": 347,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – Wi-Fi. – la mise en place et la configuration d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=347",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

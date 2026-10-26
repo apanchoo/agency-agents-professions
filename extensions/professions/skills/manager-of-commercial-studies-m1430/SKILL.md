@@ -1,6 +1,6 @@
 ---
 name: manager-of-commercial-studies-m1430
-description: "Prepare, analyze and produce deliverables as a Manager of commercial studies; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Manager of commercial studies; use for requests within this professional scope. Relevant technologies include Talend, Tableau Software."
 ---
 
 # Manager of commercial studies
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Identify a target clientele or prospects
 - Establish forecasts, evaluations, recommendations, perspectives
 - Implement decision support tools
+
+## Technologies and Software
+
+Talend, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

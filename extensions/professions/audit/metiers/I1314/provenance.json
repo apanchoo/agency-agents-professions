@@ -185,5 +185,200 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Docker",
+          "snippet": "SetTop Box (TR-69) ; – le déploiement d’un service dans un conteneur (Docker). Apprentissages critiques : – AC24.01ROM | Administrer les réseaux d’accès fixes et mobi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Python",
+          "snippet": "le déploiement automatisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : S",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "area": "scripting",
+      "use": "Automate administration with structured objects, explicit error handling and controlled credentials.",
+      "priority": 21,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Powershell",
+          "snippet": "iement automatisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Bash",
+      "area": "scripting",
+      "use": "Automate command-line workflows with checked exit statuses, quoting and reproducible inputs.",
+      "priority": 22,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Bash",
+          "snippet": "atisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (TR-69) ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "DHCP",
+          "snippet": "et protocoles essentiels des réseaux locaux, comme Ethernet, TCP/IP , DHCP , DNS. Sont également introduites des notions de sécurité informatique (les ressources as",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "DNS",
+          "snippet": "ocoles essentiels des réseaux locaux, comme Ethernet, TCP/IP , DHCP , DNS. Sont également introduites des notions de sécurité informatique (les ressources associée",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "IPv4",
+          "snippet": "n au réseau – Découverte et prise en main du réseau local – Adressage IPv4 : classes d’adresses, masques naturels, adressage statique, adressage dynamique (DHCP) – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "VPN",
+          "snippet": "vice de téléphonie, les services vidéo (IPTV, VoD) et les services de VPN pour les entreprises. Le professionnel R&T spécialisé en Réseaux Opérateurs et Multimédia",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

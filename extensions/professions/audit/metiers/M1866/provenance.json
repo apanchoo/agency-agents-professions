@@ -255,5 +255,83 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.CYBER.01",
+          "module_title": "Sécuriser un système d’information",
+          "page": 142,
+          "matched_text": "DNS",
+          "snippet": "hes supérieures à 3, pour finir par les différents services proposés (DNS, Web, ...) ; – ajouter des équipements spécialisés ; – utiliser des outils cryptographiqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=142",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VLAN",
+          "snippet": "– sur les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – Wi-Fi. – sur la mise en place et la configurati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

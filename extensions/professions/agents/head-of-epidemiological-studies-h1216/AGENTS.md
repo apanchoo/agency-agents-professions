@@ -25,6 +25,12 @@ The Head of Epidemiological Studies directs and analyzes research on diseases in
 
 Consult the [detailed expertise](../../skills/head-of-epidemiological-studies-h1216/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-epidemiological-studies-h1216/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

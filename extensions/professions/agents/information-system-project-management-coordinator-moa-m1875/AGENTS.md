@@ -25,6 +25,12 @@ The Information System Project Management Coordinator (MOA SI) plays an importan
 
 Consult the [detailed expertise](../../skills/information-system-project-management-coordinator-moa-m1875/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/information-system-project-management-coordinator-moa-m1875/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

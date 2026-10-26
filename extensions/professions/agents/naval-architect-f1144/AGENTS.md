@@ -26,6 +26,12 @@ The naval architect designs and develops boats for the seas and rivers, combinin
 
 Consult the [detailed expertise](../../skills/naval-architect-f1144/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/naval-architect-f1144/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

@@ -1,6 +1,6 @@
 ---
 name: commercial-sales-to-corporate-clients-d1416
-description: "Prepare, analyze and produce deliverables as a Commercial / Sales to corporate clients; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Commercial / Sales to corporate clients; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Commercial / Sales to corporate clients
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop and maintain customer relationships
 - Develop a commercial strategy
 - Develop and adapt a commercial proposal
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

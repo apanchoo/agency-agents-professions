@@ -1,6 +1,6 @@
 ---
 name: head-of-epidemiological-studies-h1216
-description: "Prepare, analyze and produce deliverables as a Head of epidemiological studies; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of epidemiological studies; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Head of epidemiological studies
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Master the drug pricing system
 - Collaborate with international organizations
 - Demonstrate anticipation, adaptation and deciphering of the environment and adapt them to the laboratory strategy
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

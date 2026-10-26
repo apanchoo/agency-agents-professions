@@ -1,6 +1,6 @@
 ---
 name: support-specialist-m1874
-description: "Prepare, analyze and produce deliverables as a Support Specialist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Support Specialist; use for requests within this professional scope. Relevant technologies include Linux, Windows, Wireshark, SQL, DNS, VLAN."
 ---
 
 # Support Specialist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor network performance data, identify anomalies and propose corrective measures
 - Ensure preventive maintenance of computer systems
 - Follow a maintenance or technical support operation
+
+## Technologies and Software
+
+Linux, Windows, Wireshark, SQL, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

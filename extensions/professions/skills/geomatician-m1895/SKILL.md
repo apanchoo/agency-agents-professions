@@ -1,6 +1,6 @@
 ---
 name: geomatician-m1895
-description: "Prepare, analyze and produce deliverables as a Geomatician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Geomatician; use for requests within this professional scope. Relevant technologies include Linux, Windows, HTML, CSS, VLAN, VPN."
 ---
 
 # Geomatician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Use specialized software for data analysis
 - Adapt maps for different users and needs
 - Implement security protocols for geospatial data
+
+## Technologies and Software
+
+Linux, Windows, HTML, CSS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

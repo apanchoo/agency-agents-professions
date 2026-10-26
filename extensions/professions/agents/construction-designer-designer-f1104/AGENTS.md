@@ -25,6 +25,12 @@ The Construction Designer designs and draws the plans necessary for the completi
 
 Consult the [detailed expertise](../../skills/construction-designer-designer-f1104/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/construction-designer-designer-f1104/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

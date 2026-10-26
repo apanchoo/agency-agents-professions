@@ -1,6 +1,6 @@
 ---
 name: quality-engineer-h1520
-description: "Prepare, analyze and produce deliverables as a Quality engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Quality engineer; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Quality engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop Quality, Hygiene, Safety, Health and Environment (QHSSE) rules and procedures
 - Provide technical assistance to teams
 - Establish performance indicators for quality monitoring
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

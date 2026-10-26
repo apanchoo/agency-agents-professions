@@ -1,6 +1,6 @@
 ---
 name: vending-machine-maintenance-technician-i1303
-description: "Prepare, analyze and produce deliverables as a Vending machine maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Vending machine maintenance technician; use for requests within this professional scope. Relevant technologies include Arduino, LoRa, MQTT, Modbus, OPC UA."
 ---
 
 # Vending machine maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Define supply needs
 - Manage stocks of maintenance equipment and spare parts
 - Organize a tour
+
+## Technologies and Software
+
+Arduino, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: systems-networks-and-it-security-engineer-m1884
-description: "Prepare, analyze and produce deliverables as a Systems, networks and IT security engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Systems, networks and IT security engineer; use for requests within this professional scope. Relevant technologies include Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi."
 ---
 
 # Systems, networks and IT security engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Diagnose the nature and origin of incidents and implement corrective measures
 - Analyze IT security needs
 - Analyze security risks for IT systems
+
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: data-engineer-m1811
-description: "Prepare, analyze and produce deliverables as a Data engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Data engineer; use for requests within this professional scope. Relevant technologies include Python, SQL, pandas, Talend, R, SAS."
 ---
 
 # Data engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage IT testing operations
 - Anticipate costs
 - Collect and analyze customer needs
+
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Vehicle Technical Inspection Center Manager monitors and organizes the work 
 
 Consult the [detailed expertise](../../skills/manager-of-vehicle-technical-inspection-centers-i1114/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/manager-of-vehicle-technical-inspection-centers-i1114/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

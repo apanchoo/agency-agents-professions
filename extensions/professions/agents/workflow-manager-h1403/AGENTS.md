@@ -25,6 +25,12 @@ The production flow manager acts as a liaison between all stakeholders in the su
 
 Consult the [detailed expertise](../../skills/workflow-manager-h1403/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/workflow-manager-h1403/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Formalize functions, loads, interfaces and manufacturing constraints.

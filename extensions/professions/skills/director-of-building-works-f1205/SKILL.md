@@ -1,6 +1,6 @@
 ---
 name: director-of-building-works-f1205
-description: "Prepare, analyze and produce deliverables as a Director of building works; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Director of building works; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Director of building works
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Project and organize the activity of all stakeholders over the entire duration of the project
 - Evaluate the risks linked to construction sites
 - Control the quality and compliance of processes
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

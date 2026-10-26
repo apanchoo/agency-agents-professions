@@ -263,5 +263,511 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Git",
+      "area": "versioning",
+      "use": "Use branches, reviewable commits and tags to trace changes to deployed artifacts.",
+      "priority": 9,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Git",
+          "snippet": "tels que Ansible et de poursuivre la prise en main de l’environnement Git. Apprentissage critique ciblé : – AC23.01 | Automatiser l’administration système avec des",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 170,
+          "matched_text": "Git",
+          "snippet": "charges – Environnement de travail collaboratif – Gestion de projet – Git – IDE – Documentation – Sécurité – Déploiement – Partage – Cycle de vie – Méthode Agile V",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=170",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Git",
+          "snippet": "égration et/ou de déploiement continu Mots clés : Versionning – Log – Git – CI/CD – Tests – Automatisation – Registry Volume horaire : Volume horaire défini nation",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "pytest",
+      "area": "testing",
+      "use": "Create repeatable Python test suites with fixtures and readable failure reports.",
+      "priority": 14,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "pytest",
+          "snippet": " par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JUnit",
+      "area": "testing",
+      "use": "Test Java behavior with isolated cases and publish test results in the delivery pipeline.",
+      "priority": 15,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Junit",
+          "snippet": "mple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et la cent",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "doctest",
+      "area": "testing",
+      "use": "Validate executable examples against their expected results.",
+      "priority": 16,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "doctest",
+          "snippet": "s outils, par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.07",
+          "module_title": "Fondamentaux de la programmation",
+          "page": 80,
+          "matched_text": "Python",
+          "snippet": "els. Contenus : En utilisant un langage de programmation (par exemple Python), les contenus suivants sont traités : – Notions d’algorithmique : – Variables, types de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualific",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Linux",
+          "snippet": "atique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements actifs.",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Windows",
+          "snippet": "ssage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "area": "network",
+      "use": "Capture authorized traffic and interpret packet fields, protocol flows and capture limitations.",
+      "priority": 34,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "Wireshark",
+          "snippet": "abilité, gigue, taux de pertes. Outils préconisés : Logiciels du type Wireshark, GNS3, Packet Tracer, Scapy. Des éléments relatifs à la sécurité et aux risques informati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "JavaScript",
+          "snippet": " ; – CSS avancé ou Framework ; – initiation au dynamisme côté client (JavaScript, bibliothèques comme jQuery) – Scripts côté serveur. – Eléments d’interaction client-serv",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "HTML",
+          "snippet": ", scénarios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (W",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.09",
+          "module_title": "Introduction aux technologies Web",
+          "page": 82,
+          "matched_text": "HTML",
+          "snippet": "re l’architecture et les technologies d’un site Web Mots clés : Web – HTML – CSS – Client/serveur – Codage de l’information – CRCN – DigComp Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=82",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "HTML",
+          "snippet": "oduction au protocole HTTP . – Mise en forme de pages Web : – balises HTML avancées ; – structure d’une page avec son DOM ; – CSS avancé ou Framework ; – initiation",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "CSS",
+          "snippet": "arios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (World ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.09",
+          "module_title": "Introduction aux technologies Web",
+          "page": 82,
+          "matched_text": "CSS",
+          "snippet": " balise, mise en forme et feuilles de styles (notions élémentaires de CSS), notions de responsive design ; – Contenu d’une page : éléments multimédia, encodage des",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=82",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "CSS",
+          "snippet": "b : – balises HTML avancées ; – structure d’une page avec son DOM ; – CSS avancé ou Framework ; – initiation au dynamisme côté client (JavaScript, bibliothèques co",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "1.04",
+          "module_title": "Création d’une base de données",
+          "page": 65,
+          "matched_text": "SQL",
+          "snippet": "ilisées et combinées : – R1.05 | Introduction aux bases de données et SQL – R1.06 | Mathématiques discrètes – R1.09 | Introduction à l’économie durable et numériqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=65",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R1.05",
+          "module_title": "Introduction aux bases de données et SQL",
+          "page": 73,
+          "matched_text": "SQL",
+          "snippet": "1.3.5. Ressource R1.05 : Introduction aux bases de données et SQL Compétence ciblée : – Concevoir, gérer, administrer et exploiter les données de l’entrepr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=73",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R2.06",
+          "module_title": "Exploitation d’une base de données",
+          "page": 96,
+          "matched_text": "SQL",
+          "snippet": "c des outils simples de visualisation. Savoirs de référence étudiés – SQL avancé (Structured Query Language) – Visualisation de données – Premier niveau de l’admin",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=96",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "area": "development",
+      "use": "Share workspace, debugging and task configuration without embedding credentials.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "VSCode",
+          "snippet": "r chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "area": "web",
+      "use": "Maintain browser interactions and DOM updates while checking events, accessibility and compatibility.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "jQuery",
+          "snippet": " initiation au dynamisme côté client (JavaScript, bibliothèques comme jQuery) – Scripts côté serveur. – Eléments d’interaction client-serveur (requête HTTP , URL, for",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et q",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualif",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "DHCP",
+          "snippet": "segmentation d’un réseau ; – configurer le plan d’adressage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. M",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv4",
+          "snippet": "lée des protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Princi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv6",
+          "snippet": "s protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Principes de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.10",
+          "module_title": "Développement de microservices",
+          "page": 232,
+          "matched_text": "RESTful",
+          "snippet": "éments de conception des API : API synchrone/asynchrone, architecture RESTful ; – Les spécificités des API REST : routage d’URL ; – La sécurité des API : abonnements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=232",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

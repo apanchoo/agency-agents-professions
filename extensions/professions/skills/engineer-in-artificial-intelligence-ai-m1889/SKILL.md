@@ -1,6 +1,6 @@
 ---
 name: engineer-in-artificial-intelligence-ai-m1889
-description: "Prepare, analyze and produce deliverables as a Engineer in Artificial Intelligence (AI); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Engineer in Artificial Intelligence (AI); use for requests within this professional scope. Relevant technologies include Python, Windows, Wireshark, BGP, OSPF, VLAN."
 ---
 
 # Engineer in Artificial Intelligence (AI)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze customer needs to offer adapted AI solutions
 - Plan AI projects taking into account time and budget constraints
 - Adapt AI models to changes in data or context
+
+## Technologies and Software
+
+Python, Windows, Wireshark, BGP, OSPF, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

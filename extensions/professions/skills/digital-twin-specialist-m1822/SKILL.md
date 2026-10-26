@@ -1,6 +1,6 @@
 ---
 name: digital-twin-specialist-m1822
-description: "Prepare, analyze and produce deliverables as a Digital Twin Specialist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Digital Twin Specialist; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes."
 ---
 
 # Digital Twin Specialist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out statistical analysis or modeling of data
 - Integrate the digital twin into industrial processes
 - Implement appropriate cybersecurity solutions
+
+## Technologies and Software
+
+Docker, Kubernetes.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: antennaist-i1307
-description: "Prepare, analyze and produce deliverables as a Antennaist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Antennaist; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab, Arduino."
 ---
 
 # Antennaist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the conformity of the installation on site, help desk, hot line
 - Check the quality and reliability of the installation
 - Advise customers on the best reception options
+
+## Technologies and Software
+
+MATLAB, Scilab, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Blockchain Developer is a specialist in storage and transmission of data in 
 
 Consult the [detailed expertise](../../skills/blockchain-developer-m1877/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/blockchain-developer-m1877/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

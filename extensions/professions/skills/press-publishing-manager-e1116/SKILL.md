@@ -1,6 +1,6 @@
 ---
 name: press-publishing-manager-e1116
-description: "Prepare, analyze and produce deliverables as a Press publishing manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Press publishing manager; use for requests within this professional scope. Relevant technologies include HTML, CSS."
 ---
 
 # Press publishing manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze reader feedback to improve quality
 - Ensure regulatory compliance of technical documents and publications
 - Ensure compliance with an editorial line
+
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

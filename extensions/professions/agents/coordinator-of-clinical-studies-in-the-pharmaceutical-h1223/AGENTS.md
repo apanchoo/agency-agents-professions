@@ -26,6 +26,12 @@ The clinical study coordinator organizes and manages the daily activities of cli
 
 Consult the [detailed expertise](../../skills/coordinator-of-clinical-studies-in-the-pharmaceutical-h1223/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/coordinator-of-clinical-studies-in-the-pharmaceutical-h1223/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

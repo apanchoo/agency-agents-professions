@@ -1,6 +1,6 @@
 ---
 name: roofer-f1619
-description: "Prepare, analyze and produce deliverables as a Roofer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Roofer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Roofer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out the insulation and waterproofing of the roof or terrace
 - Carry out the installation of roofing elements
 - Clean the intervention site and store the tools
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

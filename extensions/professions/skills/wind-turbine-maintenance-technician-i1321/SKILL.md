@@ -1,6 +1,6 @@
 ---
 name: wind-turbine-maintenance-technician-i1321
-description: "Prepare, analyze and produce deliverables as a Wind turbine maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Wind turbine maintenance technician; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, Scilab, BIM."
 ---
 
 # Wind turbine maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement security measures
 - Monitor equipment performance indicators
 - Troubleshoot advanced technical issues
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

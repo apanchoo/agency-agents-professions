@@ -1,6 +1,6 @@
 ---
 name: industrial-quality-technician-h1528
-description: "Prepare, analyze and produce deliverables as a Industrial quality technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial quality technician; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Industrial quality technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Control the quality and compliance of processes
 - Implement corrective actions in the event of non-compliance
 - Respect quality and safety standards
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

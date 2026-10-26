@@ -1,6 +1,6 @@
 ---
 name: bim-manager-f1125
-description: "Prepare, analyze and produce deliverables as a BIM Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a BIM Manager; use for requests within this professional scope. Relevant technologies include Autodesk Revit, BIM."
 ---
 
 # BIM Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor the work (facilitation of weekly monitoring meetings, writing of reports, quality management, cost, deadline, planning, hazard management, contradictory findings)
 - Identify the activities and constraints of stakeholders by visualizing them and integrating them into the digital model
 - Supervise execution and detail plans from a 3D digital model
+
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

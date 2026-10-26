@@ -11,11 +11,16 @@
 
 Select techniques that fit the task and available resources.
 
-- Internet Technologies
-- Architecture of digital and IT systems
-- Security infrastructure
-- Artificial intelligence techniques
+- Cloud Solutions
+- Managing Cloud solutions for businesses
+- Cloud ecosystem
+- Containerization Fundamentals
+- DevOps tools and methods
+- Containerized infrastructures
+- Program your infrastructure
+- DevOps tools
 - Cloud computing
+- System and network security
 - Network architecture
 - Service deployment
 - Integration
@@ -25,10 +30,10 @@ Select techniques that fit the task and available resources.
 
 Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
 
-- Present yourself on the Internet
-- Implement an IT solution for the business
-- Application integration and project management
-- Project management and software development
+- Manage the pipeline of a Cloud-oriented application
+- Set up a virtualized infrastructure
+- Creation and deployment of application services
+- Evolution of an infrastructure
 - Integrate a user experience within an information system
 - Integrate user interfaces within an information system
 

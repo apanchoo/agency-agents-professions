@@ -17,9 +17,9 @@ Select techniques that fit the task and available resources.
 - Integration
 - Experience design
 - Web development
-- Embedded systems
-- Automatic
-- Business life: introduction to project management
+- Norms, standards and risk analysis
+- Life cycle of an IT project
+- Network and telecom technologies
 
 ## Validation Scenarios
 
@@ -29,8 +29,8 @@ Choose a scenario suited to the deliverable and specify inputs, constraints, exp
 - Development of a complex application
 - Integrate user interfaces within an information system
 - Integrate a user experience within an information system
-- Implement a specific electronic and/or embedded system
-- Integration and programming of an automated system in normal operating mode
+- Design a computer network adapted to multimedia
+- Manage security solutions for the needs of a client's IT network
 
 ## Deliverables
 

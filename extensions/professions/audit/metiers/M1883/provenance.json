@@ -179,5 +179,64 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Linux",
+          "snippet": "re les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fixées par l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Windows",
+          "snippet": "e reconnaître les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fix",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

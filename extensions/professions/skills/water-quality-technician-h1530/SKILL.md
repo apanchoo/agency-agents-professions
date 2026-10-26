@@ -1,6 +1,6 @@
 ---
 name: water-quality-technician-h1530
-description: "Prepare, analyze and produce deliverables as a Water quality technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Water quality technician; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Water quality technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze the microbiological quality of water
 - Write clear and detailed expert reports
 - Optimize the use of water resources
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

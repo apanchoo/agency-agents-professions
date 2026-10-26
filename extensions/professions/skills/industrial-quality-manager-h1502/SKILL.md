@@ -1,6 +1,6 @@
 ---
 name: industrial-quality-manager-h1502
-description: "Prepare, analyze and produce deliverables as a Industrial Quality Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial Quality Manager; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Industrial Quality Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out quality audits (product, process, system)
 - Complete the conformity control, traceability and quality monitoring documents
 - Evaluate the cost of non-compliance
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

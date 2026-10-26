@@ -25,6 +25,12 @@ The Data Analyst transforms data into statistical and technical information. Col
 
 Consult the [detailed expertise](../../skills/data-analyst-m1419/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/data-analyst-m1419/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

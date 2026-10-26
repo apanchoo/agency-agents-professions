@@ -258,5 +258,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Docker",
+          "snippet": "logs, système de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "area": "containers",
+      "use": "Define workloads and services; verify rollout readiness, resource limits, scaling and rollback.",
+      "priority": 3,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Kubernetes",
+          "snippet": "stème de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisation des appl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

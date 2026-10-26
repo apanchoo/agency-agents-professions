@@ -27,6 +27,12 @@ The Data Scientist introduces Data Science and Artificial Intelligence technique
 
 Consult the [detailed expertise](../../skills/data-scientist-m1405/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/data-scientist-m1405/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

@@ -25,6 +25,12 @@ At the heart of the thermal production sector, the Energy Production Operations 
 
 Consult the [detailed expertise](../../skills/operations-technician-in-thermal-energy-production-h2701/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+LabVIEW, MATLAB, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/operations-technician-in-thermal-energy-production-h2701/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

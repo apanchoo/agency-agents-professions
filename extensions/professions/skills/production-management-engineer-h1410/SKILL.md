@@ -1,6 +1,6 @@
 ---
 name: production-management-engineer-h1410
-description: "Prepare, analyze and produce deliverables as a Production management engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Production management engineer; use for requests within this professional scope. Relevant technologies include Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Production management engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Define and deploy a sustainable development policy
 - Integrate eco-responsibility into all dimensions of its activity
 - Define a production monitoring system
+
+## Technologies and Software
+
+Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The IT Solution Administrator takes care of the management and optimization of o
 
 Consult the [detailed expertise](../../skills/it-solution-administrator-i1405/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+OpenStack, SQL, IPv4, IPv6, OSPF.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-solution-administrator-i1405/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

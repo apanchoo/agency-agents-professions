@@ -1,6 +1,6 @@
 ---
 name: telecom-infrastructure-engineer-mobile-networks-i1104
-description: "Prepare, analyze and produce deliverables as a Telecom infrastructure engineer / mobile networks; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Telecom infrastructure engineer / mobile networks; use for requests within this professional scope. Relevant technologies include Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino."
 ---
 
 # Telecom infrastructure engineer / mobile networks
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Model and anticipate network uses
 - Plan network resources
 - Design and implement the technical strategy of the telecoms operator
+
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

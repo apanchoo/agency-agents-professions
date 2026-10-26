@@ -25,6 +25,12 @@ The Solar Power Plant Operator controls the maintenance and optimization of the 
 
 Consult the [detailed expertise](../../skills/solar-power-plant-operator-h2716/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/solar-power-plant-operator-h2716/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

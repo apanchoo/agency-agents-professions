@@ -25,6 +25,12 @@ The IT Developer designs and improves computer systems. Designs and develops com
 
 Consult the [detailed expertise](../../skills/software-developer-m1805/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, BGP, DNS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/software-developer-m1805/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

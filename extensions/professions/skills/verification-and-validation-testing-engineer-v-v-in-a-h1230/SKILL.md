@@ -1,6 +1,6 @@
 ---
 name: verification-and-validation-testing-engineer-v-v-in-a-h1230
-description: "Prepare, analyze and produce deliverables as a Verification and validation testing engineer (V&V) in a nuclear environment; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Verification and validation testing engineer (V&V) in a nuclear environment; use for requests within this professional scope. Relevant technologies include VLAN, LoRa."
 ---
 
 # Verification and validation testing engineer (V&V) in a nuclear environment
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write specifications and test procedures
 - Apply nuclear security protocols
 - Assess, prevent, and manage risks and safety
+
+## Technologies and Software
+
+VLAN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

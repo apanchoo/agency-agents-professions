@@ -25,6 +25,12 @@ The publisher participates in the implementation of the editorial program for it
 
 Consult the [detailed expertise](../../skills/editor-e1105/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/editor-e1105/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

@@ -1,6 +1,6 @@
 ---
 name: blockchain-engineer-m1865
-description: "Prepare, analyze and produce deliverables as a Blockchain engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Blockchain engineer; use for requests within this professional scope. Relevant technologies include Python, DHCP, DNS."
 ---
 
 # Blockchain engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Collaborate with multidisciplinary teams for blockchain projects
 - Multitask and adapt to rapid changes
 - Train teams in blockchain technologies
+
+## Technologies and Software
+
+Python, DHCP, DNS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

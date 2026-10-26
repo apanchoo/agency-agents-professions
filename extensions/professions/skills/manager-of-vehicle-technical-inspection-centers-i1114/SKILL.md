@@ -1,6 +1,6 @@
 ---
 name: manager-of-vehicle-technical-inspection-centers-i1114
-description: "Prepare, analyze and produce deliverables as a Manager of vehicle technical inspection centers; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Manager of vehicle technical inspection centers; use for requests within this professional scope. Relevant technologies include Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino."
 ---
 
 # Manager of vehicle technical inspection centers
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Promote safe work practices among staff
 - Supervise technical control operations
 - Manage technical inspection schedules
+
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -27,6 +27,12 @@ The IT design engineer designs, develops and tests software or computer systems.
 
 Consult the [detailed expertise](../../skills/engineer-it-study-engineer-m1818/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+OpenStack, HTML, CSS, JSON, REST APIs, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/engineer-it-study-engineer-m1818/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

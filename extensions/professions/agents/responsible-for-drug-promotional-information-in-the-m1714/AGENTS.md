@@ -25,6 +25,12 @@ The Drug Promotional Information Officer plays a key role in the communication a
 
 Consult the [detailed expertise](../../skills/responsible-for-drug-promotional-information-in-the-m1714/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/responsible-for-drug-promotional-information-in-the-m1714/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

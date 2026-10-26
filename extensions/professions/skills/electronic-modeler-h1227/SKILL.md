@@ -1,6 +1,6 @@
 ---
 name: electronic-modeler-h1227
-description: "Prepare, analyze and produce deliverables as a Electronic modeler; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Electronic modeler; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa."
 ---
 
 # Electronic modeler
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop diagrams, detailed or overall plans
 - Use 3D design software
 - Use modeling and simulation software
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -262,5 +262,94 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.IOM.03",
+          "module_title": "Concevoir un réseau multi-sites intégrant des objets connectés",
+          "page": 270,
+          "matched_text": "VLAN",
+          "snippet": "– sur les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=270",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.IOM.03",
+          "module_title": "Concevoir un réseau multi-sites intégrant des objets connectés",
+          "page": 270,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – réseaux sans fil tels que Wi-Fi, ZigBee, ou Blu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=270",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

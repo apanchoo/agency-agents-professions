@@ -1,6 +1,6 @@
 ---
 name: building-painter-f1606
-description: "Prepare, analyze and produce deliverables as a Building painter; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Building painter; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Building painter
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Create and install coverings
 - Ensure the cleanliness of the work area
 - Adapt and optimize your practice to the context and professional risks (gestures, postures, ergonomics)
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -26,6 +26,12 @@ The Bioinformatician in studies, research and development, analyzes biological d
 
 Consult the [detailed expertise](../../skills/bioinformatician-in-studies-research-and-development-h1215/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, REST APIs, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/bioinformatician-in-studies-research-and-development-h1215/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

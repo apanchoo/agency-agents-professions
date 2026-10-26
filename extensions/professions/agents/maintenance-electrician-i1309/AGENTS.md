@@ -25,6 +25,12 @@ The Electrician diagnoses electrical breakdowns on various equipment and install
 
 Consult the [detailed expertise](../../skills/maintenance-electrician-i1309/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/maintenance-electrician-i1309/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

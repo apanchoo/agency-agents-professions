@@ -1,6 +1,6 @@
 ---
 name: computer-aided-manufacturing-design-cad-cam-programmer-h1408
-description: "Prepare, analyze and produce deliverables as a Computer Aided Manufacturing Design (CAD/CAM) Programmer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Computer Aided Manufacturing Design (CAD/CAM) Programmer; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Computer Aided Manufacturing Design (CAD/CAM) Programmer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Support the production of pre-series and the start of product industrialization
 - Document manufacturing procedures
 - Design models and pre-models
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

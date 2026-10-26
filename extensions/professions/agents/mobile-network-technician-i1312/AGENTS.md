@@ -26,6 +26,12 @@ The Mobile Network Technician Installs mobile telecommunications networks to pro
 
 Consult the [detailed expertise](../../skills/mobile-network-technician-i1312/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/mobile-network-technician-i1312/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

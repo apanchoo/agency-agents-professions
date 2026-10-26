@@ -26,6 +26,12 @@ The maritime engineer designs, optimizes and supervises naval structures and sys
 
 Consult the [detailed expertise](../../skills/marine-engineer-f1145/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/marine-engineer-f1145/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

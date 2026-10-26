@@ -1,6 +1,6 @@
 ---
 name: doctor-responsible-for-documentation-and-medical-m1617
-description: "Prepare, analyze and produce deliverables as a Doctor responsible for Documentation and Medical Information (Doctor responsible DIM); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Doctor responsible for Documentation and Medical Information (Doctor responsible DIM); use for requests within this professional scope. Relevant technologies include SQL, Microsoft Excel."
 ---
 
 # Doctor responsible for Documentation and Medical Information (Doctor responsible DIM)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage medical databases
 - Ensure that clinical documentation is complete, accurate and complies with current standards and regulations
 - Oversee the recording, management and preservation of patient medical records
+
+## Technologies and Software
+
+SQL, Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

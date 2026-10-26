@@ -1,6 +1,6 @@
 ---
 name: service-quality-director-m1428
-description: "Prepare, analyze and produce deliverables as a Service Quality Director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Service Quality Director; use for requests within this professional scope. Relevant technologies include SQL, Talend, Tableau Software."
 ---
 
 # Service Quality Director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan internal and external audits
 - Ensure compliance of practices with current regulations
 - Propose innovations to improve quality of service
+
+## Technologies and Software
+
+SQL, Talend, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

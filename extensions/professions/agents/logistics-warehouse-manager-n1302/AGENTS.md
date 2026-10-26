@@ -27,6 +27,12 @@ The Logistics Warehouse Manager orchestrates the management and optimization of 
 
 Consult the [detailed expertise](../../skills/logistics-warehouse-manager-n1302/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/logistics-warehouse-manager-n1302/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe flows, volumes, delivery times and constraints.

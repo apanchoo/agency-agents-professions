@@ -25,6 +25,12 @@ The Computer Maintenance Technician ensures the proper functioning of computer s
 
 Consult the [detailed expertise](../../skills/computer-maintenance-technician-i1401/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BGP, DHCP, DNS, IPv4, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/computer-maintenance-technician-i1401/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

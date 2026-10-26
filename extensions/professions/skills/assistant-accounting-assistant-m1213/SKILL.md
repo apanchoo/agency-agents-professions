@@ -1,6 +1,6 @@
 ---
 name: assistant-accounting-assistant-m1213
-description: "Prepare, analyze and produce deliverables as a Assistant / Accounting assistant; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Assistant / Accounting assistant; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Assistant / Accounting assistant
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Respond to requests for information
 - Guarantee the confidentiality of information
 - Archive files and reference documents
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

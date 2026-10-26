@@ -1,6 +1,6 @@
 ---
 name: aeronautical-maintenance-electronician-i1334
-description: "Prepare, analyze and produce deliverables as a Aeronautical maintenance electronician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Aeronautical maintenance electronician; use for requests within this professional scope. Relevant technologies include Python, Linux, Java, C++, GNU Octave, LabVIEW."
 ---
 
 # Aeronautical maintenance electronician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Define interventions on equipment according to the technical file
 - Inspect systems and equipment (radars, on-board instruments, radio navigation, etc.) to detect possible malfunctions
 - Verify by simulation, tests, trials, calculations, the functionalities and characteristics of the electrical or electronic system
+
+## Technologies and Software
+
+Python, Linux, Java, C++, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, Arduino, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

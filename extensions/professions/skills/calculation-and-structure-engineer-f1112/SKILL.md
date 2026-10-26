@@ -1,6 +1,6 @@
 ---
 name: calculation-and-structure-engineer-f1112
-description: "Prepare, analyze and produce deliverables as a Calculation and structure engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Calculation and structure engineer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Calculation and structure engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Qualify the specific purposes: repair, modify, improve, launch a product
 - Validate the plans intended for the Research & Development project manager or the principal, in accordance with industrial means (serial production)
 - Monitor and validate partners, suppliers, service providers participating in the project
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

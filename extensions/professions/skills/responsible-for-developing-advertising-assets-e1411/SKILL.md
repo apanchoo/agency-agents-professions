@@ -1,6 +1,6 @@
 ---
 name: responsible-for-developing-advertising-assets-e1411
-description: "Prepare, analyze and produce deliverables as a Responsible for developing advertising assets; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Responsible for developing advertising assets; use for requests within this professional scope. Relevant technologies include JavaScript, HTML, CSS, SQL, MySQL, MariaDB."
 ---
 
 # Responsible for developing advertising assets
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Identify, conquer, retain customers with wealth potential in order to achieve your objectives
 - Carry out a market study, assess the potential of a product or service
 - Respond to a call for tenders
+
+## Technologies and Software
+
+JavaScript, HTML, CSS, SQL, MySQL, MariaDB, Airtable, Baserow, NocoDB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -189,5 +189,102 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

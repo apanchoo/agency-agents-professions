@@ -1,6 +1,6 @@
 ---
 name: industrial-analysis-laboratory-manager-h1501
-description: "Prepare, analyze and produce deliverables as a Industrial analysis laboratory manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial analysis laboratory manager; use for requests within this professional scope. Relevant technologies include GNU Octave."
 ---
 
 # Industrial analysis laboratory manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design analysis protocols
 - Define and implement security protocols
 - Control the rules of Quality, Hygiene, Safety, Health and Environment (QHSSE)
+
+## Technologies and Software
+
+GNU Octave.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: workflow-manager-h1403
-description: "Prepare, analyze and produce deliverables as a Workflow Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Workflow Manager; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Workflow Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Organize and control a supply
 - Organize order processing
 - Prepare work progress reports
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

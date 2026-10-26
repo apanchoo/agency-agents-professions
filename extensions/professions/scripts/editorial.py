@@ -101,6 +101,24 @@ RECIPES = {
         ["Les capacités et fenêtres de temps sont compatibles", "Les hypothèses de coût sont sourcées", "Les contraintes réglementaires et de traçabilité sont identifiées"]),
 }
 
+
+ROLE_RECIPES = {
+    "M1827": (
+        ["Définir les environnements, dépendances, secrets et critères de disponibilité",
+         "Construire et tester une image conteneurisée avec un Dockerfile et une configuration de services",
+         "Versionner le pipeline de compilation, tests, analyse et publication des artefacts",
+         "Préparer le plan d'infrastructure et automatiser la configuration puis le déploiement",
+         "Vérifier les sondes de santé, la supervision, la montée en charge et le retour arrière"],
+        ["Dockerfile et configuration Docker Compose ou manifeste Kubernetes selon le besoin",
+         "Pipeline GitLab CI ou Jenkins et rapports de tests",
+         "Code Terraform ou Pulumi et playbooks Ansible adaptés à l'environnement",
+         "Procédure de déploiement, supervision et retour arrière"],
+        ["L'image construite est identifiée et testée avant sa publication",
+         "Le pipeline arrête la livraison lorsqu'un test ou un contrôle requis échoue",
+         "Les secrets sont externalisés et les changements d'infrastructure sont relus avant application",
+         "Le déploiement possède un contrôle de disponibilité et un scénario de retour arrière vérifiable"]),
+}
+
 DOMAINS = {
     "A": ("Agriculture, nature et animaux", "gb", ["Calendrier d'opérations et observations à recueillir", "Fiche de suivi terrain et anomalies"]),
     "B": ("Artisanat et métiers d'art", "sgm", ["Brief de création et contraintes de matière", "Gamme de réalisation et contrôle de finition"]),
@@ -120,6 +138,8 @@ DOMAINS = {
 
 
 def recipe_for(code, programme_id=None):
+    if code in ROLE_RECIPES:
+        return ROLE_RECIPES[code]
     if programme_id:
         return RECIPES[programme_id]
     domain, fallback, outputs = DOMAINS[code[0]]

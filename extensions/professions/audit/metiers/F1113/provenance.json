@@ -192,5 +192,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "BIM",
+      "area": "cad",
+      "use": "Coordinate model information, naming, exchange requirements and discipline interfaces.",
+      "priority": 53,
+      "evidence": [
+        {
+          "programme_id": "gccd",
+          "module_code": "R5.05",
+          "module_title": "Coût global",
+          "page": 175,
+          "matched_text": "BIM",
+          "snippet": "| Etablissement de la synthèse (travaux TCE) d’un projet de bâtiment (BIM) – SAÉ 5.BAT.02 | Contre-étude et suivi de travaux de l’OS à la levée des réserves en Bât",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=175",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

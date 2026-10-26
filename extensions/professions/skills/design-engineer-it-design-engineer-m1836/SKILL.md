@@ -1,6 +1,6 @@
 ---
 name: design-engineer-it-design-engineer-m1836
-description: "Prepare, analyze and produce deliverables as a Design engineer / IT design engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Design engineer / IT design engineer; use for requests within this professional scope. Relevant technologies include OpenStack, CSS, SQL, BGP, DNS, VLAN."
 ---
 
 # Design engineer / IT design engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design and manage a project
 - Collaborate with a project team
 - Respect the confidentiality of information
+
+## Technologies and Software
+
+OpenStack, CSS, SQL, BGP, DNS, VLAN, VPN, JSON, REST APIs, XML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

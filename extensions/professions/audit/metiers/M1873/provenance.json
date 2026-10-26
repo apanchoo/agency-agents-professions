@@ -257,5 +257,222 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.ESE.10",
+          "module_title": "Systèmes embarqués",
+          "page": 154,
+          "matched_text": "Python",
+          "snippet": "établir des liaisons entre objets ; – Utilisation d’un langage objet (Python, C++, Java...) ; – Constructeurs, destructeurs, interfaces, méthodes, propriétés ; – Prog",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.ESE.10",
+          "module_title": "Systèmes embarqués",
+          "page": 154,
+          "matched_text": "Linux",
+          "snippet": "ification du programme temps réel ; – OS embarqué (freeRTOS, chibiOS, Linux embarqué...). – Bases de données (approfondissement) : – Base de données orientées série ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "3.EMS.04",
+          "module_title": "Conformité réglementaire pour analyser des données",
+          "page": 143,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=143",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "area": "programming",
+      "use": "Structure typed application code with controlled dependencies, exception handling and tests.",
+      "priority": 42,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.ESE.10",
+          "module_title": "Systèmes embarqués",
+          "page": 154,
+          "matched_text": "Java",
+          "snippet": "iaisons entre objets ; – Utilisation d’un langage objet (Python, C++, Java...) ; – Constructeurs, destructeurs, interfaces, méthodes, propriétés ; – Programmation e",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "C++",
+      "area": "programming",
+      "use": "Make ownership, lifetime and interface contracts explicit; test boundary conditions.",
+      "priority": 43,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.ESE.10",
+          "module_title": "Systèmes embarqués",
+          "page": 154,
+          "matched_text": "C++",
+          "snippet": "des liaisons entre objets ; – Utilisation d’un langage objet (Python, C++, Java...) ; – Constructeurs, destructeurs, interfaces, méthodes, propriétés ; – Programma",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R4.ESE.07",
+          "module_title": "Electronique spécialisée",
+          "page": 132,
+          "matched_text": "Lora",
+          "snippet": "FDMA, TDMA, CDMA, OFDM) et à l’étalement de spectre (DSSS, FHSS, CSS (Lora)...) ; – Comparaison synthétique des protocoles usuels des réseaux sans fil (ZigBee, Blue",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=132",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MQTT",
+      "area": "embedded",
+      "use": "Define topics, broker access and delivery quality; test publishing, subscriptions and reconnects.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.07",
+          "module_title": "Base de données",
+          "page": 150,
+          "matched_text": "MQTT",
+          "snippet": " Communication indirecte orientée message (Publier/Souscrire, broker, MQTT) ; – Gestion de la qualité de service (QoS) ; – Notions d’API (déclaration, appel de serv",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=150",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Modbus",
+      "area": "embedded",
+      "use": "Map registers, types and addressing; verify read/write behavior against the device contract.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "3.AII.01",
+          "module_title": "Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal",
+          "page": 252,
+          "matched_text": "ModBus",
+          "snippet": "isation d’un équipement d’automatisme communiquant (exemple : esclave ModBus microprogrammé, gestion de trames...) – Application à un process industriel ou un bâtimen",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R4.AII.07",
+          "module_title": "Automatisme spécialisé",
+          "page": 296,
+          "matched_text": "ModBus",
+          "snippet": "werLink, Ethercat...) ; – Bus de terrain industriels et de bâtiments (ModBus, KNX, DALI, Enocean...). Apprentissages critiques ciblés : – AC21.01 | Proposer des solut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=296",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "OPC UA",
+      "area": "embedded",
+      "use": "Define industrial information models, endpoint security and monitored values; verify interoperability.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.EME.15",
+          "module_title": "Supervision/ Télégestion",
+          "page": 195,
+          "matched_text": "OPC UA",
+          "snippet": " des services et des protocoles de communication ouverts (par exemple OPC UA, RESTful) ou métier (BACnet (GTB), OCPP (Energie)). À partir de ces services et protocole",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=195",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.AII.15",
+          "module_title": "Supervision / Télégestion",
+          "page": 277,
+          "matched_text": "OPC UA",
+          "snippet": " des services et des protocoles de communication ouverts (par exemple OPC UA, RESTful) ou métier (EtherCat, Profinet...). À partir de ces services et protocoles, la s",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=277",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R5.AII.11",
+          "module_title": "Réseaux et Supervision avancés",
+          "page": 322,
+          "matched_text": "OPC UA",
+          "snippet": "machine à Cloud, à partir de la technologie OPC Unified Architecture (OPC UA) ; – Intégrer des objets (capteurs) sur une architecture de communication Ethernet indust",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=322",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

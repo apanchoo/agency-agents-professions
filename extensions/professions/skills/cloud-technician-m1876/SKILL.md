@@ -1,6 +1,6 @@
 ---
 name: cloud-technician-m1876
-description: "Prepare, analyze and produce deliverables as a Cloud Technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Cloud Technician; use for requests within this professional scope. Relevant technologies include Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi."
 ---
 
 # Cloud Technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage data backups and recovery plans
 - Adapt cloud solutions to specific customer needs
 - Ensure preventive maintenance of cloud solutions
+
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

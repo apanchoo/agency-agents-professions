@@ -1,6 +1,6 @@
 ---
 name: construction-price-study-engineer-f1106
-description: "Prepare, analyze and produce deliverables as a Construction price study engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Construction price study engineer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Construction price study engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor work progress schedules and make the necessary adjustments to meet deadlines and the committed budget
 - Analyze the specific needs of a construction project
 - Plan the construction stages according to the company's workload plan
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

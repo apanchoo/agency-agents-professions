@@ -25,6 +25,12 @@ The Service Quality Director ensures the supervision and continuous improvement 
 
 Consult the [detailed expertise](../../skills/service-quality-director-m1428/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, Talend, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/service-quality-director-m1428/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe the need, stakeholders and objectives.

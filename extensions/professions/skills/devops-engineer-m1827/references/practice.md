@@ -2,46 +2,48 @@
 
 ## Workflow
 
-1. Translate the need into use cases and recipe criteria.
-2. Compare design choices, data and operating constraints.
-3. Implement a functional slice and handle errors.
-4. Check nominal scenarios, limits, safety and maintenance.
+1. Define environments, dependencies, secrets and availability criteria.
+2. Build and test a container image with a Dockerfile and service configuration.
+3. Version the pipeline for building, testing, analyzing and publishing artifacts.
+4. Prepare the infrastructure plan and automate configuration and deployment.
+5. Verify health probes, observability, scaling and rollback.
 
 ## Technical Areas
 
 Select techniques that fit the task and available resources.
 
+- DevOps tools and methods
+- Cloud Solutions
+- Cloud ecosystem
+- Containerization Fundamentals
+- Containerized infrastructures
+- Program your infrastructure
+- DevOps tools
 - Cloud computing
 - Software architecture
-- Programming decision-making information in web format
-- Security infrastructure
-- Architecture of digital and IT systems
-- Programming Fundamentals
-- Embedded systems
-- Supervision / Remote management
-- Supervision/Remote management
+- Mathematical modeling for communicating applications
 
 ## Validation Scenarios
 
 Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
 
-- Application integration and project management
-- Project management and software development
-- Building a computer network for a small structure
 - Manage the pipeline of a Cloud-oriented application
-- Implement a specific electronic and/or embedded system
-- Implement a wireless communicating electronic system by integrating digital data processing
+- Design a multi-site computer network hosting virtualized services
+- Creation and deployment of application services
+- Evolution of an infrastructure
 
 ## Deliverables
 
-- Code and execution instructions
-- Data or API contract
-- Recipe results and known limits
+- Dockerfile and Docker Compose configuration or Kubernetes manifests, as appropriate
+- GitLab CI or Jenkins pipeline and test reports
+- Terraform or Pulumi infrastructure code and Ansible playbooks suited to the environment
+- Deployment, monitoring and rollback procedure
 
 ## Acceptance Criteria
 
-- An observable need corresponds to each delivered function
-- The checks are carried out and their results stored
-- Data, errors and dependencies are explicit
+- The built image is identified and tested before publication
+- The pipeline stops delivery when a required test or check fails
+- Secrets are externalized and infrastructure changes are reviewed before application
+- The deployment includes an availability check and a verifiable rollback scenario
 
 Retain assumptions, units, inputs and intermediate results needed to reproduce the checks. Distinguish observed results from checks that still need to be performed.

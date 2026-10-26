@@ -267,5 +267,214 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "GNU Octave",
+      "area": "simulation",
+      "use": "Run reproducible numerical models and check algorithm and precision assumptions.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Octave",
+          "snippet": "els d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à dévelop",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Labview",
+          "snippet": "se faire à l’aide d’outils logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Scilab",
+          "snippet": "s logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Arduino",
+      "area": "embedded",
+      "use": "Implement and test microcontroller I/O with verified electrical interfaces and timing.",
+      "priority": 55,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Arduino",
+          "snippet": "(industrielle) – Programmation de microcontrôleurs/micro-ordinateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages cr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R2.02",
+          "module_title": "Informatique 2",
+          "page": 67,
+          "matched_text": "Arduino",
+          "snippet": "la maintenance – Programmation de microcontrôleurs/micro-ordinateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=67",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R3.02",
+          "module_title": "Informatique 3",
+          "page": 90,
+          "matched_text": "Arduino",
+          "snippet": "la maintenance – Programmation de microcontrôleurs/micro-ordinateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=90",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R4.ESE.07",
+          "module_title": "Electronique spécialisée",
+          "page": 132,
+          "matched_text": "Lora",
+          "snippet": "FDMA, TDMA, CDMA, OFDM) et à l’étalement de spectre (DSSS, FHSS, CSS (Lora)...) ; – Comparaison synthétique des protocoles usuels des réseaux sans fil (ZigBee, Blue",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=132",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MQTT",
+      "area": "embedded",
+      "use": "Define topics, broker access and delivery quality; test publishing, subscriptions and reconnects.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.07",
+          "module_title": "Base de données",
+          "page": 150,
+          "matched_text": "MQTT",
+          "snippet": " Communication indirecte orientée message (Publier/Souscrire, broker, MQTT) ; – Gestion de la qualité de service (QoS) ; – Notions d’API (déclaration, appel de serv",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=150",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Modbus",
+      "area": "embedded",
+      "use": "Map registers, types and addressing; verify read/write behavior against the device contract.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "3.AII.01",
+          "module_title": "Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal",
+          "page": 252,
+          "matched_text": "ModBus",
+          "snippet": "isation d’un équipement d’automatisme communiquant (exemple : esclave ModBus microprogrammé, gestion de trames...) – Application à un process industriel ou un bâtimen",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R4.AII.07",
+          "module_title": "Automatisme spécialisé",
+          "page": 296,
+          "matched_text": "ModBus",
+          "snippet": "werLink, Ethercat...) ; – Bus de terrain industriels et de bâtiments (ModBus, KNX, DALI, Enocean...). Apprentissages critiques ciblés : – AC21.01 | Proposer des solut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=296",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OPC UA",
+      "area": "embedded",
+      "use": "Define industrial information models, endpoint security and monitored values; verify interoperability.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.EME.15",
+          "module_title": "Supervision/ Télégestion",
+          "page": 195,
+          "matched_text": "OPC UA",
+          "snippet": " des services et des protocoles de communication ouverts (par exemple OPC UA, RESTful) ou métier (BACnet (GTB), OCPP (Energie)). À partir de ces services et protocole",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=195",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.AII.15",
+          "module_title": "Supervision / Télégestion",
+          "page": 277,
+          "matched_text": "OPC UA",
+          "snippet": " des services et des protocoles de communication ouverts (par exemple OPC UA, RESTful) ou métier (EtherCat, Profinet...). À partir de ces services et protocoles, la s",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=277",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R5.AII.11",
+          "module_title": "Réseaux et Supervision avancés",
+          "page": 322,
+          "matched_text": "OPC UA",
+          "snippet": "machine à Cloud, à partir de la technologie OPC Unified Architecture (OPC UA) ; – Intégrer des objets (capteurs) sur une architecture de communication Ethernet indust",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=322",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

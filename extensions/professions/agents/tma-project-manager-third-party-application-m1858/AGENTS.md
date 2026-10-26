@@ -26,6 +26,12 @@ The TMA Project Manager - Third Party Application Maintenance plays a crucial ro
 
 Consult the [detailed expertise](../../skills/tma-project-manager-third-party-application-m1858/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/tma-project-manager-third-party-application-m1858/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

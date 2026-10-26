@@ -1,6 +1,6 @@
 ---
 name: electrical-and-electronics-technical-controller-h1504
-description: "Prepare, analyze and produce deliverables as a Electrical and electronics technical controller; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Electrical and electronics technical controller; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa."
 ---
 
 # Electrical and electronics technical controller
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Verify by simulation, tests, trials, calculations, the functionalities and characteristics of the electrical or electronic system
 - Analyze the measurements, diagnose the causes of malfunction and carry out modifications to bring the product into conformity
 - Ensure the traceability of interventions
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

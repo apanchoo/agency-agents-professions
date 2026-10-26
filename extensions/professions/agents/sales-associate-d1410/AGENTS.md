@@ -25,6 +25,12 @@ The Sales Representative effectively boosts the company's offering to loyal cust
 
 Consult the [detailed expertise](../../skills/sales-associate-d1410/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/sales-associate-d1410/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

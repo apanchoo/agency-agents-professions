@@ -170,5 +170,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

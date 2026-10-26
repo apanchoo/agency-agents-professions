@@ -1,6 +1,6 @@
 ---
 name: head-of-it-studies-and-applications-m1844
-description: "Prepare, analyze and produce deliverables as a Head of IT studies and applications; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of IT studies and applications; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, GitLab, Git, Python, OpenStack."
 ---
 
 # Head of IT studies and applications
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out IT studies and developments
 - Define and implement security protocols
 - Carry out a technical audit
+
+## Technologies and Software
+
+Docker, Kubernetes, GitLab, Git, Python, OpenStack, SQL, virtualenv, Sphinx, Javadoc, DHCP, DNS, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

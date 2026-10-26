@@ -1,6 +1,6 @@
 ---
 name: cartographer-m1808
-description: "Prepare, analyze and produce deliverables as a Cartographer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Cartographer; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL."
 ---
 
 # Cartographer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Adapt maps for different users and needs
 - Carry out field surveys and collect alphanumeric and graphic data
 - Collaborate with multidisciplinary teams
+
+## Technologies and Software
+
+HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

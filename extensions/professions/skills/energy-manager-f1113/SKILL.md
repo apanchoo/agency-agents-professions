@@ -1,6 +1,6 @@
 ---
 name: energy-manager-f1113
-description: "Prepare, analyze and produce deliverables as a Energy manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Energy manager; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Energy manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Negotiate technical or financial solutions with a client
 - Design and manage a project
 - Coordinate project teams to achieve objectives
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: it-project-manager-m1859
-description: "Prepare, analyze and produce deliverables as a IT project manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT project manager; use for requests within this professional scope. Relevant technologies include CSS, BGP, DHCP, DNS, VPN, LoRa."
 ---
 
 # IT project manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize software development processes
 - Carry out IT studies and developments
 - Optimize quality processes to ensure software reliability
+
+## Technologies and Software
+
+CSS, BGP, DHCP, DNS, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The meteorologist analyzes atmospheric phenomena and develops weather forecasts.
 
 Consult the [detailed expertise](../../skills/meteorologist-m1809/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/meteorologist-m1809/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

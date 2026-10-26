@@ -1,6 +1,6 @@
 ---
 name: foundry-or-forge-engineer-h2509
-description: "Prepare, analyze and produce deliverables as a Foundry or forge engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Foundry or forge engineer; use for requests within this professional scope. Relevant technologies include Microsoft Excel, XML."
 ---
 
 # Foundry or forge engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Support teams at the technical and methodological level
 - Study and identify developments (functionality, profitability, quality, etc.) of components, products, equipment
 - Use modeling and simulation software
+
+## Technologies and Software
+
+Microsoft Excel, XML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: household-appliance-maintenance-technician-i1402
-description: "Prepare, analyze and produce deliverables as a Household appliance maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Household appliance maintenance technician; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Household appliance maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out a technical diagnosis
 - Repair and replace defective parts
 - Advise customers on optimal use of devices
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

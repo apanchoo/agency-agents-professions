@@ -1,6 +1,6 @@
 ---
 name: kitchen-technician-kitchen-technician-in-professional-i1325
-description: "Prepare, analyze and produce deliverables as a Kitchen technician / Kitchen technician in professional kitchens; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Kitchen technician / Kitchen technician in professional kitchens; use for requests within this professional scope. Relevant technologies include VLAN."
 ---
 
 # Kitchen technician / Kitchen technician in professional kitchens
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Diagnose, prevent and locate malfunctions, remedy them or recommend alternative solutions
 - Organize maintenance operations
 - Carry out or supervise preventive and corrective maintenance interventions
+
+## Technologies and Software
+
+VLAN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

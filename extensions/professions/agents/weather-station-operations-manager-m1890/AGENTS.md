@@ -25,6 +25,12 @@ The Weather Station Operations Manager manages and ensures the proper functionin
 
 Consult the [detailed expertise](../../skills/weather-station-operations-manager-m1890/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/weather-station-operations-manager-m1890/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

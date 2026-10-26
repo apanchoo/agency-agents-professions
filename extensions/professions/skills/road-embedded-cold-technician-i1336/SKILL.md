@@ -1,6 +1,6 @@
 ---
 name: road-embedded-cold-technician-i1336
-description: "Prepare, analyze and produce deliverables as a Road Embedded Cold Technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Road Embedded Cold Technician; use for requests within this professional scope. Relevant technologies include Python, Linux, Java, C++, Arduino, LoRa."
 ---
 
 # Road Embedded Cold Technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure first level preventive maintenance of equipment
 - Carry out technical checks and compliance (tightness, pressure, temperature) of on-board refrigeration units
 - Carry out a breakdown or installation malfunction diagnosis
+
+## Technologies and Software
+
+Python, Linux, Java, C++, Arduino, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

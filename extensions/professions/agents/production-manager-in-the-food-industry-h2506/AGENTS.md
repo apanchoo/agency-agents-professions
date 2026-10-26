@@ -26,6 +26,12 @@ The Production Manager in the agri-food industry orchestrates the manufacturing 
 
 Consult the [detailed expertise](../../skills/production-manager-in-the-food-industry-h2506/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/production-manager-in-the-food-industry-h2506/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

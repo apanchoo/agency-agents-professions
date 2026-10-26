@@ -1,6 +1,6 @@
 ---
 name: industrial-maintenance-mechanic-i1310
-description: "Prepare, analyze and produce deliverables as a Industrial maintenance mechanic; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial maintenance mechanic; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab."
 ---
 
 # Industrial maintenance mechanic
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Repair equipment, a machine, an installation
 - Plan equipment maintenance operations
 - Write a report, an activity report
+
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

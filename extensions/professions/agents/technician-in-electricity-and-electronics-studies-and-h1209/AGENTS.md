@@ -25,6 +25,12 @@ The Electrical and Electronic Studies and Development Technician designs and dev
 
 Consult the [detailed expertise](../../skills/technician-in-electricity-and-electronics-studies-and-h1209/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, Java, C++, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, REST APIs, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/technician-in-electricity-and-electronics-studies-and-h1209/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

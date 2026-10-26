@@ -1,6 +1,6 @@
 ---
 name: editorial-director-e1132
-description: "Prepare, analyze and produce deliverables as a Editorial director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Editorial director; use for requests within this professional scope. Relevant technologies include HTML, CSS."
 ---
 
 # Editorial director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze content performance using key indicators to adjust strategy and optimize impact
 - Define a clear and coherent editorial vision in alignment with the overall strategy of the organization
 - Develop innovative content strategies
+
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

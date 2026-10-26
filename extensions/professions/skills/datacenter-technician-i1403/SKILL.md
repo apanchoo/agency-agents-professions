@@ -1,6 +1,6 @@
 ---
 name: datacenter-technician-i1403
-description: "Prepare, analyze and produce deliverables as a Datacenter Technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Datacenter Technician; use for requests within this professional scope. Relevant technologies include Python, SQL, pandas, R, BGP, DHCP."
 ---
 
 # Datacenter Technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan and monitor maintenance operations
 - Carry out corrective and preventive maintenance interventions on IT equipment, at a level of complexity requiring training in the specificities of the equipment
 - Carry out simple maintenance interventions on IT equipment (procedures not requiring complete dismantling)
+
+## Technologies and Software
+
+Python, SQL, pandas, R, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

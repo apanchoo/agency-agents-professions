@@ -25,6 +25,12 @@ The automation engineer in a design office carries out studies and developments 
 
 Consult the [detailed expertise](../../skills/automatic-engineer-in-design-office-h1208/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+ELK stack, Python, VPN, REST APIs, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/automatic-engineer-in-design-office-h1208/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

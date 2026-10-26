@@ -26,6 +26,12 @@ The Connected Equipment Installer integrates modern technological solutions into
 
 Consult the [detailed expertise](../../skills/installer-fitter-installer-fitter-of-connected-i1314/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Python, PowerShell, Bash, BGP, DHCP, DNS, IPv4, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/installer-fitter-installer-fitter-of-connected-i1314/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

@@ -26,6 +26,12 @@ The IT methods and quality expert is a key player in quality assurance and optim
 
 Consult the [detailed expertise](../../skills/it-methods-and-quality-expert-m1820/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, GitLab, Jenkins, Git, pytest, JUnit, doctest, SonarQube, ELK stack, Nexus, Paramiko, Netmiko, NAPALM, YAML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-methods-and-quality-expert-m1820/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

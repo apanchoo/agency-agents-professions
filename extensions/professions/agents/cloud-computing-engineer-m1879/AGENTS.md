@@ -25,6 +25,12 @@ The Cloud Computing Engineer participates in the digital transformation of compa
 
 Consult the [detailed expertise](../../skills/cloud-computing-engineer-m1879/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/cloud-computing-engineer-m1879/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

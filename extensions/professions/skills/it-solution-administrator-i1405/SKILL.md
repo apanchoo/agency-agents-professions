@@ -1,6 +1,6 @@
 ---
 name: it-solution-administrator-i1405
-description: "Prepare, analyze and produce deliverables as a IT solution administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT solution administrator; use for requests within this professional scope. Relevant technologies include OpenStack, SQL, IPv4, IPv6, OSPF."
 ---
 
 # IT solution administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the operation of devices, carry out first-level maintenance or inform the manager, the maintenance department in the event of malfunctions
 - Ensure compliance with cybersecurity rules
 - Handle technical support requests
+
+## Technologies and Software
+
+OpenStack, SQL, IPv4, IPv6, OSPF.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

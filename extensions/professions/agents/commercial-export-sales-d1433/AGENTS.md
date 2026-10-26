@@ -26,6 +26,12 @@ The export salesperson develops international sales and partnerships for a compa
 
 Consult the [detailed expertise](../../skills/commercial-export-sales-d1433/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/commercial-export-sales-d1433/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

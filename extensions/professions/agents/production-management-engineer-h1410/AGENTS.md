@@ -25,6 +25,12 @@ The Production Management Engineer supervises and coordinates production lines a
 
 Consult the [detailed expertise](../../skills/production-management-engineer-h1410/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/production-management-engineer-h1410/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Formalize functions, loads, interfaces and manufacturing constraints.

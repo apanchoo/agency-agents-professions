@@ -25,6 +25,12 @@ The IT Hot Line Supervisor ensures the quality and efficiency of technical suppo
 
 Consult the [detailed expertise](../../skills/it-hot-line-supervisor-i1406/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Ansible, Git, PowerShell, Linux, Windows, SQL, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-hot-line-supervisor-i1406/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

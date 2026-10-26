@@ -1,6 +1,6 @@
 ---
 name: reservoir-engineer-f1129
-description: "Prepare, analyze and produce deliverables as a Reservoir Engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Reservoir Engineer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Reservoir Engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop simulation models and issue operational recommendations (number and location of future wells, drilling schedule, etc.)
 - Prospecting for extraction and drilling operations
 - Assess, prevent, and manage risks and safety
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

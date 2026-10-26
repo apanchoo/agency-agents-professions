@@ -1,6 +1,6 @@
 ---
 name: heating-ventilation-and-air-conditioning-hvac-i1316
-description: "Prepare, analyze and produce deliverables as a Heating, Ventilation and Air Conditioning (HVAC) Maintenance Technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Heating, Ventilation and Air Conditioning (HVAC) Maintenance Technician; use for requests within this professional scope. Relevant technologies include Windows, Wireshark, BGP, OSPF, VLAN, VPN."
 ---
 
 # Heating, Ventilation and Air Conditioning (HVAC) Maintenance Technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Detect the origin of a breakdown (on site or remotely)
 - Manage maintenance files
 - Repair faulty installations based on a diagnosis
+
+## Technologies and Software
+
+Windows, Wireshark, BGP, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: decision-consultant-decision-consultant-business-m1872
-description: "Prepare, analyze and produce deliverables as a Decision consultant / Decision consultant - Business Intelligence; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Decision consultant / Decision consultant - Business Intelligence; use for requests within this professional scope. Relevant technologies include Python, JavaScript, HTML, CSS, SQL, pandas."
 ---
 
 # Decision consultant / Decision consultant - Business Intelligence
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze the environmental impact of BI solutions
 - Design and manage a project
 - Prepare and lead a meeting, a working group, a workshop
+
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software, JSON, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

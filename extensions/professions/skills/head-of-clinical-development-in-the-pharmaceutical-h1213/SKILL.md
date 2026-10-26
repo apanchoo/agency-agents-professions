@@ -1,6 +1,6 @@
 ---
 name: head-of-clinical-development-in-the-pharmaceutical-h1213
-description: "Prepare, analyze and produce deliverables as a Head of clinical development in the pharmaceutical industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of clinical development in the pharmaceutical industry; use for requests within this professional scope. Relevant technologies include Python, JavaScript, HTML, CSS, SQL."
 ---
 
 # Head of clinical development in the pharmaceutical industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensuring the safety of participants
 - Have the ability to analyze, synthesize and anticipate risks based on feedback
 - Minimize the environmental impacts of testing
+
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

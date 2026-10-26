@@ -25,6 +25,12 @@ The hydrogen system architect designs and supervises the architecture of the sys
 
 Consult the [detailed expertise](../../skills/hydrogen-system-architect-h1241/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, JSON, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/hydrogen-system-architect-h1241/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

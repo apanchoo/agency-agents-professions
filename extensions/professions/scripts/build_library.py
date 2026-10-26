@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from collections import Counter
+import argparse
 import hashlib
 import html
 import json
@@ -15,6 +16,7 @@ from editorial import DOMAINS
 from runtime_profiles import folder_name, generate_profile, expertise_content, practice_content
 from editorial import recipe_for
 from english import tr
+from technologies import select_technologies, reference as technology_reference
 from functools import lru_cache
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,19 +44,19 @@ SPECIFIC = {
     "mmi": "web|multimedia|graph|design|internet|experience utilisateur|community",
     "pec": "emball|packaging|conditionnement",
     "qlio": "qualite|logist|ordonnancement|planification|approvisionnement",
-    "rt": "reseau|telecom|cyber|cloud",
+    "rt": "reseau|telecom|cyber|cloud|devops|devsecops",
     "sd": "statisti|donnee|data|decisionnel|actuari|econometr",
     "sgm": "materiau|materiaux|composite|polymere|metallur|plastur|cerami|recycl",
     "tc": "commercial|marketing|vente|client|marque|achat|commerce|distribution",
 }
 PARCOURS = {
-    "info": [(r"developpe|logiciel|programm", "REAL"), (r"donnee|data", "ADMIN"), (r"reseau|systeme|infrastructure", "DEPLOI")],
+    "info": [(r"devops|cloud|systeme|infrastructure", "DEPLOI"), (r"developpe|logiciel|programm", "REAL"), (r"donnee|data", "ADMIN"), (r"reseau", "DEPLOI")],
     "cs": [(r"assistant.*social|assistante.*social", "AS"), (r"educat.*special", "ES"), (r"animation|animateur|animatrice", "ASSC"), (r"territoir|ville", "VTD"), (r"etablissement.*sani|etablissement.*social", "CGE3S")],
     "geii": [(r"electron|embarque", "ESE"), (r"automati|robot", "AII"), (r"electri|energie", "EME")],
     "gb": [(r"dietet|nutrition", "DN"), (r"agricol|agronom", "AGRO"), (r"biomed|biotech|laboratoire.*medical", "BMB"), (r"aliment", "SAB"), (r"environnement|ecolog", "SEE")],
     "gea": [(r"comptab|fiscal", "GC2F"), (r"ressources humaines|paie", "GPRH"), (r"controle.*gestion", "CG2P")],
     "mmi": [(r"web|developpe", "DWEB-DI"), (r"design|graph|creat", "CREA"), (r"community|marketing|communication", "STRAT-UX")],
-    "rt": [(r"cyber|securite", "CYBER"), (r"cloud|devops", "DSC"), (r"iot|objet.*connect", "IOM"), (r"telecom", "ROM")],
+    "rt": [(r"cyber|securite", "CYBER"), (r"cloud|devops", "DEVCLOUD"), (r"iot|objet.*connect", "IOM"), (r"telecom", "ROM")],
     "sd": [(r"statisti|actuari", "EMS"), (r"decisionnel|data.*engineer|ingenieur.*donnee", "VCOD")],
 }
 STOP = set("a au aux avec ce ces cette cet dans de des du en et est etre faire la le les leur lors ou par pour que qui sa se ses son sur un une vos votre vous il elle ils elles ainsi afin aux entre mais tout tous toute toutes plus moins comme selon sans dont sous puis apres avant metier professionnel professionnelle professionnels professionnelles activite activites competence competences capacite capacites maitriser comprendre connaissance connaissances objectif objectifs apprentissage apprentissages critique critiques ressource ressources semestre parcours formation programme national but situation situations evaluation realiser mettre oeuvre developper participer contribuer utiliser analyser concevoir organiser assurer gerer controler suivre projet projets besoin besoins technique techniques pratique pratiques outil outils methode methodes introduction initiation base bases fondamentaux fondamental approfondissement perfectionnement generale general generaux environnement notamment niveau niveaux compte prise prendre adapter respect regle regles qualite service services entreprise entreprises organisation organisations gestion communication equipe travail systeme systemes processus developpement donnee donnees information informations resultat resultats donnes domaine domaines contexte contextes necessaire necessaires permet permettre savoir savoirs premier premiere deux trois quatre cinq six annee annuel etude etudes commun commune communes communs associe associes associees associee composante composantes essentiel essentielles essentiels essentielle professionnellement personne personnes cadre demarche demarches analyse differents differentes different objectifs evaluation evaluee apprentissage enseignement ministere superieur recherche innovation francais anglais langue langages page baccalaureat dut licence professionnelle semestre semestres rapport suite exemple exemples francetravail".split())
@@ -66,12 +68,16 @@ def load(path):
 
 def dump(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    text = json.dumps(value, ensure_ascii=False, indent=2) + "\n"
+    if path.is_file() and path.read_bytes() == text.encode('utf-8'): return
+    path.write_text(text, encoding="utf-8", newline="\n")
 
 
 def write(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(value.rstrip() + "\n", encoding="utf-8")
+    text = value.rstrip() + "\n"
+    if path.is_file() and path.read_bytes() == text.encode('utf-8'): return
+    path.write_text(text, encoding="utf-8", newline="\n")
 
 
 def normalize(text):
@@ -154,6 +160,11 @@ def choose_modules(fiche, programme, idf):
             seen_titles.add(normalize(module["title"]))
             if len(seen_codes) == count:
                 break
+    if programme['id'] == 'rt' and re.search(r'devops|devsecops|cloud', normalize(title)):
+        essential = {'R4.DEVCLOUD.09', 'R5.DEVCLOUD.09', 'R5.DEVCLOUD.10', 'R5.DEVCLOUD.11', 'R4.ROM.09'}
+        for module in programme['modules']:
+            if module['code'] in essential and not any(m['code'] == module['code'] for m in selected):
+                selected.append({**module, 'selection_score': 1.0, 'shared_terms': ['devops'], 'selection_basis': 'role_specific_delivery_stack'})
     return selected
 
 
@@ -163,6 +174,8 @@ def match_programmes(fiche, meta, programmes, rules, idf):
     title_definition = normalize(fiche["rome"]["intitule"] + " " + fiche["definition"])
     matches = []
     for programme in programmes:
+        if re.search(r'devops|devsecops', title_text) and programme['id'] not in {'info', 'rt'}:
+            continue
         rule = rules[programme["id"]]
         direct_pages = programme["rome_mentions"].get(code, [])
         parent = meta.get("code_rome_parent")
@@ -172,6 +185,8 @@ def match_programmes(fiche, meta, programmes, rules, idf):
         # Un parent ROME ancien peut englober de nombreux nouveaux métiers :
         # sa citation ne suffit pas sans rapprochement thématique indépendant.
         if not (allowed_prefix and terms):
+            continue
+        if programme['id'] == 'geii' and code.startswith('M18') and not re.search(r'electri|electron|embarque|robot|instrument|capteur', title_definition):
             continue
         modules = choose_modules(fiche, programme, idf)
         if not modules:
@@ -277,6 +292,9 @@ def pedagogical_summary(matches):
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--reuse-mapping', action='store_true', help='Rebuild runtime files from the existing source-verified module mapping')
+    args = parser.parse_args()
     fiches, metadata, source = read_rome()
     programmes = load(ROOT / "data/but-programmes.json")
     rules = load(ROOT / "data/mapping-rules.json")
@@ -285,6 +303,8 @@ def main():
     idf = {t: math.log((1 + n) / (1 + count)) + 1 for t, count in document_frequency.items()}
     previous_path = ROOT / "catalog.json"
     previous = {r["code"]: r for r in load(previous_path)} if previous_path.exists() else {}
+    saved_mapping = {r['code']: r['matches'] for r in load(ROOT / 'data/rome-but-mapping.json')} if args.reuse_mapping else None
+    module_lookup = {p['id']: {(m['code'], m['title'], m['page']): m for m in p['modules']} for p in programmes}
     catalog, mappings = [], []
     for index, fiche in enumerate(sorted(fiches, key=lambda x: x["rome"]["code_rome"]), 1):
         if index % 300 == 0:
@@ -293,8 +313,17 @@ def main():
         if not re.fullmatch(r"[A-N]\d{4}", code):
             raise ValueError(f"Code inattendu : {code}")
         meta = metadata[code]
-        matches = match_programmes(fiche, meta, programmes, rules, idf)
-        agent, skill = generate_profile(fiche, meta, source, matches)
+        if saved_mapping is None:
+            matches = match_programmes(fiche, meta, programmes, rules, idf)
+        else:
+            matches = []
+            for saved in saved_mapping[code]:
+                programme = next(p for p in programmes if p['id'] == saved['programme_id'])
+                if programme['sha256'] != saved['programme_sha256']:
+                    raise ValueError('Cannot reuse a mapping after its source changed')
+                matches.append({**saved, 'modules': [{**module_lookup[saved['programme_id']][(m['code'], m['title'], m['page'])], **m} for m in saved['modules']]})
+        technologies = select_technologies(fiche, matches)
+        agent, skill = generate_profile(fiche, meta, source, matches, technologies)
         name = folder_name(code, title)
         folder = ROOT / f"skills/{name}"
         audit = ROOT / f"audit/metiers/{code}"
@@ -302,6 +331,10 @@ def main():
         write(folder / "SKILL.md", skill)
         write(folder / "references/expertise.md", expertise_content(fiche))
         write(folder / "references/practice.md", practice_content(matches, *recipe_for(code, matches[0]["programme_id"] if matches else None)))
+        if technologies:
+            write(folder / 'references/technologies.md', technology_reference(technologies))
+        elif (folder / 'references/technologies.md').exists():
+            (folder / 'references/technologies.md').unlink()
         for retired_reference in [folder / "references/metier.md", folder / "references/pratique.md"]:
             if retired_reference.is_file():
                 retired_reference.unlink()
@@ -310,13 +343,15 @@ def main():
         write(audit / "but.md", but_reference(matches))
         dump(audit / "provenance.json", {"rome": source, "rome_metadata": meta,
              "but": [{k: v for k, v in m.items() if k != "modules"} | {"modules": [{k: v for k, v in mod.items() if k != "evidence"} for mod in m["modules"]]} for m in matches],
+             "technologies": technologies,
              "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."})
         row = {"code": code, "title": tr(title), "original_title": title, "domain": code[0], "domain_title": tr(DOMAINS[code[0]][0]),
                "name": name, "agent": f"agents/{name}/AGENTS.md", "skill": f"skills/{name}/SKILL.md",
                "appellations": [tr(a["libelle"]) for a in fiche["appellations"]],
                "original_appellations": [a["libelle"] for a in fiche["appellations"]],
                "but": [m["programme_id"] for m in matches], "regulated": meta.get("emploi_reglemente"),
-               "but_status": "propose_a_relire" if matches else "sans_rapprochement"}
+               "but_status": "propose_a_relire" if matches else "sans_rapprochement",
+               "technologies": [entry['name'] for entry in technologies]}
         catalog.append(row)
         mappings.append({"code": code, "matches": [{k: v for k, v in m.items() if k != "modules"} | {"modules": [{k: v for k, v in mod.items() if k != "evidence"} for mod in m["modules"]]} for m in matches]})
         # Retirer uniquement les fichiers de l'ancien format généré. Les données
@@ -329,7 +364,7 @@ def main():
             legacy_agent = ROOT / "agents" / old_agent_name
             legacy_skill = ROOT / "skills" / old_skill_name
             for old in [legacy_agent / "AGENTS.md", legacy_skill / "SKILL.md",
-                        *(legacy_skill / "references" / filename for filename in ["fiche.json", "rome.md", "but.md", "provenance.json", "metier.md", "pratique.md", "expertise.md", "practice.md"])]:
+                        *(legacy_skill / "references" / filename for filename in ["fiche.json", "rome.md", "but.md", "provenance.json", "metier.md", "pratique.md", "expertise.md", "practice.md", "technologies.md"])]:
                 if old.is_file():
                     old.unlink()
             for old in [legacy_skill / "references", legacy_skill, legacy_agent]:
@@ -346,11 +381,13 @@ def main():
                 "by_but": dict(Counter(b for r in catalog for b in r["but"])),
                 "by_domain": dict(Counter(r["domain"] for r in catalog)),
                 "but_mapping_human_reviewed": False, "rome": source}
+    coverage['agents_with_named_technologies'] = sum(bool(row['technologies']) for row in catalog)
+    coverage['named_technologies'] = dict(Counter(name for row in catalog for name in row['technologies']))
     dump(ROOT / "coverage.json", coverage)
     for p in programmes:
         modules = p["modules"]
         write(ROOT / f"programmes/{p['id']}.md", f"# BUT {p['title']}\n\n[PDF officiel]({p['url']}) ; {p['page_count']} pages ; SHA-256 `{p['sha256']}`.\n\n"
-              + p["cover"] + "\n\n## Fiches pédagogiques repérées\n\n"
+              + "\n".join(line.rstrip() for line in p["cover"].splitlines()) + "\n\n## Fiches pédagogiques repérées\n\n"
               + bullet(f"{'SAÉ' if m['kind'] == 'sae' else 'Ressource'} {m['code']} : {m['title']} — [p. {m['page']}]({m['url']})" for m in modules))
     write(ROOT / "CATALOG.md", "# Professional Agent Catalog\n\n"
           "Select a profession-specific agent and its companion skill.\n\n"

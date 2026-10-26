@@ -1,6 +1,6 @@
 ---
 name: enumerator-m1425
-description: "Prepare, analyze and produce deliverables as a Enumerator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Enumerator; use for requests within this professional scope. Relevant technologies include R, SAS."
 ---
 
 # Enumerator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Respect the confidentiality of information
 - Submit the results of an investigation
 - Conduct interviews to gather information
+
+## Technologies and Software
+
+R, SAS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

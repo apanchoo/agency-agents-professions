@@ -25,6 +25,12 @@ The Climate Modeling Specialist works to understand and interpret climate change
 
 Consult the [detailed expertise](../../skills/specialist-in-climate-modeling-m1888/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, GitLab, Python, SQL, Visual Studio Code, virtualenv, R, SAS, DNS, VLAN, JSON, MQTT.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/specialist-in-climate-modeling-m1888/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

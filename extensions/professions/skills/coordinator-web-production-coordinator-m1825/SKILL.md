@@ -1,6 +1,6 @@
 ---
 name: coordinator-web-production-coordinator-m1825
-description: "Prepare, analyze and produce deliverables as a Coordinator / Web production coordinator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Coordinator / Web production coordinator; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL, REST APIs."
 ---
 
 # Coordinator / Web production coordinator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure compliance with quality standards
 - Ensure monitoring of ongoing projects
 - Encourage innovation within teams
+
+## Technologies and Software
+
+HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

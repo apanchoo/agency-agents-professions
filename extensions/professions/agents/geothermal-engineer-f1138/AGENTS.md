@@ -25,6 +25,12 @@ The Geothermal Engineer transforms the natural heat of the basement into renewab
 
 Consult the [detailed expertise](../../skills/geothermal-engineer-f1138/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/geothermal-engineer-f1138/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

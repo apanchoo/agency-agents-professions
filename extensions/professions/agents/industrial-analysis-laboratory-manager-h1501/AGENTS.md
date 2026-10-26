@@ -25,6 +25,12 @@ The Industrial Analysis Laboratory Manager supervises laboratory activities to e
 
 Consult the [detailed expertise](../../skills/industrial-analysis-laboratory-manager-h1501/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/industrial-analysis-laboratory-manager-h1501/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the objective of analysis, synthesis or formulation.

@@ -25,6 +25,12 @@ The Construction Project Manager manages the commercial and technical aspects of
 
 Consult the [detailed expertise](../../skills/construction-manager-f1135/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/construction-manager-f1135/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

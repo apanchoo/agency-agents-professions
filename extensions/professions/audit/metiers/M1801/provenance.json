@@ -261,5 +261,1359 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "Docker",
+          "snippet": " partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long de la pha",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "Docker",
+          "snippet": "ent pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualification tout au long",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.09",
+          "module_title": "Fondamentaux de la conteneurisation",
+          "page": 231,
+          "matched_text": "Docker",
+          "snippet": "ment aux machines virtuelles ; – les différentes solutions : lxc/lxd, Docker, Podman, chroot, ... ; – les plateformes de partage et de stockage de conteneurs (par ex ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Docker Compose",
+      "area": "containers",
+      "use": "Describe multi-service stacks, dependencies, networks and persistent volumes in a versioned Compose file.",
+      "priority": 2,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.09",
+          "module_title": "Fondamentaux de la conteneurisation",
+          "page": 231,
+          "matched_text": "docker-compose",
+          "snippet": "a être abordée au travers de Docker et de l’usage des Dockerfiles, de docker-compose ; – l’architecture des infrastructures basées sur des conteneurisées (tant système qu’app",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "area": "containers",
+      "use": "Define workloads and services; verify rollout readiness, resource limits, scaling and rollback.",
+      "priority": 3,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.10",
+          "module_title": "Infrastructures conteneurisées",
+          "page": 253,
+          "matched_text": "Kubernetes",
+          "snippet": "le et mise en réseau) ; – les différentes solutions marchés (par ex : Kubernetes) ; – les éléments de mise en place d’un orchestrateur ; – la gestion de la sécurité des e",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=253",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R5.REAL.09",
+          "module_title": "Virtualisation avancée",
+          "page": 159,
+          "matched_text": "Kubernetes",
+          "snippet": "ent, isolation de service – Technologie conteneurs (par ex. : Docker, Kubernetes, Nomad...) – Réseaux virtuels (par ex. : VPS, VE...) – Gestion des clusters et configurat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=159",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R5.DEPLOI.07",
+          "module_title": "Virtualisation avancée",
+          "page": 228,
+          "matched_text": "Kubernetes",
+          "snippet": "ent, isolation de service – Technologie conteneurs (par ex. : Docker, Kubernetes, Nomad...) – Réseaux virtuels (par ex. : VPS, VE...) – Gestion des clusters et configurat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=228",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Ansible",
+      "area": "configuration",
+      "use": "Use inventories, reusable roles and idempotent playbooks; review check-mode and diff results.",
+      "priority": 4,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Ansible",
+          "snippet": "ossible d’introduire ici l’usage des outils d’automatisation tels que Ansible et de poursuivre la prise en main de l’environnement Git. Apprentissage critique ciblé : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Ansible",
+          "snippet": "ion, etc. ; – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements automatisé",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Ansible",
+          "snippet": "librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.05 | Automatisation des tâches d’adminis",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Terraform",
+      "area": "infrastructure",
+      "use": "Review infrastructure plans, isolate state and confirm the proposed resource changes before applying.",
+      "priority": 5,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Terraform",
+          "snippet": " ; – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements automatisés, en se ba",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Pulumi",
+      "area": "infrastructure",
+      "use": "Version infrastructure programs and inspect previews, dependencies and state changes.",
+      "priority": 6,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Pulumi",
+          "snippet": "fférentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements automatisés, en se basant sur",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "GitLab",
+      "area": "delivery",
+      "use": "Version code and pipeline definitions; separate build, test, package and deployment stages.",
+      "priority": 7,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "GitLab",
+          "snippet": "plateformes collaboratives dédiées au développement comme par exemple GitLab – Gestion des branches de développement et production – Création de clones – Gestion des ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "GitLab",
+          "snippet": "tion des plateformes collaboratives dédiées au développement (par ex. GitLab) à travers la gestion des branches de développement et production, la création de clones,",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.10",
+          "module_title": "Développement de microservices",
+          "page": 232,
+          "matched_text": "GitLab",
+          "snippet": "CD) sous l’angle du développeur, en utilisant des plateformes de type GitLab/GitHub. Apprentissages critiques ciblés : – AC25.01DevCloud | Développer un microservice ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=232",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "area": "delivery",
+      "use": "Define repeatable pipelines, managed credentials, test reports and promotion gates.",
+      "priority": 8,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Jenkins",
+          "snippet": "et de développement continu CI/CD dans son ensemble (par ex : GitLab, Jenkins), avec un focus sur : – la phase de compilation (integrate/build), la gestion du packagin",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Git",
+      "area": "versioning",
+      "use": "Use branches, reviewable commits and tags to trace changes to deployed artifacts.",
+      "priority": 9,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Git",
+          "snippet": "tels que Ansible et de poursuivre la prise en main de l’environnement Git. Apprentissage critique ciblé : – AC23.01 | Automatiser l’administration système avec des",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 170,
+          "matched_text": "Git",
+          "snippet": "charges – Environnement de travail collaboratif – Gestion de projet – Git – IDE – Documentation – Sécurité – Déploiement – Partage – Cycle de vie – Méthode Agile V",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=170",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Git",
+          "snippet": "égration et/ou de déploiement continu Mots clés : Versionning – Log – Git – CI/CD – Tests – Automatisation – Registry Volume horaire : Volume horaire défini nation",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Podman",
+      "area": "containers",
+      "use": "Build and run containers with appropriate privileges, networking and persistent storage.",
+      "priority": 10,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.09",
+          "module_title": "Fondamentaux de la conteneurisation",
+          "page": 231,
+          "matched_text": "Podman",
+          "snippet": " machines virtuelles ; – les différentes solutions : lxc/lxd, Docker, Podman, chroot, ... ; – les plateformes de partage et de stockage de conteneurs (par ex : le reg",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Docker Hub",
+      "area": "containers",
+      "use": "Publish and retrieve explicitly tagged images; verify image provenance and access permissions.",
+      "priority": 11,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.09",
+          "module_title": "Fondamentaux de la conteneurisation",
+          "page": 231,
+          "matched_text": "DockerHub",
+          "snippet": "eformes de partage et de stockage de conteneurs (par ex : le registry DockerHub, ...) ; – la création de conteneurs et leurs configurations (accès, stockage, parcours, m",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "LXC/LXD",
+      "area": "containers",
+      "use": "Configure system containers, resource isolation, networks and storage.",
+      "priority": 12,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.09",
+          "module_title": "Fondamentaux de la conteneurisation",
+          "page": 231,
+          "matched_text": "lxc",
+          "snippet": "ant notamment aux machines virtuelles ; – les différentes solutions : lxc/lxd, Docker, Podman, chroot, ... ; – les plateformes de partage et de stockage de contene",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "AWS CodeDeploy",
+      "area": "infrastructure",
+      "use": "Prepare deployment bundles and lifecycle hooks; check deployment health and rollback behavior.",
+      "priority": 13,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "AWS CodeDeploy",
+          "snippet": "s solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements automatisés, en se basant sur un ou des outil",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "pytest",
+      "area": "testing",
+      "use": "Create repeatable Python test suites with fixtures and readable failure reports.",
+      "priority": 14,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "pytest",
+          "snippet": " par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JUnit",
+      "area": "testing",
+      "use": "Test Java behavior with isolated cases and publish test results in the delivery pipeline.",
+      "priority": 15,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Junit",
+          "snippet": "mple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et la cent",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "doctest",
+      "area": "testing",
+      "use": "Validate executable examples against their expected results.",
+      "priority": 16,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "doctest",
+          "snippet": "s outils, par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SonarQube",
+      "area": "delivery",
+      "use": "Inspect code-analysis findings and use explicit quality gates without treating scans as a complete review.",
+      "priority": 17,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "SonarQube",
+          "snippet": ": doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et la centralisation des logs : ELK ; – pour la mise à dispositio",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "ELK stack",
+      "area": "observability",
+      "use": "Centralize structured logs, define useful queries and verify incident investigation paths.",
+      "priority": 18,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.CYBER.11",
+          "module_title": "Supervision de la sécurité",
+          "page": 179,
+          "matched_text": "Kibana",
+          "snippet": "ation d’événements de sécurité. – l’utilisation d’outils spécialisés (Kibana, Grafana, Elastic...) pour générer des tableaux de bords clairs et contextualisés permett",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=179",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "ELK",
+          "snippet": "e : SonarQube ; – pour la supervision et la centralisation des logs : ELK ; – pour la mise à disposition des versions de production : Nexus. Elle pourra permettre ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Centreon",
+      "area": "observability",
+      "use": "Configure monitored services, collection intervals and alert routing; verify incident visibility.",
+      "priority": 19,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Nagios",
+      "area": "observability",
+      "use": "Define host and service probes, thresholds and notification paths; test both healthy and failed checks.",
+      "priority": 19,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Nexus",
+      "area": "delivery",
+      "use": "Publish versioned build artifacts and verify repository access and artifact retrieval.",
+      "priority": 19,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Nexus",
+          "snippet": "ogs : ELK ; – pour la mise à disposition des versions de production : Nexus. Elle pourra permettre d’illustrer les méthodes de développement spécifiques aux applicat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.07",
+          "module_title": "Fondamentaux de la programmation",
+          "page": 80,
+          "matched_text": "Python",
+          "snippet": "els. Contenus : En utilisant un langage de programmation (par exemple Python), les contenus suivants sont traités : – Notions d’algorithmique : – Variables, types de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualific",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "area": "scripting",
+      "use": "Automate administration with structured objects, explicit error handling and controlled credentials.",
+      "priority": 21,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Powershell",
+          "snippet": "indows en utilisant potentiellement les environnements technologiques Powershell ou shell. Ces notions pourront être appliquées à la gestion de conteneurs. Il sera possib",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Powershell",
+          "snippet": "a configuration, etc. ; – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Powershell",
+          "snippet": "iement automatisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Bash",
+      "area": "scripting",
+      "use": "Automate command-line workflows with checked exit statuses, quoting and reproducible inputs.",
+      "priority": 22,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Bash",
+          "snippet": "atisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (TR-69) ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Linux",
+          "snippet": "atique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements actifs.",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Linux",
+          "snippet": "entionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, déplaceme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.02",
+          "module_title": "Administration système et fondamentaux de la virtualisation",
+          "page": 100,
+          "matched_text": "Linux",
+          "snippet": "tème informatique et ses outils Mots clés : Systèmes d’exploitation – Linux – Windows – Scripts – Virtualisation – Conteneurisation – Cybersécurité Volume horaire : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=100",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Windows",
+          "snippet": "ssage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Windows",
+          "snippet": "tiques mentionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, dép",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.02",
+          "module_title": "Administration système et fondamentaux de la virtualisation",
+          "page": 100,
+          "matched_text": "Windows",
+          "snippet": "ormatique et ses outils Mots clés : Systèmes d’exploitation – Linux – Windows – Scripts – Virtualisation – Conteneurisation – Cybersécurité Volume horaire : Volume hor",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=100",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "OpenStack",
+      "area": "virtualization",
+      "use": "Provision virtual compute, network and storage resources with explicit quotas and access controls.",
+      "priority": 25,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.16",
+          "module_title": "Ecosystème Cloud",
+          "page": 214,
+          "matched_text": "OpenStack",
+          "snippet": "tions pour l’hébergement d’un Cloud au sein de l’entreprise (par ex : OpenStack, ...). – les facteurs de choix d’une solution adaptée à une entreprise, notamment : – la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=214",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.12",
+          "module_title": "Solutions Cloud",
+          "page": 255,
+          "matched_text": "Openstack",
+          "snippet": " services et/ou les solutions pour l’hébergement en interne (par ex : Openstack, OpenNebula, ProxMox...) ; – (l’installation,) la configuration, et l’administration d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "VMware",
+      "area": "virtualization",
+      "use": "Configure virtual machines, virtual networks and storage; distinguish snapshots from verified backups.",
+      "priority": 26,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.17",
+          "module_title": "Virtualisation avancée",
+          "page": 215,
+          "matched_text": "VMWare",
+          "snippet": "type 1, type 2) et les solutions du marché (par ex : pour le type 1 : VMWare, Hyper-V, Citrix, Proxmox et KVM, ... et pour le type 2 : Workstation, VirtualBox, ...), ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=215",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "VirtualBox",
+      "area": "virtualization",
+      "use": "Build reproducible virtual-machine labs and test network modes, shared resources and clean recovery.",
+      "priority": 27,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.17",
+          "module_title": "Virtualisation avancée",
+          "page": 215,
+          "matched_text": "VirtualBox",
+          "snippet": "Hyper-V, Citrix, Proxmox et KVM, ... et pour le type 2 : Workstation, VirtualBox, ...), – les différents formats de machines virtuelles et de disques virtuels (.vdi, .ova",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=215",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Paramiko",
+      "area": "network_automation",
+      "use": "Automate SSH operations with host-key verification, timeouts and checked command results.",
+      "priority": 28,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Paramiko",
+          "snippet": "e la gestion de l’infrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Netmiko",
+      "area": "network_automation",
+      "use": "Automate network-device sessions with platform-aware commands and configuration verification.",
+      "priority": 29,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Netmiko",
+          "snippet": "on de l’infrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "NAPALM",
+      "area": "network_automation",
+      "use": "Use network drivers and structured state comparisons to validate configuration changes.",
+      "priority": 30,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Naplam",
+          "snippet": "nfrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.05 | Aut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "YAML",
+      "area": "configuration",
+      "use": "Validate configuration structure, quoting and schema before deployment.",
+      "priority": 31,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "YAML",
+          "snippet": "pulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichiers structurés ; ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "yaml",
+          "snippet": "at et description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte versus ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "YALM",
+          "snippet": "| Automatiser la gestion des équipements réseaux Mots clés : Docker – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "YANG",
+      "area": "network_automation",
+      "use": "Describe network configuration and operational data with explicit models and validation.",
+      "priority": 32,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "YANG",
+          "snippet": "atiser la gestion des équipements réseaux Mots clés : Docker – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire : Volum",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Cisco DevNet",
+      "area": "network_automation",
+      "use": "Use documented network APIs and reproducible labs to validate automation workflows.",
+      "priority": 33,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Cisco DEVNET",
+          "snippet": "r – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire : Volume horaire défini nationalement : 14 heures dont 6 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "NetFlow",
+      "area": "observability",
+      "use": "Inspect exported network-flow records, collection coverage and traffic baselines.",
+      "priority": 35,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SNMP",
+      "area": "observability",
+      "use": "Select monitored objects, secure credentials and polling intervals; verify retrieved values and units.",
+      "priority": 35,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.07",
+          "module_title": "SQL dans un langage de programmation",
+          "page": 117,
+          "matched_text": "SQL",
+          "snippet": "1.3.7. Ressource R3.07 : SQL dans un langage de programmation Compétence ciblée : – Concevoir, gérer, administrer et e",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=117",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "3.EMS.04",
+          "module_title": "Conformité réglementaire pour analyser des données",
+          "page": 143,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=143",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "area": "development",
+      "use": "Share workspace, debugging and task configuration without embedding credentials.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "VSCode",
+          "snippet": "r chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et q",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualif",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "DHCP",
+          "snippet": "segmentation d’un réseau ; – configurer le plan d’adressage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. M",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "DHCP",
+          "snippet": "source pourra comporter : – Un rappel sur les protocoles ICMP , ARP , DHCP , STP , SLAAC, DNS, WPA PSK. – Une mise en œuvre dans le cadre de prototypes et des expér",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "DNS",
+          "snippet": "ter : – Un rappel sur les protocoles ICMP , ARP , DHCP , STP , SLAAC, DNS, WPA PSK. – Une mise en œuvre dans le cadre de prototypes et des expériences d’attaques c",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "VLAN",
+          "snippet": "– Des solutions sur une partie des problèmes identifiés (segmentation VLAN, routage inter-VLAN, filtrage par ACL, fonctions de sécurisation de switchs, ...) Apprent",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JSON",
+      "area": "configuration",
+      "use": "Validate structured data and schemas; preserve types and check serialization round trips.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.07",
+          "module_title": "Sources de données",
+          "page": 105,
+          "matched_text": "JSON",
+          "snippet": "onnel/non relationnel) ; – Structuration des données : fichiers (CSV, JSON), exemples de sources ouvertes (open data), web scraping ; – Sensibilisation à la régleme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=105",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "JSON",
+          "snippet": "– Manipulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichiers structu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "json",
+          "snippet": " Format et description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte ve",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.10",
+          "module_title": "Développement de microservices",
+          "page": 232,
+          "matched_text": "RESTful",
+          "snippet": "éments de conception des API : API synchrone/asynchrone, architecture RESTful ; – Les spécificités des API REST : routage d’URL ; – La sécurité des API : abonnements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=232",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "XML",
+      "area": "configuration",
+      "use": "Validate document structure and schemas; control parsing and verify transformed output.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "XML",
+          "snippet": "éthodes). – Manipulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "xml",
+          "snippet": " description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte versus bina",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "XML",
+          "snippet": "SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressource vise à former les étudiants aux techniques et aux outils indispensab",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

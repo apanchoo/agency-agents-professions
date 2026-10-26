@@ -1,6 +1,6 @@
 ---
 name: it-application-analyst-m1821
-description: "Prepare, analyze and produce deliverables as a IT application analyst; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT application analyst; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, HTML, CSS, BGP, IPv6."
 ---
 
 # IT application analyst
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design and maintain a cybersecurity system
 - Optimize quality processes to ensure software reliability
 - Respect the confidentiality of information
+
+## Technologies and Software
+
+Docker, Kubernetes, HTML, CSS, BGP, IPv6, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

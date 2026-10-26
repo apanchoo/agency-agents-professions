@@ -1,6 +1,6 @@
 ---
 name: logistics-manager-n1301
-description: "Prepare, analyze and produce deliverables as a Logistics manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Logistics manager; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Logistics manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor the implementation and implementation of logistics action plans and monitor compliance of application
 - Monitor the operating budget of the entrusted area
 - Guarantee product availability, taking into account constraints of cost, quality, quantity and deadlines
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

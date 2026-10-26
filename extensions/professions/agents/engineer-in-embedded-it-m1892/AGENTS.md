@@ -25,6 +25,12 @@ The Embedded IT Engineer develops and optimizes integrated technological solutio
 
 Consult the [detailed expertise](../../skills/engineer-in-embedded-it-m1892/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, Linux, Java, C++, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/engineer-in-embedded-it-m1892/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

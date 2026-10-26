@@ -8,237 +8,428 @@ Fondement : `rapprochement_editorial_domaine_et_termes`. Termes de rapprochement
 
 [Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf) ; SHA-256 `5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f`.
 
-### Ressource R4.01 — Infrastructures de sécurité
+### Ressource R5.DEVCLOUD.12 — Solutions Cloud
 
-[Page 146](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146). Termes communs : infrastructure, securite.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 2.3. Fiches Ressources
-> 2.3.1. Ressource R4.01 : Infrastructures de sécurité
-> Compétences ciblées :
-> – Administrer les réseaux et l’Internet
-> – Connecter les entreprises et les usagers
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – STAGE.Cyber | Stage
-> Descriptif :
-> Contexte et ancrage professionnel :
-> Les étudiants devront être capables de déployer et configurer une architecture de réseau sécurisé. Ils devront également choisir
-> les bons outils de cryptologie adaptés à chaque fonctionnalité recherchée.
-> Contenus :
-> – Équipements dédiés à la sécurité
-> – Bases de cryptographie asymétrique (chiffrement asymétrique, certificats, signature, pki, ...)
-> – Services et applications sécurisées (SSL, HTTPS, ...)
-> – Architecture réseau sécurisée (DMZ, proxy, reverse-proxy, ...)
-> – Approfondissement des mécanismes de filtrage et de contrôle d’accès (Proxy-Firewall, NAT, ACL...)
-> – Tunnels VPN
-> Penser à systématiser l’utilisation de logiciels d’analyse de trames (WireShark, TCPDUMP , ...) pour les TP .
-> Apprentissages critiques ciblés :
-> – AC21.02 | Configurer et expliquer une politique simple de QoS et les fonctions de base de la sécurité d’un réseau
-> – AC21.04 | Déployer des services réseaux avancés
-> – AC22.02 | Mettre en place un accès distant sécurisé
-> – AC22.03 | Mettre en place une connexion multi-site via un réseau opérateur
-> Mots clés :
-> Cybersécurité – Cryptologie – Certificat – Signature – Pki – VPN – DMZ – Proxy – Services sécurisés – ACL – Firewall
-> Volume horaire :
-> Volume horaire défini nationalement : 18 heures dont 12 heures de TP
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
-> 146
-
-### Ressource R1.06 — Architecture des systèmes numériques et informatiques
-
-[Page 79](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=79). Termes communs : architecture, numerique.
+[Page 255](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255). Termes communs : cloud, solution.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 1.3.6. Ressource R1.06 : Architecture des systèmes numériques et informatiques
-> Compétences ciblées :
-> – Administrer les réseaux et l’Internet
-> – Créer des outils et applications informatiques pour les R&T
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 1.02 | S’initier aux réseaux informatiques
-> – SAÉ 1.03 | Découvrir un dispositif de transmission
-> – SAÉ 1.04 | Se présenter sur Internet
-> Descriptif :
-> Contexte et ancrage professionnel :
-> Cette ressource apporte le socle de connaissances et savoir-faire pour les compétences de cœur de métier "Administrer les
-> réseaux et l’Internet" et "Créer des outils et applications informatiques pour les R&T".
-> Les systèmes informatiques et numériques sont au cœur de la spécialité Réseaux et Télécoms. Cette ressource vise tout
-> d’abord à permettre la compréhension du codage et du stockage des données. Puis elle permet de comprendre de façon très
-> fine le comportement interne des systèmes numériques avec notamment des notions de temps d’exécution. Enfin elle permettra
-> aux étudiants de relier ces systèmes au monde extérieur.
-> Contenus :
-> – Codage des nombres, des caractères, des images.
-> – Fonctions logiques - Logique combinatoire et séquentielle - Notion d’ALU.
-> – Structure d’un processeur - Différents types de mémoires.
-> – Périphériques et entrées-sorties. Exemples GPIO, liaison série.
-> Apprentissages critiques ciblés :
-> – AC11.02 | Comprendre l’architecture et les fondements des systèmes numériques, les principes du codage de l’informa-
-> tion, des communications et de l’Internet
-> – AC13.01 | Utiliser un système informatique et ses outils
-> Mots clés :
-> Nombres binaires – Codage – Fonctions logiques – Processeur – ALU
-> Volume horaire :
-> Volume horaire défini nationalement : 20 heures dont 7 heures de TP
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
-> 79
-
-### Ressource R1.07 — Fondamentaux de la programmation
-
-[Page 80](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80). Termes communs : programmation.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 1.3.7. Ressource R1.07 : Fondamentaux de la programmation
+> 3.3.12. Ressource R5.DevCloud.12 : Solutions Cloud
 > Compétence ciblée :
-> – Créer des outils et applications informatiques pour les R&T
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 1.05 | Traiter des données
-> – PORTFOLIO | Portfolio
+> – Coordonner des infrastructures modulaires
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 5.DevCloud.03 | Orchestrer la conteneurisation d’une application
 > Descriptif :
 > Contexte et ancrage professionnel :
-> La ressource fournit les bases conceptuelles et pratiques pour concevoir et spécifier formellement un traitement automatisé
-> de l’information. Ces bases peuvent venir en appui de nombreuses compétences techniques (en informatique, en réseau, en
-> télécommunication, ...) que le professionnel R&T doit développer et s’inscrivent dans de nombreuses situations professionnelles
-> que rencontre le professionnel R&T. Cette ressource est nécessaire pour apprendre à développer des outils informatiques à
-> usage interne d’une équipe et pour l’automatisation du déploiement et de la maintenance des outils logiciels.
+> Le professionnel DevCloud peut être amené à mettre en place un Cloud (public, privé ou hybride) pour son entreprise, no-
+> tamment lorsque la sécurité des données est en jeu. Parmi les différentes solutions Cloud, il peut s’appuyer sur celles des
+> fournisseurs de services (par ex : AWS, Azure...) supposant de calibrer avec justesse l’offre commerciale à ses besoins (Pla-
+> teform as a Service). Il peut également opter pour sa propre infrastructure Cloud en l’hébergeant sur l’infrastructure réseau de
+> son entreprise.
 > Contenus :
-> En utilisant un langage de programmation (par exemple Python), les contenus suivants sont traités :
-> – Notions d’algorithmique :
-> – Variables, types de base (nombres, chaînes, listes/tableaux) ;
-> – Structures de contrôle : sélections, itérations ;
-> – Fonctions et procédures ;
-> – Portée des variables.
-> – Tests et corrections d’un programme ;
-> – Prise en main d’un environnement de programmation (éditeur, environnement de développement) ;
-> – Prise en main de bibliothèques, de modules, ou d’objets existants (appels de méthodes) ;
-> – Manipulation de fichiers texte ;
-> – Interaction avec le système d’exploitation et la ligne de commande : arguments, lancement de commandes ;
-> – Suivi de versions (git, SVN, ...).
-> L ’utilisation de l’anglais est préconisée pour la documentation du code.
+> Sont abordés :
+> – les enjeux du choix d’une solution Cloud (public, privé, hybride) ;
+> – les solutions proposées par les fournisseurs de services et/ou les solutions pour l’hébergement en interne (par ex :
+> Openstack, OpenNebula, ProxMox...) ;
+> – (l’installation,) la configuration, et l’administration d’une solution Cloud ;
+> – la surveillance (monitoring) de l’infrastructure :
+> – outils de supervision centralisés ;
+> – banc de test ;
+> – métriques d’utilisation ;
+> – la disponibilité des ressources et leur scalabilité ;
+> – la sécurisation de l’infrastructure.
+> La ressource pourra permettre de comparer les différentes solutions (publiques vs. privées) pour orienter une entreprise vers
+> le choix de l’une ou de l’autre.
 > Apprentissages critiques ciblés :
-> – AC13.01 | Utiliser un système informatique et ses outils
-> – AC13.02 | Lire, exécuter, corriger et modifier un programme
-> – AC13.03 | Traduire un algorithme, dans un langage et pour un environnement donné
-> – AC13.06 | S’intégrer dans un environnement propice au développement et au travail collaboratif
+> – AC34.01DevCloud | Concevoir, administrer et superviser une infrastructure Cloud
+> – AC34.02DevCloud | Orchestrer les ressources Cloud
+> – AC34.03DevCloud | Investiguer sur les incidents et les résoudre afin d’améliorer la qualité et la fiabilité des infrastructures
 > Mots clés :
-> Algorithmes – Langages de programmation – Méthodologie de développement – Suivi de versions
+> Cloud public – Cloud privé – Cloud hybride – Métriques – Administration – Surveillance
 > Volume horaire :
-> Volume horaire défini nationalement : 34 heures dont 20 heures de TP
+> Volume horaire défini nationalement : 22 heures dont 14 heures de TP
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
 > http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
-> 80
+> 255
 
-### SAÉ 3.02 — Développer des applications communicantes
+### Ressource R6.DEVCLOUD.04 — Pilotage de solutions Cloud pour l’entreprise
 
-[Page 118](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=118). Termes communs : application.
+[Page 265](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=265). Termes communs : cloud, solution.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 1.2.2. SAÉ 3.02 : Développer des applications communicantes
+> 4.3.4. Ressource R6.DevCloud.04 : Pilotage de solutions Cloud pour l’entreprise
+> Compétence ciblée :
+> – Coordonner des infrastructures modulaires
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 6.DevCloud.01 | Gérer le pipeline d’une application orientée Cloud
+> – STAGE.DevCloud | Stage
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Cette ressource synthétise et finalise les tenants et les aboutissants de la mise en place et de l’utilisation d’un Cloud au sein
+> d’une entreprise, des besoins à satisfaire sur l’infrastructure globale aux contraintes associées, tant financières que de sécurité.
+> Contenus :
+> Les différentes notions abordées sont :
+> – L ’adaptation de l’infrastructure (choix orienté virtualisation et/ou conteneurisation) en fonction des besoins,
+> – L ’aspect financier, à travers le poste de FinOps, qui conditionne l’infrastructure et l’utilisation des services Cloud et doit
+> être pris en compte dès le démarrage du projet,
+> – Le dimensionnement des services Cloud en fonction des besoins et des attentes de scalabilité de l’infrastructure en
+> fonction de la demande, avec la notion d’hyperconvergence. Ces composantes sont à prendre en compte et à maîtriser
+> pour déployer les services dans le Cloud,
+> – La surveillance de l’infrastructure au travers de services de télémétrie, de systèmes d’alerte et de diagnostic en cas de
+> panne.
+> – La gestion des pannes et les stratégies de reprise d’activité (PRA),
+> – La sécurité de l’infrastructure globale en relation avec les différentes contraintes autant de l’entreprise sur le protection
+> de ses données sensibles que vis-à-vis des différentes réglementations telles que le RGPD.
+> Apprentissages critiques ciblés :
+> – AC34.01DevCloud | Concevoir, administrer et superviser une infrastructure Cloud
+> – AC34.02DevCloud | Orchestrer les ressources Cloud
+> – AC34.03DevCloud | Investiguer sur les incidents et les résoudre afin d’améliorer la qualité et la fiabilité des infrastructures
+> Mots clés :
+> Dimensionnement – FinOps – Hyperconvergence – Scalabilité – Surveillance – PRA – Sécurité
+> Volume horaire :
+> Volume horaire défini nationalement : 18 heures dont 9 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 265
+
+### Ressource R3.DEVCLOUD.16 — Ecosystème Cloud
+
+[Page 214](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=214). Termes communs : cloud.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.3.16. Ressource R3.DevCloud.16 : Ecosystème Cloud
+> Compétence ciblée :
+> – Coordonner des infrastructures modulaires
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 3.DevCloud.04 | Mettre en place une infrastructure virtualisée
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Cette ressource introduit les éléments de langage et les enjeux spécifiques aux infrastructures Cloud offrant un ensemble
+> de ressources virtuelles, d’espaces de stockage, d’applications/logiciels et de services. Elle vient en appui aux ressources
+> techniques du parcours DevCloud.
+> Contenus :
+> La ressource présente, à titre de culture générale :
+> – la définition des différents Cloud existants sur le marché : Cloud privé, Cloud public, Cloud hybride ;
+> – les différentes formes de Cloud et la famille des AAS : Plateform-as-a-Service (PaaS), Infrastructure-as-a-Service (IasS),
+> Software-as-a-Service (SaaS), Desktop-as-a-Service (DaaS), etc... ;
+> – les alternatives pour la mise en place d’un Cloud (la mise en oeuvre et la configuration étant abordée dans d’autres
+> ressources) :
+> – les solutions commerciales (par ex : AWS, ...) ;
+> – les architectures de microservices (par ex : pattern sidecar, proxy, ...) ;
+> – les solutions pour l’hébergement d’un Cloud au sein de l’entreprise (par ex : OpenStack, ...).
+> – les facteurs de choix d’une solution adaptée à une entreprise, notamment :
+> – la sécurité globale de l’infrastructure (accès, données, ...) ;
+> – le budget (coûts) ;
+> – les réglementations (CNIL, RGPD) ayant trait aux problématiques de stockage, de protection des données ;
+> – la charge de travail ;
+> – la flexibilité et l’évolutivité de l’infrastructure ;
+> – les problématiques climatiques/écologiques.
+> Apprentissages critiques ciblés :
+> – AC24.01DevCloud | Proposer une solution Cloud adaptée à l’entreprise
+> – AC24.03DevCloud | Utiliser les services du Cloud
+> Mots clés :
+> Cloud privé – Cloud public – Sécurité de l’infrastructure – Sécurité des données – Enjeux
+> Volume horaire :
+> Volume horaire défini nationalement : 4 heures
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 214
+
+### SAÉ 6.DEVCLOUD.01 — Gérer le pipeline d’une application orientée Cloud
+
+[Page 258](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=258). Termes communs : application, cloud.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 4.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 4.2.1. SAÉ 6.DevCloud.01 : Gérer le pipeline d’une application orientée Cloud
 > Compétences ciblées :
-> – Administrer les réseaux et l’Internet
-> – Connecter les entreprises et les usagers
-> – Créer des outils et applications informatiques pour les R&T
+> – Coordonner des infrastructures modulaires
+> – Accompagner le développement d’applications
 > Objectifs et problématique professionnelle :
-> Le professionnel R&T est amené à installer, adapter et développer des outils logiciels permettant l’échange d’informations au
-> sein de l’entreprise. Il met en place une solution adaptée qui respecte les besoins et les contraintes techniques imposées par
-> l’entreprise. II utilise dans ce but différents protocoles de communication, différents moyens d’authentification et de sauvegarde
-> des données sécurisées. Il commente le code produit et génère la documentation technique en français ou en anglais. Il doit
-> aussi présenter sa solution en argumentant les choix opérés avant la validation.
+> Le professionnel R&T spécialisé en Développement Système et Cloud fait évoluer des applications existantes au sein de
+> son entreprise en développant de nouvelles fonctionnalités. L ’application pouvant déjà être en production et utilisée par des
+> collaborateurs ou des clients, il ne peut donc pas interrompre l’usage qui en est fait. Il intègre ses apports en utilisant une
+> approche CI/CD (intégration continue, déploiement continu). Cette approche permet de tester les nouvelles fonctionnalités
+> en s’assurant de leurs compatibilités avec l’existant avant de planifier leurs mises à disposition auprès des utilisateurs sans
+> interruption de service.
 > Descriptif générique :
-> Partant de l’analyse d’un cahier des charges fourni, le professionnel R&T développe une application communicante permettant
-> l’échange et la sauvegarde de données (position GPS, données d’emploi du temps, ...). La réalisation de ce projet contient les
-> étapes suivantes :
-> – Analyser le cahier des charges fourni et répondre à celui-ci en mentionnant les technologies à utiliser et éventuellement
-> leur impact environnemental et économique ;
-> – Développer une application client/serveur (le serveur pouvant être fourni ou développé) ;
-> – Authentifier les utilisateurs ;
-> – Sauvegarder les données échangées ;
-> – Concevoir une interface graphique, une application mobile ou une interface Web.
-> Mots-clés : Protocoles (TCP , UDP , HTTP , HTTPS), Objets (socket, websocket, socket-io), Sérialisation (base de données SQL
-> ou no-SQL, fichier binaire ou fichier texte, ...).
+> Le professionnel DevCloud met en œuvre la chaîne CI/CD d’une application structurée en microservices, intervient et surveille
+> les différentes étapes du cycle de développement (dont la gestion des erreurs et des messages). Afin d’assurer le développe-
+> ment des fonctionnalités, il applique la démarche suivante :
+> – la mise en place de la chaîne d’intégration continue (CI) et ses différents tests ;
+> – la mise en place de la chaîne de développement continue (CD) incluant la génération du livrable applicatif sous la forme
+> d’un conteneur et le déploiement automatique de l’application avec ses améliorations ;
+> – la vérification de la santé du code incluant le monitoring de l’application, un système d’alertes, la prise en compte de la
+> sécurité à tous les niveaux de l’application et la gestion des messages (incluant les logs) renvoyés par l’application ;
+> – la planification du déploiement avec le nettoyage des bases de données de l’orchestrateur, l’automatisation du déploie-
+> ment en tenant compte de l’activité et la gestion d’un backup ;
+> – la gestion des agents de messages pour la communication entre deux microservices (sous la forme d’une file FIFO par
+> exemple).
 > Apprentissages critiques :
-> – AC21.06 | Travailler en équipe pour développer ses compétences professionnelles
-> – AC22.05 | Capacité à questionner un cahier des charges RT
-> – AC23.02 | Développer une application à partir d’un cahier des charges donné, pour le Web ou les périphériques mobiles
-> – AC23.03 | Utiliser un protocole réseau pour programmer une application client/serveur
-> – AC23.04 | Installer, administrer un système de gestion de données
-> – AC23.05 | Accéder à un ensemble de données depuis une application et/ou un site web
+> – AC34.01DevCloud | Concevoir, administrer et superviser une infrastructure Cloud
+> – AC34.02DevCloud | Orchestrer les ressources Cloud
+> – AC34.03DevCloud | Investiguer sur les incidents et les résoudre afin d’améliorer la qualité et la fiabilité des infrastructures
+> – AC35.01DevCloud | Adopter les pratiques de pilotage de projet
+> – AC35.02DevCloud | Concevoir, gérer et sécuriser un environnement de microservices
+> – AC35.03DevCloud | Gérer son infrastructure comme du code
+> – AC35.04DevCloud | Gérer une chaîne d’intégration et/ou de déploiement continu
 > Ressources mobilisées et combinées :
-> – R3.08 | Consolidation de la programmation
-> – R3.09 | Programmation événementielle
-> – R3.10 | Gestion d’un système de bases de données
-> – R3.11 | Anglais professionnel 1
-> – R3.12 | Expression-Culture-Communication professionnelles : Savoir collaborer
-> – R3.13 | Projet Personnel et Professionnel
-> – R3.15 | Gestion de projet 2 : Utiliser les méthodes de gestion de projet
+> – R6.01 | Anglais : Insertion professionnelle 2
+> – R6.02 | Expression-Culture-Communication professionnelles : Communiquer en tant que futur cadre intermédiaire
+> – R6.DevCloud.04 | Pilotage de solutions Cloud pour l’entreprise
 > Volume horaire :
 > Volume horaire : à définir localement par chaque IUT
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
 > http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
-> 118
+> 258
 
-### SAÉ 5.01 — Concevoir, réaliser et présenter une solution technique
+### SAÉ 3.DEVCLOUD.04 — Mettre en place une infrastructure virtualisée
 
-[Page 160](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=160). Termes communs : solution.
+[Page 196](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=196). Termes communs : infrastructure.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 3.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 3.2.1. SAÉ 5.01 : Concevoir, réaliser et présenter une solution technique
+> 1.2.4. SAÉ 3.DevCloud.04 : Mettre en place une infrastructure virtualisée
 > Compétences ciblées :
-> – Administrer les réseaux et l’Internet
-> – Connecter les entreprises et les usagers
-> – Créer des outils et applications informatiques pour les R&T
+> – Coordonner des infrastructures modulaires
+> – Accompagner le développement d’applications
 > Objectifs et problématique professionnelle :
-> Le professionnel R&T, en charge d’un projet technique, doit assurer l’ensemble des étapes du projet en concevant, réalisant
-> et en présentant une solution technique mariant les différentes technologies réseaux, télécommunications et informatiques. Il
-> assure également la coordination entre les techniciens faisant partie du projet.
+> Le professionnel R&T spécialisé dans le Développement Système et Cloud intervient sur les infrastructures virtualisées de
+> son entreprise en les mettant en place et en configurant les éléments qui la composent. Ces infrastructures, à la base des
+> technologies Cloud, offrent souplesse et sécurité dans le fonctionnement du réseau.
 > Descriptif générique :
-> Le professionnel R&T est en charge de projets et d’architectures variées dont il coordonne la conception, la maintenance et
-> l’évolution. Il s’assure de la formation des utilisateurs et de la documentation (procédures, ...). Il présente régulièrement les
-> évolutions de son architecture à sa hiérarchie éventuellement en langue étrangère.
-> Il doit faire preuve de recul quant aux solutions techniques utilisées. Il assure la veille technologique tout en facilitant les
-> échanges et en organisant les interventions de son équipe technique (gestion de projet, méthodologie de répartition de tâches,
-> jalons, etc.). Cette coordination doit être également pensée dans le cadre du travail collaboratif à distance (site web collaboratif,
-> espace de stockage partagé, outils de suivi de versions, etc.) en gardant à l’esprit la sécurisation des outils (authentification,
-> gestion d’accès et des droits, protection des données, etc.).
-> Il doit également se placer comme un acteur averti du développement durable, de la transition énergétique et des réglementa-
-> tions en vigueur (entreprise, RGPD, ARCEP , etc.).
+> Le professionnel Développement Système et Cloud doit :
+> – assurer l’installation de serveurs et d’un hyperviseur en choisissant une solution matérielle ou logicielle ;
+> – créer des machines virtuelles pour déployer différents services ;
+> – gérer des ressources matérielles, les ressources étant partagées entre différents services ;
+> – assurer la maintenance et la performance des services qui peuvent être déplacés aisément d’un serveur à un autre ;
+> – assurer la reprise d’activité rapide en cas de panne, grâce à des outils de réplication ;
+> – exploiter les atouts d’une infrastructure virtualisée ;
+> – mesurer l’apport de la virtualisation, pour rendre compte à son entreprise d’indicateurs sur le fonctionnement du réseau
+> ou orienter son entreprise vers des solutions de virtualisation.
 > Apprentissages critiques :
-> – AC31.01 | Concevoir un projet de réseau informatique d’une entreprise en intégrant les problématiques de haute dispo-
-> nibilité, de QoS, de sécurité et de supervision
-> – AC31.02 | Réaliser la documentation technique de ce projet
-> – AC31.03 | Réaliser une maquette de démonstration du projet
-> – AC31.04 | Défendre/argumenter un projet
-> – AC31.05 | Communiquer avec les acteurs du projet
-> – AC31.06 | Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais
-> – AC32.01 | Déployer un système de communication pour l’entreprise
-> – AC32.02 | Déployer un réseau d’accès sans fil pour le réseau d’entreprise en intégrant les enjeux de la sécurité
-> – AC32.03 | Déployer un réseau d’accès fixe ou mobile pour un opérateur de télécommunications en intégrant la sécurité
-> – AC32.04 | Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise
-> – AC32.05 | Collaborer en mode projet en français et en anglais
-> – AC33.01 | Élaborer les spécifications techniques et le cahier des charges d’une application informatique
-> – AC33.02 | Mettre en place un environnement de travail collaboratif
-> – AC33.03 | Participer à la formation des utilisateurs
-> – AC33.04 | Déployer et maintenir une solution informatique
-> – AC33.05 | S’informer sur les évolutions et les nouveautés technologiques
-> – AC33.06 | Sécuriser l’environnement numérique d’une application
+> – AC24.01DevCloud | Proposer une solution Cloud adaptée à l’entreprise
+> – AC24.02DevCloud | Virtualiser un environnement
+> – AC24.04DevCloud | Analyser un service Cloud au travers des métriques
+> – AC25.02DevCloud | Mettre en production une application
 > Ressources mobilisées et combinées :
-> – R5.01 | WiFi avancé
-> – R5.02 | Supervision des réseaux
-> – R5.03 | Ingénierie de systèmes télécoms
-> – R5.04 | Cycle de vie d’un projet informatique
-> – R5.05 | Anglais : Insertion professionnelle 1
-> – R5.06 | Expression-Culture-Communication professionnelles : S’intégrer dans une organisation
-> – R5.07 | Projet Personnel et Professionnel
-> – R5.08 | Gestion de projets 3 : Mener un projet professionnel
+> – R3.11 | Anglais professionnel 1
+> – R3.12 | Expression-Culture-Communication professionnelles : Savoir collaborer
+> – R3.13 | Projet Personnel et Professionnel
+> – R3.15 | Gestion de projet 2 : Utiliser les méthodes de gestion de projet
+> – R3.DevCloud.16 | Ecosystème Cloud
+> – R3.DevCloud.17 | Virtualisation avancée
+> Volume horaire :
+> Volume horaire : à définir localement par chaque IUT
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
 > http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
-> 160
+> 196
+
+### Ressource R4.DEVCLOUD.09 — Fondamentaux de la conteneurisation
+
+[Page 231](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=231). Termes communs : devops.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.3.9. Ressource R4.DevCloud.09 : Fondamentaux de la conteneurisation
+> Compétences ciblées :
+> – Coordonner des infrastructures modulaires
+> – Accompagner le développement d’applications
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 4.DevCloud.01 | Développer et déployer un microservice dans un environnement virtualisé
+> – STAGE.DevCloud | Stage
+> Descriptif :
+> Contexte et ancrage professionnel :
+> La conteneurisation des services et des applications est l’un des outils majeurs du Cloud. Elle offre une grande flexibilité dans la
+> conception et la maintenance des infrastructures. Elle facilite également la portabilité et la gestion du cycle de vie des services
+> et des applications.
+> Contenus :
+> Cette ressource présente les éléments fondamentaux de la conteneurisation et aborde :
+> – les principes des conteneurs, en les comparant notamment aux machines virtuelles ;
+> – les différentes solutions : lxc/lxd, Docker, Podman, chroot, ... ;
+> – les plateformes de partage et de stockage de conteneurs (par ex : le registry DockerHub, ...) ;
+> – la création de conteneurs et leurs configurations (accès, stockage, parcours, mise en réseau). Cette partie pourra être
+> abordée au travers de Docker et de l’usage des Dockerfiles, de docker-compose ;
+> – l’architecture des infrastructures basées sur des conteneurisées (tant système qu’applicatives) et leurs bénéfices.
+> Apprentissages critiques ciblés :
+> – AC24.01DevCloud | Proposer une solution Cloud adaptée à l’entreprise
+> – AC24.02DevCloud | Virtualiser un environnement
+> – AC24.03DevCloud | Utiliser les services du Cloud
+> – AC25.03DevCloud | Programmer son réseau par le code
+> Mots clés :
+> Conteneur – Docker
+> Volume horaire :
+> Volume horaire défini nationalement : 11 heures dont 6 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 231
+
+### Ressource R5.DEVCLOUD.09 — Outils et méthodes du DevOps
+
+[Page 252](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252). Termes communs : devops.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 3.3.9. Ressource R5.DevCloud.09 : Outils et méthodes du DevOps
+> Compétence ciblée :
+> – Accompagner le développement d’applications
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 5.DevCloud.03 | Orchestrer la conteneurisation d’une application
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Le professionnel DevCloud peut intervenir en tant que DevOps (développeur logiciel et administrateur des infrastructures in-
+> formatiques), automatisant et suivant toutes les étapes du cycle de vie d’une application ou d’une infrastructure de services.
+> Dans la continuité des ressources R5.04 "Cycle de vie d’un projet informatique" et R5.DevCloud.11 "Programmer son infra-
+> structure", cette ressource approfondit et synthétise l’ensemble du pipeline DevOps lorsque les applications s’appuient sur une
+> infrastructure modulaire.
+> Contenus :
+> Les contenus suivants sont abordés sous l’angle du développeur (versionning d’applications) et/ou de l’administrateur système
+> (versionning de configurations d’infrastructures) :
+> – Les éléments de conception d’un service applicatif :
+> – alternatives de conception puis de mise en production : virtualisée ou conteneurisée, servless, microservices ;
+> – contraintes sur les infrastructures : Back-end as a Service (Baas), Function as a Service (FaaS) sur le Cloud ;
+> – Les mécanismes d’interaction entre services :
+> – les agents de messages/ressources avec centralisation (par ex : Broker) et abonnement ;
+> – la surveillance du fonctionnement des microservices : gestion de log ;
+> – La chaîne d’intégration continue et de développement continu CI/CD dans son ensemble (par ex : GitLab, Jenkins), avec
+> un focus sur :
+> – la phase de compilation (integrate/build), la gestion du packaging et des dépendances ;
+> – les tests (unitaires et d’intégration) automatisés ;
+> – l’automatisation des étapes de la CI/CD (par ex : configuration du <code>.gitlab-ci.yml</code>).
+> La ressource peut introduire (ou approfondir) différents outils, par exemple :
+> – pour la programmation des tests unitaires : doctest, pytest, Junit ;
+> – pour l’analyse de la structure du code : SonarQube ;
+> – pour la supervision et la centralisation des logs : ELK ;
+> – pour la mise à disposition des versions de production : Nexus.
+> Elle pourra permettre d’illustrer les méthodes de développement spécifiques aux applications informatiques (méthodes agiles,
+> Scrum, ...) abordées dans le cadre de la R5.04 "Cycle de vie d’un projet informatique".
+> Prérequis :
+> – R5.DevCloud.11 | Programmer son infrastructure
+> Apprentissages critiques ciblés :
+> – AC35.01DevCloud | Adopter les pratiques de pilotage de projet
+> – AC35.02DevCloud | Concevoir, gérer et sécuriser un environnement de microservices
+> – AC35.03DevCloud | Gérer son infrastructure comme du code
+> – AC35.04DevCloud | Gérer une chaîne d’intégration et/ou de déploiement continu
+> Mots clés :
+> Versionning – Log – Git – CI/CD – Tests – Automatisation – Registry
+> Volume horaire :
+> Volume horaire défini nationalement : 23 heures dont 13 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 252
+
+### Ressource R5.DEVCLOUD.10 — Infrastructures conteneurisées
+
+[Page 253](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=253). Termes communs : devops.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 3.3.10. Ressource R5.DevCloud.10 : Infrastructures conteneurisées
+> Compétence ciblée :
+> – Coordonner des infrastructures modulaires
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 5.DevCloud.03 | Orchestrer la conteneurisation d’une application
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Dans la continuité de la ressource R4.DevCloud.09 "Fondamentaux de la conteneurisation" abordant les principes fondamen-
+> taux des conteneurs, cette ressource présente l’orchestration des conteneurs, c’est-à-dire la gestion d’une infrastructure basée
+> sur des conteneurs.
+> Contenus :
+> Sont abordés :
+> – la définition d’un orchestrateur ;
+> – le rôle de l’orchestrateur dans l’infrastructure réseau (déploiement, gestion, mise à l’échelle et mise en réseau) ;
+> – les différentes solutions marchés (par ex : Kubernetes) ;
+> – les éléments de mise en place d’un orchestrateur ;
+> – la gestion de la sécurité des et dans les conteneurs ;
+> – la disponibilité des conteneurs et l’introduction à la scalabilité.
+> Apprentissages critiques ciblés :
+> – AC34.01DevCloud | Concevoir, administrer et superviser une infrastructure Cloud
+> – AC34.02DevCloud | Orchestrer les ressources Cloud
+> Mots clés :
+> Conteneur – Orchestrateur – Scalabilité – Sécurité
+> Volume horaire :
+> Volume horaire défini nationalement : 23 heures dont 14 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 253
+
+### Ressource R5.DEVCLOUD.11 — Programmer son infrastructure
+
+[Page 254](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254). Termes communs : devops.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 3.3.11. Ressource R5.DevCloud.11 : Programmer son infrastructure
+> Compétences ciblées :
+> – Coordonner des infrastructures modulaires
+> – Accompagner le développement d’applications
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 5.DevCloud.03 | Orchestrer la conteneurisation d’une application
+> Descriptif :
+> Contexte et ancrage professionnel :
+> Pour gagner en efficacité, en flexibilité et en stabilité, de nombreux outils ont été développés pour gérer et approvisionner
+> (non plus manuellement mais) automatiquement les infrastructures et leurs applications informatiques, par le biais de codes
+> informatiques. Ces outils sont aujourd’hui une composante essentielle du Cloud et du développement des applications, que le
+> professionnel DevCloud aura à utiliser régulièrement. Cette ressource traite donc de l’Infrastructure as Code (IaC) dès lors que
+> les réseaux sont programmables.
+> Contenus :
+> La ressource traite aussi bien le déploiement d’infrastructures, de systèmes, d’applications que de configurations notamment à
+> vocation de sécurité. Sont abordés :
+> – les enjeux et stratégies de déploiement pour mettre en place, reconfigurer, ajouter/modifier un réseau, ses équipements
+> et ses services (incluant la gestion du stockage, des ressources et des droits d’accès) ;
+> – l’intérêt de l’automatisation pour le déploiement à grande échelle, la reproductibilité de la configuration, etc. ;
+> – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ;
+> – la mise en place de déploiements automatisés, en se basant sur un ou des outils spécifiques.
+> Apprentissages critiques ciblés :
+> – AC34.01DevCloud | Concevoir, administrer et superviser une infrastructure Cloud
+> – AC34.02DevCloud | Orchestrer les ressources Cloud
+> – AC34.03DevCloud | Investiguer sur les incidents et les résoudre afin d’améliorer la qualité et la fiabilité des infrastructures
+> – AC35.03DevCloud | Gérer son infrastructure comme du code
+> Mots clés :
+> Automatisation – Infrastructure as code
+> Volume horaire :
+> Volume horaire défini nationalement : 22 heures dont 13 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 254
+
+### Ressource R4.ROM.09 — Outils DevOps
+
+[Page 461](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461). Termes communs : devops.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.3.9. Ressource R4.ROM.09 : Outils DevOps
+> Compétence ciblée :
+> – Gérer les infrastructures et les services des réseaux opérateurs
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 4.ROM.01 | Déployer une infrastructure opérateur et ses services clients
+> – STAGE.ROM | Stage
+> Descriptif :
+> Contexte et ancrage professionnel :
+> L ’étudiant devra être capable de mettre en œuvre des processus d’automatisation (de la configuration, de la gestion, des tests,
+> du déploiement et de l’exploitation) des équipements réseaux et de services avec des conteneurs.
+> Contenus :
+> – Rôle du DevOps et introduction à la conteneurisation
+> – Concepts de conteneurisation (container, image, commandes)
+> – Automatisation de la gestion de l’infrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les
+> API REST et Ansible
+> – Gestion des versions avec GIT
+> Prérequis :
+> – R4.05 | Automatisation des tâches d’administration
+> Apprentissages critiques ciblés :
+> – AC24.02ROM | Virtualiser des services réseaux
+> – AC24.05ROM | Automatiser la gestion des équipements réseaux
+> Mots clés :
+> Docker – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET
+> Volume horaire :
+> Volume horaire défini nationalement : 14 heures dont 6 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
+> 461
 
 ## BUT Informatique
 
@@ -283,46 +474,6 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
 > 245
 
-### Ressource R5.INTEG.11 — Intégration et performance des systèmes d’information
-
-[Page 367](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=367). Termes communs : integration, performance.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 3.3.11. Ressource R5.Integ.11 : Intégration et performance des systèmes d’information
-> Compétences ciblées :
-> – Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique
-> avec des méthodes classiques ou agiles
-> – Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
-> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
-> – SAÉ 5.Integ.01 | Adaptation d’un système d’information à des nouveaux besoins
-> Descriptif :
-> L ’objectif de cette ressource est l’approfondissement des systèmes d’information en s’intéressant à l’intégration et à la perfor-
-> mance de ceux-ci.
-> Savoirs de référence étudiés
-> – Contrôle de gestion et gestion des coûts (coûts complets et autres méthodes, choix et mise en œuvre des indicateurs
-> de performance, choix d’investissement et de financement, gestion budgétaire)
-> – Approfondissement de la gestion de projet informatique (autres méthodologies agiles, gestion de la qualité, management
-> de projet numérique et innovant)
-> – Urbanisation et optimisation des systèmes d’information décisionnels (sécurité, interopérabilité, alignement stratégique,
-> audit et reporting) et approfondissement des processus
-> – Pratique d’intégration de logiciels (utilisation de progiciels — entreprise, multimédia... —, paramétrage et configuration
-> de progiciels)
-> Prolongements suggérés
-> – Les différents savoirs de référence pourront être approfondis
-> Apprentissages critiques ciblés :
-> – AC35.01 | Mesurer les impacts économiques, sociétaux et technologiques d’un projet informatique
-> – AC35.02 | Savoir intégrer un projet informatique dans le système d’information d’une organisation
-> – AC35.03 | Savoir adapter un système d’information
-> – AC36.03 | Guider la conduite du changement informatique au sein d’une organisation
-> Mots clés :
-> Progiciel de gestion intégré – Qualité logicielle – Coût – Tableau de bord – Processus
-> Volume horaire :
-> Volume horaire défini nationalement : 36 heures dont 15 heures de TP
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
-> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
-> 367
-
 ### Ressource R5.DEPLOI.06 — Installation & Configuration de services complexes
 
 [Page 227](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=227). Termes communs : configuration.
@@ -360,14 +511,106 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
 > 227
 
-### SAÉ 4.INTEG.01 — Intégration d’une application et gestion de projet
+### Ressource R4.DEPLOI.11 — Réseau avancé
 
-[Page 336](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=336). Termes communs : application, integration.
+[Page 215](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215). Termes communs : reseau.
 
 Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
 
-> 2.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 2.2.1. SAÉ 4.Integ.01 : Intégration d’une application et gestion de projet
+> 2.3.11. Ressource R4.Deploi.11 : Réseau avancé
+> Compétence ciblée :
+> – Installer, configurer, mettre à disposition, maintenir en conditions opérationnelles des infrastructures, des services et des
+> réseaux et optimiser le système informatique d’une organisation
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 4.Deploi.01 | Déployer et sécuriser des services dans un réseau
+> Descriptif :
+> L ’objectif de cette ressource est d’approfondir le fonctionnement des réseaux et de leur interconnexion, en présentant de
+> manière plus détaillée les mécanismes et logiques mises en œuvre. Cette ressource permettra de comprendre comment
+> configurer des équipements actifs pour optimiser leur fonctionnement dans le réseau internet.
+> Savoirs de référence étudiés
+> – Configuration des équipements (routeurs, VLAN)
+> – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...)
+> – Routage dynamique (par ex. : OSPF , RIP , BGP ...)
+> – Introduction aux failles de sécurité
+> Prolongements suggérés
+> – Les différents savoirs de référence pourront être approfondis
+> Apprentissages critiques ciblés :
+> – AC23.02 | Utiliser des serveurs et des services réseaux virtualisés
+> – AC23.03 | Sécuriser les services et données d’un système
+> Mots clés :
+> Routage dynamique – RIP – OSPF – BGP
+> Volume horaire :
+> Volume horaire défini nationalement : 19 heures dont 9 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
+> 215
+
+### SAÉ 5.DEPLOI.01 — Évolution d’une infrastructure
+
+[Page 219](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=219). Termes communs : infrastructure.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 3.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 3.2.1. SAÉ 5.Deploi.01 : Évolution d’une infrastructure
+> Compétences ciblées :
+> – Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
+> – Installer, configurer, mettre à disposition, maintenir en conditions opérationnelles des infrastructures, des services et des
+> réseaux et optimiser le système informatique d’une organisation
+> – Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
+> Objectifs et problématique professionnelle :
+> La problématique professionnelle est de faire évoluer en équipe des services en suivant une démarche itérative ou incrémentale,
+> qui devra être précisée. En partant d’un système d’information réparti déjà existant, l’objectif est de le faire évoluer en installant
+> et configurant de nouveaux services répondant à des exigences de qualité (rationalisation, optimisation, continuité de service,
+> sécurité) d’une organisation.
+> Descriptif générique :
+> Après avoir déployé plusieurs services indépendants, une organisation entreprend maintenant de simplifier, sécuriser et sur-
+> veiller son infrastructure.
+> À partir d’une politique de sécurité définie par l’organisation, il faudra identifier les risques encourus, proposer des solutions et
+> organiser leur mise en œuvre conformément à la politique. La mise en œuvre d’un système d’hypervision permettra d’assurer
+> la surveillance de l’ensemble du système.
+> Les livrables attendus généralement dans le monde professionnel sont :
+> – Documents de suivi du projet
+> – Notice explicative (pour garder les traces)
+> – Revue finale du projet
+> Apprentissages critiques :
+> – AC31.01 | Choisir et implémenter les architectures adaptées
+> – AC31.02 | Faire évoluer une application existante
+> – AC31.03 | Intégrer des solutions dans un environnement de production
+> – AC33.01 | Créer des processus de traitement automatisé (solution de gestion de configuration et de parc, intégration et
+> déploiement continu...)
+> – AC33.03 | Appliquer une politique de sécurité au niveau de l’infrastructure
+> – AC33.04 | Déployer et maintenir un réseau d’organisation en fonction de ses besoins
+> – AC36.01 | Organiser et partager une veille technologique et informationnelle
+> – AC36.02 | Identifier les enjeux de l’économie de l’innovation numérique
+> – AC36.03 | Guider la conduite du changement informatique au sein d’une organisation
+> – AC36.04 | Accompagner le management de projet informatique
+> Ressources mobilisées et combinées :
+> – R5.01 | Initiation au management d’une équipe de projet informatique
+> – R5.03 | Politique de communication
+> – R5.Deploi.04 | Programmation avancée en système
+> – R5.Deploi.05 | Automatisation de la chaîne de production
+> – R5.Deploi.06 | Installation & Configuration de services complexes
+> – R5.Deploi.07 | Virtualisation avancée
+> – R5.Deploi.08 | Continuité de service
+> – R5.Deploi.09 | Cybersecurité
+> – R5.Deploi.10 | Modélisations mathématiques pour les applications communicantes
+> – R5.Deploi.11 | Économie durable et numérique
+> – R5.Deploi.12 | Anglais
+> Volume horaire :
+> Volume horaire : à définir localement par chaque IUT
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
+> 219
+
+### SAÉ 3.DEPLOI.01 — Création et déploiement de services applicatifs
+
+[Page 179](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=179). Termes communs : deploiement.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 1.2.1. SAÉ 3.Deploi.01 : Création et déploiement de services applicatifs
 > Compétences ciblées :
 > – Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
 > – Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
@@ -380,29 +623,28 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > avec des méthodes classiques ou agiles
 > – Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
 > Objectifs et problématique professionnelle :
-> La problématique professionnelle est de mettre en place, au sein de l’équipe, l’organisation du projet et d’intégrer un progiciel
-> dans un système d’information en garantissant la faisabilité et en suivant une démarche de développement itérative ou incré-
-> mentale. Après avoir analysé les processus métiers et les besoins du client, il sera nécessaire d’intégrer et adapter un progiciel
-> (ou module) pour répondre à cette demande. Il sera nécessaire veiller aux caractéristiques de qualité définies par l’entreprise.
+> La problématique professionnelle est de créer, en équipe, une application en suivant une démarche de développement itérative
+> ou incrémentale. En partant d’un besoin décrit de manière imprécise ou incomplète par un client, l’objectif est de clarifier,
+> compléter, collecter et formaliser le besoin puis de développer une application client-serveur intégrant la manipulation des
+> données et respectant des paradigmes de qualité (en particulier la sécurité).
 > Descriptif générique :
-> En partant d’un système d’information existant, l’équipe devra en évaluer l’adéquation aux processus métiers, la qualité logicielle
-> et détecter les éventuelles failles de sécurité. L ’objectif est d’intégrer un progiciel améliorant l’ensemble de ces aspects. De plus,
-> l’impact environnemental devra être évalué et, si possible, amélioré.
+> Cette SAÉ permet, après avoir collecté, formalisé les besoins d’un client, de développer une application client-serveur sécurisée
+> permettant d’accéder à une base de données à créer.
 > Les livrables attendus généralement dans le monde professionnel sont :
-> – Document de suivi de projet
-> – Étude des processus métiers
-> – Étude comparative des solutions
-> – Spécifications techniques finalisées
+> – Documents de suivi du projet
+> – Code de l’application et jeux d’essais
+> – Schéma d’architecture du réseau
 > – Revue finale du projet
+> – Guide d’utilisation
 > Apprentissages critiques :
-> – AC21.04 | Vérifier et valider la qualité de l’application par les tests
-> – AC22.02 | Utiliser des techniques algorithmiques adaptées pour des problèmes complexes (par ex. recherche opération-
-> nelle, méthodes arborescentes, optimisation globale, intelligence artificielle...)
-> – AC22.03 | Comprendre les enjeux et moyens de sécurisation des données et du code
-> – AC22.04 | Évaluer l’impact environnemental et sociétal des solutions proposées
-> – AC23.03 | Sécuriser les services et données d’un système
-> – AC24.01 | Optimiser les modèles de données de l’entreprise
-> – AC24.02 | Assurer la sécurité des données (intégrité et confidentialité)
+> – AC21.01 | Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences
+> – AC21.02 | Appliquer des principes d’accessibilité et d’ergonomie
+> – AC21.03 | Adopter de bonnes pratiques de conception et de programmation
+> – AC22.01 | Choisir des structures de données complexes adaptées au problème
+> – AC23.01 | Concevoir et développer des applications communicantes
+> – AC23.02 | Utiliser des serveurs et des services réseaux virtualisés
+> – AC24.03 | Organiser la restitution de données à travers la programmation et la visualisation
+> – AC24.04 | Manipuler des données hétérogènes
 > – AC25.02 | Formaliser les besoins du client et de l’utilisateur
 > – AC25.03 | Identifier les critères de faisabilité d’un projet informatique
 > – AC25.04 | Définir et mettre en œuvre une démarche de suivi de projet
@@ -410,61 +652,16 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > – AC26.03 | Mobiliser les compétences interpersonnelles pour travailler dans une équipe informatique
 > – AC26.04 | Rendre compte de son activité professionnelle
 > Ressources mobilisées et combinées :
-> – R4.01 | Architecture logicielle
-> – R4.02 | Qualité de développement
-> – R4.03 | Qualité et au-delà du relationnel
-> – R4.04 | Méthodes d’optimisation
-> – R4.05 | Anglais
-> – R4.06 | Communication interne
+> – R3.01 | Développement web
+> – R3.02 | Développement efficace
+> – R3.03 | Analyse
+> – R3.04 | Qualité de développement
+> – R3.05 | Programmation système
+> – R3.06 | Architecture des réseaux
+> – R3.09 | Cryptographie et sécurité
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
 > 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
-> 336
-
-### SAÉ 6.ADMIN.01 — Organisation et protection de données
-
-[Page 304](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304). Termes communs : protection.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 4.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 4.2.1. SAÉ 6.Admin.01 : Organisation et protection de données
-> Compétences ciblées :
-> – Concevoir, gérer, administrer et exploiter les données de l’entreprise et mettre à disposition toutes les informations pour
-> un bon pilotage de l’entreprise
-> – Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique
-> avec des méthodes classiques ou agiles
-> – Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
-> Objectifs et problématique professionnelle :
-> La problématique professionnelle est d’administrer la base de données et son infrastructure dans le respect de la réglementa-
-> tion.
-> Une entreprise dispose de données sur des serveurs internes ou externes (cloud...). Elle souhaite améliorer son infrastructure
-> et optimiser l’accès et la fiabilité des données.
-> Descriptif générique :
-> À partir d’une infrastructure déjà existante, il s’agit d’améliorer l’organisation des serveurs (physiques et virtuels), d’en assurer
-> l’administration (gestion des droits des utilisateurs, organisation des sauvegardes) et de documenter la conformité au RGPD.
-> Les livrables attendus généralement dans le monde professionnel sont :
-> – Documents de suivi du projet
-> – Modèle d’architecture
-> – Conception de la solution technique
-> – Plan de continuité et plan de reprise
-> – Document de conformité à la RGPD
-> – Revue finale du projet
-> Apprentissages critiques :
-> – AC34.04 | Mettre en production et optimiser le système de gestion de données de l’entreprise
-> – AC35.02 | Savoir intégrer un projet informatique dans le système d’information d’une organisation
-> – AC35.03 | Savoir adapter un système d’information
-> – AC36.01 | Organiser et partager une veille technologique et informationnelle
-> – AC36.03 | Guider la conduite du changement informatique au sein d’une organisation
-> Ressources mobilisées et combinées :
-> – R6.02 | Droit du numérique et de la propriété intellectuelle
-> – R6.03 | Communication : organisation et diffusion de l’information
-> – R6.Admin.05 | Administration des bases de données
-> – R6.Admin.06 | Méthodes d’optimisation pour l’aide à la décision
-> Volume horaire :
-> Volume horaire : à définir localement par chaque IUT
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
-> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
-> 304
+> 179
 
 ## BUT Métiers du multimédia et de l'Internet
 

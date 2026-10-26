@@ -26,6 +26,12 @@ The editorial director is responsible for the strategy, consistency and quality 
 
 Consult the [detailed expertise](../../skills/editorial-director-e1132/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/editorial-director-e1132/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

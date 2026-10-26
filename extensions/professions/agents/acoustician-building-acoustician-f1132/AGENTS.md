@@ -25,6 +25,12 @@ The Building Acoustician is an expert in sound environments and helps to improve
 
 Consult the [detailed expertise](../../skills/acoustician-building-acoustician-f1132/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/acoustician-building-acoustician-f1132/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

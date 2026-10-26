@@ -23,6 +23,12 @@ The Clinical Research Associate sets up and monitors the clinical studies of a p
 
 Consult the [detailed expertise](../../skills/clinical-research-associate-arc-h1211/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/clinical-research-associate-arc-h1211/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

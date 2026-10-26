@@ -1,6 +1,6 @@
 ---
 name: it-software-quality-engineer-m1842
-description: "Prepare, analyze and produce deliverables as a IT software quality engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT software quality engineer; use for requests within this professional scope. Relevant technologies include Git, pytest, JUnit, doctest, Python, Linux."
 ---
 
 # IT software quality engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out a technical diagnosis
 - Determine corrective measures
 - Optimize quality processes to ensure software reliability
+
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, Linux, Windows, Wireshark, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, DHCP.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

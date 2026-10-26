@@ -25,6 +25,12 @@ The Electrical and Electronics Designer creates precise and detailed diagrams an
 
 Consult the [detailed expertise](../../skills/electrical-and-electronics-designer-h1202/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/electrical-and-electronics-designer-h1202/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

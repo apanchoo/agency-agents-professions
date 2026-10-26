@@ -182,5 +182,89 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "MATLAB",
+      "area": "simulation",
+      "use": "Model numerical systems, document units and assumptions, and compare simulation results against checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Matlab",
+          "snippet": "nateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages critiques ciblés : – AC11.01 | Comprendre le fonctionnement de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R2.02",
+          "module_title": "Informatique 2",
+          "page": 67,
+          "matched_text": "Matlab",
+          "snippet": "nateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et traitement de données issues d’un capteur Apprentissages cri",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=67",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R3.02",
+          "module_title": "Informatique 3",
+          "page": 90,
+          "matched_text": "Matlab",
+          "snippet": "nateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et traitement de données issues d’un capteur Apprentissages cri",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=90",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Scilab",
+          "snippet": "(Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages critiques ciblés : – AC11.01 | Comprendre le fonctionnement des consti",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R2.02",
+          "module_title": "Informatique 2",
+          "page": 67,
+          "matched_text": "Scilab",
+          "snippet": "(Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et traitement de données issues d’un capteur Apprentissages critiques c",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=67",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R3.02",
+          "module_title": "Informatique 3",
+          "page": 90,
+          "matched_text": "Scilab",
+          "snippet": "(Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) – Acquisition et traitement de données issues d’un capteur Apprentissages critiques c",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=90",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

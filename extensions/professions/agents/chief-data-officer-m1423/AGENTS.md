@@ -25,6 +25,12 @@ The Chief Data Officer manages data governance in the company's digital transfor
 
 Consult the [detailed expertise](../../skills/chief-data-officer-m1423/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, Talend, Power Query, Power Pivot, R, SAS, Microsoft Excel, Power BI, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/chief-data-officer-m1423/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

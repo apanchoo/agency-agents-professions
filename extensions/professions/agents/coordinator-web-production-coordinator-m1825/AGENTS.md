@@ -25,6 +25,12 @@ The Web Production Coordinator orchestrates the completion of web projects by en
 
 Consult the [detailed expertise](../../skills/coordinator-web-production-coordinator-m1825/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/coordinator-web-production-coordinator-m1825/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

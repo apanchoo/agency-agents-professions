@@ -1,6 +1,6 @@
 ---
 name: website-administrator-m1834
-description: "Prepare, analyze and produce deliverables as a Website Administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Website Administrator; use for requests within this professional scope. Relevant technologies include JavaScript, HTML, CSS, SQL, REST APIs."
 ---
 
 # Website Administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure the technical maintenance of a website
 - Design and maintain a cybersecurity system
 - Organize and manage the prevention and treatment of incidents and malfunctions
+
+## Technologies and Software
+
+JavaScript, HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

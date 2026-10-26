@@ -269,5 +269,121 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "OpenStack",
+      "area": "virtualization",
+      "use": "Provision virtual compute, network and storage resources with explicit quotas and access controls.",
+      "priority": 25,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.12",
+          "module_title": "Solutions Cloud",
+          "page": 255,
+          "matched_text": "Openstack",
+          "snippet": " services et/ou les solutions pour l’hébergement en interne (par ex : Openstack, OpenNebula, ProxMox...) ; – (l’installation,) la configuration, et l’administration d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.11",
+          "module_title": "Intégration",
+          "page": 64,
+          "matched_text": "HTML",
+          "snippet": "s pages Web efficacement et dans le respect des normes : – Le langage HTML : structuration du contenu, sémantique des balises, normes W3C ; – Les bases du langage C",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.11",
+          "module_title": "Intégration",
+          "page": 64,
+          "matched_text": "CSS",
+          "snippet": " contenu, sémantique des balises, normes W3C ; – Les bases du langage CSS : mise en forme, unités, sélecteurs, styles en cascade, éléments flexibles... ; – Les bas",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

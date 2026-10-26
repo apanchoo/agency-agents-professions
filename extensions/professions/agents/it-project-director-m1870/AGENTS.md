@@ -25,6 +25,12 @@ The IT Project Director leads the development and implementation of complex IT s
 
 Consult the [detailed expertise](../../skills/it-project-director-m1870/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BGP, DHCP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-project-director-m1870/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

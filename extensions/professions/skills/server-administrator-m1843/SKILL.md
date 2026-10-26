@@ -1,6 +1,6 @@
 ---
 name: server-administrator-m1843
-description: "Prepare, analyze and produce deliverables as a Server Administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Server Administrator; use for requests within this professional scope. Relevant technologies include Windows, Wireshark, SQL, BGP, DNS, OSPF."
 ---
 
 # Server Administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage and maintain compliance of a process or solution
 - Arguing for the adoption of new technologies
 - Support the appropriation of a tool by its users
+
+## Technologies and Software
+
+Windows, Wireshark, SQL, BGP, DNS, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

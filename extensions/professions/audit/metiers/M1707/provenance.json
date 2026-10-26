@@ -185,5 +185,228 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R5.MDEE.10",
+          "module_title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "matched_text": "javascript",
+          "snippet": " données Contenu : – Internet : approfondissement HTML et CSS, (PHP , javascript) – FTP – SGBD : bases d’un SI, modèle relationnel, requêtes (bases SQL), logiciel de BD –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R3.12",
+          "module_title": "Ressources et culture numériques - 3",
+          "page": 131,
+          "matched_text": "HTML",
+          "snippet": " complexe – Analyser des données et les représenter Contenu : – Bases HTML & CSS (en local) – Tableurs : fonctions avancées incluant formulaires, tris, filtres, rec",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=131",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "tc",
+          "module_code": "R5.MDEE.10",
+          "module_title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "matched_text": "HTML",
+          "snippet": "terroger une base de données Contenu : – Internet : approfondissement HTML et CSS, (PHP , javascript) – FTP – SGBD : bases d’un SI, modèle relationnel, requêtes (ba",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.11",
+          "module_title": "Intégration",
+          "page": 64,
+          "matched_text": "HTML",
+          "snippet": "s pages Web efficacement et dans le respect des normes : – Le langage HTML : structuration du contenu, sémantique des balises, normes W3C ; – Les bases du langage C",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R3.12",
+          "module_title": "Ressources et culture numériques - 3",
+          "page": 131,
+          "matched_text": "CSS",
+          "snippet": "xe – Analyser des données et les représenter Contenu : – Bases HTML & CSS (en local) – Tableurs : fonctions avancées incluant formulaires, tris, filtres, recherche",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=131",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "tc",
+          "module_code": "R5.MDEE.10",
+          "module_title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "matched_text": "CSS",
+          "snippet": " une base de données Contenu : – Internet : approfondissement HTML et CSS, (PHP , javascript) – FTP – SGBD : bases d’un SI, modèle relationnel, requêtes (bases SQL",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "1.05",
+          "module_title": "Produire un site Web",
+          "page": 51,
+          "matched_text": "CSS",
+          "snippet": "isant un moteur de template ; – Mettre en place des feuilles de style CSS ; – Vérifier la conformité aux normes du W3C et aux recommandations du WCAG ; – Générer l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=51",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R5.MDEE.10",
+          "module_title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "matched_text": "SQL",
+          "snippet": "pt) – FTP – SGBD : bases d’un SI, modèle relationnel, requêtes (bases SQL), logiciel de BD – Installation d’un CMS et utilisation professionnelle – Production d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "2.03",
+          "module_title": "Concevoir un site web avec une source de données",
+          "page": 77,
+          "matched_text": "SQL",
+          "snippet": "de données contenant les données exploitées ; – Une liste de requêtes SQL permettant au site de fonctionner ; – La modélisation des traitements c’est-à-dire de l’e",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=77",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R2.14",
+          "module_title": "Système d’information",
+          "page": 94,
+          "matched_text": "SQL",
+          "snippet": " des données ; – Langage de définition et de manipulation de données (SQL) ; – Exploitation de systèmes de gestion de base de données relationnelles et des outils ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=94",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "area": "web",
+      "use": "Validate requests, separate application concerns and test server-side behavior.",
+      "priority": 41,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R5.MDEE.10",
+          "module_title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "matched_text": "PHP",
+          "snippet": "ase de données Contenu : – Internet : approfondissement HTML et CSS, (PHP , javascript) – FTP – SGBD : bases d’un SI, modèle relationnel, requêtes (bases SQL), log",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R4.SME.10",
+          "module_title": "Organisation et logistique - 1",
+          "page": 159,
+          "matched_text": "excel",
+          "snippet": "ation et test du matériel). Utilisation ou création d’outils simples (excel) de réservation de salles, hôtels, transports Droit : contrat de cession de spectacle, co",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=159",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R3.DWEB-DI.13",
+          "module_title": "Développement Back",
+          "page": 241,
+          "matched_text": "REST",
+          "snippet": "raitements : agir sur des données de manière efficace (standards CRUD/REST) ; – Modélisation des parcours : la notion de contrôleur et de route ; – Gestion des sess",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=241",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R4.DWEB-DI.07",
+          "module_title": "Développement back",
+          "page": 261,
+          "matched_text": "REST",
+          "snippet": "code propre ; – Découverte des services web : objectifs, normes, API (REST...), formats d’échange (JSON, XML...) ; – Découverte d’un framework côté serveur ; – Reco",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=261",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.06",
+          "module_title": "Développement back avancé",
+          "page": 273,
+          "matched_text": "REST",
+          "snippet": " de fédération d’identité (oAuth, openId) ; – Mise en place d’une API REST ; – Découverte de l’approche micro-service. Apprentissages critiques ciblés : – AC34.02 |",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=273",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

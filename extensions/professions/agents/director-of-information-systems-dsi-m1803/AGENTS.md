@@ -25,6 +25,12 @@ The Director of Information Systems guides the company's IT strategy to optimize
 
 Consult the [detailed expertise](../../skills/director-of-information-systems-dsi-m1803/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/director-of-information-systems-dsi-m1803/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

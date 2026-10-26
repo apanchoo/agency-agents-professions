@@ -1,6 +1,6 @@
 ---
 name: accounting-secretary-m1608
-description: "Prepare, analyze and produce deliverables as a Accounting secretary; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Accounting secretary; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Accounting secretary
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Establish cash flow reporting
 - Carry out accounting operations
 - Apply a legal or regulatory framework
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

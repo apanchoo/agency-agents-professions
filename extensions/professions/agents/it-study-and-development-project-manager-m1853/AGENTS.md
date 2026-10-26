@@ -26,6 +26,12 @@ The IT study and development project manager orchestrates the design of software
 
 Consult the [detailed expertise](../../skills/it-study-and-development-project-manager-m1853/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, GitLab, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, BGP.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-study-and-development-project-manager-m1853/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

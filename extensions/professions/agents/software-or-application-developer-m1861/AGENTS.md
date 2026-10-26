@@ -25,6 +25,12 @@ The software or application developer, architect of the digital world, shapes th
 
 Consult the [detailed expertise](../../skills/software-or-application-developer-m1861/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, JSON, REST APIs, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/software-or-application-developer-m1861/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

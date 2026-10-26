@@ -26,6 +26,12 @@ The logistics supplier, a key role in optimizing the supply chain and guaranteei
 
 Consult the [detailed expertise](../../skills/logistics-supplier-n1303/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/logistics-supplier-n1303/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

@@ -1,6 +1,6 @@
 ---
 name: fixed-and-mobile-network-project-manager-m1854
-description: "Prepare, analyze and produce deliverables as a Fixed and mobile network project manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Fixed and mobile network project manager; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios."
 ---
 
 # Fixed and mobile network project manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Master the elements of the Business Plan and value analysis
 - Design and manage a project
 - Network and cooperate with diverse professional profiles
+
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: systems-and-network-architect-m1839
-description: "Prepare, analyze and produce deliverables as a Systems and network architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Systems and network architect; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Systems and network architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze network security needs
 - Ensure system compatibility with current standards
 - Write specifications and technical specifications
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

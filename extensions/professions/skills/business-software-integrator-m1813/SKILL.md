@@ -1,6 +1,6 @@
 ---
 name: business-software-integrator-m1813
-description: "Prepare, analyze and produce deliverables as a Business software integrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Business software integrator; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL."
 ---
 
 # Business software integrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage developments or settings to be made to components
 - Carry out IT studies and developments
 - Anticipate dangers, problems or material and technical needs
+
+## Technologies and Software
+
+HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

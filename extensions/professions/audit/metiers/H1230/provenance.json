@@ -185,5 +185,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.03",
+          "module_title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "matched_text": "VLAN",
+          "snippet": "formation dont il est le support (segmentation physique et virtuelle, VLAN). Ces compétences s’appuient sur la compréhension des mécanismes intrinsèques aux réseaux",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

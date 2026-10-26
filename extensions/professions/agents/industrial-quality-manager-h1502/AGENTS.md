@@ -26,6 +26,12 @@ The Industrial Quality Manager ensures the excellence and conformity of processe
 
 Consult the [detailed expertise](../../skills/industrial-quality-manager-h1502/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/industrial-quality-manager-h1502/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

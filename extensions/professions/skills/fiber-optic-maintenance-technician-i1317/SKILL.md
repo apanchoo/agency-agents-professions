@@ -1,6 +1,6 @@
 ---
 name: fiber-optic-maintenance-technician-i1317
-description: "Prepare, analyze and produce deliverables as a Fiber optic maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Fiber optic maintenance technician; use for requests within this professional scope. Relevant technologies include BGP, DNS, IPv6, VLAN, VPN."
 ---
 
 # Fiber optic maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Detect installation malfunctions, determine the causes of breakdowns and establish maintenance intervention requests
 - Carry out preventive, systematic or conditional maintenance operations
 - Determine solutions and technical recommendations and communicate them to customers
+
+## Technologies and Software
+
+BGP, DNS, IPv6, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

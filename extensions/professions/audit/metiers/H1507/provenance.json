@@ -255,5 +255,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "ANSYS Granta EduPack",
+      "area": "environmental",
+      "use": "Compare material and process data and document environmental selection assumptions.",
+      "priority": 52,
+      "evidence": [
+        {
+          "programme_id": "pec",
+          "module_code": "R4.03",
+          "module_title": "Evaluation d’impact environnemental",
+          "page": 103,
+          "matched_text": "ANSYS Granta Edupack",
+          "snippet": "de cycle de vie (ex. BEE, Sustainibility (SolidWorks), Bilan Produit, ANSYS Granta Edupack, etc.) Apprentissages critiques ciblés : – AC21.04 | Comparer l’impact environnemental de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=103",
+          "sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SOLIDWORKS Sustainability",
+      "area": "environmental",
+      "use": "Assess product life-cycle impacts with explicit material, process and transport assumptions.",
+      "priority": 52,
+      "evidence": [
+        {
+          "programme_id": "pec",
+          "module_code": "R4.03",
+          "module_title": "Evaluation d’impact environnemental",
+          "page": 103,
+          "matched_text": "Sustainibility (SolidWorks)",
+          "snippet": "iciel d’analyse d’impact environnemental et de cycle de vie (ex. BEE, Sustainibility (SolidWorks), Bilan Produit, ANSYS Granta Edupack, etc.) Apprentissages critiques ciblés : – AC21.04 |",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=103",
+          "sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

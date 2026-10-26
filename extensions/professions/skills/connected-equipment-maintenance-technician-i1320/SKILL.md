@@ -1,6 +1,6 @@
 ---
 name: connected-equipment-maintenance-technician-i1320
-description: "Prepare, analyze and produce deliverables as a Connected equipment maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Connected equipment maintenance technician; use for requests within this professional scope. Relevant technologies include BGP, DNS, VLAN, VPN."
 ---
 
 # Connected equipment maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Support and train a client on the business application or user interface
 - Support customers in using a product or equipment
 - Organize a technical assistance service
+
+## Technologies and Software
+
+BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -220,302 +220,6 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Informatique
 > 128
 
-## BUT Génie électrique et informatique industrielle
-
-Fondement : `code_parent_rome_cite_dans_programme`. Termes de rapprochement : automati. Pages citant le code exact : aucune ; pages citant le parent M1805 : [11].
-
-[Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf) ; SHA-256 `14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c`.
-
-### Ressource R3.06 — Automatique
-
-[Page 102](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=102). Termes communs : automatique.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 1.3.6. Ressource R3.06 : Automatique
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Implanter un système matériel ou logiciel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 3.ESE.01 | Implantation d’une chaîne d’acquisition ou de restitution sur un système électronique
-> – PORTFOLIO | Portfolio
-> Descriptif :
-> Acquis d’apprentissage visés
-> À l’issue de cette ressource, l’étudiant doit être capable de :
-> – Comprendre les objectifs de l’automatique ;
-> – Distinguer et définir les éléments qui composent un système élémentaire ;
-> – Manipuler les fonctions de transfert d’une boucle ouverte et fermée ;
-> – Identifier/modéliser un système dans son environnement ;
-> – Analyser les performances statiques et dynamiques d’un système asservi.
-> Contenu
-> L ’automatique touche à l’étude, l’analyse et au contrôle des systèmes dynamiques industriels ou non. Dans un cadre à temps
-> continu, nous nous focaliserons sur les systèmes élémentaires et leurs combinaisons.
-> Les thèmes recommandés à développer pour atteindre les acquis d’apprentissage visés sont :
-> – Définition de la notion de système ;
-> – Distinguer les différents éléments qui composent un système ;
-> – Comprendre et analyser un schéma fonctionnel d’une installation, un schéma de régulation ou un schéma bloc ainsi
-> que la notion de système.
-> – Introduction à la modélisation et la fonction de transfert :
-> – Connaître les étapes principales menant à la modélisation mathématique des systèmes ;
-> – Déterminer la fonction de transfert à partir d’une équation différentielle traduisant le comportement d’un système
-> linéaire à paramètres constants ;
-> – Établir la campagne de mesures pour la modélisation des systèmes et analyser les résultats.
-> – Systèmes élémentaires, analyses temporelle et/ou fréquentielle :
-> – Comprendre et prédire le comportement/fonctionnement d’un système élémentaire ;
-> – Mettre en œuvre des outils et des critères d’analyses temporelles et/ou fréquentielles.
-> – Identification des systèmes élémentaires :
-> – Mettre en œuvre, sur la base de mesures "terrain", des outils, par exemple graphiques, d’identification/estimation ;
-> – Vérifier et valider le modèle obtenu.
-> – Systèmes bouclés, performances (stabilité, précision, rapidité) :
-> – Réaliser une boucle fermée à partir d’un signal issu d’un capteur ;
-> – Évaluer les performances d’un système bouclé en terme de stabilité, précision et rapidité en lien avec le cahier des
-> charges.
-> Apprentissages critiques ciblés :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC21.02 | Dérisquer les solutions techniques retenues
-> – AC22.01 | Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système
-> – AC23.02 | Exécuter une opération de maintenance (corrective, préventive, améliorative)
-> – AC24.01ESE | Appliquer une procédure de fabrication pour implanter les composants matériels et/ou logiciels dans un
-> système
-> – AC24.02ESE | Évaluer la conformité du système
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 102
-
-### Ressource R4.AII.07 — Automatisme spécialisé
-
-[Page 296](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=296). Termes communs : specialise.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 2.3.7. Ressource R4.AII.07 : Automatisme spécialisé
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Intégrer un système de commande et de contrôle dans un procédé industriel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 4.AII.01 | Amélioration d’un système automatisé : intégration d’une IHM et gestion des modes de marche et d’arrêt.
-> – STAGE | Stage
-> – PORTFOLIO | Portfolio
-> Descriptif :
-> Acquis d’apprentissage visés
-> À l’issue de cette ressource, l’étudiant doit être capable de :
-> – Créer ou modifier une application développée IHM avec un outil logiciel ;
-> – Choisir et mettre en œuvre les réseaux industriels adaptés à un système automatisé c’est-à-dire :
-> – Maitriser les contraintes spécifiques aux réseaux industriels ;
-> – Choisir un réseau industriel et les équipements associés ;
-> – Dimensionner, installer, configurer, diagnostiquer un ou des réseaux de terrain industriels.
-> Contenu
-> Les thèmes recommandés à développer pour atteindre les acquis des apprentissages visés sont :
-> – Partie 1 : réalisation d’une IHM
-> – Connaissance du matériel concerné par les outils de programmation ;
-> – Configuration minimale pour établir la communication API-Pupitre ;
-> – Utilisation des mnémoniques de l’automate pour les variables de communication API-Pupitre ;
-> – Gestion des fenêtres ;
-> – Utilisation des variables internes et externes, numériques et textes, limites, cycles d’acquisition, listes archivage
-> (variables ou alarmes) ;
-> – Transferts/Sauvegardes et restauration entre le PC et le pupitre ;
-> – Fonctions système/gestion des utilisateurs (Mots de passe) ;
-> – Recettes (afficheurs, paramétrage, manipulations d’enregistrements) ;
-> – Commande en supervision : mode dégradé, diagnostic à distance.
-> – Partie 2 : Réseaux Locaux Industriels (RLI)
-> – Mise en réseau d’équipement d’automatisme ;
-> – Ethernet industriel (problématiques, principes retenus, étude en détail d’un protocole, configuration et mise en œuvre
-> des équipements) (Profinet, Ethernet/IP , Ethernet PowerLink, Ethercat...) ;
-> – Bus de terrain industriels et de bâtiments (ModBus, KNX, DALI, Enocean...).
-> Apprentissages critiques ciblés :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC22.01 | Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système
-> – AC22.02 | Certifier le fonctionnement d’un nouvel équipement industriel
-> – AC23.01 | Exécuter l’entretien et le contrôle d’un système en respectant une procédure
-> – AC23.02 | Exécuter une opération de maintenance (corrective, préventive, améliorative)
-> – AC23.03 | Diagnostiquer un dysfonctionnement dans un système
-> – AC24.01AII | Appliquer la procédure d’installation d’un système
-> Mots clés :
-> Touch-Panel – Système SCADA (Supervisory Control And Data Acquisition) – RLI (automate vers E/S déportées – automate-
-> automate – automate-IHM)
-> Volume horaire :
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 296
-
-### Ressource R3.14 — Réseaux spécialisés AII et EME
-
-[Page 193](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=193). Termes communs : specialise.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 1.3.14. Ressource R3.14 : Réseaux spécialisés AII et EME
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Installer tout ou partie d’un système de production, de conversion et de gestion d’énergie
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
-> – SAÉ 3.EME.01 | Dimensionnement et mise en service de la partie puissance et commande d’un système de conversion
-> de l’énergie
-> – SAÉ 3.EME.02 | Vérification et maintenance de la partie puissance et commande d’un système de conversion de l’éner-
-> gie
-> – PORTFOLIO | Portfolio
-> Descriptif :
-> Acquis d’apprentissage visés
-> A l’issue de cette ressource, l’étudiant doit être capable de :
-> – Communiquer, échanger (en français et en anglais) avec des personnes compétentes pour une opération de mainte-
-> nance liée aux réseaux ;
-> – Installer et mettre en service des réseaux informatiques et/ou industriels selon le contexte industriel local en vue de
-> réaliser des opérations d’exploitation et de maintenance ;
-> – Diagnostiquer et dépanner des réseaux ;
-> – Échanger sur les enjeux des réseaux dans l’Industrie 4.0.
-> Contenu
-> Les réseaux (informatiques et/ou industriels) ont pour fonction la mise en communication de matériel hétérogène.
-> Les thèmes recommandés à développer pour atteindre les acquis d’apprentissage visés sont :
-> – Réseaux industriels :
-> – Exprimer les besoins (taille de l’information, temps de réponse...) ;
-> – Comprendre (et/ou citer) les différences avec un réseau informatique (adaptations et limitations du modèle OSI pour
-> les réseaux industriels...).
-> – Industrie 4.0 :
-> – Citer les points clés, les enjeux et les perspectives de l’Industrie 4.0 ;
-> – Donner des exemples d’applications.
-> Prérequis :
-> – R3.12 | Généralités sur les réseaux et la cybersécurité
-> Apprentissages critiques ciblés :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC21.02 | Dérisquer les solutions techniques retenues
-> – AC22.01 | Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système
-> – AC22.02 | Certifier le fonctionnement d’un nouvel équipement industriel
-> – AC23.01 | Exécuter l’entretien et le contrôle d’un système en respectant une procédure
-> – AC23.02 | Exécuter une opération de maintenance (corrective, préventive, améliorative)
-> – AC23.03 | Diagnostiquer un dysfonctionnement dans un système
-> – AC23.04 | Identifier la cause racine du dysfonctionnement
-> – AC24.01EME | Appliquer la procédure d’installation d’un système
-> – AC24.02EME | Exécuter la mise en service d’un système en respectant la procédure
-> Mots clés :
-> Topologie réseau – supports de transmission – équipements réseaux – adressage – TCP/IP – modèle OSI – liaison série –
-> protocoles
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 193
-
-### SAÉ 4.AII.01 — Amélioration d’un système automatisé : intégration d’une IHM et gestion des modes de marche et d’arrêt.
-
-[Page 282](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=282). Termes communs : integration, marche.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 2.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 2.2.1. SAÉ 4.AII.01 : Amélioration d’un système automatisé : intégration d’une IHM et gestion des modes de marche
-> et d’arrêt.
-> Compétences ciblées :
-> – Assurer le maintien en condition opérationnelle d’un système
-> – Intégrer un système de commande et de contrôle dans un procédé industriel
-> – Concevoir la partie GEII d’un système
-> – Vérifier la partie GEII d’un système
-> Objectifs et problématique professionnelle :
-> L ’objectif de la SAÉ est d’améliorer la partie commande d’un système automatisé en intégrant les thèmes parmi :
-> – Commande de machine électrique en vitesse variable avec mise en réseau de variateur.
-> – Supervision (acquisition et concentration de données) en réalisant un écran de supervision type IHM classique.
-> – Mise en place d’une régulation d’un process industriel .
-> – Mise en réseau d’automate, E/S déportées, communication sans fil industriel (RFID, Wifi).
-> – Programmation en ligne (au teach pendant) d’un robot
-> Descriptif générique :
-> L ’étudiant sera placé dans un contexte professionnel l’amenant à :
-> – intégrer un système automatisé en garantissant le respect du cahier des charges du client selon les normes réglemen-
-> taires et en gérant les réseaux industriels pour une meilleure disponibilité et sécurité
-> – effectuer les tests et mesures nécessaires à la vérification du système en mettant en œuvre un plan d’essais et d’éva-
-> luation, dans une analyse qualitative et corrective tout en tenant compte des spécificités matérielles, règlementaires et
-> contextuelles
-> – intervenir sur un système automatisé pour effectuer au moins une opération de maintenance et d’entretien
-> Types de livrable attendus en fin de SAÉ :
-> – un schéma fonctionnel simple du système
-> – un schéma structurel du système
-> – les logigrammes
-> – un prototype opérationnel
-> – un dossier de vérification
-> – un dossier de maintenance
-> – une analyse des limites de fonctionnement (dérisquer)
-> Apprentissages critiques :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC21.02 | Dérisquer les solutions techniques retenues
-> – AC22.01 | Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système
-> – AC22.02 | Certifier le fonctionnement d’un nouvel équipement industriel
-> – AC23.03 | Diagnostiquer un dysfonctionnement dans un système
-> – AC23.04 | Identifier la cause racine du dysfonctionnement
-> – AC24.01AII | Appliquer la procédure d’installation d’un système
-> – AC24.02AII | Exécuter la mise en service d’un système en respectant la procédure
-> Ressources mobilisées et combinées :
-> – R4.01 | Anglais
-> – R4.02 | Culture et Communication
-> – R4.03 | Vie de l’Entreprise : Droit du travail, propriété industrielle, économie numérique, protection des données
-> – R4.04 | Outils Mathématiques et Logiciels
-> – R4.05 | Projet Personnel et Professionnel
-> – R4.06 | Automatique
-> – R4.AII.07 | Automatisme spécialisé
-> – R4.AII.08 | Robotique
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 282
-
-### SAÉ 3.AII.01 — Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal
-
-[Page 252](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252). Termes communs : integration, programmation.
-
-Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
-
-> 1.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
-> 1.2.1. SAÉ 3.AII.01 : Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal
-> Compétences ciblées :
-> – Intégrer un système de commande et de contrôle dans un procédé industriel
-> – Concevoir la partie GEII d’un système
-> Objectifs et problématique professionnelle :
-> L ’objectif de la SAÉ sera de réaliser l’automatisation du fonctionnement normal d’une plateforme, telle qu’on pourrait la trouver
-> en milieu professionnel, en utilisant un langage de programmation avancé et structuré.
-> Descriptif générique :
-> La SAÉ mettra en œuvre les thèmes suivants (liste non exhaustive) :
-> – Choix et dimensionnement de la partie opérative (capteurs, actionneurs)
-> – Acquisition et génération d’une grandeur analogique
-> – Commande de variateur (TOR et/ou module de commande analogique)
-> – Mise en œuvre et configuration d’un réseau de communication pour la commande d’un équipement distant
-> – Réalisation d’un équipement d’automatisme communiquant (exemple : esclave ModBus microprogrammé, gestion de
-> trames...)
-> – Application à un process industriel ou un bâtiment intelligent
-> Types de livrable attendus en fin de SAÉ :
-> – schéma fonctionnel simple du système
-> – schéma structurel du système
-> – logigrammes
-> – prototype opérationnel
-> – dossier de conception
-> – dossier de fabrication
-> – analyse des limites de fonctionnement (dérisquer)
-> Apprentissages critiques :
-> – AC21.01 | Proposer des solutions techniques liées à l’analyse fonctionnelle
-> – AC24.01AII | Appliquer la procédure d’installation d’un système
-> – AC24.02AII | Exécuter la mise en service d’un système en respectant la procédure
-> Ressources mobilisées et combinées :
-> – R3.01 | Anglais
-> – R3.02 | Culture et communication
-> – R3.03 | Vie de l’Entreprise : Environnement éco-socio-technologique de l’entreprise, normalisation, réglementation REP
-> – R3.04 | Outils Mathématiques et Logiciels
-> – R3.05 | Projet Personnel et Professionnel
-> – R3.06 | Automatique
-> – R3.07 | Informatique Industrielle
-> – R3.08 | Electronique
-> – R3.09 | Energie
-> – R3.10 | Physique Appliquée : Mécanique et Propagation guidée
-> – R3.11 | Maintenance
-> – R3.12 | Généralités sur les réseaux et la cybersécurité
-> – R3.13 | Physique Appliquée spéc AII et EME : Complément Mécanique
-> – R3.14 | Réseaux spécialisés AII et EME
-> – R3.AII.15 | Supervision / Télégestion
-> – R3.AII.16 | Automatisme spécialisé
-> Volume horaire :
-> Volume horaire : à définir localement par chaque IUT
-> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
-> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Génie électrique et informatique industrielle
-> 252
-
 ## BUT Réseaux et télécommunications
 
 Fondement : `rapprochement_editorial_domaine_et_termes`. Termes de rapprochement : systeme. Pages citant le code exact : aucune ; pages citant le parent M1805 : aucune.
@@ -743,3 +447,237 @@ Extrait de la page contenant la fiche (donnée de référence, pas une instructi
 > ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2022 -
 > http://www.enseignementsup-recherche.gouv.fr - B.U.T. Réseaux et Télécommunications
 > 349
+
+## BUT Science des données
+
+Fondement : `rapprochement_editorial_domaine_et_termes`. Termes de rapprochement : donnee. Pages citant le code exact : aucune ; pages citant le parent M1805 : aucune.
+
+[Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf) ; SHA-256 `7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8`.
+
+### Ressource R3.01 — Utilisation avancée d’outils de reporting
+
+[Page 82](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82). Termes communs : avancee, utilisation.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.3. Fiches Ressources
+> 1.3.1. Ressource R3.01 : Utilisation avancée d’outils de reporting
+> Compétence ciblée :
+> – Traiter des données à des fins décisionnelles
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> Descriptif :
+> L ’objectif de cette ressource est d’approfondir les notions et les techniques vues au cours de la première année du B.U.T.
+> On abordera en particulier l’utilisation de multiples sources de données (Entrepôts de données, données ouvertes, systèmes
+> annexes...). Les fonctionnalités plus élaborées pour la construction de tableaux pourront être également abordées : interac-
+> tions utilisateurs, synchronisation avancées des composants, storytelling, interconnexion des outils de reporting avec d’autres
+> langages.
+> Contenus :
+> – Utilisation d’outils avancés de reporting
+> – Définition et création de tableaux de bords
+> – Tests et recettes de tableaux de bords
+> – Intégration de données de sources multiples
+> – Comparaison d’outils
+> Les outils de reporting permettent la diffusion de données au sein d’une entreprise, et en cela sont des éléments essentiels
+> de la stratégie de celle-ci. Cette ressource permet aux étudiants d’acquérir les techniques pour la définition et la création de
+> tableaux de bords évolués, à l’aide d’outils spécifiques.
+> Apprentissages critiques ciblés :
+> – AC21.01 | Comprendre l’organisation des données de l’entreprise
+> – AC21.04 | Comprendre la nécessité de tester, corriger et documenter un programme
+> Mots clés :
+> Tableau de bord – interaction utilisateur – outils dédiés – multiples sources
+> Volume horaire :
+> Volume horaire défini nationalement : 20 heures dont 20 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2023 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Science des données
+> 82
+
+### Ressource R4.03 — Classification automatique
+
+[Page 103](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=103). Termes communs : automatique.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.3.3. Ressource R4.03 : Classification automatique
+> Compétence ciblée :
+> – Analyser statistiquement les données
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 4.02 | Reporting d’une analyse multivariée
+> Descriptif :
+> L ’objectif de cette ressource est de présenter l’extraction de connaissances, à partir de données multivariées, par les méthodes
+> exploratoires d’apprentissage automatique (machine learning) puis de se concentrer sur la compréhension et l’interprétation
+> des méthodes d’apprentissage automatique non supervisé de classification.
+> Contenus :
+> – Introduction et définition des notions de machine learning et data mining vers la notion de data science avec l’arrivée de
+> nouvelles données
+> – Déroulement d’une procédure d’apprentissage automatique non supervisée.
+> – Présentation de méthodes d’apprentissage automatique non supervisé de classification automatique. Méthodes de clas-
+> sification hiérarchiques et non-hiérarchiques, méthodes mixtes.
+> – Évaluation et caractérisation d’une classification : distances de classes, mesures de qualité d’une classification, déter-
+> mination du nombre optimal de classes, analyse spatiale de la classification, profils-classes, notion de silhouette.
+> L ’utilisation d’un logiciel d’analyse statistique pour la mise en œuvre des méthodes est indispensable.
+> L ’introduction de cette ressource participe à l’apprentissage des différentes familles de méthodes statistiques en machine
+> learning. Elles diffèrent par leur objectif de prédiction ou de description. Cette ressource cible les méthodes d’apprentissage
+> non supervisé et repose sur des conditions d’applications.
+> Prérequis :
+> – R4.02 | Méthodes factorielles
+> Apprentissages critiques ciblés :
+> – AC22.01 | Prendre conscience de la différence entre modélisation statistique et analyse exploratoire
+> – AC22.03 | Comprendre l’intérêt des analyses multivariées pour synthétiser et résumer l’information portée par plusieurs
+> variables
+> Mots clés :
+> Apprentissage non supervisé – machine learning – clustering – classification automatique
+> Volume horaire :
+> Volume horaire défini nationalement : 15 heures dont 5 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2023 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Science des données
+> 103
+
+### Ressource R4.EMS.08 — Modèle linéaire
+
+[Page 170](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170). Termes communs : modele.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.3.8. Ressource R4.EMS.08 : Modèle linéaire
+> Compétences ciblées :
+> – Modéliser les données dans un cadre statistique
+> – Analyser statistiquement les données
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 4.EMS.01 | Expliquer ou prédire une variable quantitative à partir de plusieurs facteurs
+> Descriptif :
+> L ’objectif de cette ressource est de permettre à l’étudiant d’ajuster un modèle linéaire multivarié à partir d’un échantillon d’indi-
+> vidus pour expliquer les variations d’une variable quantitative à partir de plusieurs variables explicatives.
+> Contenus :
+> – Régression linéaire multiple : extension de l’inférence au cadre multidimensionnel
+> – Intervalles de confiance et tests sur les paramètres, prévision
+> – Validation du modèle : analyse des résidus, homogénéité des variances, observations influentes et/ou aberrantes
+> – Sélection de variables et choix de modèles : détection et traitement de la multicolinéarité, procédures de sélection, critère
+> AIC, ...
+> – Analyse de la variance à 1 facteur : modélisation et tests d’hypothèse
+> – Tests de comparaisons multiples
+> Ces notions permettent de comprendre l’impact du type de données sur le choix de la modélisation à mettre en œuvre, à
+> apprécier les limites de validité et les conditions d’application d’un modèle, participent des outils mathématiques nécessaires
+> pour manipuler les concepts théoriques sous-jacent aux compétences statistiques, et de réaliser l’importance de la mise en
+> œuvre d’une procédure de test statistique pour valider ou non une hypothèse.
+> Apprentissages critiques ciblés :
+> – AC22.01 | Prendre conscience de la différence entre modélisation statistique et analyse exploratoire
+> – AC22.03 | Comprendre l’intérêt des analyses multivariées pour synthétiser et résumer l’information portée par plusieurs
+> variables
+> – AC22.05 | Apprécier les limites de validité et les conditions d’application d’une analyse
+> – AC24.03EMS | Comprendre l’impact du type de données sur le choix de la modélisation à mettre en œuvre
+> – AC24.04EMS | Apprécier les limites de validité et les conditions d’application d’un modèle
+> – AC24.05EMS | Réaliser l’importance de la mise en œuvre d’une procédure de test statistique pour valider ou non une
+> hypothèse
+> Mots clés :
+> Modélisation – régression – intervalles de confiance – tests d’hypothèse – prévision – sélection de variables – critère AIC –
+> ANOVA
+> Volume horaire :
+> Volume horaire défini nationalement : 35 heures dont 25 heures de TP
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2023 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Science des données
+> 170
+
+### SAÉ 3.02 — Intégration de données dans un datawarehouse
+
+[Page 78](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=78). Termes communs : integration.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.2.2. SAÉ 3.02 : Intégration de données dans un datawarehouse
+> Compétences ciblées :
+> – Traiter des données à des fins décisionnelles
+> – Valoriser une production dans un contexte professionnel
+> Objectifs et problématique professionnelle :
+> L ’approche décisionnelle dans l’entreprise repose sur la mise en place d’espaces de stockage de données. A ce titre, le diplômé
+> doit connaître les principes liés à la mise en œuvre et à l’alimentation de l’entrepôt de données. L ’alimentation d’un entrepôt de
+> données à partir de sources existantes est la première étape de la chaîne décisionnelle que doivent savoir mettre en œuvre les
+> diplômés dans une entreprise ou une organisation.
+> En tant que consultant décisionnel, l’étudiant pourra être amené à assurer la maintenance de l’architecture et veiller à l’intégrité
+> des données de l’entrepôt.
+> Les objectifs de cette SAÉ sont les suivants :
+> – Faire comprendre à l’étudiant l’apport de l’entrepôt de données dans un environnement décisionnel
+> – L ’amener à réfléchir à la structuration des données nécessaire
+> – Introduire l’alimentation d’un entrepôt de données par un ETL
+> Descriptif générique :
+> L ’étudiant est mis en situation de manipulation d’un entrepôt de données. Il se voit confié la mission de prendre en charge
+> l’alimentation d’un entrepôt de données à partir de sources existantes. Après avoir analysé la structure de l’entrepôt à ali-
+> menter ainsi que les sources à exploiter, il doit savoir définir le plan d’alimentation et spécifier les transformations de données
+> nécessaires. Il peut ensuite procéder à la mise en œuvre concrète des actions requises.
+> Cette SAÉ permet d’introduire les ETL à travers la pratique d’outils du marché et de traiter des formats divers (texte, numérique,
+> images, ...). Le cas d’étude proposé confronte l’étudiant aux problématiques de l’intégration de données hétérogènes.
+> Apprentissages critiques :
+> – AC21.01 | Comprendre l’organisation des données de l’entreprise
+> – AC21.02 | Réaliser le rôle central et spécifique de l’entrepôt de données dans la chaine décisionnelle
+> – AC21.03 | Identifier et résoudre les problèmes d’intégration de sources complémentaires et hétérogènes
+> – AC21.04 | Comprendre la nécessité de tester, corriger et documenter un programme
+> – AC21.05 | Apprécier l’intérêt de briques logicielles existantes et savoir les utiliser
+> – AC23.03 | Saisir la nécessité de choisir des indicateurs pertinents pour communiquer sur les résultats
+> – AC23.04 | Prendre conscience de la rigueur requise dans ses productions et dans la communication à leur propos
+> Ressources mobilisées et combinées :
+> – R3.02 | Systèmes d’information décisionnels
+> – R3.04 | Programmation statistique automatisée
+> – R3.VCOD.11 | Projet Personnel et Professionnel 3
+> Volume horaire :
+> Volume horaire : à définir localement par chaque IUT
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2023 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Science des données
+> 78
+
+### SAÉ 5.EMS.01 — Mener une étude statistique dans un domaine d’application
+
+[Page 173](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=173). Termes communs : application.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 3.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 3.2.1. SAÉ 5.EMS.01 : Mener une étude statistique dans un domaine d’application
+> Compétences ciblées :
+> – Modéliser les données dans un cadre statistique
+> – Traiter des données à des fins décisionnelles
+> – Analyser statistiquement les données
+> – Valoriser une production dans un contexte professionnel
+> Objectifs et problématique professionnelle :
+> L ’étude statistique correspond à l’étude d’un fait par le biais de la collecte, de l’analyse, de l’interprétation et de la représentation
+> de données qui dans la finalité doivent être compréhensible par tous. Toutefois, mener une étude statistique nécessite en amont
+> des connaissances dans le champ d’application, afin d’identifier les variables d’intérêt et la population d’étude et comprendre
+> les enjeux et les objectifs de l’étude.
+> En tant que chargé d’étude statistique dans un domaine d’application (santé, marketing, banque-assurance, contrôle qualité,
+> démographie, sociologie, ...), l’étudiant pourra être amené à réaliser des études statistiques sur le secteur d’application. Il fera
+> également l’interface avec le métier. Pour accomplir sa mission, il devra réunir des informations disponibles liées au secteur
+> d’activité. Il participera à la rédaction de rapports et la restitution des informations auprès des acteurs métiers.
+> Les objectifs de cette SAÉ sont les suivants :
+> – Accompagner l’étudiant dans la mise en place de toutes les étapes d’une étude statistique amenée par un commanditaire
+> – L ’amener à comprendre qu’un niveau de connaissance suffisant d’un domaine d’application est nécessaire pour pouvoir
+> exploiter et analyser des données liées à une problématique
+> – Lui faire comprendre l’importance du nettoyage des données
+> – Le conduire à comparer différents modèles et choisir le modèle le plus adapté
+> Descriptif générique :
+> L ’étudiant sera mis en situation de mise en place d’une étude statistique au sein d’un secteur d’activité spécifique.
+> Une étude statistique se déroule dans un contexte applicatif précis. Il est nécessaire d’avoir des connaissances sur le domaine
+> d’activité et sur les méthodes statistiques qui lui sont spécifiques.
+> A partir de données fournies par un commanditaire, l’étudiant doit mettre en œuvre des méthodes d’analyse de données, en
+> couvrant toutes les étapes.
+> L ’étudiant doit savoir comprendre et traduire le besoin du commanditaire en termes d’analyse de données. Il doit savoir assurer
+> le nettoyage des données pour la qualité des résultats, mettre en œuvre des méthodes de statistiques descriptives (univariées,
+> bivariées, multivariées) pour l’analyse des données et la sélection de variables, mettre en œuvre des méthodes de modélisation
+> statistique à des fins de prévision et savoir valoriser ses résultats par des choix graphiques adaptés et des supports de com-
+> munication appropriés (rapport d’étude, document de synthèse, présentation orale, ...). Une approche critique sur les limites de
+> l’étude et les biais de l’analyse est attendue.
+> Apprentissages critiques :
+> – AC31.01 | Identifier les solutions technologiques permettant la collecte et la diffusion de données
+> – AC31.02 | Comprendre les spécificités des données complexes et de leur exploitation
+> – AC32.01 | Prendre conscience des différences entre des outils statistiques pour choisir le plus adapté
+> – AC32.02 | Saisir l’importance de la mise en œuvre de méthodes adaptées à des domaines et des données spécifiques
+> (Marketing, Biostatistique, Statistique spatiale, Gestion . . .)
+> – AC33.03 | Identifier les clés d’une bonne communication (procédures et techniques utilisées)
+> – AC33.04 | Mesurer l’importance de comprendre et de répondre à l’ensemble des problématiques posées
+> – AC33.05 | Être force de proposition
+> – AC33.06 | Prendre conscience de la nécessité d’intégrer la vision de l’interlocuteur (transversalité, international, multi-
+> culture, niveau d’expertise. . .)
+> – AC34.01EMS | Comprendre l’intérêt des approches statistiques pour la fiabilisation, la validation, les incertitudes, les
+> imprécisions des données
+> – AC34.02EMS | Comprendre l’intérêt de la problématique métier pour réaliser la modélisation
+> – AC34.03EMS | Viser la réalisation d’un processus de modélisation dans son ensemble
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - 2023 -
+> http://www.enseignementsup-recherche.gouv.fr - B.U.T. Science des données
+> 173

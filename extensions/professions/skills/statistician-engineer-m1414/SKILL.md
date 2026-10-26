@@ -1,6 +1,6 @@
 ---
 name: statistician-engineer-m1414
-description: "Prepare, analyze and produce deliverables as a Statistician engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Statistician engineer; use for requests within this professional scope. Relevant technologies include Python, SQL, Talend, R, SAS, Tableau Software."
 ---
 
 # Statistician engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write information
 - Coordinate business intelligence projects
 - Coordinate the progress of a study
+
+## Technologies and Software
+
+Python, SQL, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

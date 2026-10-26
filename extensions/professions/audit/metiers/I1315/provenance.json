@@ -254,5 +254,159 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.14",
+          "module_title": "Informatique spécialisée",
+          "page": 113,
+          "matched_text": "Python",
+          "snippet": " en œuvre d’une plateforme intégrée de développement (IDE) classique (Python, Labview...) ; – Interfaçage et commande d’instruments pour le développement de bancs de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=113",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.14",
+          "module_title": "Informatique spécialisée",
+          "page": 113,
+          "matched_text": "Labview",
+          "snippet": "e d’une plateforme intégrée de développement (IDE) classique (Python, Labview...) ; – Interfaçage et commande d’instruments pour le développement de bancs de tests. – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=113",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv4",
+          "snippet": "ance pourront servir de support). Contenus : – Protocole et adressage IPv4&6. – Traduction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv6",
+          "snippet": " lien – Stratégies de filtrage – CIDR – VLSM – Agrégation de routes – IPv6 – NDP Volume horaire : Volume horaire défini nationalement : 49 heures dont 22 heures de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "OSPF",
+          "snippet": "uction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – TCP , UDP . – Politiques de filtrage ACL. Apprentissages critiques ciblés : – AC11.03",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

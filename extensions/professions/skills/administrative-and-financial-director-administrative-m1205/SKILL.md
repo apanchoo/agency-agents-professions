@@ -1,6 +1,6 @@
 ---
 name: administrative-and-financial-director-administrative-m1205
-description: "Prepare, analyze and produce deliverables as a Administrative and financial director / Administrative and financial director (DAF); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Administrative and financial director / Administrative and financial director (DAF); use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Administrative and financial director / Administrative and financial director (DAF)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure regulatory compliance of economic practices
 - Evaluate the financial impact of strategic decisions
 - Optimize organizational performance
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

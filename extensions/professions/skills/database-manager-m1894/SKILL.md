@@ -1,6 +1,6 @@
 ---
 name: database-manager-m1894
-description: "Prepare, analyze and produce deliverables as a Database Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Database Manager; use for requests within this professional scope. Relevant technologies include Python, SQL, pandas, Talend, R, SAS."
 ---
 
 # Database Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Use database software and the Office suite in a relevant and efficient manner
 - Ensure systems maintenance
 - Ensure systems compliance with regulations
+
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

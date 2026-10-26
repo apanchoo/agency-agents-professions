@@ -100,5 +100,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Linux",
+          "snippet": "entionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, déplaceme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Windows",
+          "snippet": "tiques mentionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, dép",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

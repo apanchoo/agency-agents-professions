@@ -1,6 +1,6 @@
 ---
 name: embedded-ai-specialist-m1873
-description: "Prepare, analyze and produce deliverables as a Embedded AI specialist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Embedded AI specialist; use for requests within this professional scope. Relevant technologies include Python, Linux, SQL, Java, C++, LoRa."
 ---
 
 # Embedded AI specialist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensuring the compatibility of AI systems with security standards
 - Monitor AI system performance in real time
 - Ensure technological and regulatory monitoring
+
+## Technologies and Software
+
+Python, Linux, SQL, Java, C++, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

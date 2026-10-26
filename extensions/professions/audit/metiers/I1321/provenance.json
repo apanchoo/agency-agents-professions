@@ -271,5 +271,94 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "GNU Octave",
+      "area": "simulation",
+      "use": "Run reproducible numerical models and check algorithm and precision assumptions.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Octave",
+          "snippet": "els d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à dévelop",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Labview",
+          "snippet": "se faire à l’aide d’outils logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Scilab",
+          "snippet": "s logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BIM",
+      "area": "cad",
+      "use": "Coordinate model information, naming, exchange requirements and discipline interfaces.",
+      "priority": 53,
+      "evidence": [
+        {
+          "programme_id": "mt2e",
+          "module_code": "1.02",
+          "module_title": "Préparation de l’instrumentation d’une installation ou d’un bâtiment et mesures en vue de la réalisation de son bilan énergétique",
+          "page": 57,
+          "matched_text": "BIM",
+          "snippet": "ructives – R1.06 | Énergie électrique – R1.07 | Dessin d’ingénierie - BIM – R1.08 | Mesure et instrumentation en énergétique – R1.09 | Tableurs – R1.10 | Bases mat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=57",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "mt2e",
+          "module_code": "1.04",
+          "module_title": "Mise en service et maintenance de premier niveau d’une installation",
+          "page": 61,
+          "matched_text": "BIM",
+          "snippet": "ynamique – R1.06 | Énergie électrique – R1.07 | Dessin d’ingénierie - BIM ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=61",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

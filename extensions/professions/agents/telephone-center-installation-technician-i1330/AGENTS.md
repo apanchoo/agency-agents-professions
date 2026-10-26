@@ -25,6 +25,12 @@ The Telephone Center Installation Technician manages the installation and mainte
 
 Consult the [detailed expertise](../../skills/telephone-center-installation-technician-i1330/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Windows, Wireshark, Power Pivot, Microsoft Excel, Power BI, BGP, DNS, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/telephone-center-installation-technician-i1330/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

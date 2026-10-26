@@ -14,12 +14,12 @@ Select techniques that fit the task and available resources.
 - Artificial intelligence techniques
 - Advanced programming
 - Optimization of complex services
-- Automatic
-- Specialized automation
-- AII and EME specialized networks
 - Technology monitoring
 - Programming Fundamentals
 - Professional Expression-Culture-Communication: Integrating into an organization
+- Advanced use of reporting tools
+- Automatic classification
+- Linear model
 
 ## Validation Scenarios
 
@@ -27,10 +27,10 @@ Choose a scenario suited to the deliverable and specify inputs, constraints, exp
 
 - Evolution of an existing application
 - Development of a complex application
-- Improvement of an automated system: integration of an HMI and management of start and stop modes.
-- Integration and programming of an automated system in normal operating mode
 - Carry out a technological watch
 - Implement an IP telephony solution according to customer needs
+- Data integration in a data warehouse
+- Conduct a statistical study in a field of application
 
 ## Deliverables
 

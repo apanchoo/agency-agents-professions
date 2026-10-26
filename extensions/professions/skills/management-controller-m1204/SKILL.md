@@ -1,6 +1,6 @@
 ---
 name: management-controller-m1204
-description: "Prepare, analyze and produce deliverables as a Management Controller; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Management Controller; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Management Controller
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Calculate the margins, profitability of a product or activity
 - Design management tools, indicators, dashboards
 - Design a forecast activity plan
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -26,6 +26,12 @@ The Geomatician is an expert in geographic information systems, ensures and coor
 
 Consult the [detailed expertise](../../skills/geomatician-m1895/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, HTML, CSS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/geomatician-m1895/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

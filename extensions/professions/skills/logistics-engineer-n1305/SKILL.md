@@ -1,6 +1,6 @@
 ---
 name: logistics-engineer-n1305
-description: "Prepare, analyze and produce deliverables as a Logistics engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Logistics engineer; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Logistics engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Synchronize logistics activities with specifications
 - Develop indicators and dashboards allowing the monitoring and analysis of stocks and supplies
 - Report your action, risks or anomalies to the manager
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

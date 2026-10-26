@@ -27,6 +27,12 @@ The Automated Installations Maintenance Technician is essential to guarantee the
 
 Consult the [detailed expertise](../../skills/automated-installation-maintenance-technician-i1302/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab, Arduino, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/automated-installation-maintenance-technician-i1302/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

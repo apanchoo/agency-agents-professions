@@ -1,6 +1,6 @@
 ---
 name: clinical-research-associate-arc-h1211
-description: "Prepare, analyze and produce deliverables as a Clinical Research Associate (ARC); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Clinical Research Associate (ARC); use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Clinical Research Associate (ARC)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure monitoring and quality control of the clinical study
 - Ensure compliance of practices with current regulations
 - Guarantee the archiving of clinical study documentation and administrative and regulatory documents
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

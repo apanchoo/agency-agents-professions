@@ -1,6 +1,6 @@
 ---
 name: interactive-multimedia-architect-m1850
-description: "Prepare, analyze and produce deliverables as a Interactive multimedia architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Interactive multimedia architect; use for requests within this professional scope. Relevant technologies include OpenStack, HTML, CSS, SQL, WebGL, WebXR."
 ---
 
 # Interactive multimedia architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Assess, prevent, and manage risks and safety
 - Effectively communicate design concepts to clients
 - Advise an organization, a structure
+
+## Technologies and Software
+
+OpenStack, HTML, CSS, SQL, WebGL, WebXR, DHCP, DNS, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

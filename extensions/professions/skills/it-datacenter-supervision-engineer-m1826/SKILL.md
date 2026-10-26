@@ -1,6 +1,6 @@
 ---
 name: it-datacenter-supervision-engineer-m1826
-description: "Prepare, analyze and produce deliverables as a IT Datacenter Supervision Engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT Datacenter Supervision Engineer; use for requests within this professional scope. Relevant technologies include Python, SQL, pandas, Talend, R, SAS."
 ---
 
 # IT Datacenter Supervision Engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Locate the breakdown or failure through checks, tests and measurements
 - Carry out preventive, systematic or conditional maintenance operations
 - Guarantee the proper functioning, availability and performance of network elements or software under your responsibility
+
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

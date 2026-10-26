@@ -257,5 +257,113 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "Javascript",
+          "snippet": "ngages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’architecture cl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.09",
+          "module_title": "Programmation web",
+          "page": 110,
+          "matched_text": "Javascript",
+          "snippet": "tudiants, en particulier sur les aspects client/serveur. Contenus : – Javascript – Utilisation de librairies autour des données – Programmation client/serveur Lors de la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=110",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "HTML",
+          "snippet": "ndre les langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "CSS",
+          "snippet": "es langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’arc",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.REAL.01",
+          "module_title": "Développement d’une application",
+          "page": 109,
+          "matched_text": "SQL",
+          "snippet": " | Programmation système – R3.06 | Architecture des réseaux – R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.12 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=109",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R3.DWEB-DI.13",
+          "module_title": "Développement Back",
+          "page": 241,
+          "matched_text": "REST",
+          "snippet": "raitements : agir sur des données de manière efficace (standards CRUD/REST) ; – Modélisation des parcours : la notion de contrôleur et de route ; – Gestion des sess",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=241",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

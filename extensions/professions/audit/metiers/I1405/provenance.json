@@ -180,5 +180,102 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "OpenStack",
+      "area": "virtualization",
+      "use": "Provision virtual compute, network and storage resources with explicit quotas and access controls.",
+      "priority": 25,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.12",
+          "module_title": "Solutions Cloud",
+          "page": 255,
+          "matched_text": "Openstack",
+          "snippet": " services et/ou les solutions pour l’hébergement en interne (par ex : Openstack, OpenNebula, ProxMox...) ; – (l’installation,) la configuration, et l’administration d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv4",
+          "snippet": "ance pourront servir de support). Contenus : – Protocole et adressage IPv4&6. – Traduction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv6",
+          "snippet": " lien – Stratégies de filtrage – CIDR – VLSM – Agrégation de routes – IPv6 – NDP Volume horaire : Volume horaire défini nationalement : 49 heures dont 22 heures de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "OSPF",
+          "snippet": "uction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – TCP , UDP . – Politiques de filtrage ACL. Apprentissages critiques ciblés : – AC11.03",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

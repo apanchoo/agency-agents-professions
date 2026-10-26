@@ -1,6 +1,6 @@
 ---
 name: it-asset-manager-m1869
-description: "Prepare, analyze and produce deliverables as a IT asset manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT asset manager; use for requests within this professional scope. Relevant technologies include Linux, Windows, pandas, BGP, DNS, VLAN."
 ---
 
 # IT asset manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement IT security measures
 - Plan maintenance interventions
 - Supervise the installation of new equipment
+
+## Technologies and Software
+
+Linux, Windows, pandas, BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Blockchain Engineer plays a role in developing and securing digital transact
 
 Consult the [detailed expertise](../../skills/blockchain-engineer-m1865/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, DHCP, DNS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/blockchain-engineer-m1865/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

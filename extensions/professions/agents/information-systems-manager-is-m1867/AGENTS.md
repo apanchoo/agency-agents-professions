@@ -25,6 +25,12 @@ The Information Systems Manager manages the IT infrastructure, administration of
 
 Consult the [detailed expertise](../../skills/information-systems-manager-is-m1867/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Wireshark, JavaScript, HTML, CSS, SQL, Talend, Tableau Software, BGP, DNS, VPN, JSON, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/information-systems-manager-is-m1867/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

@@ -25,6 +25,12 @@ The Quality Safety Environment Manager -QSE- in industry ensures the continuous 
 
 Consult the [detailed expertise](../../skills/quality-safety-environment-manager-qse-in-industry-h1523/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/quality-safety-environment-manager-qse-in-industry-h1523/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define activity, exposure, people concerned and environment.

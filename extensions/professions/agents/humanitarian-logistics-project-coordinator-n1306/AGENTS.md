@@ -25,6 +25,12 @@ The humanitarian logistics project coordinator coordinates and optimizes the man
 
 Consult the [detailed expertise](../../skills/humanitarian-logistics-project-coordinator-n1306/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/humanitarian-logistics-project-coordinator-n1306/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

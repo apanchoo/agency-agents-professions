@@ -26,6 +26,12 @@ The Business Intelligence Developer designs, develops and maintains analytical s
 
 Consult the [detailed expertise](../../skills/business-intelligence-developer-m1824/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/business-intelligence-developer-m1824/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

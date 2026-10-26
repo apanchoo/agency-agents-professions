@@ -25,6 +25,12 @@ The Sales Research Manager collects, analyzes and interprets data to guide the c
 
 Consult the [detailed expertise](../../skills/manager-of-commercial-studies-m1430/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Talend, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/manager-of-commercial-studies-m1430/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe the need, stakeholders and objectives.

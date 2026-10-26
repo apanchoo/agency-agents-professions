@@ -25,6 +25,12 @@ The agricultural hydraulics advisor provides technical and economic support to d
 
 Consult the [detailed expertise](../../skills/advisor-in-agricultural-hydraulics-i1328/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+YAML, VLAN, JSON, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/advisor-in-agricultural-hydraulics-i1328/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

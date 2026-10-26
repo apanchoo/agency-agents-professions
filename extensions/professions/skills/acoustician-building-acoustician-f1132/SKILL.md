@@ -1,6 +1,6 @@
 ---
 name: acoustician-building-acoustician-f1132
-description: "Prepare, analyze and produce deliverables as a Acoustician / Building acoustician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Acoustician / Building acoustician; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Acoustician / Building acoustician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor the installation of sound insulation systems
 - Advise on acoustic materials to use
 - Meet a customer's expectations
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

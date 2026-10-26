@@ -1,6 +1,6 @@
 ---
 name: technical-commercial-d1407
-description: "Prepare, analyze and produce deliverables as a Technical-commercial; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Technical-commercial; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Technical-commercial
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Establish a prospecting tour plan (targeting, contacts, preparation of technical files)
 - Evaluate customer satisfaction
 - Implement the company's commercial strategy
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

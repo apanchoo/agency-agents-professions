@@ -1,6 +1,6 @@
 ---
 name: geothermal-engineer-f1138
-description: "Prepare, analyze and produce deliverables as a Geothermal engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Geothermal engineer; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB."
 ---
 
 # Geothermal engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan the development phases of geothermal projects
 - Define risk prevention measures
 - Design and manage a project
+
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -26,6 +26,12 @@ The Quality Engineer plays a crucial role in guaranteeing the quality of industr
 
 Consult the [detailed expertise](../../skills/quality-engineer-h1520/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/quality-engineer-h1520/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

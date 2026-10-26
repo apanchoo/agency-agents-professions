@@ -1,6 +1,6 @@
 ---
 name: systems-and-networks-engineer-for-connected-m1829
-description: "Prepare, analyze and produce deliverables as a Systems and networks engineer for connected territories; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Systems and networks engineer for connected territories; use for requests within this professional scope. Relevant technologies include Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi."
 ---
 
 # Systems and networks engineer for connected territories
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Prescribe technical solutions for operating new sites, improving equipment or networks
 - Define and develop measures to protect and use data collected in light of regulatory developments
 - Deploy and implement palliative measures in the event of a disrupted situation (passenger information, replacement transport, staff safety, etc.)
+
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

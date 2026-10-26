@@ -1,6 +1,6 @@
 ---
 name: it-production-manager-m1878
-description: "Prepare, analyze and produce deliverables as a IT production manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT production manager; use for requests within this professional scope. Relevant technologies include Linux, Windows, Wireshark, JavaScript, HTML, CSS."
 ---
 
 # IT production manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Liaise with technology providers
 - Design an indicator and organize its production
 - Manage budgets allocated to IT projects
+
+## Technologies and Software
+
+Linux, Windows, Wireshark, JavaScript, HTML, CSS, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

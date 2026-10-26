@@ -1,6 +1,6 @@
 ---
 name: security-assessor-of-it-systems-and-products-m1863
-description: "Prepare, analyze and produce deliverables as a Security Assessor of IT systems and products; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Security Assessor of IT systems and products; use for requests within this professional scope. Relevant technologies include Python, HTML, CSS, VLAN, VPN, LoRa."
 ---
 
 # Security Assessor of IT systems and products
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out periodic security audits
 - Ensure compliance with the Data Protection Act, manage the list of personal data processing operations, interface with the CNIL
 - Raise awareness and train staff in safety and prevention instructions
+
+## Technologies and Software
+
+Python, HTML, CSS, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

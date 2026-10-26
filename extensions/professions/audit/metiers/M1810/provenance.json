@@ -244,5 +244,64 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Wireshark",
+      "area": "network",
+      "use": "Capture authorized traffic and interpret packet fields, protocol flows and capture limitations.",
+      "priority": 34,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.01",
+          "module_title": "Infrastructures de sécurité",
+          "page": 146,
+          "matched_text": "WireShark",
+          "snippet": "Penser à systématiser l’utilisation de logiciels d’analyse de trames (WireShark, TCPDUMP , ...) pour les TP . Apprentissages critiques ciblés : – AC21.02 | Configurer et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "3.EMS.04",
+          "module_title": "Conformité réglementaire pour analyser des données",
+          "page": 143,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=143",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.01",
+          "module_title": "Infrastructures de sécurité",
+          "page": 146,
+          "matched_text": "VPN",
+          "snippet": "ltrage et de contrôle d’accès (Proxy-Firewall, NAT, ACL...) – Tunnels VPN Penser à systématiser l’utilisation de logiciels d’analyse de trames (WireShark, TCPDUMP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

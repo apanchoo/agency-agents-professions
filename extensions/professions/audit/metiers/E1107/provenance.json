@@ -177,5 +177,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.06",
+          "module_title": "Développement back avancé",
+          "page": 273,
+          "matched_text": "REST",
+          "snippet": " de fédération d’identité (oAuth, openId) ; – Mise en place d’une API REST ; – Découverte de l’approche micro-service. Apprentissages critiques ciblés : – AC34.02 |",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=273",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

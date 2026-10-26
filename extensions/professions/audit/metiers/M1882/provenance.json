@@ -261,5 +261,260 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Linux",
+          "snippet": "re les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fixées par l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R6.CYBER.04",
+          "module_title": "Réponse à incident",
+          "page": 190,
+          "matched_text": "Windows",
+          "snippet": "e reconnaître les artefacts symptomatiques des attaques usuelles sous Windows ou Linux – de prendre les bonnes décisions immédiates, dans le respect des directives fix",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "SQL",
+          "snippet": "n de données issues de sources hétérogènes avec : – rappel CSV, SGBD (SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressourc",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "3.EMS.04",
+          "module_title": "Conformité réglementaire pour analyser des données",
+          "page": 143,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=143",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Talend",
+      "area": "data",
+      "use": "Define ETL mappings, data-quality rules and repeatable import/export workflows.",
+      "priority": 41,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Talend",
+          "snippet": "turés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes avec : –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Tableau Software",
+      "area": "data",
+      "use": "Build dashboards with defined measures, appropriate encodings and traceable data sources.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Tableau Prep",
+          "snippet": "ers mais structurés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DHCP",
+          "snippet": "gies des réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Util",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "DHCP",
+          "snippet": "source pourra comporter : – Un rappel sur les protocoles ICMP , ARP , DHCP , STP , SLAAC, DNS, WPA PSK. – Une mise en œuvre dans le cadre de prototypes et des expér",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DNS",
+          "snippet": "s réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Utilisatio",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "DNS",
+          "snippet": "ter : – Un rappel sur les protocoles ICMP , ARP , DHCP , STP , SLAAC, DNS, WPA PSK. – Une mise en œuvre dans le cadre de prototypes et des expériences d’attaques c",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.09",
+          "module_title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "matched_text": "VLAN",
+          "snippet": "– Des solutions sur une partie des problèmes identifiés (segmentation VLAN, routage inter-VLAN, filtrage par ACL, fonctions de sécurisation de switchs, ...) Apprent",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JSON",
+      "area": "configuration",
+      "use": "Validate structured data and schemas; preserve types and check serialization round trips.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "JSON",
+          "snippet": "SGBD (SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressource vise à former les étudiants aux techniques et aux outils indisp",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "XML",
+      "area": "configuration",
+      "use": "Validate document structure and schemas; control parsing and verify transformed output.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "XML",
+          "snippet": "SQL) – confrontation à de nouveaux formats de données sources : JSON, XML, ... Cette ressource vise à former les étudiants aux techniques et aux outils indispensab",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.CYBER.01",
+          "module_title": "Réagir face à une cyber-attaque",
+          "page": 184,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=184",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

@@ -25,6 +25,12 @@ The Database Architect structures and optimizes data management within companies
 
 Consult the [detailed expertise](../../skills/database-architect-m1868/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/database-architect-m1868/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

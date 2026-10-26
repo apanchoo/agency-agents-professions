@@ -1,6 +1,6 @@
 ---
 name: mobile-network-maintenance-technician-i1319
-description: "Prepare, analyze and produce deliverables as a Mobile network maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Mobile network maintenance technician; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Mobile network maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Identify the characteristics of a site
 - Determine solutions and technical recommendations and communicate them to customers
 - Demonstrate pedagogy to facilitate understanding
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

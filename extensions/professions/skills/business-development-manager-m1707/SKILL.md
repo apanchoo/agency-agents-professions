@@ -1,6 +1,6 @@
 ---
 name: business-development-manager-m1707
-description: "Prepare, analyze and produce deliverables as a Business development manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Business development manager; use for requests within this professional scope. Relevant technologies include JavaScript, HTML, CSS, SQL, PHP, Microsoft Excel."
 ---
 
 # Business development manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop and maintain customer relationships
 - Develop a commercial strategy
 - Implement the company's commercial strategy
+
+## Technologies and Software
+
+JavaScript, HTML, CSS, SQL, PHP, Microsoft Excel, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

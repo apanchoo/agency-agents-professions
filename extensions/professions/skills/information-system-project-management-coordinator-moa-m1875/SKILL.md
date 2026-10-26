@@ -1,6 +1,6 @@
 ---
 name: information-system-project-management-coordinator-moa-m1875
-description: "Prepare, analyze and produce deliverables as a Information System Project Management Coordinator (MOA SI); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information System Project Management Coordinator (MOA SI); use for requests within this professional scope. Relevant technologies include HTML, CSS, BGP, DHCP, DNS, IPv4."
 ---
 
 # Information System Project Management Coordinator (MOA SI)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Improve the performance of information systems
 - Analyze technical data to optimize processes
 - Deploy, integrate software, an information system, an application
+
+## Technologies and Software
+
+HTML, CSS, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

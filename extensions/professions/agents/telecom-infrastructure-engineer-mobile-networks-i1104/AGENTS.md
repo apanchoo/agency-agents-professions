@@ -25,6 +25,12 @@ For cutting-edge technology enthusiasts who want to meet the challenges of tomor
 
 Consult the [detailed expertise](../../skills/telecom-infrastructure-engineer-mobile-networks-i1104/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/telecom-infrastructure-engineer-mobile-networks-i1104/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

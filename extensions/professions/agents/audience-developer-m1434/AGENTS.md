@@ -25,6 +25,12 @@ The Audience Developer is a streaming manager and music industry professional re
 
 Consult the [detailed expertise](../../skills/audience-developer-m1434/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/audience-developer-m1434/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe the need, stakeholders and objectives.

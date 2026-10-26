@@ -261,5 +261,209 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "GNU Octave",
+      "area": "simulation",
+      "use": "Run reproducible numerical models and check algorithm and precision assumptions.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Octave",
+          "snippet": "els d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à dévelop",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.15",
+          "module_title": "Electronique spécialisée",
+          "page": 114,
+          "matched_text": "Octave",
+          "snippet": "outils logiciels d’instrumentation (Labview, Matlab-Simulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à dévelop",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=114",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Labview",
+          "snippet": "se faire à l’aide d’outils logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.14",
+          "module_title": "Informatique spécialisée",
+          "page": 113,
+          "matched_text": "Labview",
+          "snippet": "e d’une plateforme intégrée de développement (IDE) classique (Python, Labview...) ; – Interfaçage et commande d’instruments pour le développement de bancs de tests. – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=113",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.15",
+          "module_title": "Electronique spécialisée",
+          "page": 114,
+          "matched_text": "Labview",
+          "snippet": "des TP pourra se faire à l’aide d’outils logiciels d’instrumentation (Labview, Matlab-Simulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...).",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=114",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MATLAB",
+      "area": "simulation",
+      "use": "Model numerical systems, document units and assumptions, and compare simulation results against checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.15",
+          "module_title": "Electronique spécialisée",
+          "page": 114,
+          "matched_text": "Matlab",
+          "snippet": "urra se faire à l’aide d’outils logiciels d’instrumentation (Labview, Matlab-Simulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thè",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=114",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R4.ESE.07",
+          "module_title": "Electronique spécialisée",
+          "page": 133,
+          "matched_text": "Matlab",
+          "snippet": "– Utilisation d’outils de synthèse des filtres numériques RIF et RII (Matlab, Labview, GNU radio...) et comparaison des performances des filtres RIF et RII ; – Présen",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=133",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Matlab",
+          "snippet": "nateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages critiques ciblés : – AC11.01 | Comprendre le fonctionnement de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Scilab",
+          "snippet": "s logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.15",
+          "module_title": "Electronique spécialisée",
+          "page": 114,
+          "matched_text": "Scilab",
+          "snippet": "’aide d’outils logiciels d’instrumentation (Labview, Matlab-Simulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=114",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Scilab",
+          "snippet": "(Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages critiques ciblés : – AC11.01 | Comprendre le fonctionnement des consti",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Simulink",
+      "area": "simulation",
+      "use": "Define system blocks, solver settings and test inputs; distinguish simulation from physical validation.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.ESE.15",
+          "module_title": "Electronique spécialisée",
+          "page": 114,
+          "matched_text": "Simulink",
+          "snippet": " faire à l’aide d’outils logiciels d’instrumentation (Labview, Matlab-Simulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recom",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=114",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "DIALux",
+      "area": "simulation",
+      "use": "Model lighting geometry and luminaire data; verify illuminance assumptions and calculation outputs.",
+      "priority": 61,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R5.EME.09",
+          "module_title": "Energie spécialisée",
+          "page": 235,
+          "matched_text": "Dialux",
+          "snippet": "de ; – Utilisation d’un logiciel de dimensionnement d’éclairage (ex : Dialux). – Réseaux en gestion technique des bâtiments ; – Électronique de puissance : – Composan",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=235",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "geii",
+          "module_code": "R6.EME.02",
+          "module_title": "Energie spécialisée",
+          "page": 248,
+          "matched_text": "Dialux",
+          "snippet": "de ; – Utilisation d’un logiciel de dimensionnement d’éclairage (ex : Dialux) ; – Réseaux en gestion technique des bâtiments ; – Électronique de puissance : – Composa",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=248",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

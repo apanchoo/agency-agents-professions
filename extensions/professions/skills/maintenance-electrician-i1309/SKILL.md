@@ -1,6 +1,6 @@
 ---
 name: maintenance-electrician-i1309
-description: "Prepare, analyze and produce deliverables as a Maintenance electrician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Maintenance electrician; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, DIALux."
 ---
 
 # Maintenance electrician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Complete the intervention monitoring materials
 - Respect rules, instructions, standards and operational procedures
 - Promote and share good practices
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

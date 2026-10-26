@@ -1,6 +1,6 @@
 ---
 name: mechanical-draftsman-designer-h1203
-description: "Prepare, analyze and produce deliverables as a Mechanical draftsman/designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Mechanical draftsman/designer; use for requests within this professional scope. Relevant technologies include Wireshark, IPv4, IPv6, VLAN, VPN, LoRa."
 ---
 
 # Mechanical draftsman/designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Use 3D design software
 - Use modeling and simulation software
 - Study and design parts, sub-assemblies or assemblies
+
+## Technologies and Software
+
+Wireshark, IPv4, IPv6, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

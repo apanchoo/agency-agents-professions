@@ -1,6 +1,6 @@
 ---
 name: sealer-f1613
-description: "Prepare, analyze and produce deliverables as a Sealer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Sealer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Sealer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Install the insulation complex to reduce energy consumption and environmental impact
 - Put in place protections to secure the site
 - Check the tightness
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

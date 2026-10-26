@@ -26,6 +26,12 @@ The Functional Information Systems Consultant optimizes and adapts IT systems to
 
 Consult the [detailed expertise](../../skills/functional-consultant-functional-consultant-of-m1806/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, HTML, CSS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/functional-consultant-functional-consultant-of-m1806/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

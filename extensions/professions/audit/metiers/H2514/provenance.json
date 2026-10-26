@@ -260,5 +260,89 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "MATLAB",
+      "area": "simulation",
+      "use": "Model numerical systems, document units and assumptions, and compare simulation results against checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.06",
+          "module_title": "Simulation numérique",
+          "page": 139,
+          "matched_text": "Matlab",
+          "snippet": "écessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d’applica",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=139",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.MIMP.05",
+          "module_title": "Industrialisation d’un produit",
+          "page": 194,
+          "matched_text": "Matlab",
+          "snippet": "écessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d’applica",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=194",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R1.02",
+          "module_title": "Informatique 1",
+          "page": 42,
+          "matched_text": "Matlab",
+          "snippet": "nateurs (Arduino, Raspberry...) ou dans des environnements de calcul (Matlab, Scilab...) Apprentissages critiques ciblés : – AC11.01 | Comprendre le fonctionnement de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "sgm",
+          "module_code": "R4.06",
+          "module_title": "Mathématiques 4",
+          "page": 119,
+          "matched_text": "Scilab",
+          "snippet": "itude) Calcul scientifique – Introduction à la programmation (Python, Scilab) – Applications : – Résolution par itérations (équation et système) – Méthodes numériques",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=119",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.06",
+          "module_title": "Simulation numérique",
+          "page": 139,
+          "matched_text": "Scilab",
+          "snippet": "niques nécessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=139",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.MIMP.05",
+          "module_title": "Industrialisation d’un produit",
+          "page": 194,
+          "matched_text": "Scilab",
+          "snippet": "niques nécessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=194",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

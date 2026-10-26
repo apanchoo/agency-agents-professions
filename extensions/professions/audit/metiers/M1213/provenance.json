@@ -109,5 +109,83 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Power Query",
+      "area": "office",
+      "use": "Build reproducible data preparation steps and verify source refresh, types and row counts.",
+      "priority": 42,
+      "evidence": [
+        {
+          "programme_id": "gea",
+          "module_code": "R4.04",
+          "module_title": "Traitement numérique des données",
+          "page": 133,
+          "matched_text": "Power Query",
+          "snippet": "même type introduit via TCD – Extraction et structuration de données (Power Query, Power Pivot ou autres outils du même type) – Création de tableaux de bords (Power BI, Po",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=133",
+          "sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Power Pivot",
+      "area": "office",
+      "use": "Define relationships and measures in a tabular model and reconcile aggregates with source data.",
+      "priority": 43,
+      "evidence": [
+        {
+          "programme_id": "gea",
+          "module_code": "R4.04",
+          "module_title": "Traitement numérique des données",
+          "page": 133,
+          "matched_text": "Power pivot",
+          "snippet": "res, relations) – Structured Query Language (SQL) – Avec un tableur – Power pivot ou autres outils du même type introduit via TCD – Extraction et structuration de données ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=133",
+          "sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "gea",
+          "module_code": "R5.04",
+          "module_title": "Traitement numérique des données",
+          "page": 151,
+          "matched_text": "Excel",
+          "snippet": "’aide de logiciels – SQL – Résoudre des problèmes à l’aide du solveur Excel – Modéliser les processus (Business Process Management Notation ou autre) afin de cartogr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=151",
+          "sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Power BI",
+      "area": "data",
+      "use": "Prepare data models and dashboards with defined measures, refresh rules and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "gea",
+          "module_code": "R4.04",
+          "module_title": "Traitement numérique des données",
+          "page": 133,
+          "matched_text": "Power BI",
+          "snippet": "Pivot ou autres outils du même type) – Création de tableaux de bords (Power BI, Power View... ou autres outils du même type) Réaliser des statistiques inférentielles – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=133",
+          "sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

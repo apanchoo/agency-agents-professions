@@ -199,5 +199,67 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Autodesk Revit",
+      "area": "cad",
+      "use": "Coordinate BIM models, views and exchanged information; check geometry and model consistency.",
+      "priority": 52,
+      "evidence": [
+        {
+          "programme_id": "gccd",
+          "module_code": "R2.03",
+          "module_title": "Anglais 2",
+          "page": 100,
+          "matched_text": "REVIT",
+          "snippet": " chantier et la description de plans de bâtiments (plans ou maquettes REVIT par exemple) – Son travail va consister à comprendre des documents écrits et oraux, s’exp",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=100",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "BIM",
+      "area": "cad",
+      "use": "Coordinate model information, naming, exchange requirements and discipline interfaces.",
+      "priority": 53,
+      "evidence": [
+        {
+          "programme_id": "gccd",
+          "module_code": "2.07",
+          "module_title": "Bilan technique nécessaire pour le suivi de la vie d’un ouvrage",
+          "page": 93,
+          "matched_text": "BIM",
+          "snippet": "lématique professionnelle : En tant qu’Assistant à Maîtrise d’Ouvrage BIM ou acteur d’une équipe de Maîtrise d’œuvre d’exécution, l’étudiant devra contribuer à la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=93",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gccd",
+          "module_code": "5.BAT.01",
+          "module_title": "Etablissement de la synthèse (travaux TCE) d’un projet de bâtiment (BIM)",
+          "page": 165,
+          "matched_text": "BIM",
+          "snippet": ": Etablissement de la synthèse (travaux TCE) d’un projet de bâtiment (BIM) Compétence ciblée : – Elaborer des solutions techniques de tout ou partie d’un projet de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=165",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gccd",
+          "module_code": "5.BAT.02",
+          "module_title": "Contre-étude et suivi de travaux de l’OS à la levée des réserves en Bâtiment",
+          "page": 167,
+          "matched_text": "BIM",
+          "snippet": " à fait s’insérer dans le cadre d’un challenge construction durable - BIM entre départements GCCD. Apprentissages critiques : – AC34.01 | Réaliser un chiffrage/dev",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=167",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

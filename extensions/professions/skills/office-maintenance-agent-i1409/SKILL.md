@@ -1,6 +1,6 @@
 ---
 name: office-maintenance-agent-i1409
-description: "Prepare, analyze and produce deliverables as a Office maintenance agent; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Office maintenance agent; use for requests within this professional scope. Relevant technologies include Linux, Windows, VLAN, LoRa."
 ---
 
 # Office maintenance agent
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage an IT fleet
 - Carry out cleaning and adjustment operations on materials and equipment
 - Implement security procedures
+
+## Technologies and Software
+
+Linux, Windows, VLAN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

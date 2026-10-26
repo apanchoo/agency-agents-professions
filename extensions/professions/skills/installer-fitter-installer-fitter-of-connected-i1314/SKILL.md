@@ -1,6 +1,6 @@
 ---
 name: installer-fitter-installer-fitter-of-connected-i1314
-description: "Prepare, analyze and produce deliverables as a Installer fitter / Installer fitter of connected equipment; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Installer fitter / Installer fitter of connected equipment; use for requests within this professional scope. Relevant technologies include Docker, Python, PowerShell, Bash, BGP, DHCP."
 ---
 
 # Installer fitter / Installer fitter of connected equipment
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Respect safety standards during interventions
 - Support customers in using a product or equipment
 - Organize a technical assistance service
+
+## Technologies and Software
+
+Docker, Python, PowerShell, Bash, BGP, DHCP, DNS, IPv4, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

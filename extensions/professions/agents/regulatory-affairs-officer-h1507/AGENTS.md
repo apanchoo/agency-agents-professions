@@ -25,6 +25,12 @@ The Regulatory Affairs Manager organizes and coordinates the implementation of t
 
 Consult the [detailed expertise](../../skills/regulatory-affairs-officer-h1507/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+ANSYS Granta EduPack, SOLIDWORKS Sustainability.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/regulatory-affairs-officer-h1507/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

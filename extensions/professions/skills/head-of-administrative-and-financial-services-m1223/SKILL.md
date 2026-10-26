@@ -1,6 +1,6 @@
 ---
 name: head-of-administrative-and-financial-services-m1223
-description: "Prepare, analyze and produce deliverables as a Head of administrative and financial services; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of administrative and financial services; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Head of administrative and financial services
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop budget forecasts
 - Develop, monitor and manage a budget
 - Oversee financial management
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: telecoms-and-environment-engineer-m1804
-description: "Prepare, analyze and produce deliverables as a Telecoms and environment engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Telecoms and environment engineer; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios."
 ---
 
 # Telecoms and environment engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Network and cooperate with diverse professional profiles
 - Lead, coordinate a team
 - Carry out tests, experiments
+
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

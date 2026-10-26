@@ -25,6 +25,12 @@ The Geographer analyzes and interprets geographical data, natural phenomena and 
 
 Consult the [detailed expertise](../../skills/geographer-m1433/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, Talend, R, SAS, Tableau Software, JSON, XML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/geographer-m1433/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe the need, stakeholders and objectives.

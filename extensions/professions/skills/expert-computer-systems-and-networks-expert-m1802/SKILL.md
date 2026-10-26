@@ -1,6 +1,6 @@
 ---
 name: expert-computer-systems-and-networks-expert-m1802
-description: "Prepare, analyze and produce deliverables as a Expert / Computer systems and networks expert; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Expert / Computer systems and networks expert; use for requests within this professional scope. Relevant technologies include Docker, Ansible, ELK stack, Centreon, Nagios, Python."
 ---
 
 # Expert / Computer systems and networks expert
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the conformity of installations
 - Assess, prevent, and manage risks and safety
 - Develop disaster recovery strategies
+
+## Technologies and Software
+
+Docker, Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

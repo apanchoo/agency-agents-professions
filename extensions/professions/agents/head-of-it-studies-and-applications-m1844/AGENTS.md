@@ -25,6 +25,12 @@ The IT Studies and Applications Manager supervises the entire life cycle of info
 
 Consult the [detailed expertise](../../skills/head-of-it-studies-and-applications-m1844/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, GitLab, Git, Python, OpenStack, SQL, virtualenv, Sphinx, Javadoc, DHCP, DNS, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-it-studies-and-applications-m1844/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

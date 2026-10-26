@@ -190,5 +190,209 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.11",
+          "module_title": "Intégration",
+          "page": 64,
+          "matched_text": "HTML",
+          "snippet": "s pages Web efficacement et dans le respect des normes : – Le langage HTML : structuration du contenu, sémantique des balises, normes W3C ; – Les bases du langage C",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.12",
+          "module_title": "Développement Web",
+          "page": 65,
+          "matched_text": "HTML",
+          "snippet": " et de la programmation en les illustrant avec la génération de pages HTML : – Représentation des données d’un algorithme (types, variables, tableaux, objets) ; – B",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=65",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "HTML",
+          "snippet": ", scénarios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (W",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "1.05",
+          "module_title": "Produire un site Web",
+          "page": 51,
+          "matched_text": "CSS",
+          "snippet": "isant un moteur de template ; – Mettre en place des feuilles de style CSS ; – Vérifier la conformité aux normes du W3C et aux recommandations du WCAG ; – Générer l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=51",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R1.11",
+          "module_title": "Intégration",
+          "page": 64,
+          "matched_text": "CSS",
+          "snippet": " contenu, sémantique des balises, normes W3C ; – Les bases du langage CSS : mise en forme, unités, sélecteurs, styles en cascade, éléments flexibles... ; – Les bas",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "2.03",
+          "module_title": "Concevoir un site web avec une source de données",
+          "page": 77,
+          "matched_text": "CSS",
+          "snippet": " – Découvrir le développement front et approfondir la connaissance du CSS en mettant en place des animations et interactions simples ; – Découvrir l’administration",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=77",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "2.03",
+          "module_title": "Concevoir un site web avec une source de données",
+          "page": 77,
+          "matched_text": "SQL",
+          "snippet": "de données contenant les données exploitées ; – Une liste de requêtes SQL permettant au site de fonctionner ; – La modélisation des traitements c’est-à-dire de l’e",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=77",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R2.14",
+          "module_title": "Système d’information",
+          "page": 94,
+          "matched_text": "SQL",
+          "snippet": " des données ; – Langage de définition et de manipulation de données (SQL) ; – Exploitation de systèmes de gestion de base de données relationnelles et des outils ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=94",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "1.04",
+          "module_title": "Création d’une base de données",
+          "page": 65,
+          "matched_text": "SQL",
+          "snippet": "ilisées et combinées : – R1.05 | Introduction aux bases de données et SQL – R1.06 | Mathématiques discrètes – R1.09 | Introduction à l’économie durable et numériqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=65",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "WebGL",
+      "area": "design",
+      "use": "Prepare browser-rendered graphics and verify geometry, shaders, interaction and rendering performance.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebGL",
+          "snippet": "echnologies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "WebXR",
+      "area": "design",
+      "use": "Define immersive browser interactions and test device capability, input and user comfort constraints.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebXR",
+          "snippet": "gies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ces tec",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R3.DWEB-DI.13",
+          "module_title": "Développement Back",
+          "page": 241,
+          "matched_text": "REST",
+          "snippet": "raitements : agir sur des données de manière efficace (standards CRUD/REST) ; – Modélisation des parcours : la notion de contrôleur et de route ; – Gestion des sess",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=241",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R4.DWEB-DI.07",
+          "module_title": "Développement back",
+          "page": 261,
+          "matched_text": "REST",
+          "snippet": "code propre ; – Découverte des services web : objectifs, normes, API (REST...), formats d’échange (JSON, XML...) ; – Découverte d’un framework côté serveur ; – Reco",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=261",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.06",
+          "module_title": "Développement back avancé",
+          "page": 273,
+          "matched_text": "REST",
+          "snippet": " de fédération d’identité (oAuth, openId) ; – Mise en place d’une API REST ; – Découverte de l’approche micro-service. Apprentissages critiques ciblés : – AC34.02 |",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=273",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

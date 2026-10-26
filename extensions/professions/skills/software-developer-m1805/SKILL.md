@@ -1,6 +1,6 @@
 ---
 name: software-developer-m1805
-description: "Prepare, analyze and produce deliverables as a Software Developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Software Developer; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Git, pytest, JUnit, doctest."
 ---
 
 # Software Developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize quality processes to ensure software reliability
 - Process user feedback to improve systems
 - Document technical procedures for users
+
+## Technologies and Software
+
+Docker, Kubernetes, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, BGP, DNS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

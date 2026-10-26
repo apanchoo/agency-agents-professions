@@ -263,5 +263,56 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "2.01",
+          "module_title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "matched_text": "DNS",
+          "snippet": "-clés : Adressage IP , VLAN, VTP , Routage inter-VLAN, NAT, PAT, ACL, DNS, HTTP , SSH, Routage (vecteur de distance / état de lien), PXE, TFTP . Apprentissages cri",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.03",
+          "module_title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "matched_text": "VLAN",
+          "snippet": "formation dont il est le support (segmentation physique et virtuelle, VLAN). Ces compétences s’appuient sur la compréhension des mécanismes intrinsèques aux réseaux",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "2.01",
+          "module_title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "matched_text": "VLAN",
+          "snippet": "ment la configuration réalisée ; – construire un réseau local virtuel VLAN ; – intercepter un trafic entre 2 ordinateurs et identifier le chemin utilisé ; – constru",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

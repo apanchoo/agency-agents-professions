@@ -25,6 +25,12 @@ The Artificial Intelligence (AI) Engineer specializes in technological innovatio
 
 Consult the [detailed expertise](../../skills/engineer-in-artificial-intelligence-ai-m1889/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, Windows, Wireshark, BGP, OSPF, VLAN, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/engineer-in-artificial-intelligence-ai-m1889/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

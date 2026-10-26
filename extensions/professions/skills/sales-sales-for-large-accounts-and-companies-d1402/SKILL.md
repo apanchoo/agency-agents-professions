@@ -1,6 +1,6 @@
 ---
 name: sales-sales-for-large-accounts-and-companies-d1402
-description: "Prepare, analyze and produce deliverables as a Sales / Sales for large accounts and companies; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Sales / Sales for large accounts and companies; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Sales / Sales for large accounts and companies
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop and adapt a commercial proposal
 - Implement sales strategies
 - Prospect new customers, new markets
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

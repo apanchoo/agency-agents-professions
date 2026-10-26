@@ -1,6 +1,6 @@
 ---
 name: product-quality-and-metrology-technician-in-mechanics-h1535
-description: "Prepare, analyze and produce deliverables as a Product quality and metrology technician in mechanics and metalworking; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Product quality and metrology technician in mechanics and metalworking; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Product quality and metrology technician in mechanics and metalworking
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Determine corrective measures
 - Analyze process quality
 - Analyze the quality and conformity of raw materials
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

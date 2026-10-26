@@ -262,5 +262,83 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Wireshark",
+      "area": "network",
+      "use": "Capture authorized traffic and interpret packet fields, protocol flows and capture limitations.",
+      "priority": 34,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "Wireshark",
+          "snippet": "abilité, gigue, taux de pertes. Outils préconisés : Logiciels du type Wireshark, GNS3, Packet Tracer, Scapy. Des éléments relatifs à la sécurité et aux risques informati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv4",
+          "snippet": "lée des protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Princi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv6",
+          "snippet": "s protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Principes de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.IOM.01",
+          "module_title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 336,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=336",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

@@ -258,5 +258,438 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Git",
+      "area": "versioning",
+      "use": "Use branches, reviewable commits and tags to trace changes to deployed artifacts.",
+      "priority": 9,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Git",
+          "snippet": "tels que Ansible et de poursuivre la prise en main de l’environnement Git. Apprentissage critique ciblé : – AC23.01 | Automatiser l’administration système avec des",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 170,
+          "matched_text": "Git",
+          "snippet": "charges – Environnement de travail collaboratif – Gestion de projet – Git – IDE – Documentation – Sécurité – Déploiement – Partage – Cycle de vie – Méthode Agile V",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=170",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Git",
+          "snippet": "égration et/ou de déploiement continu Mots clés : Versionning – Log – Git – CI/CD – Tests – Automatisation – Registry Volume horaire : Volume horaire défini nation",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "pytest",
+      "area": "testing",
+      "use": "Create repeatable Python test suites with fixtures and readable failure reports.",
+      "priority": 14,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "pytest",
+          "snippet": " par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JUnit",
+      "area": "testing",
+      "use": "Test Java behavior with isolated cases and publish test results in the delivery pipeline.",
+      "priority": 15,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "Junit",
+          "snippet": "mple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervision et la cent",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "doctest",
+      "area": "testing",
+      "use": "Validate executable examples against their expected results.",
+      "priority": 16,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "doctest",
+          "snippet": "s outils, par exemple : – pour la programmation des tests unitaires : doctest, pytest, Junit ; – pour l’analyse de la structure du code : SonarQube ; – pour la supervi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.05",
+          "module_title": "Algèbre linéaire",
+          "page": 86,
+          "matched_text": "Python",
+          "snippet": "alyse statistique multidimensionnelle L ’utilisation de logiciels (R, Python, Xcas) est pertinente dans la cadre de cet enseignement. Apprentissages critiques ciblés ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=86",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.07",
+          "module_title": "Fondamentaux de la programmation",
+          "page": 80,
+          "matched_text": "Python",
+          "snippet": "els. Contenus : En utilisant un langage de programmation (par exemple Python), les contenus suivants sont traités : – Notions d’algorithmique : – Variables, types de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "Javascript",
+          "snippet": "ngages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’architecture cl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.09",
+          "module_title": "Programmation web",
+          "page": 110,
+          "matched_text": "Javascript",
+          "snippet": "tudiants, en particulier sur les aspects client/serveur. Contenus : – Javascript – Utilisation de librairies autour des données – Programmation client/serveur Lors de la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=110",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "Javascript",
+          "snippet": "nexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – Automatisation de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "HTML",
+          "snippet": "ndre les langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "HTML",
+          "snippet": "rreurs (connexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.09",
+          "module_title": "Introduction aux technologies Web",
+          "page": 82,
+          "matched_text": "HTML",
+          "snippet": "re l’architecture et les technologies d’un site Web Mots clés : Web – HTML – CSS – Client/serveur – Codage de l’information – CRCN – DigComp Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=82",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "CSS",
+          "snippet": "es langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’arc",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "CSS",
+          "snippet": " (connexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – Autom",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.09",
+          "module_title": "Introduction aux technologies Web",
+          "page": 82,
+          "matched_text": "CSS",
+          "snippet": " balise, mise en forme et feuilles de styles (notions élémentaires de CSS), notions de responsive design ; – Contenu d’une page : éléments multimédia, encodage des",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=82",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R1.02",
+          "module_title": "Bases de données relationnelles 1",
+          "page": 41,
+          "matched_text": "SQL",
+          "snippet": "uraux, contraintes d’intégrité. – Langage d’interrogation d’une BDR : SQL et éventuellement algèbre relationnelle. L ’utilisation d’un ou plusieurs SGBD disponible",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=41",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R2.02",
+          "module_title": "Bases de données relationnelles 2",
+          "page": 62,
+          "matched_text": "SQL",
+          "snippet": "’implémentation d’une base de données. – Langage graphique et langage SQL pour la création et la gestion d’une BDR. – Critères de qualité d’une BDR (formes normale",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=62",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R3.02",
+          "module_title": "Systèmes d’information décisionnels",
+          "page": 83,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=83",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "area": "development",
+      "use": "Share workspace, debugging and task configuration without embedding credentials.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "VSCode",
+          "snippet": "r chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et qualification tout au long d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "jQuery",
+      "area": "web",
+      "use": "Maintain browser interactions and DOM updates while checking events, accessibility and compatibility.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.09",
+          "module_title": "Initiation au développement Web",
+          "page": 107,
+          "matched_text": "jQuery",
+          "snippet": " initiation au dynamisme côté client (JavaScript, bibliothèques comme jQuery) – Scripts côté serveur. – Eléments d’interaction client-serveur (requête HTTP , URL, for",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=107",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.02",
+          "module_title": "Piloter un projet informatique",
+          "page": 162,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE tel que VSCode, Docker, ...) – Prévoir les procédures de tests unitaires et q",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualif",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.10",
+          "module_title": "Développement de microservices",
+          "page": 232,
+          "matched_text": "RESTful",
+          "snippet": "éments de conception des API : API synchrone/asynchrone, architecture RESTful ; – Les spécificités des API REST : routage d’URL ; – La sécurité des API : abonnements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=232",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

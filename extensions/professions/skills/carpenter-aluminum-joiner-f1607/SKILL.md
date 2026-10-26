@@ -1,6 +1,6 @@
 ---
 name: carpenter-aluminum-joiner-f1607
-description: "Prepare, analyze and produce deliverables as a Carpenter / Aluminum joiner; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Carpenter / Aluminum joiner; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Carpenter / Aluminum joiner
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Install glazing
 - Encourage continuous improvement in practices
 - Contribute to the development of skills in an informal setting
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

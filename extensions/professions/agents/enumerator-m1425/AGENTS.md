@@ -25,6 +25,12 @@ The Enumerator collects essential demographic data from households for statistic
 
 Consult the [detailed expertise](../../skills/enumerator-m1425/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+R, SAS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/enumerator-m1425/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

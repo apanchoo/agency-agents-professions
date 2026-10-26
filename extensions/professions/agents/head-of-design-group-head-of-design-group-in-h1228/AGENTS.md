@@ -25,6 +25,12 @@ The group leader designer in electricity and electronics supervises from the des
 
 Consult the [detailed expertise](../../skills/head-of-design-group-head-of-design-group-in-h1228/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-design-group-head-of-design-group-in-h1228/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

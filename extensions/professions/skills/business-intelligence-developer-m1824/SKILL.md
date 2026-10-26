@@ -1,6 +1,6 @@
 ---
 name: business-intelligence-developer-m1824
-description: "Prepare, analyze and produce deliverables as a Business Intelligence Developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Business Intelligence Developer; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Python, JavaScript, HTML, CSS."
 ---
 
 # Business Intelligence Developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize quality processes to ensure software reliability
 - Process user feedback to improve systems
 - Support the appropriation of a tool by its users
+
+## Technologies and Software
+
+Docker, Kubernetes, Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

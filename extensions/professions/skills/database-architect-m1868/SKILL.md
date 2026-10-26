@@ -1,6 +1,6 @@
 ---
 name: database-architect-m1868
-description: "Prepare, analyze and produce deliverables as a Database architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Database architect; use for requests within this professional scope. Relevant technologies include Python, JavaScript, HTML, CSS, SQL, pandas."
 ---
 
 # Database architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design, create and implement an automation procedure
 - Ensuring data security
 - Collaborate with teams to resolve technical issues
+
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

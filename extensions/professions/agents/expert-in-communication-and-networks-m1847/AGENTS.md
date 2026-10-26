@@ -25,6 +25,12 @@ The Communication and Networks Expert orchestrates the digital communication str
 
 Consult the [detailed expertise](../../skills/expert-in-communication-and-networks-m1847/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/expert-in-communication-and-networks-m1847/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

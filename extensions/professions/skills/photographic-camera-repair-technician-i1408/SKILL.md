@@ -1,6 +1,6 @@
 ---
 name: photographic-camera-repair-technician-i1408
-description: "Prepare, analyze and produce deliverables as a Photographic camera repair technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Photographic camera repair technician; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Photographic camera repair technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Repairing digital cameras
 - Check the operating status of a device
 - Check the operating status of a product
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

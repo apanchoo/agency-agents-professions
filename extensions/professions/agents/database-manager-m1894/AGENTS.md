@@ -25,6 +25,12 @@ The Database Manager is central to the management and security of a company's in
 
 Consult the [detailed expertise](../../skills/database-manager-m1894/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/database-manager-m1894/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

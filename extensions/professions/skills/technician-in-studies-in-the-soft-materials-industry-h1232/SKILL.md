@@ -1,6 +1,6 @@
 ---
 name: technician-in-studies-in-the-soft-materials-industry-h1232
-description: "Prepare, analyze and produce deliverables as a Technician in studies in the soft materials industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Technician in studies in the soft materials industry; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab."
 ---
 
 # Technician in studies in the soft materials industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan cutting operations according to the production schedule
 - Propose continuous technical improvements
 - Choose cutting techniques suitable for soft materials
+
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

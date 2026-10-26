@@ -25,6 +25,12 @@ The Interactive Media Architect is creative and organized, with engaging and int
 
 Consult the [detailed expertise](../../skills/interactive-multimedia-architect-m1850/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+OpenStack, HTML, CSS, SQL, WebGL, WebXR, DHCP, DNS, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/interactive-multimedia-architect-m1850/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

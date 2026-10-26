@@ -27,6 +27,12 @@ The HVAC Maintenance Technician provides preventive and curative maintenance of 
 
 Consult the [detailed expertise](../../skills/heating-ventilation-and-air-conditioning-hvac-i1316/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Windows, Wireshark, BGP, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/heating-ventilation-and-air-conditioning-hvac-i1316/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

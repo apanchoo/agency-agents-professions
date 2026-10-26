@@ -26,6 +26,12 @@ The IT Security Administrator ensures the protection of the company's data and i
 
 Consult the [detailed expertise](../../skills/it-security-administrator-m1817/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, GitLab, Python, Linux, Windows, JavaScript, HTML, CSS, SQL, Talend, Visual Studio Code, virtualenv, Tableau Software, VLAN, VPN, JSON.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-security-administrator-m1817/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

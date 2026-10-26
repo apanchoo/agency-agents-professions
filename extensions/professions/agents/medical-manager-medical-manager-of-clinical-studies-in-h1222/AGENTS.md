@@ -25,6 +25,12 @@ The clinical studies medical manager supervises the medical aspects of clinical 
 
 Consult the [detailed expertise](../../skills/medical-manager-medical-manager-of-clinical-studies-in-h1222/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/medical-manager-medical-manager-of-clinical-studies-in-h1222/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

@@ -25,6 +25,12 @@ The Embedded AI Specialist integrates artificial intelligence into embedded syst
 
 Consult the [detailed expertise](../../skills/embedded-ai-specialist-m1873/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, Linux, SQL, Java, C++, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/embedded-ai-specialist-m1873/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

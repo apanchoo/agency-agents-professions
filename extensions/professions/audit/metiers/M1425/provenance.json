@@ -97,5 +97,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "R",
+      "area": "statistics",
+      "use": "Prepare reproducible statistical analyses with explicit packages, seeds and validation assumptions.",
+      "priority": 49,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R2.04",
+          "module_title": "Programmation statistique",
+          "page": 64,
+          "matched_text": "SAS – R",
+          "snippet": "hiques – tableaux – importation de données – logiciels statistiques – SAS – R Volume horaire : Volume horaire défini nationalement : 25 heures dont 25 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SAS",
+      "area": "statistics",
+      "use": "Prepare data transformations and statistical analyses with traceable code and diagnostics.",
+      "priority": 49,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R2.04",
+          "module_title": "Programmation statistique",
+          "page": 64,
+          "matched_text": "logiciels statistiques – SAS",
+          "snippet": "Langages de script – graphiques – tableaux – importation de données – logiciels statistiques – SAS – R Volume horaire : Volume horaire défini nationalement : 25 heures dont 25 heures de TP",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

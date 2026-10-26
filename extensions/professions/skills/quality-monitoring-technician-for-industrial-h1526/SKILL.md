@@ -1,6 +1,6 @@
 ---
 name: quality-monitoring-technician-for-industrial-h1526
-description: "Prepare, analyze and produce deliverables as a Quality-monitoring technician for industrial installations; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Quality-monitoring technician for industrial installations; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Quality-monitoring technician for industrial installations
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the conformity of production processes
 - Write detailed monitoring reports
 - Monitor production processes to ensure quality
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

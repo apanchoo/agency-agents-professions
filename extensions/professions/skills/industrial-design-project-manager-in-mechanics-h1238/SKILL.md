@@ -1,6 +1,6 @@
 ---
 name: industrial-design-project-manager-in-mechanics-h1238
-description: "Prepare, analyze and produce deliverables as a Industrial design project manager in mechanics; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial design project manager in mechanics; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab."
 ---
 
 # Industrial design project manager in mechanics
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Study and design parts, sub-assemblies or assemblies
 - Ensure compliance with industry standards
 - Control the quality and compliance of processes
+
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

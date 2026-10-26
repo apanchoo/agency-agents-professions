@@ -26,6 +26,12 @@ The Mobile Network Maintenance Technician ensures preventive and corrective main
 
 Consult the [detailed expertise](../../skills/mobile-network-maintenance-technician-i1319/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/mobile-network-maintenance-technician-i1319/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

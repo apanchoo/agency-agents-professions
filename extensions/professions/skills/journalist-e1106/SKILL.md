@@ -1,6 +1,6 @@
 ---
 name: journalist-e1106
-description: "Prepare, analyze and produce deliverables as a Journalist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Journalist; use for requests within this professional scope. Relevant technologies include HTML, CSS."
 ---
 
 # Journalist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the quality of content before publication
 - Promoting journalistic ethics in practice
 - Collect and analyze data, information
+
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: glaciologist-f1123
-description: "Prepare, analyze and produce deliverables as a Glaciologist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Glaciologist; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Glaciologist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor temperature changes in glaciers
 - Communicate study results to stakeholders
 - Use the scientific data collected, extract useful data
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

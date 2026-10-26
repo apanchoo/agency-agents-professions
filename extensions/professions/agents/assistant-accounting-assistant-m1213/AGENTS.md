@@ -25,6 +25,12 @@ The accounting assistant supports a company's financial operations by entering a
 
 Consult the [detailed expertise](../../skills/assistant-accounting-assistant-m1213/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/assistant-accounting-assistant-m1213/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the scope, period and management decisions.

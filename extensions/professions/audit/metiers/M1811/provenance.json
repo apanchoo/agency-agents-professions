@@ -254,5 +254,184 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.05",
+          "module_title": "Algèbre linéaire",
+          "page": 86,
+          "matched_text": "Python",
+          "snippet": "alyse statistique multidimensionnelle L ’utilisation de logiciels (R, Python, Xcas) est pertinente dans la cadre de cet enseignement. Apprentissages critiques ciblés ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=86",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R1.02",
+          "module_title": "Bases de données relationnelles 1",
+          "page": 41,
+          "matched_text": "SQL",
+          "snippet": "uraux, contraintes d’intégrité. – Langage d’interrogation d’une BDR : SQL et éventuellement algèbre relationnelle. L ’utilisation d’un ou plusieurs SGBD disponible",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=41",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R2.02",
+          "module_title": "Bases de données relationnelles 2",
+          "page": 62,
+          "matched_text": "SQL",
+          "snippet": "’implémentation d’une base de données. – Langage graphique et langage SQL pour la création et la gestion d’une BDR. – Critères de qualité d’une BDR (formes normale",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=62",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R3.02",
+          "module_title": "Systèmes d’information décisionnels",
+          "page": 83,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=83",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "pandas",
+      "area": "data",
+      "use": "Prepare tabular transformations with explicit types, missing-value handling and reconciliation checks.",
+      "priority": 40,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R5.ADMIN.09",
+          "module_title": "Statistique inférentielle",
+          "page": 298,
+          "matched_text": "pandas",
+          "snippet": "Analyse de données (utilisation d’une bibliothèque adaptée, par ex. : pandas, R...) Prolongements suggérés – Science des données (analyse en composantes principales, ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=298",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Talend",
+      "area": "data",
+      "use": "Define ETL mappings, data-quality rules and repeatable import/export workflows.",
+      "priority": 41,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Talend",
+          "snippet": "turés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes avec : –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "R",
+      "area": "statistics",
+      "use": "Prepare reproducible statistical analyses with explicit packages, seeds and validation assumptions.",
+      "priority": 49,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R2.04",
+          "module_title": "Programmation statistique",
+          "page": 64,
+          "matched_text": "SAS – R",
+          "snippet": "hiques – tableaux – importation de données – logiciels statistiques – SAS – R Volume horaire : Volume horaire défini nationalement : 25 heures dont 25 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R3.05",
+          "module_title": "Algèbre linéaire",
+          "page": 86,
+          "matched_text": "logiciels (R",
+          "snippet": "mentaux à l’analyse statistique multidimensionnelle L ’utilisation de logiciels (R, Python, Xcas) est pertinente dans la cadre de cet enseignement. Apprentissages critiques",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=86",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R5.ADMIN.09",
+          "module_title": "Statistique inférentielle",
+          "page": 298,
+          "matched_text": "pandas, R",
+          "snippet": "Analyse de données (utilisation d’une bibliothèque adaptée, par ex. : pandas, R...) Prolongements suggérés – Science des données (analyse en composantes principales, arb",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=298",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SAS",
+      "area": "statistics",
+      "use": "Prepare data transformations and statistical analyses with traceable code and diagnostics.",
+      "priority": 49,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R2.04",
+          "module_title": "Programmation statistique",
+          "page": 64,
+          "matched_text": "logiciels statistiques – SAS",
+          "snippet": "Langages de script – graphiques – tableaux – importation de données – logiciels statistiques – SAS – R Volume horaire : Volume horaire défini nationalement : 25 heures dont 25 heures de TP",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Tableau Software",
+      "area": "data",
+      "use": "Build dashboards with defined measures, appropriate encodings and traceable data sources.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Tableau Prep",
+          "snippet": "ers mais structurés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

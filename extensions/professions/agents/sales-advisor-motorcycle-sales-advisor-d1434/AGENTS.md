@@ -25,6 +25,12 @@ The Motorcycle Sales Advisor is an expert in sales and advice in the field of mo
 
 Consult the [detailed expertise](../../skills/sales-advisor-motorcycle-sales-advisor-d1434/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/sales-advisor-motorcycle-sales-advisor-d1434/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

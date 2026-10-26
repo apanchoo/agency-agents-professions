@@ -240,5 +240,282 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "HTML",
+          "snippet": ", scénarios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (W",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "CSS",
+          "snippet": "arios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (World ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "BGP",
+          "snippet": "ces réseaux opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseau",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "BGP",
+          "snippet": "HCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les différents savoi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "DHCP",
+          "snippet": "s équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "DNS",
+          "snippet": "vices réseaux (identification des faiblesses des services d’Internet (DNS, Web, ...) et proposition des solutions sécurisées). – le domaine des services réseaux op",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "DNS",
+          "snippet": "ements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux f",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv4",
+          "snippet": "ance pourront servir de support). Contenus : – Protocole et adressage IPv4&6. – Traduction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "IPV4",
+          "snippet": "s (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv6",
+          "snippet": " lien – Stratégies de filtrage – CIDR – VLSM – Agrégation de routes – IPv6 – NDP Volume horaire : Volume horaire défini nationalement : 49 heures dont 22 heures de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "IPV6",
+          "snippet": "teurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sé",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "OSPF",
+          "snippet": "uction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – TCP , UDP . – Politiques de filtrage ACL. Apprentissages critiques ciblés : – AC11.03",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "OSPF",
+          "snippet": " (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les diff",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "VLAN",
+          "snippet": "voirs de référence étudiés – Configuration des équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (p",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.PILPRO.09",
+          "module_title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "matched_text": "VPN",
+          "snippet": "opérateurs (backbone, réseau structurant, réseau d’accès, BGP , MPLS, VPN N2, VPN N3, MPLS TE, SD-WAN, etc) – le domaine des infrastructures des réseaux d’accès cu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.IOM.01",
+          "module_title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 336,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=336",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

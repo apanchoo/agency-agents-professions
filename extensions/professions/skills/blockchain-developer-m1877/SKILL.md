@@ -1,6 +1,6 @@
 ---
 name: blockchain-developer-m1877
-description: "Prepare, analyze and produce deliverables as a Blockchain Developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Blockchain Developer; use for requests within this professional scope. Relevant technologies include Git, pytest, JUnit, doctest, Python, JavaScript."
 ---
 
 # Blockchain Developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Comply with data security and confidentiality standards
 - Optimize the performance of blockchain applications
 - Guarantee the confidentiality of information
+
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

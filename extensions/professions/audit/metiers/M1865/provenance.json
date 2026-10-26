@@ -256,5 +256,86 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.10",
+          "module_title": "Cryptographie",
+          "page": 156,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=156",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DHCP",
+          "snippet": "gies des réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Util",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DNS",
+          "snippet": "s réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Utilisatio",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "4.CYBER.01",
+          "module_title": "Sécuriser un système d’information",
+          "page": 142,
+          "matched_text": "DNS",
+          "snippet": "hes supérieures à 3, pour finir par les différents services proposés (DNS, Web, ...) ; – ajouter des équipements spécialisés ; – utiliser des outils cryptographiqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=142",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.CYBER.11",
+          "module_title": "Sécurisation de services réseaux",
+          "page": 157,
+          "matched_text": "DNS",
+          "snippet": " capables d’identifier les faiblesses des services usuels d’Internet (DNS, Web, ...) et de proposer des solutions sécurisées ce qui n’exclut pas la mise en œuvre d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=157",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

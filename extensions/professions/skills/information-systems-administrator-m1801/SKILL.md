@@ -1,6 +1,6 @@
 ---
 name: information-systems-administrator-m1801
-description: "Prepare, analyze and produce deliverables as a Information Systems Administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information Systems Administrator; use for requests within this professional scope. Relevant technologies include Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi."
 ---
 
 # Information Systems Administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Determine the causes of malfunctions
 - Assess, prevent, and manage risks and safety
 - Ensure systems compliance with regulations
+
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

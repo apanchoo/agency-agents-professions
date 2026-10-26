@@ -25,6 +25,12 @@ The Photographic Device Repair Technician works on the repair of photographic de
 
 Consult the [detailed expertise](../../skills/photographic-camera-repair-technician-i1408/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/photographic-camera-repair-technician-i1408/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

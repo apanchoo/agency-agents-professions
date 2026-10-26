@@ -1,6 +1,6 @@
 ---
 name: building-electrician-f1602
-description: "Prepare, analyze and produce deliverables as a Building electrician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Building electrician; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB."
 ---
 
 # Building electrician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out an electrical wiring operation
 - Change or repair a defective part or assembly
 - Diagnose breakdowns or anomalies in the electrical installation and implement the necessary actions to remedy them
+
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

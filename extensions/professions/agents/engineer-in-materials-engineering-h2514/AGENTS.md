@@ -25,6 +25,12 @@ The Materials Engineering Engineer is involved in the research, development and 
 
 Consult the [detailed expertise](../../skills/engineer-in-materials-engineering-h2514/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/engineer-in-materials-engineering-h2514/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define targeted properties, requests and end of life.

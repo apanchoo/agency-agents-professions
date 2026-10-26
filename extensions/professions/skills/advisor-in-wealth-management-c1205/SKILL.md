@@ -1,6 +1,6 @@
 ---
 name: advisor-in-wealth-management-c1205
-description: "Prepare, analyze and produce deliverables as a Advisor in wealth management; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Advisor in wealth management; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Advisor in wealth management
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop and maintain customer relationships
 - Identify, conquer, retain customers with wealth potential in order to achieve your objectives
 - Find out about the products of the bank and its partners
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

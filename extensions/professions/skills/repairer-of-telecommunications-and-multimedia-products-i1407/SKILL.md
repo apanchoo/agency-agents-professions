@@ -1,6 +1,6 @@
 ---
 name: repairer-of-telecommunications-and-multimedia-products-i1407
-description: "Prepare, analyze and produce deliverables as a Repairer of telecommunications and multimedia products; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Repairer of telecommunications and multimedia products; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Repairer of telecommunications and multimedia products
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Test the operation of devices after repair
 - Check the operating status of a product
 - Inform and advise customers and users on the use and maintenance of equipment
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

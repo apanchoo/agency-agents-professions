@@ -25,6 +25,12 @@ The IT Asset Manager optimizes and secures a company's IT resources. Manages and
 
 Consult the [detailed expertise](../../skills/it-asset-manager-m1869/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, pandas, BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-asset-manager-m1869/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

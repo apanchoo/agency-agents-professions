@@ -1,6 +1,6 @@
 ---
 name: motion-designer-e1207
-description: "Prepare, analyze and produce deliverables as a Motion designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Motion designer; use for requests within this professional scope. Relevant technologies include WebGL, WebXR."
 ---
 
 # Motion designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Create character animation using Set up (creation of animation skeletons)
 - Designing the artistic universe of the animated film
 - Animate the elements of an image (restitution of movements frame by frame, definition of trajectories)
+
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

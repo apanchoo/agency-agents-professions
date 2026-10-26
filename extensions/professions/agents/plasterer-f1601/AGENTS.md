@@ -25,6 +25,12 @@ The Plasterer, involved in building finishing, applies plaster to walls and ceil
 
 Consult the [detailed expertise](../../skills/plasterer-f1601/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/plasterer-f1601/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

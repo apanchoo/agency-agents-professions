@@ -1,6 +1,6 @@
 ---
 name: sales-director-m1715
-description: "Prepare, analyze and produce deliverables as a Sales Director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Sales Director; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Sales Director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out operations related to human resources management
 - Analyze market trends to anticipate needs
 - Determine the potential of a customer or prospect
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

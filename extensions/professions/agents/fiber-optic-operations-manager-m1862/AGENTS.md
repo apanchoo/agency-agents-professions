@@ -25,6 +25,12 @@ The Fiber Optic Operations Manager must guarantee the performance of our communi
 
 Consult the [detailed expertise](../../skills/fiber-optic-operations-manager-m1862/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/fiber-optic-operations-manager-m1862/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

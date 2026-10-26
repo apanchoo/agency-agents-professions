@@ -26,6 +26,12 @@ Job where your technical expertise and leadership will guarantee the reliability
 
 Consult the [detailed expertise](../../skills/parks-and-gardens-mechanics-workshop-manager-i1107/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/parks-and-gardens-mechanics-workshop-manager-i1107/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Formalize functions, loads, interfaces and manufacturing constraints.

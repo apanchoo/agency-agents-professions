@@ -266,5 +266,159 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 351,
+          "matched_text": "Windows",
+          "snippet": "ation à l’utilisation de PAM sur un fichier à plat et/ou gestion sous Windows). Apprentissages critiques ciblés : – AC21.01 | Configurer et dépanner le routage dynamiq",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=351",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "area": "network",
+      "use": "Capture authorized traffic and interpret packet fields, protocol flows and capture limitations.",
+      "priority": 34,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 351,
+          "matched_text": "WireShark",
+          "snippet": "n réseau de campus. L ’utilisation de logiciels d’analyses de trames (WireShark, TCPDUMP ...) pour les TP , devrait être systématisée. Révisions et compléments du S1 et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=351",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 351,
+          "matched_text": "BGP",
+          "snippet": "ahier des charges RT Mots clés : Routage – Routage dynamique – OSPF – BGP – WIFI – VLAN – Routage inter-VLAN – ACL – Authentification centralisée Volume horaire : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=351",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 351,
+          "matched_text": "OSPF",
+          "snippet": " du S2 : – Protocoles de routage dynamique. – Introduction à la QoS – OSPF avancé redistribution de routes. – WIFI (bornes lourdes et/ou légères) – VLAN/Routage int",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=351",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 351,
+          "matched_text": "VLAN",
+          "snippet": " abordées en 1ère année sur le routage, les VLANs et le routage inter-VLAN et découvriront les rudiments des réseaux sans fil. Des connaissances complémentaires leu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=351",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.PILPRO.04",
+          "module_title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 352,
+          "matched_text": "VPN",
+          "snippet": "rrier-Ethernet, – Transit peering, BGP – Mécanisme de transport MPLS, VPN L2 et VPN L3 Prolongements possibles : Déploiement de réseaux Ethernet commutés très haut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=352",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "JSON",
+      "area": "configuration",
+      "use": "Validate structured data and schemas; preserve types and check serialization round trips.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.07",
+          "module_title": "Sources de données",
+          "page": 105,
+          "matched_text": "JSON",
+          "snippet": "onnel/non relationnel) ; – Structuration des données : fichiers (CSV, JSON), exemples de sources ouvertes (open data), web scraping ; – Sensibilisation à la régleme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=105",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.ROM.01",
+          "module_title": "Réaliser une veille technologique",
+          "page": 488,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=488",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

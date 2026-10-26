@@ -1,6 +1,6 @@
 ---
 name: production-manager-in-the-food-industry-h2506
-description: "Prepare, analyze and produce deliverables as a Production manager in the food industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Production manager in the food industry; use for requests within this professional scope. Relevant technologies include Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino."
 ---
 
 # Production manager in the food industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage a quality approach, a continuous improvement process
 - Manage production and operations management
 - Respect hygiene and food safety rules
+
+## Technologies and Software
+
+Power Pivot, MATLAB, Scilab, Microsoft Excel, Power BI, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

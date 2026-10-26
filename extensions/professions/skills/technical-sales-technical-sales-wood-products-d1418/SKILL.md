@@ -1,6 +1,6 @@
 ---
 name: technical-sales-technical-sales-wood-products-d1418
-description: "Prepare, analyze and produce deliverables as a Technical-sales / Technical-sales wood products; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Technical-sales / Technical-sales wood products; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Technical-sales / Technical-sales wood products
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Meet a customer's expectations
 - Ensure monitoring of customer satisfaction
 - Build an argument
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

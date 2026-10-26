@@ -25,6 +25,12 @@ The foundry or forging engineer specializes in the shaping of materials, he desi
 
 Consult the [detailed expertise](../../skills/foundry-or-forge-engineer-h2509/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel, XML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/foundry-or-forge-engineer-h2509/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

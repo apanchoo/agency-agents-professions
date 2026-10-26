@@ -25,6 +25,12 @@ The stonemason, both a building technician and an art craftsman, creates or rest
 
 Consult the [detailed expertise](../../skills/tailor-stone-cutter-f1612/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/tailor-stone-cutter-f1612/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

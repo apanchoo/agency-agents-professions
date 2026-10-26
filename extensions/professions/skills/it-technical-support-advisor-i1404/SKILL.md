@@ -1,6 +1,6 @@
 ---
 name: it-technical-support-advisor-i1404
-description: "Prepare, analyze and produce deliverables as a IT technical support advisor; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT technical support advisor; use for requests within this professional scope. Relevant technologies include SQL, BGP, DNS, VPN, LoRa."
 ---
 
 # IT technical support advisor
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide technical assistance to teams
 - Ensuring the confidentiality of customer information
 - Comply with IT security standards in support
+
+## Technologies and Software
+
+SQL, BGP, DNS, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

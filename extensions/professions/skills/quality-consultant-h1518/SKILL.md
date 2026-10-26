@@ -1,6 +1,6 @@
 ---
 name: quality-consultant-h1518
-description: "Prepare, analyze and produce deliverables as a Quality consultant; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Quality consultant; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab, Microsoft Excel."
 ---
 
 # Quality consultant
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Evaluate the cost of non-compliance
 - Provide technical assistance to teams
 - Respect the rules of Quality, Hygiene, Safety, Health and Environment (QHSSE)
+
+## Technologies and Software
+
+MATLAB, Scilab, Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

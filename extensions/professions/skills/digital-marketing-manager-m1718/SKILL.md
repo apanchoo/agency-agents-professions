@@ -1,6 +1,6 @@
 ---
 name: digital-marketing-manager-m1718
-description: "Prepare, analyze and produce deliverables as a Digital Marketing Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Digital Marketing Manager; use for requests within this professional scope. Relevant technologies include CSS."
 ---
 
 # Digital Marketing Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement a marketing plan, branding and communication strategy
 - Participate in the creative phases of a marketing project
 - Research and analyze information on a product, a brand (situation, market, previous advertisements, etc.)
+
+## Technologies and Software
+
+CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Industrial Vehicle Sales Advisor sells industrial vehicles to commercial cus
 
 Consult the [detailed expertise](../../skills/commercial-advisor-commercial-advisor-for-industrial-d1421/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/commercial-advisor-commercial-advisor-for-industrial-d1421/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

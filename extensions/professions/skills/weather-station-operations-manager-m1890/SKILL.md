@@ -1,6 +1,6 @@
 ---
 name: weather-station-operations-manager-m1890
-description: "Prepare, analyze and produce deliverables as a Weather station operations manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Weather station operations manager; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Weather station operations manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write detailed analysis reports
 - Carry out a meteorological observation report
 - Building partnerships with meteorological institutions
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

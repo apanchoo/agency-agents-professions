@@ -25,6 +25,12 @@ The Data engineer collects and analyzes large volumes of data, while guaranteein
 
 Consult the [detailed expertise](../../skills/data-engineer-m1811/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/data-engineer-m1811/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

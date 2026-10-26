@@ -1,6 +1,6 @@
 ---
 name: it-security-administrator-m1817
-description: "Prepare, analyze and produce deliverables as a IT security administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT security administrator; use for requests within this professional scope. Relevant technologies include Docker, GitLab, Python, Linux, Windows, JavaScript."
 ---
 
 # IT security administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Lead risk management
 - Ensure compliance with safety standards
 - Document safety procedures and incidents
+
+## Technologies and Software
+
+Docker, GitLab, Python, Linux, Windows, JavaScript, HTML, CSS, SQL, Talend, Visual Studio Code, virtualenv, Tableau Software, VLAN, VPN, JSON.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

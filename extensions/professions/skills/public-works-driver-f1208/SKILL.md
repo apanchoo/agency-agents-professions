@@ -1,6 +1,6 @@
 ---
 name: public-works-driver-f1208
-description: "Prepare, analyze and produce deliverables as a Public works driver; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Public works driver; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Public works driver
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Organize the ordering of materials and equipment necessary for the completion of the site
 - Supervise the execution and detail plans to ensure the proper execution of the work
 - Ensure compliance of the work and site with quality standards and participate in the quality audit phase
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

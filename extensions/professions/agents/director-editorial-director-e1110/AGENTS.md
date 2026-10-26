@@ -26,6 +26,12 @@ The Managing Editor leads editorial strategy and oversees content production. De
 
 Consult the [detailed expertise](../../skills/director-editorial-director-e1110/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/director-editorial-director-e1110/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

@@ -1,6 +1,6 @@
 ---
 name: automated-installation-maintenance-technician-i1302
-description: "Prepare, analyze and produce deliverables as a Automated installation maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Automated installation maintenance technician; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, Scilab, Arduino, LoRa, MQTT."
 ---
 
 # Automated installation maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Control the application of quality procedures
 - Complete the intervention monitoring materials
 - Ensure continuous technological monitoring
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab, Arduino, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

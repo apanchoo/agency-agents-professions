@@ -1,6 +1,6 @@
 ---
 name: graphic-designer-e1205
-description: "Prepare, analyze and produce deliverables as a Graphic designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Graphic designer; use for requests within this professional scope. Relevant technologies include WebGL, WebXR."
 ---
 
 # Graphic designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Translate a concept or script into a visual representation
 - Ensure continuous technological monitoring
 - Use computer-aided design (CAD) software
+
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

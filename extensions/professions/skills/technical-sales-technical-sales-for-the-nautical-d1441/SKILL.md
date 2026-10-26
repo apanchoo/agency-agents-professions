@@ -1,6 +1,6 @@
 ---
 name: technical-sales-technical-sales-for-the-nautical-d1441
-description: "Prepare, analyze and produce deliverables as a Technical-sales / Technical-sales for the nautical industry and services; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Technical-sales / Technical-sales for the nautical industry and services; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Technical-sales / Technical-sales for the nautical industry and services
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Negotiate rental conditions with customers
 - Plan promotional events related to boating
 - Propose financing solutions adapted to customers
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

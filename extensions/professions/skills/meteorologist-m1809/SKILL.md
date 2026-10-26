@@ -1,6 +1,6 @@
 ---
 name: meteorologist-m1809
-description: "Prepare, analyze and produce deliverables as a Meteorologist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Meteorologist; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, SQL."
 ---
 
 # Meteorologist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Communicate meteorological or oceanographic data to a user
 - Inform and raise public awareness of the impacts of climate change
 - Manage weather alerts in case of disasters
+
+## Technologies and Software
+
+Docker, Kubernetes, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

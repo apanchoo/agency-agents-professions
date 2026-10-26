@@ -261,5 +261,1118 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Docker",
+          "snippet": "logs, système de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "area": "containers",
+      "use": "Define workloads and services; verify rollout readiness, resource limits, scaling and rollback.",
+      "priority": 3,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Kubernetes",
+          "snippet": "stème de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisation des appl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Ansible",
+      "area": "configuration",
+      "use": "Use inventories, reusable roles and idempotent playbooks; review check-mode and diff results.",
+      "priority": 4,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Ansible",
+          "snippet": "ossible d’introduire ici l’usage des outils d’automatisation tels que Ansible et de poursuivre la prise en main de l’environnement Git. Apprentissage critique ciblé : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Ansible",
+          "snippet": "ion, etc. ; – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements automatisé",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Ansible",
+          "snippet": "librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.05 | Automatisation des tâches d’adminis",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "ELK stack",
+      "area": "observability",
+      "use": "Centralize structured logs, define useful queries and verify incident investigation paths.",
+      "priority": 18,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.CYBER.11",
+          "module_title": "Supervision de la sécurité",
+          "page": 179,
+          "matched_text": "Kibana",
+          "snippet": "ation d’événements de sécurité. – l’utilisation d’outils spécialisés (Kibana, Grafana, Elastic...) pour générer des tableaux de bords clairs et contextualisés permett",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=179",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.09",
+          "module_title": "Outils et méthodes du DevOps",
+          "page": 252,
+          "matched_text": "ELK",
+          "snippet": "e : SonarQube ; – pour la supervision et la centralisation des logs : ELK ; – pour la mise à disposition des versions de production : Nexus. Elle pourra permettre ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=252",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Centreon",
+      "area": "observability",
+      "use": "Configure monitored services, collection intervals and alert routing; verify incident visibility.",
+      "priority": 19,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Centreon",
+          "snippet": "ion Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures don",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Nagios",
+      "area": "observability",
+      "use": "Define host and service probes, thresholds and notification paths; test both healthy and failed checks.",
+      "priority": 19,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Nagios",
+          "snippet": " application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "area": "scripting",
+      "use": "Automate administration with structured objects, explicit error handling and controlled credentials.",
+      "priority": 21,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.05",
+          "module_title": "Automatisation des tâches d’administration",
+          "page": 150,
+          "matched_text": "Powershell",
+          "snippet": "indows en utilisant potentiellement les environnements technologiques Powershell ou shell. Ces notions pourront être appliquées à la gestion de conteneurs. Il sera possib",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=150",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.11",
+          "module_title": "Programmer son infrastructure",
+          "page": 254,
+          "matched_text": "Powershell",
+          "snippet": "a configuration, etc. ; – les différentes solutions marchés (par ex : Powershell, Ansible, Terraform, Pulumi, AWS CodeDeploy, etc.) ; – la mise en place de déploiements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Powershell",
+          "snippet": "iement automatisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Bash",
+      "area": "scripting",
+      "use": "Automate command-line workflows with checked exit statuses, quoting and reproducible inputs.",
+      "priority": 22,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "4.ROM.01",
+          "module_title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "matched_text": "Bash",
+          "snippet": "atisé d’une configuration de routeur par scripts (Python, Powershell, Bash) ; – le déploiement automatisé de configurations sur des téléphones : SetTop Box (TR-69) ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "area": "systems",
+      "use": "Configure services, permissions, processes and logs; verify recovery and service startup.",
+      "priority": 23,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Linux",
+          "snippet": "atique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements actifs.",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Linux",
+          "snippet": "entionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, déplaceme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.02",
+          "module_title": "Administration système et fondamentaux de la virtualisation",
+          "page": 100,
+          "matched_text": "Linux",
+          "snippet": "tème informatique et ses outils Mots clés : Systèmes d’exploitation – Linux – Windows – Scripts – Virtualisation – Conteneurisation – Cybersécurité Volume horaire : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=100",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "area": "systems",
+      "use": "Administer services, access rights and event logs; document configuration and recovery checks.",
+      "priority": 24,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "Windows",
+          "snippet": "ssage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. Mots-clés : Réseau local, Connexion Internet, Équipements ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.08",
+          "module_title": "Bases des systèmes d’exploitation",
+          "page": 81,
+          "matched_text": "Windows",
+          "snippet": "tiques mentionnés précédemment. Contenus : – Systèmes d’exploitations Windows/Linux, Interface-Homme-Machine et ligne de commande ; – Arborescence des répertoires, dép",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=81",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.02",
+          "module_title": "Administration système et fondamentaux de la virtualisation",
+          "page": 100,
+          "matched_text": "Windows",
+          "snippet": "ormatique et ses outils Mots clés : Systèmes d’exploitation – Linux – Windows – Scripts – Virtualisation – Conteneurisation – Cybersécurité Volume horaire : Volume hor",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=100",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "OpenStack",
+      "area": "virtualization",
+      "use": "Provision virtual compute, network and storage resources with explicit quotas and access controls.",
+      "priority": 25,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.16",
+          "module_title": "Ecosystème Cloud",
+          "page": 214,
+          "matched_text": "OpenStack",
+          "snippet": "tions pour l’hébergement d’un Cloud au sein de l’entreprise (par ex : OpenStack, ...). – les facteurs de choix d’une solution adaptée à une entreprise, notamment : – la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=214",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.12",
+          "module_title": "Solutions Cloud",
+          "page": 255,
+          "matched_text": "Openstack",
+          "snippet": " services et/ou les solutions pour l’hébergement en interne (par ex : Openstack, OpenNebula, ProxMox...) ; – (l’installation,) la configuration, et l’administration d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VMware",
+      "area": "virtualization",
+      "use": "Configure virtual machines, virtual networks and storage; distinguish snapshots from verified backups.",
+      "priority": 26,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.17",
+          "module_title": "Virtualisation avancée",
+          "page": 215,
+          "matched_text": "VMWare",
+          "snippet": "type 1, type 2) et les solutions du marché (par ex : pour le type 1 : VMWare, Hyper-V, Citrix, Proxmox et KVM, ... et pour le type 2 : Workstation, VirtualBox, ...), ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=215",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "VirtualBox",
+      "area": "virtualization",
+      "use": "Build reproducible virtual-machine labs and test network modes, shared resources and clean recovery.",
+      "priority": 27,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.DEVCLOUD.17",
+          "module_title": "Virtualisation avancée",
+          "page": 215,
+          "matched_text": "VirtualBox",
+          "snippet": "Hyper-V, Citrix, Proxmox et KVM, ... et pour le type 2 : Workstation, VirtualBox, ...), – les différents formats de machines virtuelles et de disques virtuels (.vdi, .ova",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=215",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Paramiko",
+      "area": "network_automation",
+      "use": "Automate SSH operations with host-key verification, timeouts and checked command results.",
+      "priority": 28,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Paramiko",
+          "snippet": "e la gestion de l’infrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Netmiko",
+      "area": "network_automation",
+      "use": "Automate network-device sessions with platform-aware commands and configuration verification.",
+      "priority": 29,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Netmiko",
+          "snippet": "on de l’infrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "NAPALM",
+      "area": "network_automation",
+      "use": "Use network drivers and structured state comparisons to validate configuration changes.",
+      "priority": 30,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Naplam",
+          "snippet": "nfrastructure réseaux avec les librairies réseaux (Paramiko, Netmiko, Naplam, ... ), les API REST et Ansible – Gestion des versions avec GIT Prérequis : – R4.05 | Aut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "YAML",
+      "area": "configuration",
+      "use": "Validate configuration structure, quoting and schema before deployment.",
+      "priority": 31,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "YAML",
+          "snippet": "pulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichiers structurés ; ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "yaml",
+          "snippet": "at et description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte versus ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "YALM",
+          "snippet": "| Automatiser la gestion des équipements réseaux Mots clés : Docker – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "YANG",
+      "area": "network_automation",
+      "use": "Describe network configuration and operational data with explicit models and validation.",
+      "priority": 32,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "YANG",
+          "snippet": "atiser la gestion des équipements réseaux Mots clés : Docker – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire : Volum",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Cisco DevNet",
+      "area": "network_automation",
+      "use": "Use documented network APIs and reproducible labs to validate automation workflows.",
+      "priority": 33,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.09",
+          "module_title": "Outils DevOps",
+          "page": 461,
+          "matched_text": "Cisco DEVNET",
+          "snippet": "r – YALM – YANG – Ansible – Conteneurisation – Automatisation – API – Cisco DEVNET Volume horaire : Volume horaire défini nationalement : 14 heures dont 6 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=461",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "area": "network",
+      "use": "Capture authorized traffic and interpret packet fields, protocol flows and capture limitations.",
+      "priority": 34,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "Wireshark",
+          "snippet": "abilité, gigue, taux de pertes. Outils préconisés : Logiciels du type Wireshark, GNS3, Packet Tracer, Scapy. Des éléments relatifs à la sécurité et aux risques informati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.01",
+          "module_title": "Réseaux de campus",
+          "page": 123,
+          "matched_text": "WireShark",
+          "snippet": "n réseau de campus. L ’utilisation de logiciels d’analyses de trames (WireShark, TCPDUMP ...) pour les TP , devrait être systématisée. Révisions et compléments du S1 et ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=123",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.01",
+          "module_title": "Infrastructures de sécurité",
+          "page": 146,
+          "matched_text": "WireShark",
+          "snippet": "Penser à systématiser l’utilisation de logiciels d’analyse de trames (WireShark, TCPDUMP , ...) pour les TP . Apprentissages critiques ciblés : – AC21.02 | Configurer et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "NetFlow",
+      "area": "observability",
+      "use": "Inspect exported network-flow records, collection coverage and traffic baselines.",
+      "priority": 35,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "Netflow",
+          "snippet": "és : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heure",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SNMP",
+      "area": "observability",
+      "use": "Select monitored objects, secure credentials and polling intervals; verify retrieved values and units.",
+      "priority": 35,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.IOM.03",
+          "module_title": "Qualifier les architectures de réseaux hybrides dédiées à l’IoT",
+          "page": 320,
+          "matched_text": "SNMP",
+          "snippet": " l’environnement numérique d’une application Mots clés : NTP – Logs – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=320",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.01",
+          "module_title": "Réseaux de campus",
+          "page": 123,
+          "matched_text": "BGP",
+          "snippet": "ahier des charges RT Mots clés : Routage – Routage dynamique – OSPF – BGP – WIFI – VLAN – Routage inter-VLAN – ACL – Authentification centralisée Volume horaire : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=123",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.02",
+          "module_title": "Réseaux opérateurs",
+          "page": 124,
+          "matched_text": "BGP",
+          "snippet": " de transmission : SDH, WDM/OTN, Carrier-Ethernet, – Transit peering, BGP – Mécanisme de transport MPLS, VPN L2 et VPN L3 Prolongements possibles : Déploiement de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=124",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "3.DEVCLOUD.04",
+          "module_title": "Mettre en place une infrastructure virtualisée",
+          "page": 198,
+          "matched_text": "BGP",
+          "snippet": "ahier des charges RT Mots clés : Routage – Routage dynamique – OSPF – BGP – WIFI – VLAN – Routage inter-VLAN – ACL – Authentification centralisée Volume horaire : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=198",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "1.02",
+          "module_title": "S’initier aux réseaux informatiques",
+          "page": 69,
+          "matched_text": "DHCP",
+          "snippet": "segmentation d’un réseau ; – configurer le plan d’adressage (statique/DHCP) et le routage ; – installer des postes clients (Windows, Linux) pour les utilisateurs. M",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=69",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "DHCP",
+          "snippet": "et protocoles essentiels des réseaux locaux, comme Ethernet, TCP/IP , DHCP , DNS. Sont également introduites des notions de sécurité informatique (les ressources as",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "2.04",
+          "module_title": "Projet intégratif",
+          "page": 96,
+          "matched_text": "DHCP",
+          "snippet": "jets connectés, systèmes d’exploitation, ...) et les protocoles (IP , DHCP , DNS, Mail, Web, ...) qui permettent le fonctionnement du réseau dans l’objectif d’une d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=96",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "DNS",
+          "snippet": "ocoles essentiels des réseaux locaux, comme Ethernet, TCP/IP , DHCP , DNS. Sont également introduites des notions de sécurité informatique (les ressources associée",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "2.01",
+          "module_title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "matched_text": "DNS",
+          "snippet": "-clés : Adressage IP , VLAN, VTP , Routage inter-VLAN, NAT, PAT, ACL, DNS, HTTP , SSH, Routage (vecteur de distance / état de lien), PXE, TFTP . Apprentissages cri",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "2.04",
+          "module_title": "Projet intégratif",
+          "page": 96,
+          "matched_text": "DNS",
+          "snippet": "nnectés, systèmes d’exploitation, ...) et les protocoles (IP , DHCP , DNS, Mail, Web, ...) qui permettent le fonctionnement du réseau dans l’objectif d’une des mis",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=96",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.01",
+          "module_title": "Initiation aux réseaux informatiques",
+          "page": 74,
+          "matched_text": "IPv4",
+          "snippet": "n au réseau – Découverte et prise en main du réseau local – Adressage IPv4 : classes d’adresses, masques naturels, adressage statique, adressage dynamique (DHCP) – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=74",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv4",
+          "snippet": "lée des protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Princi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv4",
+          "snippet": "ance pourront servir de support). Contenus : – Protocole et adressage IPv4&6. – Traduction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – T",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.02",
+          "module_title": "Principes et architecture des réseaux",
+          "page": 75,
+          "matched_text": "IPv6",
+          "snippet": "s protocoles Ethernet, ARP , ICMP . – Découverte des protocoles IPv4, IPv6, ICMPv6, TCP , UDP et des protocoles applicatifs. – Topologies de réseaux. – Principes de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "IPv6",
+          "snippet": " lien – Stratégies de filtrage – CIDR – VLSM – Agrégation de routes – IPv6 – NDP Volume horaire : Volume horaire défini nationalement : 49 heures dont 22 heures de ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.10",
+          "module_title": "Opérateur de télécom",
+          "page": 462,
+          "matched_text": "IPv6",
+          "snippet": "sme de transport dans les réseaux opérateurs (MPLS, carrier Ethernet, IPv6, ...) – les technologies de VPN L2 et VPN L3 – les interconnexions des réseaux opérateurs",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=462",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.01",
+          "module_title": "Technologies de l’Internet",
+          "page": 99,
+          "matched_text": "OSPF",
+          "snippet": "uction d’adresses (NAT/PAT). – Routage statique et routage dynamique (OSPF). – TCP , UDP . – Politiques de filtrage ACL. Apprentissages critiques ciblés : – AC11.03",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.01",
+          "module_title": "Réseaux de campus",
+          "page": 123,
+          "matched_text": "OSPF",
+          "snippet": " du S2 : – Protocoles de routage dynamique. – Introduction à la QoS – OSPF avancé redistribution de routes. – WIFI (bornes lourdes et/ou légères) – VLAN/Routage int",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=123",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "3.DEVCLOUD.04",
+          "module_title": "Mettre en place une infrastructure virtualisée",
+          "page": 198,
+          "matched_text": "OSPF",
+          "snippet": " du S2 : – Protocoles de routage dynamique. – Introduction à la QoS – OSPF avancé redistribution de routes. – WIFI (bornes lourdes et/ou légères) – VLAN/Routage int",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=198",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R1.03",
+          "module_title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "matched_text": "VLAN",
+          "snippet": "formation dont il est le support (segmentation physique et virtuelle, VLAN). Ces compétences s’appuient sur la compréhension des mécanismes intrinsèques aux réseaux",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "2.01",
+          "module_title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "matched_text": "VLAN",
+          "snippet": "ment la configuration réalisée ; – construire un réseau local virtuel VLAN ; – intercepter un trafic entre 2 ordinateurs et identifier le chemin utilisé ; – constru",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VLAN",
+          "snippet": "– sur les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.CYBER.03",
+          "module_title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – Wi-Fi. – sur la mise en place et la configurati",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.02",
+          "module_title": "Réseaux opérateurs",
+          "page": 124,
+          "matched_text": "VPN",
+          "snippet": "rrier-Ethernet, – Transit peering, BGP – Mécanisme de transport MPLS, VPN L2 et VPN L3 Prolongements possibles : Déploiement de réseaux Ethernet commutés très haut",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=124",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.01",
+          "module_title": "Infrastructures de sécurité",
+          "page": 146,
+          "matched_text": "VPN",
+          "snippet": "ltrage et de contrôle d’accès (Proxy-Firewall, NAT, ACL...) – Tunnels VPN Penser à systématiser l’utilisation de logiciels d’analyse de trames (WireShark, TCPDUMP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JSON",
+      "area": "configuration",
+      "use": "Validate structured data and schemas; preserve types and check serialization round trips.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.07",
+          "module_title": "Sources de données",
+          "page": 105,
+          "matched_text": "JSON",
+          "snippet": "onnel/non relationnel) ; – Structuration des données : fichiers (CSV, JSON), exemples de sources ouvertes (open data), web scraping ; – Sensibilisation à la régleme",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=105",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "JSON",
+          "snippet": "– Manipulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichiers structu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "json",
+          "snippet": " Format et description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte ve",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "area": "interfaces",
+      "use": "Specify resource contracts, authentication and error handling; test request and response behavior.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.02",
+          "module_title": "Supervision des réseaux",
+          "page": 167,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=167",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.DEVCLOUD.10",
+          "module_title": "Développement de microservices",
+          "page": 232,
+          "matched_text": "RESTful",
+          "snippet": "éments de conception des API : API synchrone/asynchrone, architecture RESTful ; – Les spécificités des API REST : routage d’URL ; – La sécurité des API : abonnements a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=232",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "5.DEVCLOUD.03",
+          "module_title": "Orchestrer la conteneurisation d’une application",
+          "page": 242,
+          "matched_text": "REST",
+          "snippet": "s – SNMP – SIEM – Tableau de bord – Nagios – Centreon – Netflow – API REST Volume horaire : Volume horaire défini nationalement : 18 heures dont 13 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=242",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "XML",
+      "area": "configuration",
+      "use": "Validate document structure and schemas; control parsing and verify transformed output.",
+      "priority": 59,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R2.08",
+          "module_title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "matched_text": "XML",
+          "snippet": "éthodes). – Manipulation de fichiers avancée : – Fichiers structurés (XML, CSV, JSON, YAML) ; – Gestion de l’arborescence par le code ; – Lecture/écriture de fichi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R3.08",
+          "module_title": "Consolidation de la programmation",
+          "page": 130,
+          "matched_text": "xml",
+          "snippet": " description de données (affichage, expr. textuelle pour un json/yaml/xml, date avec timezone, retour sur l’encodage) – Sérialisation des objets (texte versus bina",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=130",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R2.14",
+          "module_title": "Système d’information",
+          "page": 94,
+          "matched_text": "XML",
+          "snippet": "l client, interface web) ; – Introduction aux formats d’échange (CSV, XML, JSON...) et sauvegarde / migration de bases de données. Apprentissage critique ciblé : –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=94",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

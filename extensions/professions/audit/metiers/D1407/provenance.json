@@ -188,5 +188,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "tc",
+          "module_code": "R4.SME.10",
+          "module_title": "Organisation et logistique - 1",
+          "page": 159,
+          "matched_text": "excel",
+          "snippet": "ation et test du matériel). Utilisation ou création d’outils simples (excel) de réservation de salles, hôtels, transports Droit : contrat de cession de spectacle, co",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=159",
+          "sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

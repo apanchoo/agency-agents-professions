@@ -1,6 +1,6 @@
 ---
 name: advisor-in-agricultural-hydraulics-i1328
-description: "Prepare, analyze and produce deliverables as a Advisor in agricultural hydraulics; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Advisor in agricultural hydraulics; use for requests within this professional scope. Relevant technologies include YAML, VLAN, JSON, XML, LoRa."
 ---
 
 # Advisor in agricultural hydraulics
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Determine technical-economic solutions
 - Evaluate the water needs of a structure
 - Ensure technological and regulatory monitoring
+
+## Technologies and Software
+
+YAML, VLAN, JSON, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The technical sales representative advises and sells specific products or servic
 
 Consult the [detailed expertise](../../skills/technical-commercial-d1407/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/technical-commercial-d1407/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

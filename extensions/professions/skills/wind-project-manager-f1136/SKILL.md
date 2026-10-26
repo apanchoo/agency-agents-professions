@@ -1,6 +1,6 @@
 ---
 name: wind-project-manager-f1136
-description: "Prepare, analyze and produce deliverables as a Wind project manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Wind project manager; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Wind project manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure compliance of practices with current regulations
 - Collect and analyze customer needs
 - Select a wind turbine installation site based on energy production potential
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: building-architect-f1101
-description: "Prepare, analyze and produce deliverables as a Building architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Building architect; use for requests within this professional scope. Relevant technologies include Autodesk Revit, BIM."
 ---
 
 # Building architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Control the quality of the construction and compliance with the project of a building or infrastructure
 - Evaluate the costs and resources needed for an architectural project
 - Identify and select suppliers, subcontractors, service providers
+
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

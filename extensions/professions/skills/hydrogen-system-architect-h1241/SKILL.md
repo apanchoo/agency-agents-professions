@@ -1,6 +1,6 @@
 ---
 name: hydrogen-system-architect-h1241
-description: "Prepare, analyze and produce deliverables as a Hydrogen system architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Hydrogen system architect; use for requests within this professional scope. Relevant technologies include Linux, Windows, JSON, LoRa."
 ---
 
 # Hydrogen system architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize the performance of the hydrogen system as a whole
 - Monitor production planning based on flows, deadlines, supply
 - Carry out adjustments to industrial or operating equipment and check its operation
+
+## Technologies and Software
+
+Linux, Windows, JSON, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

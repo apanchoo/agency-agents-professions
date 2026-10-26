@@ -27,6 +27,12 @@ The Industrial Equipment Electromechanic ensures the maintenance and repair of e
 
 Consult the [detailed expertise](../../skills/electromechanic-electromechanic-of-industrial-i1335/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/electromechanic-electromechanic-of-industrial-i1335/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

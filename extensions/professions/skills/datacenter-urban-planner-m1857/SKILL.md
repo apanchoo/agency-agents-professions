@@ -1,6 +1,6 @@
 ---
 name: datacenter-urban-planner-m1857
-description: "Prepare, analyze and produce deliverables as a Datacenter Urban Planner; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Datacenter Urban Planner; use for requests within this professional scope. Relevant technologies include Python, Wireshark, JavaScript, HTML, CSS, SQL."
 ---
 
 # Datacenter Urban Planner
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze and control energy consumption
 - Respect cost constraints and production deadlines
 - Integrate innovative technologies to improve data center performance
+
+## Technologies and Software
+
+Python, Wireshark, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software, DHCP, DNS, IPv4, IPv6, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Hydroelectric Power Plant Operations Technician ensures the management and m
 
 Consult the [detailed expertise](../../skills/hydroelectric-power-station-operating-technician-h2712/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/hydroelectric-power-station-operating-technician-h2712/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

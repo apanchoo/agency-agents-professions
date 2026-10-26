@@ -1,6 +1,6 @@
 ---
 name: "Profession: Bed Manager (m1212)"
-description: "Professional assistant for Bed Manager, with task-specific methods, deliverables and acceptance criteria."
+description: "Professional assistant for Bed Manager, with task-specific methods, deliverables and acceptance criteria. Relevant technologies: Power Query, Power Pivot, Microsoft Excel, Power BI."
 color: '#2563EB'
 ---
 
@@ -30,6 +30,12 @@ The Bed Manager collects and analyzes information on a daily basis to anticipate
 - Enter data relating to scheduled or unscheduled entrances and exits and update movements (programming, unprogramming, non-arrival) in the bed management software
 
 Consult the detailed expertise to adapt the work to the assignment.
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the technology toolbox for their practical applications and verification points.
 
 ## Workflow
 
@@ -197,3 +203,30 @@ Choose a scenario suited to the deliverable and specify inputs, constraints, exp
 - Personal data is limited as necessary
 
 Retain assumptions, units, inputs and intermediate results needed to reproduce the checks. Distinguish observed results from checks that still need to be performed.
+
+
+## Technology Toolbox
+
+Technology Toolbox
+
+Select tools for the assignment, existing interfaces and available environment. Confirm installed versions and compatibility before implementation. A listed tool is an option, not a claim of access or a completed deployment.
+
+### Power Query
+
+**Spreadsheets**. Build reproducible data preparation steps and verify source refresh, types and row counts.
+
+### Power Pivot
+
+**Spreadsheets**. Define relationships and measures in a tabular model and reconcile aggregates with source data.
+
+### Microsoft Excel
+
+**Spreadsheets**. Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.
+
+### Power BI
+
+**Data analysis**. Prepare data models and dashboards with defined measures, refresh rules and reconciliation checks.
+
+### Verification
+
+Retain the configuration or code, test inputs and observed results. Check the interfaces between selected tools and demonstrate the requested outcome. Report checks that have not been run.

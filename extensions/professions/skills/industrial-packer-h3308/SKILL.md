@@ -1,6 +1,6 @@
 ---
 name: industrial-packer-h3308
-description: "Prepare, analyze and produce deliverables as a Industrial packer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial packer; use for requests within this professional scope. Relevant technologies include ANSYS Granta EduPack, SOLIDWORKS Sustainability, SolidWorks."
 ---
 
 # Industrial packer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Visually check the quality of packaging
 - Load, unload, handle products
 - Condition, package
+
+## Technologies and Software
+
+ANSYS Granta EduPack, SOLIDWORKS Sustainability, SolidWorks.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

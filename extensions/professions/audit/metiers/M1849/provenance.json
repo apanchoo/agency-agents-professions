@@ -251,5 +251,83 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "GNU Octave",
+      "area": "simulation",
+      "use": "Run reproducible numerical models and check algorithm and precision assumptions.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Octave",
+          "snippet": "els d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à dévelop",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Labview",
+          "snippet": "se faire à l’aide d’outils logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "geii",
+          "module_code": "R3.08",
+          "module_title": "Electronique",
+          "page": 105,
+          "matched_text": "Scilab",
+          "snippet": "s logiciels d’instrumentation (Par exemple : Labview, MatlabSimulink, Scilab, Octave...) ou de systèmes embarqués (microcontrôleur, FPGA...). Les thèmes recommandés à",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "5.CYBER.03",
+          "module_title": "Assurer la sécurisation et la supervision avancées d’un système d’information",
+          "page": 164,
+          "matched_text": "VPN",
+          "snippet": " – accès distants et télétravail sécurisé et interconnexion de sites (VPN, ...) – outils de surveillance : – IDS/IPS – logs – supervision – SIEM Cette SAÉ peut fai",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=164",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

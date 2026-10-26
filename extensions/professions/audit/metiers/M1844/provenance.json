@@ -268,5 +268,265 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "Docker",
+          "snippet": "ent pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualification tout au long",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Docker",
+          "snippet": "logs, système de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "area": "containers",
+      "use": "Define workloads and services; verify rollout readiness, resource limits, scaling and rollback.",
+      "priority": 3,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Kubernetes",
+          "snippet": "stème de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisation des appl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "GitLab",
+      "area": "delivery",
+      "use": "Version code and pipeline definitions; separate build, test, package and deployment stages.",
+      "priority": 7,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "GitLab",
+          "snippet": "tion des plateformes collaboratives dédiées au développement (par ex. GitLab) à travers la gestion des branches de développement et production, la création de clones,",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Git",
+      "area": "versioning",
+      "use": "Use branches, reviewable commits and tags to trace changes to deployed artifacts.",
+      "priority": 9,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 170,
+          "matched_text": "Git",
+          "snippet": "charges – Environnement de travail collaboratif – Gestion de projet – Git – IDE – Documentation – Sécurité – Déploiement – Partage – Cycle de vie – Méthode Agile V",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=170",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "python",
+          "snippet": "de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualification",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OpenStack",
+      "area": "virtualization",
+      "use": "Provision virtual compute, network and storage resources with explicit quotas and access controls.",
+      "priority": 25,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.DEVCLOUD.12",
+          "module_title": "Solutions Cloud",
+          "page": 255,
+          "matched_text": "Openstack",
+          "snippet": " services et/ou les solutions pour l’hébergement en interne (par ex : Openstack, OpenNebula, ProxMox...) ; – (l’installation,) la configuration, et l’administration d’un",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=255",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "3.INTEG.01",
+          "module_title": "Gestion de projet et développement logiciel",
+          "page": 317,
+          "matched_text": "SQL",
+          "snippet": "– R3.07 | SQL dans un langage de programmation – R3.10 | Management des systèmes d’information – R3.11 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=317",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "virtualenv",
+      "area": "development",
+      "use": "Isolate Python dependencies and record reproducible environment setup.",
+      "priority": 46,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "virtualenv",
+          "snippet": "ronnements de développement pour chaque partie du projet (par exemple virtualenv python, IDE, Docker, ...). – Mise en place des procédures de tests unitaires et de qualif",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Sphinx",
+      "area": "documentation",
+      "use": "Build and verify versioned technical documentation, including broken links and executable examples.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "Sphinx",
+          "snippet": "s pour la génération de documentation : générateurs à partir du code (Sphinx, Javadoc, ...), langage pour la documentation (markdown, asciidoc, restructured text, ...",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Javadoc",
+      "area": "documentation",
+      "use": "Generate API documentation from maintained contracts and verify links and examples.",
+      "priority": 48,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R5.04",
+          "module_title": "Cycle de vie d’un projet informatique",
+          "page": 169,
+          "matched_text": "Javadoc",
+          "snippet": "a génération de documentation : générateurs à partir du code (Sphinx, Javadoc, ...), langage pour la documentation (markdown, asciidoc, restructured text, ...) – Mise ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=169",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DHCP",
+          "snippet": "gies des réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Util",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R3.06",
+          "module_title": "Architecture des réseaux",
+          "page": 116,
+          "matched_text": "DNS",
+          "snippet": "s réseaux (piles protocolaires, couche transport, TCP/IP/UDP , DHCP , DNS...) – Interconnexion de réseaux (par ex. : routage, NAT, filtrage, proxy...) – Utilisatio",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "6.DEVCLOUD.01",
+          "module_title": "Gérer le pipeline d’une application orientée Cloud",
+          "page": 259,
+          "matched_text": "LoRa",
+          "snippet": "contrat, ... – déployer, maintenir des technologies de communication (LoRa, Sigfox, NB-IoT, IEEE 802.15.4, WiFi, Bluetooth, 3G, 4G, 5G, xG). entre objets mobiles et",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=259",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

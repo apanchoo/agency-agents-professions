@@ -26,6 +26,12 @@ The Functional Software Approver plays a key role in guaranteeing the quality an
 
 Consult the [detailed expertise](../../skills/functional-software-approver-m1832/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, VLAN, VPN, REST APIs, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/functional-software-approver-m1832/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

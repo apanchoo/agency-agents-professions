@@ -26,6 +26,12 @@ The Innovation Manager drives and stimulates creativity within the company to de
 
 Consult the [detailed expertise](../../skills/innovation-manager-m1717/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/innovation-manager-m1717/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

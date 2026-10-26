@@ -109,5 +109,37 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "BIM",
+      "area": "cad",
+      "use": "Coordinate model information, naming, exchange requirements and discipline interfaces.",
+      "priority": 53,
+      "evidence": [
+        {
+          "programme_id": "gccd",
+          "module_code": "R5.08",
+          "module_title": "Technologie des Travaux Publics 5",
+          "page": 253,
+          "matched_text": "BIM",
+          "snippet": "t combinée : – SAÉ 5.TP .01 | Projet de conception Aménagement Urbain-BIM – PORTFOLIO | Portfolio 5 Descriptif : Objectifs : – Dimensionner des réseaux éclairage, ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=253",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "gccd",
+          "module_code": "5.RAPEB.02",
+          "module_title": "Etude de faisabilité de réhabilitation",
+          "page": 323,
+          "matched_text": "BIM",
+          "snippet": " plans de détails structurels, l’utilisation de logiciels compatibles BIM pourraient être faits en concertation avec la SAÉ du BC1. Livrables techniques possibles ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=323",
+          "sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

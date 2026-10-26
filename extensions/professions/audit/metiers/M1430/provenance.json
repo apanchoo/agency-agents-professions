@@ -180,5 +180,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Talend",
+      "area": "data",
+      "use": "Define ETL mappings, data-quality rules and repeatable import/export workflows.",
+      "priority": 41,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Talend",
+          "snippet": "turés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes avec : –",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Tableau Software",
+      "area": "data",
+      "use": "Build dashboards with defined measures, appropriate encodings and traceable data sources.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.08",
+          "module_title": "Préparation/Intégration de données",
+          "page": 109,
+          "matched_text": "Tableau Prep",
+          "snippet": "ers mais structurés – Réalisation pratique avec utilisation d’un ETL (Tableau Prep, Talend (fonctionnalités de base)) – Extraction de données issues de sources hétérogènes ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=109",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

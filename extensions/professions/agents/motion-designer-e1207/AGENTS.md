@@ -25,6 +25,12 @@ The Motion designer, creator of visual animations, shapes the visual experience 
 
 Consult the [detailed expertise](../../skills/motion-designer-e1207/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/motion-designer-e1207/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

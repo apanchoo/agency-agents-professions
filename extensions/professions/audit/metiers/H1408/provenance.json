@@ -153,5 +153,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "qlio",
+          "module_code": "R4.05",
+          "module_title": "Base de données",
+          "page": 138,
+          "matched_text": "SQL",
+          "snippet": ": Système d’information – Gestion de base de données – Modélisation – SQL. Volume horaire : Volume horaire défini nationalement : 15 heures dont 7 heures de TP ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=138",
+          "sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

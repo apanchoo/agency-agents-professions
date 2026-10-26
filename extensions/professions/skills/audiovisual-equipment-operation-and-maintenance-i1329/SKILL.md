@@ -1,6 +1,6 @@
 ---
 name: audiovisual-equipment-operation-and-maintenance-i1329
-description: "Prepare, analyze and produce deliverables as a Audiovisual equipment operation and maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Audiovisual equipment operation and maintenance technician; use for requests within this professional scope. Relevant technologies include LoRa."
 ---
 
 # Audiovisual equipment operation and maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Verify by simulation, tests, trials, calculations, the functionalities and characteristics of the electrical or electronic system
 - Provide technical assistance to teams
 - Complete the intervention monitoring materials
+
+## Technologies and Software
+
+LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

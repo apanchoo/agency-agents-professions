@@ -1,6 +1,6 @@
 ---
 name: head-of-electricity-electronics-production-workshop-h2501
-description: "Prepare, analyze and produce deliverables as a Head of electricity-electronics production workshop; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of electricity-electronics production workshop; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, Microsoft Excel."
 ---
 
 # Head of electricity-electronics production workshop
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out a technical diagnosis
 - Plan equipment maintenance operations
 - Recycle electronic components
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, Microsoft Excel, Arduino, XML, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

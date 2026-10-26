@@ -25,6 +25,12 @@ The Office Maintenance Agent ensures the reliability and performance of the IT e
 
 Consult the [detailed expertise](../../skills/office-maintenance-agent-i1409/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, VLAN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/office-maintenance-agent-i1409/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

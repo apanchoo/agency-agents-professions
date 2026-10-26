@@ -26,6 +26,12 @@ The Wind Turbine Maintenance Technician is a link in the energy transition, guar
 
 Consult the [detailed expertise](../../skills/wind-turbine-maintenance-technician-i1321/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/wind-turbine-maintenance-technician-i1321/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

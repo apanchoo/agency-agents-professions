@@ -25,6 +25,12 @@ The Business Software Integrator is responsible for installing and configuring t
 
 Consult the [detailed expertise](../../skills/business-software-integrator-m1813/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/business-software-integrator-m1813/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

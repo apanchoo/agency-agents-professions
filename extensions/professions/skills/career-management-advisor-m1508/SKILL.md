@@ -1,6 +1,6 @@
 ---
 name: career-management-advisor-m1508
-description: "Prepare, analyze and produce deliverables as a Career management advisor; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Career management advisor; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Career management advisor
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Define skills development needs
 - Conduct an interview, an interview, an audition
 - Analyze a situation and produce an HR diagnosis
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

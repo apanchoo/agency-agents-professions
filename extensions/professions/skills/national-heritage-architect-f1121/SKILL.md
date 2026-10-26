@@ -1,6 +1,6 @@
 ---
 name: national-heritage-architect-f1121
-description: "Prepare, analyze and produce deliverables as a National Heritage Architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a National Heritage Architect; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # National Heritage Architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Lead, coordinate a team
 - Carry out advisory missions to communities, developers or building owners
 - Create a digital model of a BIM project
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -11,12 +11,17 @@
 
 Select techniques that fit the task and available resources.
 
-- Security infrastructure
-- Architecture of digital and IT systems
-- Programming Fundamentals
+- Cloud Solutions
+- Managing Cloud solutions for businesses
+- Cloud ecosystem
+- Containerization Fundamentals
+- DevOps tools and methods
+- Containerized infrastructures
+- Program your infrastructure
+- DevOps tools
 - Cloud computing
-- Integration and performance of information systems
 - Installation & Configuration of complex services
+- Advanced Network
 - Service deployment
 - Integration
 - Front development and integration
@@ -25,10 +30,10 @@ Select techniques that fit the task and available resources.
 
 Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
 
-- Develop communicating applications
-- Design, produce and present a technical solution
-- Application integration and project management
-- Data organization and protection
+- Manage the pipeline of a Cloud-oriented application
+- Set up a virtualized infrastructure
+- Evolution of an infrastructure
+- Creation and deployment of application services
 - Integrate a user experience within an information system
 - Integrate user interfaces within an information system
 

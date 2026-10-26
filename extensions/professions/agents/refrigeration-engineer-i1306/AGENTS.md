@@ -25,6 +25,12 @@ The Refrigeration Engineer is the specialist in the installation of refrigeratio
 
 Consult the [detailed expertise](../../skills/refrigeration-engineer-i1306/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/refrigeration-engineer-i1306/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

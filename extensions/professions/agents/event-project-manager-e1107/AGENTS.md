@@ -26,6 +26,12 @@ Imagine and organize all or part of events, in order to serve the communication 
 
 Consult the [detailed expertise](../../skills/event-project-manager-e1107/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/event-project-manager-e1107/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

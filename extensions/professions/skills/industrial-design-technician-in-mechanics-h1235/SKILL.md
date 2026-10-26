@@ -1,6 +1,6 @@
 ---
 name: industrial-design-technician-in-mechanics-h1235
-description: "Prepare, analyze and produce deliverables as a Industrial design technician in mechanics; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial design technician in mechanics; use for requests within this professional scope. Relevant technologies include Wireshark, IPv4, IPv6, LoRa."
 ---
 
 # Industrial design technician in mechanics
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Produce drafts, diagrams of parts, systems or assemblies
 - Identify technical constraints
 - Control the quality of mechanical parts produced
+
+## Technologies and Software
+
+Wireshark, IPv4, IPv6, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

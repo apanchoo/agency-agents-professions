@@ -1,6 +1,6 @@
 ---
 name: specialist-in-tools-operating-systems-networks-and-m1807
-description: "Prepare, analyze and produce deliverables as a Specialist in tools, operating systems, networks and telecoms; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Specialist in tools, operating systems, networks and telecoms; use for requests within this professional scope. Relevant technologies include Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash."
 ---
 
 # Specialist in tools, operating systems, networks and telecoms
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Lead and be responsible for the entire problem management process
 - Follow appropriate change control standards and procedures to maintain system integrity
 - Define the objectives and strategy for sustainable development of Information Systems (IS)
+
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML, YANG.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: logistics-warehouse-manager-n1302
-description: "Prepare, analyze and produce deliverables as a Logistics warehouse manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Logistics warehouse manager; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Logistics warehouse manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Respect environmental standards in all logistics operations
 - Define the logistics strategy of a structure
 - Develop strategies to reduce delivery times
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

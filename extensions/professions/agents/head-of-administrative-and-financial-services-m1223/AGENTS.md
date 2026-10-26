@@ -25,6 +25,12 @@ The head of administrative and financial services is responsible for managing re
 
 Consult the [detailed expertise](../../skills/head-of-administrative-and-financial-services-m1223/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-administrative-and-financial-services-m1223/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the scope, period and management decisions.

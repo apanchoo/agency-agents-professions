@@ -102,5 +102,86 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "HTML",
+          "snippet": ", scénarios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (W",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R1.02",
+          "module_title": "Développement d’interfaces web",
+          "page": 70,
+          "matched_text": "CSS",
+          "snippet": "arios, persona...) – Technologies d’affichage du Web (par ex. : HTML, CSS...) – Test de la conformité des sites Web aux standards d’accessibilité W3C / WAI (World ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "1.04",
+          "module_title": "Création d’une base de données",
+          "page": 65,
+          "matched_text": "SQL",
+          "snippet": "ilisées et combinées : – R1.05 | Introduction aux bases de données et SQL – R1.06 | Mathématiques discrètes – R1.09 | Introduction à l’économie durable et numériqu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=65",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R1.05",
+          "module_title": "Introduction aux bases de données et SQL",
+          "page": 73,
+          "matched_text": "SQL",
+          "snippet": "1.3.5. Ressource R1.05 : Introduction aux bases de données et SQL Compétence ciblée : – Concevoir, gérer, administrer et exploiter les données de l’entrepr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=73",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "info",
+          "module_code": "R2.06",
+          "module_title": "Exploitation d’une base de données",
+          "page": 96,
+          "matched_text": "SQL",
+          "snippet": "c des outils simples de visualisation. Savoirs de référence étudiés – SQL avancé (Structured Query Language) – Visualisation de données – Premier niveau de l’admin",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=96",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

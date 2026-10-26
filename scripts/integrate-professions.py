@@ -12,7 +12,9 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def write(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(value.rstrip() + "\n", encoding="utf-8", newline="\n")
+    text = value.rstrip() + "\n"
+    if path.is_file() and path.read_bytes() == text.encode('utf-8'): return
+    path.write_text(text, encoding="utf-8", newline="\n")
 
 
 def main():
@@ -32,7 +34,7 @@ def main():
         if name in current_names or not re.fullmatch(r"[a-z0-9-]+", name):
             continue
         for parent, filenames in [(destination / "agents" / name, ["AGENTS.md"]),
-                                  (destination / "skills" / name, ["SKILL.md", "references/metier.md", "references/pratique.md", "references/expertise.md", "references/practice.md"]),
+                                  (destination / "skills" / name, ["SKILL.md", "references/metier.md", "references/pratique.md", "references/expertise.md", "references/practice.md", "references/technologies.md"]),
                                   (ROOT / "professions" / name, [name + ".md"])]:
             for filename in filenames:
                 path = parent / filename
@@ -70,11 +72,17 @@ def main():
         body = profile + "\n\n## Critical Rules\n\n- Match the scope to the requested outcome.\n- Keep assumptions separate from observations.\n- Report checks actually performed and outstanding verification.\n- Do not claim qualifications, physical observations or completed interventions without evidence.\n\n"
         body += "## Detailed Expertise\n\n" + expertise.replace("\n#", "\n##").removeprefix("# ")
         body += "\n\n## Practical Methods\n\n" + practice.replace("\n#", "\n##").removeprefix("# ")
-        front = "---\nname: " + json.dumps(display, ensure_ascii=False) + "\ndescription: " + json.dumps(f"Professional assistant for {row['title']}, with task-specific methods, deliverables and acceptance criteria.", ensure_ascii=False) + "\ncolor: '#2563EB'\n---\n\n"
+        if (refs / 'technologies.md').exists():
+            technology = (refs / 'technologies.md').read_text(encoding='utf-8')
+            body += '\n\n## Technology Toolbox\n\n' + technology.replace('\n#', '\n##').removeprefix('# ')
+        description = f"Professional assistant for {row['title']}, with task-specific methods, deliverables and acceptance criteria."
+        if row.get('technologies'):
+            description += ' Relevant technologies: ' + ', '.join(row['technologies'][:6]) + '.'
+        front = "---\nname: " + json.dumps(display, ensure_ascii=False) + "\ndescription: " + json.dumps(description, ensure_ascii=False) + "\ncolor: '#2563EB'\n---\n\n"
         relative = f"professions/{row['name']}/{row['name']}.md"
         write(ROOT / relative, front + body)
         index.append({"name": display, "title": row["title"], "agent": relative,
-                      "skill": "extensions/professions/" + row["skill"], "domain": row["domain_title"]})
+                      "skill": "extensions/professions/" + row["skill"], "domain": row["domain_title"], 'technologies': row.get('technologies', [])})
     write(ROOT / "extensions/professions/native-index.json", json.dumps(index, ensure_ascii=False, indent=2))
     divisions_path = ROOT / "divisions.json"
     divisions = json.loads(divisions_path.read_text(encoding="utf-8"))

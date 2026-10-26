@@ -25,6 +25,12 @@ The quality control project manager develops and implements quality strategies t
 
 Consult the [detailed expertise](../../skills/quality-control-project-manager-h1524/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/quality-control-project-manager-h1524/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

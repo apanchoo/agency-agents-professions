@@ -25,6 +25,12 @@ Expert in data analysis and interpretation, you guide in making strategic decisi
 
 Consult the [detailed expertise](../../skills/statistician-engineer-m1414/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, Talend, R, SAS, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/statistician-engineer-m1414/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

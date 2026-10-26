@@ -1,6 +1,6 @@
 ---
 name: information-system-application-manager-m1871
-description: "Prepare, analyze and produce deliverables as a Information system application manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information system application manager; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Linux, Windows, pandas, BGP."
 ---
 
 # Information system application manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze the performance of an information system
 - Monitor the security of information systems
 - Implement the transformation actions necessary for changes
+
+## Technologies and Software
+
+Docker, Kubernetes, Linux, Windows, pandas, BGP, DNS, IPv4, IPv6, OSPF, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

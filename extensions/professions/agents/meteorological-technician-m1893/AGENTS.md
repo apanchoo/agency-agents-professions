@@ -25,6 +25,12 @@ The Meteorological Technician analyzes and collects reliable weather data. Uses 
 
 Consult the [detailed expertise](../../skills/meteorological-technician-m1893/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/meteorological-technician-m1893/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

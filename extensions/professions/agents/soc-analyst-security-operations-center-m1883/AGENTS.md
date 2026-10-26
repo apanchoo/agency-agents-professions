@@ -25,6 +25,12 @@ The SOC Analyst monitors and protects organizations' IT systems against cyberatt
 
 Consult the [detailed expertise](../../skills/soc-analyst-security-operations-center-m1883/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/soc-analyst-security-operations-center-m1883/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

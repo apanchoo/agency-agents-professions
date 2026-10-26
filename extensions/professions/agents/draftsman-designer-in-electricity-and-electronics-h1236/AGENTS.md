@@ -25,6 +25,12 @@ The electrical and electronic designer designs detailed plans and diagrams for c
 
 Consult the [detailed expertise](../../skills/draftsman-designer-in-electricity-and-electronics-h1236/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, Linux, Java, C++, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/draftsman-designer-in-electricity-and-electronics-h1236/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

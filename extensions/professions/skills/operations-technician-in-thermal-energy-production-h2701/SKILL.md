@@ -1,6 +1,6 @@
 ---
 name: operations-technician-in-thermal-energy-production-h2701
-description: "Prepare, analyze and produce deliverables as a Operations technician in thermal energy production; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Operations technician in thermal energy production; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB, BIM."
 ---
 
 # Operations technician in thermal energy production
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Supervise the installations and take the necessary corrective actions in the event of a malfunction
 - Inform in real time of possible changes to the production program
 - Report on your activity
+
+## Technologies and Software
+
+LabVIEW, MATLAB, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

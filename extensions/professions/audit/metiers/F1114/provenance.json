@@ -115,5 +115,89 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "LabVIEW",
+      "area": "measurement",
+      "use": "Build acquisition and instrumentation workflows with explicit sampling, calibration and error handling.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.EXPLOIT.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 143,
+          "matched_text": "LabVIEW",
+          "snippet": "édiés : apprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuye",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=143",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.MANÉ.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 256,
+          "matched_text": "LabVIEW",
+          "snippet": "édiés : apprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuye",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=256",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.OPTIM.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 373,
+          "matched_text": "LabVIEW",
+          "snippet": "édiés : apprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuye",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=373",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MATLAB",
+      "area": "simulation",
+      "use": "Model numerical systems, document units and assumptions, and compare simulation results against checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.EXPLOIT.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 143,
+          "matched_text": "Matlab",
+          "snippet": "pprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuyer sur de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=143",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.MANÉ.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 256,
+          "matched_text": "Matlab",
+          "snippet": "pprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuyer sur de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=256",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "mt2e",
+          "module_code": "R3.OPTIM.07",
+          "module_title": "Plan de mesurage et acquisition de données",
+          "page": 373,
+          "matched_text": "Matlab",
+          "snippet": "pprentissage des bases de la programmation sur logiciel type LabVIEW, Matlab Propositions de mises en œuvre L ’enseignement de cette ressource pourra s’appuyer sur de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=373",
+          "sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

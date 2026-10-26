@@ -26,6 +26,12 @@ A sales efficiency manager in the pharmaceutical industry is an expert responsib
 
 Consult the [detailed expertise](../../skills/sales-effectiveness-manager-sfe-in-the-pharmaceutical-d1411/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/sales-effectiveness-manager-sfe-in-the-pharmaceutical-d1411/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

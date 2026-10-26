@@ -1,6 +1,6 @@
 ---
 name: bioinformatician-in-studies-research-and-development-h1215
-description: "Prepare, analyze and produce deliverables as a Bioinformatician in studies, research and development; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Bioinformatician in studies, research and development; use for requests within this professional scope. Relevant technologies include Git, pytest, JUnit, doctest, Python, JavaScript."
 ---
 
 # Bioinformatician in studies, research and development
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out a technical and economic opportunity and feasibility study
 - Analyze bioinformatics operating results
 - Check data compliance
+
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, REST APIs, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

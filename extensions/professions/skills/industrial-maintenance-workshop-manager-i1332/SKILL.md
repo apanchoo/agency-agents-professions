@@ -1,6 +1,6 @@
 ---
 name: industrial-maintenance-workshop-manager-i1332
-description: "Prepare, analyze and produce deliverables as a Industrial maintenance workshop manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial maintenance workshop manager; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab, Arduino."
 ---
 
 # Industrial maintenance workshop manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Control the quality and compliance of processes
 - Write a report, an activity report
 - Ensure the administrative and financial management of an activity
+
+## Technologies and Software
+
+MATLAB, Scilab, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

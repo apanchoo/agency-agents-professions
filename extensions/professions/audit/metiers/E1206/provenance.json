@@ -107,5 +107,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "WebGL",
+      "area": "design",
+      "use": "Prepare browser-rendered graphics and verify geometry, shaders, interaction and rendering performance.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebGL",
+          "snippet": "echnologies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "WebXR",
+      "area": "design",
+      "use": "Define immersive browser interactions and test device capability, input and user comfort constraints.",
+      "priority": 47,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.07",
+          "module_title": "Dispositifs interactifs",
+          "page": 274,
+          "matched_text": "WebXR",
+          "snippet": "gies innovantes (3D-interactive, jeu vidéo, réalité virtuelle, WebGL, WebXR... ) ; – Approfondissement d’un ou plusieurs frameworks de développement dédiés à ces tec",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

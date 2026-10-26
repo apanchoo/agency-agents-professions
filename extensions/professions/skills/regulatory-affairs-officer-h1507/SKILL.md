@@ -1,6 +1,6 @@
 ---
 name: regulatory-affairs-officer-h1507
-description: "Prepare, analyze and produce deliverables as a Regulatory Affairs Officer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Regulatory Affairs Officer; use for requests within this professional scope. Relevant technologies include ANSYS Granta EduPack, SOLIDWORKS Sustainability."
 ---
 
 # Regulatory Affairs Officer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure the coordination of the creation of AMM and post-AMM files (Marketing Authorization)
 - Ensure management and monitoring of regulatory quality
 - Control the quality and compliance of processes
+
+## Technologies and Software
+
+ANSYS Granta EduPack, SOLIDWORKS Sustainability.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

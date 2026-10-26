@@ -25,6 +25,12 @@ The Video Game Developer programs games by creating features and graphics, ensur
 
 Consult the [detailed expertise](../../skills/developer-video-games-m1831/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/developer-video-games-m1831/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

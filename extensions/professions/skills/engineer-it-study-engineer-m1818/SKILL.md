@@ -1,6 +1,6 @@
 ---
 name: engineer-it-study-engineer-m1818
-description: "Prepare, analyze and produce deliverables as a Engineer / IT study engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Engineer / IT study engineer; use for requests within this professional scope. Relevant technologies include OpenStack, HTML, CSS, JSON, REST APIs, XML."
 ---
 
 # Engineer / IT study engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design and maintain a cybersecurity system
 - Optimize quality processes to ensure software reliability
 - Design and manage a project
+
+## Technologies and Software
+
+OpenStack, HTML, CSS, JSON, REST APIs, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

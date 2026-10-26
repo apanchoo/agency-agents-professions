@@ -1,6 +1,6 @@
 ---
 name: network-maintenance-manager-for-connected-territories-i1106
-description: "Prepare, analyze and produce deliverables as a Network maintenance manager for connected territories; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Network maintenance manager for connected territories; use for requests within this professional scope. Relevant technologies include Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Network maintenance manager for connected territories
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan preventive maintenance operations
 - Define load plans and plan the actions to be carried out: coordination of interventions, supervision of maintenance actions and supplies, etc.
 - Supervise preventive, systematic or conditional maintenance operations
+
+## Technologies and Software
+
+Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

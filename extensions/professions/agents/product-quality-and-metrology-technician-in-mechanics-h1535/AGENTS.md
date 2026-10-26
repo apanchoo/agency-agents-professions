@@ -25,6 +25,12 @@ The Product Quality and Metrology Technician in mechanics and metalworking contr
 
 Consult the [detailed expertise](../../skills/product-quality-and-metrology-technician-in-mechanics-h1535/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/product-quality-and-metrology-technician-in-mechanics-h1535/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the measurand, range and expected decision.

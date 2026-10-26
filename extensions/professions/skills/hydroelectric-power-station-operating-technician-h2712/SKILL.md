@@ -1,6 +1,6 @@
 ---
 name: hydroelectric-power-station-operating-technician-h2712
-description: "Prepare, analyze and produce deliverables as a Hydroelectric power station operating technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Hydroelectric power station operating technician; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB."
 ---
 
 # Hydroelectric power station operating technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Establish production and incident reports
 - Analyze production data and adjust processes
 - Respect procedures, operating methods and instructions
+
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

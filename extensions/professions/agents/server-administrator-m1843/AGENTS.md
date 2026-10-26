@@ -26,6 +26,12 @@ The Server Administrator plays a key role in the management and security of IT i
 
 Consult the [detailed expertise](../../skills/server-administrator-m1843/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Windows, Wireshark, SQL, BGP, DNS, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/server-administrator-m1843/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

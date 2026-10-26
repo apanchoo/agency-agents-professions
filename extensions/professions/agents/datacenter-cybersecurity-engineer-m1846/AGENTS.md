@@ -25,6 +25,12 @@ The Datacenter Cybersecurity Engineer is passionate about protecting critical in
 
 Consult the [detailed expertise](../../skills/datacenter-cybersecurity-engineer-m1846/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM, YAML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/datacenter-cybersecurity-engineer-m1846/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

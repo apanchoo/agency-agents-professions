@@ -1,6 +1,6 @@
 ---
 name: head-of-design-group-head-of-design-group-in-h1228
-description: "Prepare, analyze and produce deliverables as a Head of design group / Head of design group in electricity and electronics; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Head of design group / Head of design group in electricity and electronics; use for requests within this professional scope. Relevant technologies include Python, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink."
 ---
 
 # Head of design group / Head of design group in electricity and electronics
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop technical proposals
 - Check the conformity of the installation of electrical and electronic components
 - Control the execution and costs of a service
+
+## Technologies and Software
+
+Python, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

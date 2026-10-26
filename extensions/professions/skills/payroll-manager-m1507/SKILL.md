@@ -1,6 +1,6 @@
 ---
 name: payroll-manager-m1507
-description: "Prepare, analyze and produce deliverables as a Payroll manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Payroll manager; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Payroll manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Prepare tax and social security declarations
 - Integrate new regulations into payroll processes
 - Communicate in writing appropriately
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

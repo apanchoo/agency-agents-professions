@@ -25,6 +25,12 @@ The industrial packager is responsible for ensuring the protection of the indust
 
 Consult the [detailed expertise](../../skills/industrial-packer-h3308/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+ANSYS Granta EduPack, SOLIDWORKS Sustainability, SolidWorks.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/industrial-packer-h3308/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe product, expected protection and logistics circuit.

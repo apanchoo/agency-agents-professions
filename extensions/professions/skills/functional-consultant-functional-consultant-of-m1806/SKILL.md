@@ -1,6 +1,6 @@
 ---
 name: functional-consultant-functional-consultant-of-m1806
-description: "Prepare, analyze and produce deliverables as a Functional consultant / Functional consultant of information systems; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Functional consultant / Functional consultant of information systems; use for requests within this professional scope. Relevant technologies include Linux, Windows, HTML, CSS, VLAN, VPN."
 ---
 
 # Functional consultant / Functional consultant of information systems
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the conformity of operation and use of information systems
 - Analyze user functional needs
 - Design and manage a project
+
+## Technologies and Software
+
+Linux, Windows, HTML, CSS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

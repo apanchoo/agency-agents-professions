@@ -25,6 +25,12 @@ The Digital Marketing Manager implements online marketing strategies to increase
 
 Consult the [detailed expertise](../../skills/digital-marketing-manager-m1718/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/digital-marketing-manager-m1718/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

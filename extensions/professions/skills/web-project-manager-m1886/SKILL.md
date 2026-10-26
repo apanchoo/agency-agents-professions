@@ -1,6 +1,6 @@
 ---
 name: web-project-manager-m1886
-description: "Prepare, analyze and produce deliverables as a Web Project Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Web Project Manager; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL, REST APIs."
 ---
 
 # Web Project Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze website traffic
 - Propose continuous technical improvements
 - Design and implement a digital strategy
+
+## Technologies and Software
+
+HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

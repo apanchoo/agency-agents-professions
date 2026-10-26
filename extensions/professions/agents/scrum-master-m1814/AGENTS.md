@@ -27,6 +27,12 @@ The Scrum Master plays a key role in the agile management of IT projects, promot
 
 Consult the [detailed expertise](../../skills/scrum-master-m1814/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, BGP, IPv6, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/scrum-master-m1814/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

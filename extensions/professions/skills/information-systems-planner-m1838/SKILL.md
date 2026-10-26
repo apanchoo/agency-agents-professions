@@ -1,6 +1,6 @@
 ---
 name: information-systems-planner-m1838
-description: "Prepare, analyze and produce deliverables as a Information systems planner; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information systems planner; use for requests within this professional scope. Relevant technologies include BGP, DHCP, DNS, IPv4, IPv6, OSPF."
 ---
 
 # Information systems planner
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze the impact of updates on operations
 - Define the information systems strategy
 - Ensuring data confidentiality
+
+## Technologies and Software
+
+BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

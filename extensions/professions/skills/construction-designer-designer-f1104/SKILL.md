@@ -1,6 +1,6 @@
 ---
 name: construction-designer-designer-f1104
-description: "Prepare, analyze and produce deliverables as a Construction designer/designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Construction designer/designer; use for requests within this professional scope. Relevant technologies include Autodesk Revit, BIM."
 ---
 
 # Construction designer/designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide technical support to site teams
 - Ensure compliance with construction standards
 - Receive and study the elements of the technical file (architect's plans, study report, forecast budget)
+
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

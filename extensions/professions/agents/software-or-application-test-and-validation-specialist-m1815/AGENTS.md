@@ -26,6 +26,12 @@ The software or application test and validation specialist plays a crucial role 
 
 Consult the [detailed expertise](../../skills/software-or-application-test-and-validation-specialist-m1815/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, GitLab, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, Sphinx, Javadoc.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/software-or-application-test-and-validation-specialist-m1815/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

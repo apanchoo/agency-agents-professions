@@ -25,6 +25,12 @@ The IT Datacenter Supervision Engineer is responsible for monitoring, analyzing 
 
 Consult the [detailed expertise](../../skills/it-datacenter-supervision-engineer-m1826/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, pandas, Talend, R, SAS, Tableau Software, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-datacenter-supervision-engineer-m1826/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

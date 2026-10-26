@@ -25,6 +25,12 @@ The Web Project Manager is responsible for managing the company's internet and i
 
 Consult the [detailed expertise](../../skills/web-project-manager-m1886/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/web-project-manager-m1886/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

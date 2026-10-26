@@ -25,6 +25,12 @@ The Cartographer is an expert in the graphic representation of geographic data. 
 
 Consult the [detailed expertise](../../skills/cartographer-m1808/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/cartographer-m1808/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

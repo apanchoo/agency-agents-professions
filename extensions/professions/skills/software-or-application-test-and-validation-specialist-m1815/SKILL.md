@@ -1,6 +1,6 @@
 ---
 name: software-or-application-test-and-validation-specialist-m1815
-description: "Prepare, analyze and produce deliverables as a Software or application test and validation specialist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Software or application test and validation specialist; use for requests within this professional scope. Relevant technologies include Docker, GitLab, Git, pytest, JUnit, doctest."
 ---
 
 # Software or application test and validation specialist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize quality processes to ensure software reliability
 - Collaborate with developers to fix bugs
 - Write technical documents in compliance with current standards
+
+## Technologies and Software
+
+Docker, GitLab, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, Sphinx, Javadoc.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

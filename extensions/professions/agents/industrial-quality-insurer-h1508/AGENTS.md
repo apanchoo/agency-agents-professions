@@ -25,6 +25,12 @@ The Industry Quality Assurer guarantees compliance with product quality standard
 
 Consult the [detailed expertise](../../skills/industrial-quality-insurer-h1508/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/industrial-quality-insurer-h1508/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

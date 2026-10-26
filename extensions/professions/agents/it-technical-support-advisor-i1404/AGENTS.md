@@ -26,6 +26,12 @@ The IT Technical Support Advisor ensures the proper functioning of IT systems wi
 
 Consult the [detailed expertise](../../skills/it-technical-support-advisor-i1404/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL, BGP, DNS, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-technical-support-advisor-i1404/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

@@ -1,6 +1,6 @@
 ---
 name: glass-facade-installer-f1618
-description: "Prepare, analyze and produce deliverables as a Glass facade installer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Glass facade installer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Glass facade installer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Fixing joinery elements
 - Fix, place, install elements, works
 - Install sealing elements
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

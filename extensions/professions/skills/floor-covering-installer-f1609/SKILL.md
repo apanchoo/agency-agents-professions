@@ -1,6 +1,6 @@
 ---
 name: floor-covering-installer-f1609
-description: "Prepare, analyze and produce deliverables as a Floor covering installer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Floor covering installer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Floor covering installer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Clean a surface to be decorated or covered
 - Respect the deadlines agreed with the customer for delivery
 - Pass on a technique, a know-how
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

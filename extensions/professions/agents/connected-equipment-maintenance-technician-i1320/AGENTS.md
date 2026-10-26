@@ -26,6 +26,12 @@ The Connected Equipment Maintenance Technician ensures the reliability and secur
 
 Consult the [detailed expertise](../../skills/connected-equipment-maintenance-technician-i1320/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/connected-equipment-maintenance-technician-i1320/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

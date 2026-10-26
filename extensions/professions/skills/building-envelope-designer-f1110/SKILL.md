@@ -1,6 +1,6 @@
 ---
 name: building-envelope-designer-f1110
-description: "Prepare, analyze and produce deliverables as a Building envelope designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Building envelope designer; use for requests within this professional scope. Relevant technologies include Autodesk Revit, BIM."
 ---
 
 # Building envelope designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Decline the general design of an architectural project into graphic, written documents, models and digital models
 - Propose adapted architectural solutions
 - Report on your activity
+
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

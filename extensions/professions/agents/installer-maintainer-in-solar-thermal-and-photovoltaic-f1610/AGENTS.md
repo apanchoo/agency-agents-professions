@@ -25,6 +25,12 @@ The Solar, Thermal and Photovoltaic Systems Installer and Maintainer contributes
 
 Consult the [detailed expertise](../../skills/installer-maintainer-in-solar-thermal-and-photovoltaic-f1610/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+LabVIEW, MATLAB, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/installer-maintainer-in-solar-thermal-and-photovoltaic-f1610/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

@@ -25,6 +25,12 @@ The IT Production Manager orchestrates all IT operations to guarantee optimal pe
 
 Consult the [detailed expertise](../../skills/it-production-manager-m1878/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Linux, Windows, Wireshark, JavaScript, HTML, CSS, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-production-manager-m1878/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

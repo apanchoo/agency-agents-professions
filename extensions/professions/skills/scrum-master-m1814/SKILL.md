@@ -1,6 +1,6 @@
 ---
 name: scrum-master-m1814
-description: "Prepare, analyze and produce deliverables as a Scrum Master; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Scrum Master; use for requests within this professional scope. Relevant technologies include SQL, BGP, IPv6, VPN, LoRa."
 ---
 
 # Scrum Master
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure monitoring of sprints and deliverables
 - Design and manage a project
 - Communicate with internal and external contacts
+
+## Technologies and Software
+
+SQL, BGP, IPv6, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

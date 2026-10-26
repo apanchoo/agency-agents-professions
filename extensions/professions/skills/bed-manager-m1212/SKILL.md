@@ -1,6 +1,6 @@
 ---
 name: bed-manager-m1212
-description: "Prepare, analyze and produce deliverables as a Bed Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Bed Manager; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Bed Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Communicate the availability of beds to administrative and nursing staff
 - Receive, control and process accommodation requests and implement solutions for accommodation outside the perimeter managed by the bed management unit
 - Enter data relating to scheduled or unscheduled entrances and exits and update movements (programming, unprogramming, non-arrival) in the bed management software
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

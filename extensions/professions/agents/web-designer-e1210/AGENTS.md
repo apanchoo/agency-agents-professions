@@ -26,6 +26,12 @@ The Web designer designs and creates the ergonomic visual interface of a website
 
 Consult the [detailed expertise](../../skills/web-designer-e1210/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL, WebGL, WebXR, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/web-designer-e1210/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

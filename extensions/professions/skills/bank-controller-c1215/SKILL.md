@@ -1,6 +1,6 @@
 ---
 name: bank-controller-c1215
-description: "Prepare, analyze and produce deliverables as a Bank Controller; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Bank Controller; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Bank Controller
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor and enforce compliance with legal and regulatory provisions
 - Supervise the internal control of a structure
 - Integrate financial mathematical models into information systems
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

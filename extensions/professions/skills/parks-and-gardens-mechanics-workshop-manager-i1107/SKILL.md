@@ -1,6 +1,6 @@
 ---
 name: parks-and-gardens-mechanics-workshop-manager-i1107
-description: "Prepare, analyze and produce deliverables as a Parks and gardens mechanics workshop manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Parks and gardens mechanics workshop manager; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab."
 ---
 
 # Parks and gardens mechanics workshop manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure compliance with safety standards
 - Communicate effectively with internal and external stakeholders
 - Ensure compliance with environmental regulations
+
+## Technologies and Software
+
+MATLAB, Scilab.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

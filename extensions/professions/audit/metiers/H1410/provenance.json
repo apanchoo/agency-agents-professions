@@ -267,5 +267,86 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Power Pivot",
+      "area": "office",
+      "use": "Define relationships and measures in a tabular model and reconcile aggregates with source data.",
+      "priority": 43,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R5.02",
+          "module_title": "Informatique 5",
+          "page": 133,
+          "matched_text": "power pivot",
+          "snippet": "re environnement (GMAO, BDD...) – Nouveaux outils de tableau de bord (power pivot, power bi...) – Programmation de macros avancées (VBA pour Excel) Bases de données (BDD)/",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "qlio",
+          "module_code": "R6.07",
+          "module_title": "Pilotage de la production par les contraintes",
+          "page": 184,
+          "matched_text": "Excel",
+          "snippet": "Nivellement des charges – Positionnement des stocks tampons – Solveur Excel – Liens avec la recherche opérationnelle. Préconisations pédagogiques La ressource R6.21 ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=184",
+          "sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "qlio",
+          "module_code": "R5.MTD.14",
+          "module_title": "Interopérabilité et hygiène numérique",
+          "page": 434,
+          "matched_text": "Excel",
+          "snippet": "le Galia) – Langages et formats d’échanges (ouverts ou fermés) : XML, Excel, connecteurs, API, Webservices, etc. – Démarche projet SI : comment gérer un projet inter",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=434",
+          "sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "gim",
+          "module_code": "R3.02",
+          "module_title": "Informatique 3",
+          "page": 90,
+          "matched_text": "Excel",
+          "snippet": "istrement d’actions et programmation de macros simples (ex : VBA pour Excel) – Formulaires de données Programmation automate – Apprentissage d’un langage de programm",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=90",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Power BI",
+      "area": "data",
+      "use": "Prepare data models and dashboards with defined measures, refresh rules and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R5.02",
+          "module_title": "Informatique 5",
+          "page": 133,
+          "matched_text": "power bi",
+          "snippet": "ent (GMAO, BDD...) – Nouveaux outils de tableau de bord (power pivot, power bi...) – Programmation de macros avancées (VBA pour Excel) Bases de données (BDD)/Tableaux d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

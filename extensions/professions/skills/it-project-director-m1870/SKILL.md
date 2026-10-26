@@ -1,6 +1,6 @@
 ---
 name: it-project-director-m1870
-description: "Prepare, analyze and produce deliverables as a IT Project Director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT Project Director; use for requests within this professional scope. Relevant technologies include BGP, DHCP, DNS, VPN."
 ---
 
 # IT Project Director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Design and implement a digital strategy
 - Define the information systems strategy
 - Determine performance objectives, track achievements and identify corrective actions
+
+## Technologies and Software
+
+BGP, DHCP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

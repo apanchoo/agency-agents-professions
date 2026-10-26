@@ -1,6 +1,6 @@
 ---
 name: multimedia-developer-m1837
-description: "Prepare, analyze and produce deliverables as a Multimedia Developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Multimedia Developer; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL, WebGL, WebXR, REST APIs."
 ---
 
 # Multimedia Developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize the user experience on web interfaces
 - Design and maintain a cybersecurity system
 - Optimize quality processes to ensure software reliability
+
+## Technologies and Software
+
+HTML, CSS, SQL, WebGL, WebXR, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

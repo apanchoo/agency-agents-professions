@@ -25,6 +25,12 @@ The Construction Price Study Engineer carries out technical studies in order to 
 
 Consult the [detailed expertise](../../skills/construction-price-study-engineer-f1106/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/construction-price-study-engineer-f1106/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

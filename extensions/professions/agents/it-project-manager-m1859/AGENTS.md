@@ -26,6 +26,12 @@ The IT project management project manager orchestrates the development of IT sol
 
 Consult the [detailed expertise](../../skills/it-project-manager-m1859/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+CSS, BGP, DHCP, DNS, VPN, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-project-manager-m1859/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

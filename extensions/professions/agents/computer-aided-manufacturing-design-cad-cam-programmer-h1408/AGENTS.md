@@ -25,6 +25,12 @@ The Computer Aided Manufacturing Design (CAD/CAM) Programmer designs programs fo
 
 Consult the [detailed expertise](../../skills/computer-aided-manufacturing-design-cad-cam-programmer-h1408/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/computer-aided-manufacturing-design-cad-cam-programmer-h1408/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Formalize functions, loads, interfaces and manufacturing constraints.

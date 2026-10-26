@@ -1,6 +1,6 @@
 ---
 name: software-or-application-developer-m1861
-description: "Prepare, analyze and produce deliverables as a Software or application developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Software or application developer; use for requests within this professional scope. Relevant technologies include Git, pytest, JUnit, doctest, Python, JavaScript."
 ---
 
 # Software or application developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Develop software, an information system, an application
 - Control the quality and compliance of processes
 - Optimize quality processes to ensure software reliability
+
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, JSON, REST APIs, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The no code product builder develops digital products, such as web and mobile ap
 
 Consult the [detailed expertise](../../skills/product-builder-no-code-m1887/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS, SQL, IPv4, IPv6, OSPF, LoRa, Modbus.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/product-builder-no-code-m1887/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

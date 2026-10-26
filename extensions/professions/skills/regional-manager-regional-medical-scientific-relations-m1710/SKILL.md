@@ -1,6 +1,6 @@
 ---
 name: regional-manager-regional-medical-scientific-relations-m1710
-description: "Prepare, analyze and produce deliverables as a Regional Manager/Regional Medical Scientific Relations Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Regional Manager/Regional Medical Scientific Relations Manager; use for requests within this professional scope. Relevant technologies include WebGL, WebXR."
 ---
 
 # Regional Manager/Regional Medical Scientific Relations Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Present research results to diverse audiences
 - Maintain scientific and regulatory monitoring
 - Search, process and analyze professional and scientific data
+
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

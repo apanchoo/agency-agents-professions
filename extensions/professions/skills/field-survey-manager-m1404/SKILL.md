@@ -1,6 +1,6 @@
 ---
 name: field-survey-manager-m1404
-description: "Prepare, analyze and produce deliverables as a Field survey manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Field survey manager; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Field survey manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Integrate ethical considerations into data analysis
 - Control the elements of investigators' activity
 - Communicate study results to stakeholders
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

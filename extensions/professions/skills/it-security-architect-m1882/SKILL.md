@@ -1,6 +1,6 @@
 ---
 name: it-security-architect-m1882
-description: "Prepare, analyze and produce deliverables as a IT security architect; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT security architect; use for requests within this professional scope. Relevant technologies include Linux, Windows, SQL, Talend, Tableau Software, DHCP."
 ---
 
 # IT security architect
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement IT security solutions
 - Ensure regulatory security compliance
 - Conduct research on emerging threats
+
+## Technologies and Software
+
+Linux, Windows, SQL, Talend, Tableau Software, DHCP, DNS, VLAN, JSON, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

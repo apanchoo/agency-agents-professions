@@ -25,6 +25,12 @@ The Regional Medical Scientific Relations Manager plays a key role in linking me
 
 Consult the [detailed expertise](../../skills/regional-manager-regional-medical-scientific-relations-m1710/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+WebGL, WebXR.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/regional-manager-regional-medical-scientific-relations-m1710/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

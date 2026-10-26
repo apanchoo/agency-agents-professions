@@ -1,6 +1,6 @@
 ---
 name: web-designer-e1210
-description: "Prepare, analyze and produce deliverables as a Web designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Web designer; use for requests within this professional scope. Relevant technologies include HTML, CSS, SQL, WebGL, WebXR, REST APIs."
 ---
 
 # Web designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize navigation on a website
 - Plan the stages of carrying out the project
 - Adapt your communication according to the interlocutors and the media used
+
+## Technologies and Software
+
+HTML, CSS, SQL, WebGL, WebXR, REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

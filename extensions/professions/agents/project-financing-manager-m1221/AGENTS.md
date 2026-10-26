@@ -25,6 +25,12 @@ The Project Finance Manager manages the search for and securing the financial re
 
 Consult the [detailed expertise](../../skills/project-financing-manager-m1221/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/project-financing-manager-m1221/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the scope, period and management decisions.

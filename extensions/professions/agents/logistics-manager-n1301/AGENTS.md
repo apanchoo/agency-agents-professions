@@ -26,6 +26,12 @@ The Logistics Manager coordinates and optimizes the management of product flows 
 
 Consult the [detailed expertise](../../skills/logistics-manager-n1301/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/logistics-manager-n1301/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map flows, resources, time and quality criteria.

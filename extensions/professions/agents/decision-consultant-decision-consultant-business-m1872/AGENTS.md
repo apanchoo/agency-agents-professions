@@ -25,6 +25,12 @@ The Business Intelligence Decision Consultant transforms raw data into actionabl
 
 Consult the [detailed expertise](../../skills/decision-consultant-decision-consultant-business-m1872/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, pandas, Talend, R, SAS, Tableau Software, JSON, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/decision-consultant-decision-consultant-business-m1872/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

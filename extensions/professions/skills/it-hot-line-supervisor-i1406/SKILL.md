@@ -1,6 +1,6 @@
 ---
 name: it-hot-line-supervisor-i1406
-description: "Prepare, analyze and produce deliverables as a IT hot line supervisor; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT hot line supervisor; use for requests within this professional scope. Relevant technologies include Ansible, Git, PowerShell, Linux, Windows, SQL."
 ---
 
 # IT hot line supervisor
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Assist teams when carrying out complex tasks or in the event of major problems
 - Write detailed reports on incidents and daily activities
 - Provide advanced technical support
+
+## Technologies and Software
+
+Ansible, Git, PowerShell, Linux, Windows, SQL, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

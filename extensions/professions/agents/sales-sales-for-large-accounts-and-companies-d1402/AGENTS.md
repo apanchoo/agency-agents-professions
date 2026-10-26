@@ -26,6 +26,12 @@ The Large Accounts and Businesses Sales Representative is a professional respons
 
 Consult the [detailed expertise](../../skills/sales-sales-for-large-accounts-and-companies-d1402/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/sales-sales-for-large-accounts-and-companies-d1402/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

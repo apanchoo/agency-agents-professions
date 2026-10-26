@@ -5,6 +5,7 @@ import unicodedata
 
 from editorial import recipe_for
 from english import tr
+from technologies import summary as technology_summary
 
 
 def folder_name(code, title):
@@ -74,7 +75,8 @@ def expertise_content(fiche):
     return "\n\n".join(blocks)
 
 
-def generate_profile(fiche, meta, source, matches):
+def generate_profile(fiche, meta, source, matches, technologies=None):
+    technologies = technologies or []
     code, title = fiche["rome"]["code_rome"], tr(fiche["rome"]["intitule"])
     name = folder_name(code, fiche["rome"]["intitule"])
     core = bullet(neutral_text(c["libelle"]) for c in core_activities(fiche))
@@ -89,6 +91,9 @@ def generate_profile(fiche, meta, source, matches):
     if code.startswith("J"):
         scope += " Identify situations that require assessment by a healthcare professional."
     definition = neutral_text(fiche["definition"])
+    description = f'Prepare, analyze and produce deliverables as a {title}; use for requests within this professional scope.'
+    if technologies:
+        description += ' Relevant technologies include ' + ', '.join(entry['name'] for entry in technologies[:6]) + '.'
     method = "\n".join(f"{i}. {tr(step)}." for i, step in enumerate(steps, 1))
     agent = f"""# {title}
 
@@ -132,7 +137,7 @@ Use the [associated skill](../../skills/{name}/SKILL.md) to carry out the assign
 """
     skill = f"""---
 name: {name}
-description: {json.dumps(f'Prepare, analyze and produce deliverables as a {title}; use for requests within this professional scope.', ensure_ascii=False)}
+description: {json.dumps(description, ensure_ascii=False)}
 ---
 
 # {title}
@@ -165,4 +170,8 @@ Review the techniques and choose a validation scenario in the [practical methods
 
 Deliver a usable result with available evidence and known limitations. Distinguish completed work from checks that have only been planned.
 """
+    technologies = technologies or []
+    if technologies:
+        agent = agent.replace('## Workflow\n', technology_summary(technologies, f'../../skills/{name}/references/technologies.md') + '\n## Workflow\n', 1)
+        skill = skill.replace('## Execution\n', technology_summary(technologies, 'references/technologies.md') + '\n## Execution\n', 1)
     return agent, skill

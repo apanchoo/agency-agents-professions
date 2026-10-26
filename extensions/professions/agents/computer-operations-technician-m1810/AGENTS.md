@@ -25,6 +25,12 @@ The Computer Operations Technician ensures the proper functioning of computer sy
 
 Consult the [detailed expertise](../../skills/computer-operations-technician-m1810/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Wireshark, SQL, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/computer-operations-technician-m1810/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

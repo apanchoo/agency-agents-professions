@@ -1,6 +1,6 @@
 ---
 name: web-security-engineer-m1833
-description: "Prepare, analyze and produce deliverables as a Web security engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Web security engineer; use for requests within this professional scope. Relevant technologies include Git, pytest, JUnit, doctest, Python, Linux."
 ---
 
 # Web security engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Structuring, synthesizing information
 - Carry out technical or technological monitoring to anticipate developments
 - Design software, an information system, an application
+
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, Linux, Windows, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

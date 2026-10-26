@@ -26,6 +26,12 @@ The IT Application Analyst plays a key role in the management and optimization o
 
 Consult the [detailed expertise](../../skills/it-application-analyst-m1821/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, HTML, CSS, BGP, IPv6, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-application-analyst-m1821/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

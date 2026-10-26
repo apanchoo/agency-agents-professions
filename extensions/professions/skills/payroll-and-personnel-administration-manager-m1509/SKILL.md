@@ -1,6 +1,6 @@
 ---
 name: payroll-and-personnel-administration-manager-m1509
-description: "Prepare, analyze and produce deliverables as a Payroll and personnel administration manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Payroll and personnel administration manager; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Payroll and personnel administration manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Advise management on regulatory matters
 - Design personnel files
 - Ensure compliance with the labor code and the company's internal regulations (respect of schedules, absences, etc.)
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

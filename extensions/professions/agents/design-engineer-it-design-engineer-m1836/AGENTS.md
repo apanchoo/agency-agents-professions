@@ -25,6 +25,12 @@ The IT Design Engineer, an architect of modern digital solutions for products, e
 
 Consult the [detailed expertise](../../skills/design-engineer-it-design-engineer-m1836/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+OpenStack, CSS, SQL, BGP, DNS, VLAN, VPN, JSON, REST APIs, XML.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/design-engineer-it-design-engineer-m1836/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

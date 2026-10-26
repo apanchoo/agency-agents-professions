@@ -26,6 +26,12 @@ The building architect designs and directs the completion of architectural proje
 
 Consult the [detailed expertise](../../skills/building-architect-f1101/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Autodesk Revit, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/building-architect-f1101/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect site, uses, surveys and constraints of the work.

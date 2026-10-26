@@ -1,6 +1,6 @@
 ---
 name: commercial-advisor-commercial-advisor-for-industrial-d1421
-description: "Prepare, analyze and produce deliverables as a Commercial advisor / Commercial advisor for industrial vehicles; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Commercial advisor / Commercial advisor for industrial vehicles; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Commercial advisor / Commercial advisor for industrial vehicles
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide after-sales service
 - Manage customer relations in the industrial vehicle sector
 - Negotiate with industrial vehicle suppliers
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

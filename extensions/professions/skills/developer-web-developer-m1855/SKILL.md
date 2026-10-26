@@ -1,6 +1,6 @@
 ---
 name: developer-web-developer-m1855
-description: "Prepare, analyze and produce deliverables as a Developer / Web developer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Developer / Web developer; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Git, pytest, JUnit, doctest."
 ---
 
 # Developer / Web developer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Optimize algorithms, a computer application and implement their development
 - Optimize quality processes to ensure software reliability
 - Collaborate with multidisciplinary teams
+
+## Technologies and Software
+
+Docker, Kubernetes, Git, pytest, JUnit, doctest, Python, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, REST APIs, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

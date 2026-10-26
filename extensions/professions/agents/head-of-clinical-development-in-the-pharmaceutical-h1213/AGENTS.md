@@ -26,6 +26,12 @@ The Clinical Development Manager coordinates clinical studies and ensures the co
 
 Consult the [detailed expertise](../../skills/head-of-clinical-development-in-the-pharmaceutical-h1213/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-clinical-development-in-the-pharmaceutical-h1213/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define question, population and dictionary of variables.

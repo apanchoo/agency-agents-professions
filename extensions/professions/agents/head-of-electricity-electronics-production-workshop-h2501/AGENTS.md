@@ -25,6 +25,12 @@ The Electricity-Electronic Production Workshop Manager organizes the activity of
 
 Consult the [detailed expertise](../../skills/head-of-electricity-electronics-production-workshop-h2501/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, Microsoft Excel, Arduino, XML, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/head-of-electricity-electronics-production-workshop-h2501/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Break down the system’s functions, interfaces and constraints.

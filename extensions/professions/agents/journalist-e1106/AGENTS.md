@@ -25,6 +25,12 @@ The journalist provides multi-media and multi-channel reporting depending on the
 
 Consult the [detailed expertise](../../skills/journalist-e1106/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/journalist-e1106/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify audiences, information objective and editorial line.

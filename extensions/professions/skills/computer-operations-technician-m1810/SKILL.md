@@ -1,6 +1,6 @@
 ---
 name: computer-operations-technician-m1810
-description: "Prepare, analyze and produce deliverables as a Computer operations technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Computer operations technician; use for requests within this professional scope. Relevant technologies include Wireshark, SQL, VPN."
 ---
 
 # Computer operations technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure compliance of maintenance operations
 - Optimize computer network performance
 - Train users in new technologies
+
+## Technologies and Software
+
+Wireshark, SQL, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The Datacenter Technician ensures the proper functioning of the IT equipment and
 
 Consult the [detailed expertise](../../skills/datacenter-technician-i1403/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Python, SQL, pandas, R, BGP, DHCP, DNS, IPv4, IPv6, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/datacenter-technician-i1403/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

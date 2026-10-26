@@ -1,6 +1,6 @@
 ---
 name: technician-in-electricity-and-electronics-studies-and-h1209
-description: "Prepare, analyze and produce deliverables as a Technician in electricity and electronics studies and development; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Technician in electricity and electronics studies and development; use for requests within this professional scope. Relevant technologies include Python, SQL, Java, C++, GNU Octave, LabVIEW."
 ---
 
 # Technician in electricity and electronics studies and development
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Monitor the evolution of equipment, analyze operating incidents and instruct corrective and preventive actions
 - Propose developments and modifications (technical, economic) of systems
 - Verify by simulation, tests, trials, calculations, the functionalities and characteristics of the electrical or electronic system
+
+## Technologies and Software
+
+Python, SQL, Java, C++, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, REST APIs, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

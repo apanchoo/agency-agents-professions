@@ -266,5 +266,140 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Docker",
+      "area": "containers",
+      "use": "Build and tag reproducible images; configure networks, volumes and runtime health checks.",
+      "priority": 1,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Docker",
+          "snippet": "logs, système de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisat",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "area": "containers",
+      "use": "Define workloads and services; verify rollout readiness, resource limits, scaling and rollback.",
+      "priority": 3,
+      "evidence": [
+        {
+          "programme_id": "mmi",
+          "module_code": "R5.DWEB-DI.08",
+          "module_title": "Hébergement et cybersécurité",
+          "page": 275,
+          "matched_text": "Kubernetes",
+          "snippet": "stème de reporting, suivi des bugs) ; – Conteneurs logiciels (Docker, Kubernetes) ; – Présentation des architectures cloud (AWS, GCP , Azure...) ; – Optimisation des appl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.IOM.10",
+          "module_title": "Cryptographie",
+          "page": 309,
+          "matched_text": "Python",
+          "snippet": "rithmique et/ou mathématique en s’appuyant par exemple sur le langage Python et les librairies standardisées. Contenus : – Algorithmes de cryptographie, – Fonctions d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=309",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.IOM.03",
+          "module_title": "Concevoir un réseau multi-sites intégrant des objets connectés",
+          "page": 270,
+          "matched_text": "VLAN",
+          "snippet": "– sur les concepts fondamentaux du réseau : – routage, filtrage inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – servi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=270",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "3.IOM.03",
+          "module_title": "Concevoir un réseau multi-sites intégrant des objets connectés",
+          "page": 270,
+          "matched_text": "VPN",
+          "snippet": "inter-VLAN ; – redondance (STP , routage dynamique, VRRP) ; – tunnel (VPN, VPN opérateurs) ; – services avancés ; – réseaux sans fil tels que Wi-Fi, ZigBee, ou Blu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=270",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "LoRa",
+      "area": "embedded",
+      "use": "Specify radio parameters and deployment constraints; validate coverage and communication behavior.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.IOM.16",
+          "module_title": "Introduction à l’Internet des Objets",
+          "page": 290,
+          "matched_text": "LoRa",
+          "snippet": "gbee, etc.) – Les réseaux sans fil longue portée (Cellulaire, NB-IoT, LoRa, Sigfox, etc.) – Normalisation, sécurité et veille technologique – Chaîne de valeur – Emp",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=290",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Modbus",
+      "area": "embedded",
+      "use": "Map registers, types and addressing; verify read/write behavior against the device contract.",
+      "priority": 60,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R3.IOM.16",
+          "module_title": "Introduction à l’Internet des Objets",
+          "page": 290,
+          "matched_text": "MODBUS",
+          "snippet": "de l’IoT – Les réseaux filaires (Ethernet, Single Pair Ethernet, CAN, MODBUS, etc.) – Les réseaux sans fil courte portée (WiFi, Bluetooth, BLE, Zigbee, etc.) – Les ré",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=290",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

@@ -1,6 +1,6 @@
 ---
 name: information-systems-manager-is-m1867
-description: "Prepare, analyze and produce deliverables as a Information systems manager (IS); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Information systems manager (IS); use for requests within this professional scope. Relevant technologies include Wireshark, JavaScript, HTML, CSS, SQL, Talend."
 ---
 
 # Information systems manager (IS)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Supervise maintenance operations
 - Monitor system and network security
 - Carry out an internal performance audit of IT equipment
+
+## Technologies and Software
+
+Wireshark, JavaScript, HTML, CSS, SQL, Talend, Tableau Software, BGP, DNS, VPN, JSON, XML, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

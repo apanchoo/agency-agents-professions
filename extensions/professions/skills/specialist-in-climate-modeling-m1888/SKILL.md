@@ -1,6 +1,6 @@
 ---
 name: specialist-in-climate-modeling-m1888
-description: "Prepare, analyze and produce deliverables as a Specialist in climate modeling; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Specialist in climate modeling; use for requests within this professional scope. Relevant technologies include Docker, GitLab, Python, SQL, Visual Studio Code, virtualenv."
 ---
 
 # Specialist in climate modeling
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Manage climate databases
 - Use specialized climatology software
 - Collaborate with international teams for climate studies
+
+## Technologies and Software
+
+Docker, GitLab, Python, SQL, Visual Studio Code, virtualenv, R, SAS, DNS, VLAN, JSON, MQTT.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

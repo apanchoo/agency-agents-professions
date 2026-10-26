@@ -1,6 +1,6 @@
 ---
 name: quality-safety-environment-manager-qse-in-industry-h1523
-description: "Prepare, analyze and produce deliverables as a Quality Safety Environment Manager -QSE- in industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Quality Safety Environment Manager -QSE- in industry; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Quality Safety Environment Manager -QSE- in industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write clear and detailed expert reports
 - Evaluate the cost of non-compliance
 - Carry out internal audits
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: director-of-technical-building-management-i1101
-description: "Prepare, analyze and produce deliverables as a Director of technical building management; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Director of technical building management; use for requests within this professional scope. Relevant technologies include Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Director of technical building management
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide technical assistance to teams
 - Recommend maintenance programs
 - Analyze performance indicators (energy consumption, costs, incidents) to improve efficiency and reduce risks
+
+## Technologies and Software
+
+Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

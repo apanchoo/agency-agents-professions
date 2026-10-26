@@ -1,6 +1,6 @@
 ---
 name: construction-economist-f1120
-description: "Prepare, analyze and produce deliverables as a Construction economist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Construction economist; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Construction economist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Receive and study the elements of the technical file (architect's plans, study report, forecast budget)
 - Respect allocated deadlines and budgets
 - Assist the works manager in the response phases to calls for tenders (construction, rehabilitation, development)
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

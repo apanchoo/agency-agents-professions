@@ -1,6 +1,6 @@
 ---
 name: coordinator-of-clinical-studies-in-the-pharmaceutical-h1223
-description: "Prepare, analyze and produce deliverables as a Coordinator of clinical studies in the pharmaceutical industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Coordinator of clinical studies in the pharmaceutical industry; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Coordinator of clinical studies in the pharmaceutical industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure regulatory compliance of studies
 - Manage clinical trial logistics
 - Communicate study results to stakeholders
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

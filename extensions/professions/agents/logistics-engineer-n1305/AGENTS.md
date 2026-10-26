@@ -25,6 +25,12 @@ The Logistics Engineer orchestrates the optimization of goods flows within a com
 
 Consult the [detailed expertise](../../skills/logistics-engineer-n1305/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/logistics-engineer-n1305/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe flows, volumes, delivery times and constraints.

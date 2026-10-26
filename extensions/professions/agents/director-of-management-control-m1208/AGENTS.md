@@ -25,6 +25,12 @@ The director of management control, a key role in optimizing the financial perfo
 
 Consult the [detailed expertise](../../skills/director-of-management-control-m1208/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/director-of-management-control-m1208/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define the scope, period and management decisions.

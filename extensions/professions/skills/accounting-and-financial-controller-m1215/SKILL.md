@@ -1,6 +1,6 @@
 ---
 name: accounting-and-financial-controller-m1215
-description: "Prepare, analyze and produce deliverables as a Accounting and financial controller; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Accounting and financial controller; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Accounting and financial controller
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Check the regularity of financial statements
 - Develop, monitor and manage a budget
 - Ensure compliance of practices with current regulations
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

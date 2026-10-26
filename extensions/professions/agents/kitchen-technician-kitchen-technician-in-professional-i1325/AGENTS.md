@@ -25,6 +25,12 @@ The Kitchen Technician in professional kitchens designs and installs professiona
 
 Consult the [detailed expertise](../../skills/kitchen-technician-kitchen-technician-in-professional-i1325/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+VLAN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/kitchen-technician-kitchen-technician-in-professional-i1325/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Collect symptoms, history and architecture of the equipment.

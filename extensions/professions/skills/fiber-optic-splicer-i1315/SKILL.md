@@ -1,6 +1,6 @@
 ---
 name: fiber-optic-splicer-i1315
-description: "Prepare, analyze and produce deliverables as a Fiber optic splicer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Fiber optic splicer; use for requests within this professional scope. Relevant technologies include Python, LabVIEW, BGP, DNS, IPv4, IPv6."
 ---
 
 # Fiber optic splicer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Install the equipment on site and connect it to external networks
 - Commission the network and check the installation
 - Make hydraulic, electrical and mechanical connections for equipment and accessories
+
+## Technologies and Software
+
+Python, LabVIEW, BGP, DNS, IPv4, IPv6, OSPF, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

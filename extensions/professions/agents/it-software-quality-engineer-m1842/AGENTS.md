@@ -26,6 +26,12 @@ The IT software quality engineer, guarantor of the quality and performance of IT
 
 Consult the [detailed expertise](../../skills/it-software-quality-engineer-m1842/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Git, pytest, JUnit, doctest, Python, Linux, Windows, Wireshark, JavaScript, HTML, CSS, SQL, Visual Studio Code, jQuery, virtualenv, DHCP.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/it-software-quality-engineer-m1842/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

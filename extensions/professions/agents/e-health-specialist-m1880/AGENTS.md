@@ -25,6 +25,12 @@ The e-health Specialist optimizes healthcare through the use of digital or conne
 
 Consult the [detailed expertise](../../skills/e-health-specialist-m1880/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/e-health-specialist-m1880/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

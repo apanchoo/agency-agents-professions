@@ -1,6 +1,6 @@
 ---
 name: geologist-f1105
-description: "Prepare, analyze and produce deliverables as a Geologist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Geologist; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Geologist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out surveys, drilling, soil and subsoil pollution
 - Define risk prevention measures
 - Evaluate the quality of mineral resources
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

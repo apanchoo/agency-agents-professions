@@ -1,6 +1,6 @@
 ---
 name: chartered-accountant-m1211
-description: "Prepare, analyze and produce deliverables as a Chartered accountant; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Chartered accountant; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Chartered accountant
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Prepare the necessary elements for a financial audit
 - Present financial reports to management for strategic decision making
 - Prepare an accounting report
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

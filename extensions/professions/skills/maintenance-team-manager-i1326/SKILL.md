@@ -1,6 +1,6 @@
 ---
 name: maintenance-team-manager-i1326
-description: "Prepare, analyze and produce deliverables as a Maintenance team manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Maintenance team manager; use for requests within this professional scope. Relevant technologies include MATLAB, Scilab, Arduino."
 ---
 
 # Maintenance team manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Plan equipment maintenance operations
 - Manage a schedule
 - Provide technical assistance to teams
+
+## Technologies and Software
+
+MATLAB, Scilab, Arduino.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -25,6 +25,12 @@ The commercial advisor to individuals sells products and services and adapts his
 
 Consult the [detailed expertise](../../skills/commercial-advisor-sales-advisor-to-individuals-d1403/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/commercial-advisor-sales-advisor-to-individuals-d1403/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

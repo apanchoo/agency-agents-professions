@@ -25,6 +25,12 @@ The Information System Application Manager plays a role in the management and op
 
 Consult the [detailed expertise](../../skills/information-system-application-manager-m1871/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Linux, Windows, pandas, BGP, DNS, IPv4, IPv6, OSPF, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/information-system-application-manager-m1871/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

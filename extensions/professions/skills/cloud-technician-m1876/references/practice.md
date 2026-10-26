@@ -11,9 +11,14 @@
 
 Select techniques that fit the task and available resources.
 
-- Automation of administrative tasks
-- Architecture of digital and IT systems
-- System administration and virtualization fundamentals
+- Cloud Solutions
+- Managing Cloud solutions for businesses
+- Cloud ecosystem
+- Containerization Fundamentals
+- DevOps tools and methods
+- Containerized infrastructures
+- Program your infrastructure
+- DevOps tools
 - Cloud computing
 - Virtualization
 - Installation & Configuration of complex services
@@ -25,10 +30,10 @@ Select techniques that fit the task and available resources.
 
 Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
 
-- Implement an IT solution for the business
-- Develop communicating applications
-- Project management and software development
-- Development of an application
+- Manage the pipeline of a Cloud-oriented application
+- Develop and deploy a microservice in a virtualized environment
+- Creation and deployment of application services
+- Service optimization
 - Migrating data to or from a NoSQL environment
 - Regulatory compliance to analyze data
 

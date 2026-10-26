@@ -1,6 +1,6 @@
 ---
 name: installer-maintainer-in-solar-thermal-and-photovoltaic-f1610
-description: "Prepare, analyze and produce deliverables as a Installer-maintainer in solar, thermal and photovoltaic systems; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Installer-maintainer in solar, thermal and photovoltaic systems; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB, BIM."
 ---
 
 # Installer-maintainer in solar, thermal and photovoltaic systems
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Diagnose system failures and propose solutions
 - Check safety equipment or materials (PPE, harness, etc.)
 - Check the tightness
+
+## Technologies and Software
+
+LabVIEW, MATLAB, BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: chief-data-officer-m1423
-description: "Prepare, analyze and produce deliverables as a Chief Data Officer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Chief Data Officer; use for requests within this professional scope. Relevant technologies include Python, JavaScript, HTML, CSS, SQL, Talend."
 ---
 
 # Chief Data Officer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out statistical analysis or modeling of data
 - Use data management software
 - Validate the reliability of the data collected
+
+## Technologies and Software
+
+Python, JavaScript, HTML, CSS, SQL, Talend, Power Query, Power Pivot, R, SAS, Microsoft Excel, Power BI, Tableau Software.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

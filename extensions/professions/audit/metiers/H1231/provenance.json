@@ -240,5 +240,45 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "MATLAB",
+      "area": "simulation",
+      "use": "Model numerical systems, document units and assumptions, and compare simulation results against checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.MIMP.05",
+          "module_title": "Industrialisation d’un produit",
+          "page": 194,
+          "matched_text": "Matlab",
+          "snippet": "écessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d’applica",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=194",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Scilab",
+      "area": "simulation",
+      "use": "Implement numerical calculations and simulations with reproducible inputs and numerical checks.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "sgm",
+          "module_code": "R5.MIMP.05",
+          "module_title": "Industrialisation d’un produit",
+          "page": 194,
+          "matched_text": "Scilab",
+          "snippet": "niques nécessitant des mathématiques (exemple de logiciels utilisés : Scilab, Matlab...) – Utilisation d’outils de prévision comportementale en fabrication (exemple d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=194",
+          "sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

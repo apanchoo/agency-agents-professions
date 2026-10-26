@@ -25,6 +25,12 @@ The Household Appliance Maintenance Technician ensures the longevity and proper 
 
 Consult the [detailed expertise](../../skills/household-appliance-maintenance-technician-i1402/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/household-appliance-maintenance-technician-i1402/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Translate the need into use cases and recipe criteria.

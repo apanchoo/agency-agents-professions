@@ -25,6 +25,12 @@ The Field Survey Manager organizes and supervises surveys or field surveys accor
 
 Consult the [detailed expertise](../../skills/field-survey-manager-m1404/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/field-survey-manager-m1404/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Describe the need, stakeholders and objectives.

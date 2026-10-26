@@ -1,6 +1,6 @@
 ---
 name: event-project-manager-e1107
-description: "Prepare, analyze and produce deliverables as a Event Project Manager; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Event Project Manager; use for requests within this professional scope. Relevant technologies include REST APIs."
 ---
 
 # Event Project Manager
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Coordinate the stages of organizing the event and its animation, ensuring compliance with deadlines and contractual obligations
 - Implement the material and logistical organization of an event
 - Control the execution and costs of a service
+
+## Technologies and Software
+
+REST APIs.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -34,7 +34,7 @@ def runtime_issues(paths):
 def search(query, but=None):
     term = normalize(query)
     return [r for r in load(ROOT / "catalog.json")
-            if term in normalize(" ".join([r["code"], r["title"], r.get("original_title", ""), *r["appellations"], *r.get("original_appellations", [])]))
+            if term in normalize(" ".join([r["code"], r["title"], r.get("original_title", ""), *r["appellations"], *r.get("original_appellations", []), *r.get('technologies', [])]))
             and (not but or but in r["but"])]
 
 
@@ -69,6 +69,7 @@ def export_profile(code, destination):
 
 
 def validate(official_validator=None):
+    from technologies import validate_evidence
     errors = []
     catalog = load(ROOT / "catalog.json")
     fiches, metadata, source = read_rome()
@@ -97,6 +98,7 @@ def validate(official_validator=None):
         import yaml
     local_links_checked = 0
     covered_but = Counter()
+    technology_evidence_checked = 0
     for index, row in enumerate(catalog, 1):
         if index % 300 == 0:
             print(f"Validation : {index}/{len(catalog)} métiers", flush=True)
@@ -136,6 +138,18 @@ def validate(official_validator=None):
                     errors.append(f"Lien local invalide : {code} : {link}")
                 local_links_checked += 1
         provenance = load(audit / "provenance.json")
+        technologies = provenance.get('technologies', [])
+        errors.extend(f'{code}: {error}' for error in validate_evidence(technologies, provenance['but']))
+        if set(row.get('technologies', [])) != {entry['name'] for entry in technologies}:
+            errors.append(f'Technology catalog and evidence disagree: {code}')
+        if technologies:
+            toolbox = skill.parent / 'references/technologies.md'
+            if not toolbox.is_file():
+                errors.append(f'Technology toolbox missing: {code}')
+            else:
+                headings = set(re.findall(r'^## (.+)$', toolbox.read_text(encoding='utf-8'), re.M)) - {'Verification'}
+                if headings != set(row['technologies']): errors.append(f'Technology toolbox incomplete: {code}')
+        technology_evidence_checked += sum(len(entry['evidence']) for entry in technologies)
         if provenance["rome"] != source or provenance["rome_metadata"] != metadata[code]:
             errors.append(f"Provenance ROME incohérente : {code}")
         for match in provenance["but"]:
@@ -156,6 +170,7 @@ def validate(official_validator=None):
     report = {"status": "passed" if not errors else "failed", "agents": len(actual_agents),
               "skills": len(actual_skills), "but_programmes": len(programmes),
               "local_links_checked": local_links_checked,
+              "technology_evidence_checked": technology_evidence_checked,
               "runtime_origin_references": "checked_absent",
               "profession_folder_names": "checked",
               "official_skill_validator": str(official_validator) if official_validator else None,

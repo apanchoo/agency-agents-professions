@@ -1,6 +1,6 @@
 ---
 name: snow-grower-i1331
-description: "Prepare, analyze and produce deliverables as a Snow grower; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Snow grower; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Snow grower
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Respect safety rules
 - Communicate with teams in the field to coordinate operations
 - Encourage continuous improvement in practices
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

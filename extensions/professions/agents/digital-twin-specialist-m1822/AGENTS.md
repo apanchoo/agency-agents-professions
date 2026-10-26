@@ -25,6 +25,12 @@ The Digital Twin Specialist designs, develops and operates digital replicas of r
 
 Consult the [detailed expertise](../../skills/digital-twin-specialist-m1822/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/digital-twin-specialist-m1822/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Identify the audiences, their needs and the usage path.

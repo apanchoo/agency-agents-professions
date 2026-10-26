@@ -1,6 +1,6 @@
 ---
 name: commercial-export-sales-d1433
-description: "Prepare, analyze and produce deliverables as a Commercial / Export sales; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Commercial / Export sales; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Commercial / Export sales
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Adapt marketing strategies to different cultures and local regulations
 - Ensure international competitive intelligence
 - Develop and adapt a commercial proposal
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

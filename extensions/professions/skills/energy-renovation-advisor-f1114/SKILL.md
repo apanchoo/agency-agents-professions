@@ -1,6 +1,6 @@
 ---
 name: energy-renovation-advisor-f1114
-description: "Prepare, analyze and produce deliverables as a Energy renovation advisor; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Energy renovation advisor; use for requests within this professional scope. Relevant technologies include LabVIEW, MATLAB."
 ---
 
 # Energy renovation advisor
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Provide information on public aid and complete a subsidy application file
 - Develop solutions to reduce the energy consumption of buildings
 - Inform and advise customers and users on the use and maintenance of equipment
+
+## Technologies and Software
+
+LabVIEW, MATLAB.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

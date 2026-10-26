@@ -1,6 +1,6 @@
 ---
 name: communications-officer-e1112
-description: "Prepare, analyze and produce deliverables as a Communications officer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Communications officer; use for requests within this professional scope. Relevant technologies include HTML, CSS."
 ---
 
 # Communications officer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure the consistency of the company's image across all forms of communication and media (editorial, Web, Intranet, events, media, social networks)
 - Develop a network, contact journalists and press media (written, radio, TV, Internet) during communication operations
 - Implement a communications strategy
+
+## Technologies and Software
+
+HTML, CSS.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

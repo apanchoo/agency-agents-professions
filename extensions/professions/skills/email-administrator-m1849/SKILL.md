@@ -1,6 +1,6 @@
 ---
 name: email-administrator-m1849
-description: "Prepare, analyze and produce deliverables as a Email Administrator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Email Administrator; use for requests within this professional scope. Relevant technologies include GNU Octave, LabVIEW, Scilab, VPN."
 ---
 
 # Email Administrator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write and develop instructions and technical sheets
 - Diagnose and resolve technical messaging issues
 - Monitor email system security to prevent intrusions
+
+## Technologies and Software
+
+GNU Octave, LabVIEW, Scilab, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

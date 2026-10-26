@@ -1,6 +1,6 @@
 ---
 name: project-manager-of-information-systems-project-m1881
-description: "Prepare, analyze and produce deliverables as a Project Manager of Information Systems Project Management (MOA); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Project Manager of Information Systems Project Management (MOA); use for requests within this professional scope. Relevant technologies include Docker, GitLab, Python, HTML, CSS, Visual Studio Code."
 ---
 
 # Project Manager of Information Systems Project Management (MOA)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write a report, an activity report
 - Design and manage a project
 - Optimize project management processes
+
+## Technologies and Software
+
+Docker, GitLab, Python, HTML, CSS, Visual Studio Code, virtualenv.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: management-advisor-m1209
-description: "Prepare, analyze and produce deliverables as a Management Advisor; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Management Advisor; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Management Advisor
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Ensure compliance of practices with current regulations
 - Monitor performance indicators, analyze and correct discrepancies
 - Evaluate the financial impact of strategic decisions
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

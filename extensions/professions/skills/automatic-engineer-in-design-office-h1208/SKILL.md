@@ -1,6 +1,6 @@
 ---
 name: automatic-engineer-in-design-office-h1208
-description: "Prepare, analyze and produce deliverables as a Automatic engineer in design office; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Automatic engineer in design office; use for requests within this professional scope. Relevant technologies include ELK stack, Python, VPN, REST APIs, LoRa, MQTT."
 ---
 
 # Automatic engineer in design office
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out the commissioning adjustments for the controlled devices and instruments (cylinder, motor, distributor, transmitters, sensors, regulators, etc.)
 - Check the conformity of automated installations according to safety standards
 - Provide technical assistance to teams
+
+## Technologies and Software
+
+ELK stack, Python, VPN, REST APIs, LoRa, MQTT, Modbus, OPC UA.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

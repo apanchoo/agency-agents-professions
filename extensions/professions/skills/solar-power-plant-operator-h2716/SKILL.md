@@ -1,6 +1,6 @@
 ---
 name: solar-power-plant-operator-h2716
-description: "Prepare, analyze and produce deliverables as a Solar power plant operator; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Solar power plant operator; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Solar power plant operator
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out a maintenance operation
 - Define and implement security protocols
 - Manage production and operations management
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

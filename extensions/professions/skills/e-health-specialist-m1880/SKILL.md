@@ -1,6 +1,6 @@
 ---
 name: e-health-specialist-m1880
-description: "Prepare, analyze and produce deliverables as a e-health specialist; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a e-health specialist; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, SQL."
 ---
 
 # e-health specialist
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Facilitate communication between healthcare professionals via digital platforms
 - Evaluate the impact of e-health solutions on medical practices
 - Ensure the appropriation of digital health technologies
+
+## Technologies and Software
+
+Docker, Kubernetes, SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

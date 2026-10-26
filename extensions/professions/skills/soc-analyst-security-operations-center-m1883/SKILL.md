@@ -1,6 +1,6 @@
 ---
 name: soc-analyst-security-operations-center-m1883
-description: "Prepare, analyze and produce deliverables as a SOC Analyst (Security Operations Center); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a SOC Analyst (Security Operations Center); use for requests within this professional scope. Relevant technologies include Linux, Windows, LoRa."
 ---
 
 # SOC Analyst (Security Operations Center)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Write security reports
 - Act quickly in the event of intrusion detection
 - Comply with data privacy policies
+
+## Technologies and Software
+
+Linux, Windows, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

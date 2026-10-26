@@ -1,6 +1,6 @@
 ---
 name: director-of-tp-works-public-works-f1210
-description: "Prepare, analyze and produce deliverables as a Director of TP works - Public Works; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Director of TP works - Public Works; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Director of TP works - Public Works
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Project and organize the activity of all stakeholders over the entire duration of the project
 - Ensuring safety on construction sites
 - Monitor the project budget
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

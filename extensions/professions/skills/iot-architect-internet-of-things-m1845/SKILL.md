@@ -1,6 +1,6 @@
 ---
 name: iot-architect-internet-of-things-m1845
-description: "Prepare, analyze and produce deliverables as a IoT Architect - Internet of Things; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IoT Architect - Internet of Things; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Python, VLAN, VPN, LoRa."
 ---
 
 # IoT Architect - Internet of Things
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Integrate security solutions for IoT devices
 - Produce inspection and diagnostic reports for anomalies or risks and transmit them to the production, maintenance and security departments.
 - Optimize energy consumption of IoT systems
+
+## Technologies and Software
+
+Docker, Kubernetes, Python, VLAN, VPN, LoRa, Modbus.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -1,6 +1,6 @@
 ---
 name: industrial-hydraulic-engineer-i1313
-description: "Prepare, analyze and produce deliverables as a Industrial hydraulic engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Industrial hydraulic engineer; use for requests within this professional scope. Relevant technologies include DNS, VLAN."
 ---
 
 # Industrial hydraulic engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out hydraulic cleaning (sluice boat, sluice wagon, etc.)
 - Build a preventative maintenance plan
 - Optimize assembly processes for hydraulic systems
+
+## Technologies and Software
+
+DNS, VLAN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

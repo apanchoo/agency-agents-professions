@@ -1,6 +1,6 @@
 ---
 name: tailor-stone-cutter-f1612
-description: "Prepare, analyze and produce deliverables as a Tailor / Stone cutter; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Tailor / Stone cutter; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Tailor / Stone cutter
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Load, unload, handle products
 - Respect safety standards
 - Pass on a technique, a know-how
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

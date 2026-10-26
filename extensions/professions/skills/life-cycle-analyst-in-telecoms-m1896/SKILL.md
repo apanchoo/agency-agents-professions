@@ -1,6 +1,6 @@
 ---
 name: life-cycle-analyst-in-telecoms-m1896
-description: "Prepare, analyze and produce deliverables as a Life cycle analyst in telecoms; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Life cycle analyst in telecoms; use for requests within this professional scope. Relevant technologies include Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios."
 ---
 
 # Life cycle analyst in telecoms
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out measurements and analyses, identify non-conformities and make technical adjustments
 - Anticipate cybersecurity risks
 - Check the condition and calibration of environmental measurement tools and instruments used in telecommunications
+
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

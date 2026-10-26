@@ -1,6 +1,6 @@
 ---
 name: telephone-center-installation-technician-i1330
-description: "Prepare, analyze and produce deliverables as a Telephone center installation technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Telephone center installation technician; use for requests within this professional scope. Relevant technologies include Windows, Wireshark, Power Pivot, Microsoft Excel, Power BI, BGP."
 ---
 
 # Telephone center installation technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Establish intervention reports
 - Analyze customer needs to offer appropriate services
 - Write technical documents in compliance with current standards
+
+## Technologies and Software
+
+Windows, Wireshark, Power Pivot, Microsoft Excel, Power BI, BGP, DNS, OSPF, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

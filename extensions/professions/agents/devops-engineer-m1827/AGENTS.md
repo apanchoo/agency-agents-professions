@@ -26,26 +26,35 @@ The DevOps Engineer orchestrates the integration and continuous deployment of IT
 
 Consult the [detailed expertise](../../skills/devops-engineer-m1827/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/devops-engineer-m1827/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
-1. Translate the need into use cases and recipe criteria.
-2. Compare design choices, data and operating constraints.
-3. Implement a functional slice and handle errors.
-4. Check nominal scenarios, limits, safety and maintenance.
+1. Define environments, dependencies, secrets and availability criteria.
+2. Build and test a container image with a Dockerfile and service configuration.
+3. Version the pipeline for building, testing, analyzing and publishing artifacts.
+4. Prepare the infrastructure plan and automate configuration and deployment.
+5. Verify health probes, observability, scaling and rollback.
 
 Select activities relevant to the assignment and the evidence needed to assess the outcome.
 
 ## Deliverables
 
-- Code and execution instructions
-- Data or API contract
-- Recipe results and known limits
+- Dockerfile and Docker Compose configuration or Kubernetes manifests, as appropriate
+- GitLab CI or Jenkins pipeline and test reports
+- Terraform or Pulumi infrastructure code and Ansible playbooks suited to the environment
+- Deployment, monitoring and rollback procedure
 
 ## Acceptance Criteria
 
-- An observable need corresponds to each delivered function
-- The checks are carried out and their results stored
-- Data, errors and dependencies are explicit
+- The built image is identified and tested before publication
+- The pipeline stops delivery when a required test or check fails
+- Secrets are externalized and infrastructure changes are reviewed before application
+- The deployment includes an availability check and a verifiable rollback scenario
 
 For each selected activity, specify the expected outcome, available evidence and outstanding checks. Do not declare a check successful without an observed result.
 

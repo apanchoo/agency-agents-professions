@@ -1,6 +1,6 @@
 ---
 name: civil-engineer-f1111
-description: "Prepare, analyze and produce deliverables as a Civil engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Civil engineer; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Civil engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Establish the forecast schedule for execution of work by batch or trade
 - Organize operations prior to receipt of work
 - Carry out technical consistency of the documents provided
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

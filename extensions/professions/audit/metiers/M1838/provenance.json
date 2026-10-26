@@ -259,5 +259,181 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "BGP",
+      "area": "network",
+      "use": "Define peerings and route policies; inspect advertised and received routes before and after changes.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "BGP",
+          "snippet": "HCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les différents savoi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.10",
+          "module_title": "Opérateur de télécom",
+          "page": 462,
+          "matched_text": "BGP",
+          "snippet": "s réseaux opérateurs et des acteurs de l’Internet : transit, peering, BGP Apprentissages critiques ciblés : – AC24.03ROM | Décrire/comprendre l’architecture et les",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=462",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DHCP",
+      "area": "network",
+      "use": "Define address pools, options and reservations; verify lease allocation and client behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "DHCP",
+          "snippet": "s équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "DNS",
+      "area": "network",
+      "use": "Define records and resolution paths; verify authoritative answers, caching and failure behavior.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "DNS",
+          "snippet": "ements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux f",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv4",
+      "area": "network",
+      "use": "Plan addressing, subnets and routing; test required connectivity and filtering.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "IPV4",
+          "snippet": "s (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "IPv6",
+      "area": "network",
+      "use": "Plan addressing, neighbor discovery and routing; test reachability and security controls.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "IPV6",
+          "snippet": "teurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sé",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        },
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.10",
+          "module_title": "Opérateur de télécom",
+          "page": 462,
+          "matched_text": "IPv6",
+          "snippet": "sme de transport dans les réseaux opérateurs (MPLS, carrier Ethernet, IPv6, ...) – les technologies de VPN L2 et VPN L3 – les interconnexions des réseaux opérateurs",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=462",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "OSPF",
+      "area": "network",
+      "use": "Define areas, adjacencies and route costs; verify convergence and intended paths.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "OSPF",
+          "snippet": " (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (par ex. : OSPF , RIP , BGP ...) – Introduction aux failles de sécurité Prolongements suggérés – Les diff",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VLAN",
+      "area": "network",
+      "use": "Define segmentation, tagging and allowed trunks; verify isolation and required inter-VLAN flows.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "info",
+          "module_code": "R4.DEPLOI.11",
+          "module_title": "Réseau avancé",
+          "page": 215,
+          "matched_text": "VLAN",
+          "snippet": "voirs de référence étudiés – Configuration des équipements (routeurs, VLAN) – Fonctionnement d’internet (par ex. : DHCP , DNS, IPV4, IPV6...) – Routage dynamique (p",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "VPN",
+      "area": "network",
+      "use": "Specify tunnel endpoints, routing and access controls; verify reachability and traffic protection.",
+      "priority": 58,
+      "evidence": [
+        {
+          "programme_id": "rt",
+          "module_code": "R4.ROM.10",
+          "module_title": "Opérateur de télécom",
+          "page": 462,
+          "matched_text": "VPN",
+          "snippet": " opérateurs (MPLS, carrier Ethernet, IPv6, ...) – les technologies de VPN L2 et VPN L3 – les interconnexions des réseaux opérateurs et des acteurs de l’Internet : ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=462",
+          "sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

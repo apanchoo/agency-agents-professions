@@ -26,6 +26,12 @@ The telecoms and environment engineer designs, optimizes and secures environment
 
 Consult the [detailed expertise](../../skills/telecoms-and-environment-engineer-m1804/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Kubernetes, Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/telecoms-and-environment-engineer-m1804/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

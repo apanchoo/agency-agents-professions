@@ -9,7 +9,7 @@ import urllib.parse
 import urllib.request
 import zipfile
 
-from editorial import RECIPES, DOMAINS
+from editorial import RECIPES, ROLE_RECIPES, DOMAINS
 
 ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / "data/translations-en.json"
@@ -33,7 +33,7 @@ def public_strings():
         values.update(i["libelle"] for i in record.get("secteurs_activite", []))
     programmes = json.loads((ROOT / "data/but-programmes.json").read_text(encoding="utf-8"))
     values.update(m["title"] for p in programmes for m in p["modules"])
-    for steps, outputs, checks in RECIPES.values():
+    for steps, outputs, checks in [*RECIPES.values(), *ROLE_RECIPES.values()]:
         values.update(steps + outputs + checks)
     for label, _, outputs in DOMAINS.values():
         values.add(label)

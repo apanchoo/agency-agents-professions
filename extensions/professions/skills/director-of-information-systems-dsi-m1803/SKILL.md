@@ -1,6 +1,6 @@
 ---
 name: director-of-information-systems-dsi-m1803
-description: "Prepare, analyze and produce deliverables as a Director of Information Systems (DSI); use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Director of Information Systems (DSI); use for requests within this professional scope. Relevant technologies include BGP, DNS, VLAN, VPN."
 ---
 
 # Director of Information Systems (DSI)
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Implement IT security measures
 - Design and implement a digital strategy
 - Define the information systems strategy
+
+## Technologies and Software
+
+BGP, DNS, VLAN, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

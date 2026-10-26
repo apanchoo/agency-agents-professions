@@ -25,6 +25,12 @@ The Information Systems Administrator (IS) plays a crucial role in the managemen
 
 Consult the [detailed expertise](../../skills/information-systems-administrator-m1801/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Docker Compose, Kubernetes, Ansible, Terraform, Pulumi, GitLab, Jenkins, Git, Podman, Docker Hub, LXC/LXD, AWS CodeDeploy, pytest, JUnit, doctest.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/information-systems-administrator-m1801/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

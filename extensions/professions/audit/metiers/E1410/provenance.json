@@ -101,5 +101,233 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R5.JOU.07",
+          "module_title": "Data-visualisation",
+          "page": 433,
+          "matched_text": "javascript",
+          "snippet": "it jeu égal avec le texte à l’aide de techniques de codes (html, css, javascript), de scrollytelling, de conception de modules interactifs et d’infographies animées ainsi",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=433",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R1.10",
+          "module_title": "Informatique",
+          "page": 89,
+          "matched_text": "HTML",
+          "snippet": "s outils et dispositifs de communication Mots clés : Internet – Web – HTML – CMS – Blog – Gestion de contenu – Référencement / SEO Volume horaire : Volume horaire d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=89",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R1.INFONUM.16",
+          "module_title": "Web et informatique professionnels",
+          "page": 216,
+          "matched_text": "HTML",
+          "snippet": "Mettre en place une collecte automatisée Mots clés : Internet – Web – HTML – CSS – CMS – Stratégies informationnelles – Collecte d’information / de données Volume h",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=216",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R5.JOU.07",
+          "module_title": "Data-visualisation",
+          "page": 433,
+          "matched_text": "html",
+          "snippet": " données fait jeu égal avec le texte à l’aide de techniques de codes (html, css, javascript), de scrollytelling, de conception de modules interactifs et d’infograph",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=433",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R1.INFONUM.16",
+          "module_title": "Web et informatique professionnels",
+          "page": 216,
+          "matched_text": "CSS",
+          "snippet": "en place une collecte automatisée Mots clés : Internet – Web – HTML – CSS – CMS – Stratégies informationnelles – Collecte d’information / de données Volume horaire",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=216",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R5.JOU.07",
+          "module_title": "Data-visualisation",
+          "page": 433,
+          "matched_text": "css",
+          "snippet": "es fait jeu égal avec le texte à l’aide de techniques de codes (html, css, javascript), de scrollytelling, de conception de modules interactifs et d’infographies a",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=433",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R2.PUB.14",
+          "module_title": "Image et web",
+          "page": 616,
+          "matched_text": "CSS",
+          "snippet": " des charges, gestion de projet Web. • Approfondir le langage HTML et CSS. Apprentissage critique ciblé : – AC14.03 | Utiliser les logiciels PAO, retouche d’image,",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=616",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R3.INFONUM.08",
+          "module_title": "Techniques de communication numérique",
+          "page": 258,
+          "matched_text": "SQL",
+          "snippet": "nus (CMS) – serveurs et transferts FTP – bases de données et requêtes SQL – outils de référencement et d’analyse d’audience Apprentissages critiques ciblés : – AC2",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=258",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "SQL",
+          "snippet": " NocoDB) – Base de connaissances (RDF , RDFS) – Langages de requêtes (SQL, SPARQL) À l’issue de la deuxième année, les étudiants sont capables de concevoir un docu",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MySQL",
+      "area": "database",
+      "use": "Define schemas and indexes; verify queries, transactions and backup restoration.",
+      "priority": 40,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "MySQL",
+          "snippet": "), modèle logique de données (MLD) – Bases de données relationnelles (MySQL, MariaDB) – Bases de données Low-Code (AirTable, BaseRow, NocoDB) – Base de connaissances",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "area": "database",
+      "use": "Define relational schemas, constraints and queries; verify transactions and data restoration.",
+      "priority": 44,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "MariaDB",
+          "snippet": "le logique de données (MLD) – Bases de données relationnelles (MySQL, MariaDB) – Bases de données Low-Code (AirTable, BaseRow, NocoDB) – Base de connaissances (RDF , R",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Airtable",
+      "area": "database",
+      "use": "Model records and relationships in a low-code database with controlled access and export checks.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "AirTable",
+          "snippet": " données relationnelles (MySQL, MariaDB) – Bases de données Low-Code (AirTable, BaseRow, NocoDB) – Base de connaissances (RDF , RDFS) – Langages de requêtes (SQL, SPARQ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "Baserow",
+      "area": "database",
+      "use": "Structure collaborative data tables and verify relationships, permissions and data exports.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "BaseRow",
+          "snippet": "elationnelles (MySQL, MariaDB) – Bases de données Low-Code (AirTable, BaseRow, NocoDB) – Base de connaissances (RDF , RDFS) – Langages de requêtes (SQL, SPARQL) À l’is",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "NocoDB",
+      "area": "database",
+      "use": "Prepare a low-code database interface while preserving schema constraints and access controls.",
+      "priority": 45,
+      "evidence": [
+        {
+          "programme_id": "infocom",
+          "module_code": "R4.INFONUM.11",
+          "module_title": "Data et documents",
+          "page": 281,
+          "matched_text": "NocoDB",
+          "snippet": "lles (MySQL, MariaDB) – Bases de données Low-Code (AirTable, BaseRow, NocoDB) – Base de connaissances (RDF , RDFS) – Langages de requêtes (SQL, SPARQL) À l’issue de l",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=281",
+          "sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

@@ -25,6 +25,12 @@ The Renewable Energy Engineer designs, develops and supervises energy production
 
 Consult the [detailed expertise](../../skills/renewable-energy-engineer-h1237/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Windows, Wireshark, BGP, OSPF, VLAN, VPN, JSON, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/renewable-energy-engineer-h1237/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Establish uses and consumption balance with their units.

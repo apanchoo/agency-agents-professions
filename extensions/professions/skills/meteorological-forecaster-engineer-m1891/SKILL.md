@@ -1,6 +1,6 @@
 ---
 name: meteorological-forecaster-engineer-m1891
-description: "Prepare, analyze and produce deliverables as a Meteorological forecaster engineer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Meteorological forecaster engineer; use for requests within this professional scope. Relevant technologies include SQL."
 ---
 
 # Meteorological forecaster engineer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Prepare detailed reports on weather conditions
 - Develop and analyze weather forecasts
 - Produce weather maps from transmitted weather observations and data
+
+## Technologies and Software
+
+SQL.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

@@ -26,6 +26,12 @@ The Commercial Director orchestrates the company's commercial strategy, aiming t
 
 Consult the [detailed expertise](../../skills/sales-director-m1715/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/sales-director-m1715/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Define market, segment, offer and commercial objective.

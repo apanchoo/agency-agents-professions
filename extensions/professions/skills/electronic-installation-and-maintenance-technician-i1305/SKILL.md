@@ -1,6 +1,6 @@
 ---
 name: electronic-installation-and-maintenance-technician-i1305
-description: "Prepare, analyze and produce deliverables as a Electronic installation and maintenance technician; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Electronic installation and maintenance technician; use for requests within this professional scope. Relevant technologies include Python, Linux, Java, C++, GNU Octave, LabVIEW."
 ---
 
 # Electronic installation and maintenance technician
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out or supervise preventive and corrective maintenance interventions
 - Verify by simulation, tests, trials, calculations, the functionalities and characteristics of the electrical or electronic system
 - Manage stocks of maintenance equipment and spare parts
+
+## Technologies and Software
+
+Python, Linux, Java, C++, GNU Octave, LabVIEW, MATLAB, Scilab, Simulink, Arduino, LoRa, MQTT, Modbus, OPC UA, DIALux.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

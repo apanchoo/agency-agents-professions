@@ -1,6 +1,6 @@
 ---
 name: staffer-stuqueur-staffer-stuqueuse-f1624
-description: "Prepare, analyze and produce deliverables as a Staffer Stuqueur / Staffer Stuqueuse; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Staffer Stuqueur / Staffer Stuqueuse; use for requests within this professional scope. Relevant technologies include BIM."
 ---
 
 # Staffer Stuqueur / Staffer Stuqueuse
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Create architectural ornaments
 - Assemble a decor
 - Restore elements in staff
+
+## Technologies and Software
+
+BIM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

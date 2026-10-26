@@ -11,6 +11,7 @@ from build_library import ROOT, load, match_programmes, read_rome
 from library import export_profile, search, runtime_issues
 from runtime_profiles import folder_name
 from english import tr
+from technologies import detect, clean_text
 
 
 class LibraryScenarios(unittest.TestCase):
@@ -31,6 +32,39 @@ class LibraryScenarios(unittest.TestCase):
         self.assertEqual("info", matches[0]["programme_id"])
         selected = [m for m in matches[0]["modules"] if m["kind"] == "sae"]
         self.assertTrue(any("REAL" in m["code"] for m in selected))
+
+    def test_devops_keeps_its_delivery_tools_and_workflow(self):
+        row = self.catalog['M1827']
+        expected = {'Docker', 'Docker Compose', 'Kubernetes', 'Ansible', 'Terraform', 'GitLab', 'Jenkins'}
+        self.assertTrue(expected.issubset(set(row['technologies'])))
+        self.assertEqual('rt', self.mapping['M1827']['matches'][0]['programme_id'])
+        self.assertNotIn('geii', row['but'])
+        self.assertNotIn('LabVIEW', row['technologies'])
+        skill = ROOT / row['skill']
+        self.assertIn('rollback', skill.read_text(encoding='utf-8'))
+        toolbox = (skill.parent / 'references/technologies.md').read_text(encoding='utf-8')
+        for name in expected: self.assertIn('## ' + name + '\n', toolbox)
+
+    def test_product_detection_rejects_french_words_and_unrelated_acronyms(self):
+        names = {entry['name'] for entry, _hit in detect("Un tableau de bord, une société SAS, les services SAP, un mes-\nsage et il s’git d’un exemple.")}
+        self.assertFalse(names & {'Tableau Software', 'SAS', 'SAP', 'Sage', 'Git'})
+        names = {entry['name'] for entry, _hit in detect('Docker, docker-compose, Kubernetes, Terraform et Ansible; logiciels statistiques SAS – R.')}
+        self.assertTrue({'Docker', 'Docker Compose', 'Kubernetes', 'Terraform', 'Ansible', 'SAS', 'R'}.issubset(names))
+        names = {entry['name'] for entry, _hit in detect('Les modulations radio utilisent CSS (LoRa).')}
+        self.assertIn('LoRa', names); self.assertNotIn('CSS', names)
+        names = {entry['name'] for entry, _hit in detect('Analyse du cycle de vie : Sustainibility (SolidWorks), ANSYS Granta Edupack.')}
+        self.assertIn('SOLIDWORKS Sustainability', names); self.assertNotIn('SolidWorks', names)
+
+    def test_named_tools_have_page_level_evidence_outside_runtime(self):
+        for code in ['M1827', 'M1805', 'H1502']:
+            proof = load(ROOT / f'audit/metiers/{code}/provenance.json')
+            for technology in proof.get('technologies', []):
+                self.assertTrue(technology['evidence'])
+                for evidence in technology['evidence']:
+                    source = load(ROOT / f"sources/but-text/{evidence['programme_id']}.json")
+                    page = source['pages'][evidence['page'] - 1]
+                    self.assertIn(evidence['matched_text'], clean_text(page['text']))
+                    self.assertEqual(source['sha256'], evidence['sha256'])
 
     def test_industrial_quality_is_not_biological_by_default(self):
         self.assertEqual("qlio", self.mapping["H1502"]["matches"][0]["programme_id"])

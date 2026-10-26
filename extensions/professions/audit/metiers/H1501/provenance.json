@@ -268,5 +268,26 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "GNU Octave",
+      "area": "simulation",
+      "use": "Run reproducible numerical models and check algorithm and precision assumptions.",
+      "priority": 50,
+      "evidence": [
+        {
+          "programme_id": "hse",
+          "module_code": "R1.03",
+          "module_title": "Approche physique des problématiques HSE et applications technologiques",
+          "page": 33,
+          "matched_text": "octave",
+          "snippet": "Description temporelle et spectrale : évolution temporelle et bande d’octave – Pondérations A et C – Définitions et mesures de niveau d’intensité, de pression, de pre",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=33",
+          "sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

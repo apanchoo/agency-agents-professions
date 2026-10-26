@@ -103,5 +103,64 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Power Pivot",
+      "area": "office",
+      "use": "Define relationships and measures in a tabular model and reconcile aggregates with source data.",
+      "priority": 43,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R5.02",
+          "module_title": "Informatique 5",
+          "page": 133,
+          "matched_text": "power pivot",
+          "snippet": "re environnement (GMAO, BDD...) – Nouveaux outils de tableau de bord (power pivot, power bi...) – Programmation de macros avancées (VBA pour Excel) Bases de données (BDD)/",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "area": "office",
+      "use": "Build auditable workbooks with clear inputs, formulas, units and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R5.02",
+          "module_title": "Informatique 5",
+          "page": 133,
+          "matched_text": "Excel",
+          "snippet": "ower pivot, power bi...) – Programmation de macros avancées (VBA pour Excel) Bases de données (BDD)/Tableaux de bord – Elaborer un modèle conceptuel de données (noti",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "selected_module"
+        }
+      ]
+    },
+    {
+      "name": "Power BI",
+      "area": "data",
+      "use": "Prepare data models and dashboards with defined measures, refresh rules and reconciliation checks.",
+      "priority": 51,
+      "evidence": [
+        {
+          "programme_id": "gim",
+          "module_code": "R5.02",
+          "module_title": "Informatique 5",
+          "page": 133,
+          "matched_text": "power bi",
+          "snippet": "ent (GMAO, BDD...) – Nouveaux outils de tableau de bord (power pivot, power bi...) – Programmation de macros avancées (VBA pour Excel) Bases de données (BDD)/Tableaux d",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+          "selection": "selected_module"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

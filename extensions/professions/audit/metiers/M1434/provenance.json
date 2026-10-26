@@ -260,5 +260,168 @@
       ]
     }
   ],
+  "technologies": [
+    {
+      "name": "Python",
+      "area": "programming",
+      "use": "Write maintainable scripts with explicit dependencies, input validation and automated tests.",
+      "priority": 20,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.05",
+          "module_title": "Algèbre linéaire",
+          "page": 86,
+          "matched_text": "Python",
+          "snippet": "alyse statistique multidimensionnelle L ’utilisation de logiciels (R, Python, Xcas) est pertinente dans la cadre de cet enseignement. Apprentissages critiques ciblés ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=86",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "area": "web",
+      "use": "Implement browser behavior with explicit state, accessible interactions and tests.",
+      "priority": 36,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "Javascript",
+          "snippet": "ngages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’architecture cl",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R4.VCOD.09",
+          "module_title": "Programmation web",
+          "page": 110,
+          "matched_text": "Javascript",
+          "snippet": "tudiants, en particulier sur les aspects client/serveur. Contenus : – Javascript – Utilisation de librairies autour des données – Programmation client/serveur Lors de la ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=110",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "Javascript",
+          "snippet": "nexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – Automatisation de",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "HTML",
+      "area": "web",
+      "use": "Structure pages with semantic elements, accessible names and meaningful document order.",
+      "priority": 37,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "HTML",
+          "snippet": "ndre les langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "HTML",
+          "snippet": "rreurs (connexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – ",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "area": "web",
+      "use": "Build responsive layouts that preserve content, contrast and text enlargement.",
+      "priority": 38,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R3.03",
+          "module_title": "Technologies web",
+          "page": 84,
+          "matched_text": "CSS",
+          "snippet": "es langages spécifiques à la création de page web. Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées à la création de page – Notions sur l’arc",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R5.VCOD.07",
+          "module_title": "Programmation web pour la visualisation",
+          "page": 123,
+          "matched_text": "CSS",
+          "snippet": " (connexion impossible, fichiers non trouvés, ...) Contenus : – HTML, CSS, Javascript – Utilisation de librairies dédiées – Importation de données stockées – Autom",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    },
+    {
+      "name": "SQL",
+      "area": "database",
+      "use": "Write parameterized queries, explicit schemas and checks for data integrity and query behavior.",
+      "priority": 39,
+      "evidence": [
+        {
+          "programme_id": "sd",
+          "module_code": "R1.02",
+          "module_title": "Bases de données relationnelles 1",
+          "page": 41,
+          "matched_text": "SQL",
+          "snippet": "uraux, contraintes d’intégrité. – Langage d’interrogation d’une BDR : SQL et éventuellement algèbre relationnelle. L ’utilisation d’un ou plusieurs SGBD disponible",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=41",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R2.02",
+          "module_title": "Bases de données relationnelles 2",
+          "page": 62,
+          "matched_text": "SQL",
+          "snippet": "’implémentation d’une base de données. – Langage graphique et langage SQL pour la création et la gestion d’une BDR. – Critères de qualité d’une BDR (formes normale",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=62",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        },
+        {
+          "programme_id": "sd",
+          "module_code": "R3.02",
+          "module_title": "Systèmes d’information décisionnels",
+          "page": 83,
+          "matched_text": "SQL",
+          "snippet": "n d’un entrepôt de données avec une technologie ROLAP et requêtage en SQL Analytics L ’informatique décisionnelle (ou Business Inteligence) couvre une chaine de tr",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=83",
+          "sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+          "selection": "role_specific_toolbox"
+        }
+      ]
+    }
+  ],
   "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
 }

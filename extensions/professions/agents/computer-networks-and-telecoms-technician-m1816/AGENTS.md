@@ -25,6 +25,12 @@ The Network Technician is essential to guarantee the fluidity and security of di
 
 Consult the [detailed expertise](../../skills/computer-networks-and-telecoms-technician-m1816/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, Ansible, ELK stack, Centreon, Nagios, Python, PowerShell, Bash, Linux, Windows, OpenStack, VMware, VirtualBox, Paramiko, Netmiko, NAPALM.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/computer-networks-and-telecoms-technician-m1816/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

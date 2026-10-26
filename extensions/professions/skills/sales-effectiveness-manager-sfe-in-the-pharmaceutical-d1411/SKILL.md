@@ -1,6 +1,6 @@
 ---
 name: sales-effectiveness-manager-sfe-in-the-pharmaceutical-d1411
-description: "Prepare, analyze and produce deliverables as a Sales Effectiveness Manager (SFE) in the pharmaceutical industry; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Sales Effectiveness Manager (SFE) in the pharmaceutical industry; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Sales Effectiveness Manager (SFE) in the pharmaceutical industry
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Analyze business performance to optimize strategies
 - Convince by arguing with one or more interlocutors
 - Develop and manage a network of commercial partners likely to promote contact with prospects
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

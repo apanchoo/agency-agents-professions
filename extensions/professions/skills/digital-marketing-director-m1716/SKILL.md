@@ -1,6 +1,6 @@
 ---
 name: digital-marketing-director-m1716
-description: "Prepare, analyze and produce deliverables as a Digital Marketing Director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Digital Marketing Director; use for requests within this professional scope. Relevant technologies include JavaScript, HTML, CSS, SQL, PHP."
 ---
 
 # Digital Marketing Director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Negotiate commercial terms
 - Plan integrated marketing campaigns
 - Analyze performance indicators after each marketing action in order to improve commercial operations and develop turnover
+
+## Technologies and Software
+
+JavaScript, HTML, CSS, SQL, PHP.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

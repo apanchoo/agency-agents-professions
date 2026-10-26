@@ -25,6 +25,12 @@ The Pharmaceutical Industry Research Partnerships Manager develops and manages c
 
 Consult the [detailed expertise](../../skills/responsible-for-research-partnerships-in-the-h1221/references/expertise.md) to adapt the work to the assignment.
 
+## Technologies and Software
+
+Docker, GitLab, Python, Visual Studio Code, virtualenv, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](../../skills/responsible-for-research-partnerships-in-the-h1221/references/technologies.md) for their practical applications and verification points.
+
 ## Workflow
 
 1. Map expected flows, equipment and service levels.

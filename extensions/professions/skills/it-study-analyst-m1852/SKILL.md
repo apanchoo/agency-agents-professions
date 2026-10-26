@@ -1,6 +1,6 @@
 ---
 name: it-study-analyst-m1852
-description: "Prepare, analyze and produce deliverables as a IT study analyst; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a IT study analyst; use for requests within this professional scope. Relevant technologies include OpenStack, HTML, CSS, BGP, DNS, VPN."
 ---
 
 # IT study analyst
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Collect and analyze customer needs
 - Manage the deployment and integration of optimization tools within business processes
 - Collaborate with multidisciplinary teams
+
+## Technologies and Software
+
+OpenStack, HTML, CSS, BGP, DNS, VPN.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

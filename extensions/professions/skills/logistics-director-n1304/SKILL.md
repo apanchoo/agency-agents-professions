@@ -1,6 +1,6 @@
 ---
 name: logistics-director-n1304
-description: "Prepare, analyze and produce deliverables as a Logistics Director; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Logistics Director; use for requests within this professional scope. Relevant technologies include Microsoft Excel."
 ---
 
 # Logistics Director
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Synchronize logistics activities with specifications
 - Develop strategies to reduce logistics costs
 - Evaluate compliance with commitments made by suppliers and carriers (deadlines, price, quality, etc.) and alert the purchasing department in the event of difficulty
+
+## Technologies and Software
+
+Microsoft Excel.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

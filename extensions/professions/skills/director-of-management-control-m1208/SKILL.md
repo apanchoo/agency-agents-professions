@@ -1,6 +1,6 @@
 ---
 name: director-of-management-control-m1208
-description: "Prepare, analyze and produce deliverables as a Director of management control; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Director of management control; use for requests within this professional scope. Relevant technologies include Power Query, Power Pivot, Microsoft Excel, Power BI."
 ---
 
 # Director of management control
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Collaborate with external auditors
 - Facilitate interdepartmental communication
 - Monitor the management information system
+
+## Technologies and Software
+
+Power Query, Power Pivot, Microsoft Excel, Power BI.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 

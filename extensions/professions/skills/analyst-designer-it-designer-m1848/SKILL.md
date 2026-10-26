@@ -1,6 +1,6 @@
 ---
 name: analyst-designer-it-designer-m1848
-description: "Prepare, analyze and produce deliverables as a Analyst Designer / IT Designer; use for requests within this professional scope."
+description: "Prepare, analyze and produce deliverables as a Analyst Designer / IT Designer; use for requests within this professional scope. Relevant technologies include OpenStack, JavaScript, HTML, CSS, LoRa."
 ---
 
 # Analyst Designer / IT Designer
@@ -23,6 +23,12 @@ Check that the request fits the required skills and expected outcome. Consult th
 - Carry out studies on the organization and evolution of information systems
 - Determine corrective measures
 - Adhere to quality standards in software development
+
+## Technologies and Software
+
+OpenStack, JavaScript, HTML, CSS, LoRa.
+
+Select tools that fit the requested deliverable and the existing environment; these are options, not a mandatory stack. Use the [technology toolbox](references/technologies.md) for their practical applications and verification points.
 
 ## Execution
 
