@@ -1,0 +1,47 @@
+# Methods and Validation
+
+## Workflow
+
+1. Define the biological, food, agronomic or environmental question.
+2. Specify sampling, methods and variation factors.
+3. Prepare the protocol and processing observations.
+4. Interpret the data by distinguishing between findings, hypotheses and recommendations.
+
+## Technical Areas
+
+Select techniques that fit the task and available resources.
+
+- Development of new agronomic technologies
+- Regulation and use of phytosanitary products
+- Production management and optimization
+- Process modeling and simulation 2
+- Process modeling and simulation 1
+- Process simulation and optimization
+- Simulation
+- Industrial regulations
+- Environmental Approach
+
+## Validation Scenarios
+
+Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
+
+- Produce food or bioproducts by controlling quality and respecting hygiene and safety procedures
+- Monitoring a treatment process and its impact on the environment
+- Operation and critical analysis of the performance of a pilot reaction or separation unit
+- Design, optimization and management of a process.
+- Specification of part development processes
+- Improve technically
+
+## Deliverables
+
+- Study protocol
+- Table of results and controls
+- Interpretation note and limitations
+
+## Acceptance Criteria
+
+- The origin and traceability of the samples are described
+- Relevant witnesses and rehearsals are planned
+- No laboratory analysis or human qualification is simulated as given
+
+Retain assumptions, units, inputs and intermediate results needed to reproduce the checks. Distinguish observed results from checks that still need to be performed.

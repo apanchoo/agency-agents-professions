@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515384,
+    "code_rome": "A1314",
+    "libelle": "Halieute",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1303"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.543,
+      "matched_terms": [
+        "aliment",
+        "biologi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.04",
+          "title": "Protection des milieux naturels",
+          "page": 697,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=697",
+          "selection_score": 96.6692,
+          "shared_terms": [
+            "milieux",
+            "naturel",
+            "protection"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AGRO.16",
+          "title": "Écosystèmes naturels et transformés",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=122",
+          "selection_score": 66.7982,
+          "shared_terms": [
+            "ecosysteme",
+            "naturel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.SEE.14",
+          "title": "Etude de la biodiversité 1",
+          "page": 601,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=601",
+          "selection_score": 60.3485,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DN.02",
+          "title": "Actions d’éducation nutritionnelle auprès d’un groupe de patients présentant une pathologie ciblée, incluant l’élaboration d’une alimentation adaptée.",
+          "page": 409,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=409",
+          "selection_score": 59.4543,
+          "shared_terms": [
+            "alimentation",
+            "aupre",
+            "incluant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 658,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=658",
+          "selection_score": 38.8513,
+          "shared_terms": [
+            "impact",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

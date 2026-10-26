@@ -1,0 +1,112 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 400,
+    "code_rome": "K1901",
+    "libelle": "Notaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1901"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.788,
+      "matched_terms": [
+        "jurid",
+        "notair"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1901",
+      "title_terms": [
+        "notair"
+      ],
+      "specific_title_terms": [
+        "notair"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.PF.06",
+          "title": "Droit notarial",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=253",
+          "selection_score": 69.8157,
+          "shared_terms": [
+            "droit",
+            "notarial"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 68.7118,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PF.06",
+          "title": "Droit patrimonial",
+          "page": 221,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=221",
+          "selection_score": 65.2034,
+          "shared_terms": [
+            "droit",
+            "patrimonial"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.PF.02",
+          "title": "Assistance à la prise de décision d’un client ou d’un collaborateur",
+          "page": 213,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=213",
+          "selection_score": 78.4089,
+          "shared_terms": [
+            "client",
+            "collaborateur",
+            "decision"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.PF.01",
+          "title": "Missions de conseil à l’égard d’un client ou d’un collaborateur",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=245",
+          "selection_score": 67.8449,
+          "shared_terms": [
+            "client",
+            "collaborateur",
+            "conseil"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

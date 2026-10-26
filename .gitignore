@@ -87,3 +87,18 @@ integrations/vibe/prompts/
 integrations/zcode/agents/
 integrations/dsh/agency-*/
 graphify-out/
+
+# Local verification and authentication tools
+tmp/
+extensions/professions/.tools/
+extensions/professions/tmp/
+extensions/professions/exports/
+
+# Rebuildable website assets
+website/.docusaurus/
+website/build/
+website/src/data/
+website/static/catalog/
+website/playwright-report/
+website/test-results/
+!website/package-lock.json

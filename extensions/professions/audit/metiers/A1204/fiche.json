@@ -1,0 +1,698 @@
+{
+  "numero": 13,
+  "rome": {
+    "code_rome": "A1204",
+    "intitule": "Garde nature",
+    "code_ogr": 10
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente des parcs nationaux",
+      "libelle_court": "Agent / Agente des parcs nationaux",
+      "code_ogr": 10780
+    },
+    {
+      "libelle": "Agent chargé / Agente chargée de protection et de sauvegarde du patrimoine naturel",
+      "libelle_court": "Agent(e) chargé(e) protection, sauvegarde patrimoine naturel",
+      "code_ogr": 10358
+    },
+    {
+      "libelle": "Eco garde",
+      "libelle_court": "Eco garde",
+      "code_ogr": 14562
+    },
+    {
+      "libelle": "Garde de parc naturel",
+      "libelle_court": "Garde de parc naturel",
+      "code_ogr": 15195
+    },
+    {
+      "libelle": "Garde du littoral",
+      "libelle_court": "Garde du littoral",
+      "code_ogr": 15198
+    },
+    {
+      "libelle": "Garde Forestier / Forestière",
+      "libelle_court": "Garde Forestier / Forestière",
+      "code_ogr": 15199
+    },
+    {
+      "libelle": "Garde moniteur / Garde monitrice de parc national",
+      "libelle_court": "Garde moniteur / Garde monitrice de parc national",
+      "code_ogr": 15200
+    },
+    {
+      "libelle": "Garde moniteur / Garde monitrice de parc naturel",
+      "libelle_court": "Garde moniteur / Garde monitrice de parc naturel",
+      "code_ogr": 15201
+    },
+    {
+      "libelle": "Garde technicien / Garde technicienne de réserve naturelle",
+      "libelle_court": "Garde technicien / Garde technicienne de réserve naturelle",
+      "code_ogr": 15204
+    },
+    {
+      "libelle": "Garde-chasse",
+      "libelle_court": "Garde-chasse",
+      "code_ogr": 15205
+    },
+    {
+      "libelle": "Garde-chasse particulier",
+      "libelle_court": "Garde-chasse particulier",
+      "code_ogr": 15206
+    },
+    {
+      "libelle": "Garde-pêche",
+      "libelle_court": "Garde-pêche",
+      "code_ogr": 15208
+    },
+    {
+      "libelle": "Garde-rivière",
+      "libelle_court": "Garde-rivière",
+      "code_ogr": 15210
+    },
+    {
+      "libelle": "Gardien / Gardienne des parcs et jardins",
+      "libelle_court": "Gardien / Gardienne des parcs et jardins",
+      "code_ogr": 15226
+    },
+    {
+      "libelle": "Observateur / Observatrice des pêches",
+      "libelle_court": "Observateur / Observatrice des pêches",
+      "code_ogr": 200100
+    }
+  ],
+  "definition": "Le garde nature veille à la protection et à la préservation des espaces naturels (réserve naturelle, forêt, littoral, etc.) et de la biodiversité. Effectue la surveillance des espaces naturels ou protégés contre les infractions environnementales Assure le respect des directives institutionnelles, de la règlementation environnementale et des règles de sécurité Sensibilise le public à la protection de l'environnement Met en place la sécurisation du public Participe au suivi naturaliste de l'espace naturel",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac à Bac +2 dans le domaine agricole, l'environnement et la protection de la nature.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Accompagner des groupes lors de visites guidées ou sorties en extérieur",
+              "code_ogr": 113876,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Mener des études sur la biodiversité locale",
+              "code_ogr": 517343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tenir une veille sur la préservation des milieux naturels",
+              "code_ogr": 300677,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Collecter et enregistrer des données",
+              "code_ogr": 519247,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des cartographies des zones protégées",
+              "code_ogr": 517345,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Contrôler la présence d'animaux indésirables et effectuer la régulation",
+              "code_ogr": 125714,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer un élément de protection d'espace naturel",
+              "code_ogr": 122719,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Participer à un programme d'entretien ou de restauration d'espace naturel",
+              "code_ogr": 519246,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Planifier des opérations de suivi du patrimoine naturel",
+              "code_ogr": 123894,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance des équipements utilisés dans les parcs",
+              "code_ogr": 517344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler régulièrement l'état du matériel de sécurité",
+              "code_ogr": 517375,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer des patrouilles régulières",
+              "code_ogr": 482368,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Optimiser les processus pour réduire les risques environnementaux",
+              "code_ogr": 120721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser le public en cas d'incidents et alerter les services compétents de gendarmerie, pompiers",
+              "code_ogr": 113872,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger des rapports d'intervention détaillés",
+              "code_ogr": 501701,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Attribuer des lots de chasses",
+              "code_ogr": 125713,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Verbaliser une infraction",
+              "code_ogr": 123642,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Etudier les évolutions de la faune et de la flore dans les milieux naturels",
+              "code_ogr": 100068,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer l'état de conservation des habitats naturels",
+              "code_ogr": 517340,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre des directives visant à protéger et à valoriser les milieux naturels",
+              "code_ogr": 100071,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Promouvoir les pratiques durables",
+              "code_ogr": 485816,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recenser les espèces d'un espace naturel",
+              "code_ogr": 125711,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des interpellations",
+              "code_ogr": 511918,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations de gestion des milieux naturels",
+              "code_ogr": 100083,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller un espace naturel pour prévenir les risques d'accidents et d'infractions",
+              "code_ogr": 519245,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Gérer les interactions avec le public dans les parcs naturels",
+              "code_ogr": 517339,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Argumenter en faveur de la protection des espèces menacées",
+              "code_ogr": 517349,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer efficacement les règles du parc aux visiteurs",
+              "code_ogr": 517348,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser à l'environnement et promouvoir le développement durable",
+              "code_ogr": 400415,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de feux de forêt ou autres urgences",
+              "code_ogr": 517350,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de capture (seringue hypodermique, ...)",
+              "code_ogr": 100075,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Technicien de rivière GEMAPI",
+              "code_ogr": 522062,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DEUST spécialité technicien de la mer et du littoral",
+              "code_ogr": 522103,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel ouvrier du génie écologique",
+              "code_ogr": 522495,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSA gestion et maîtrise de l'eau",
+              "code_ogr": 514076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSA gestion et protection de la nature",
+              "code_ogr": 490650,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro gestion des milieux naturels et de la faune",
+              "code_ogr": 490672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSA gestion forestière",
+              "code_ogr": 490671,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro forêt",
+              "code_ogr": 404314,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Botanique",
+              "code_ogr": 100158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sciences de la vie et de la terre",
+              "code_ogr": 118135,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Zoologie",
+              "code_ogr": 101064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des écosystèmes",
+              "code_ogr": 100019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des patrouilles",
+              "code_ogr": 481494,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de cartographie",
+              "code_ogr": 119407,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ecologie",
+              "code_ogr": 120439,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identification des espèces végétales et animales",
+              "code_ogr": 495638,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation des données météorologiques",
+              "code_ogr": 479729,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Droit forestier",
+              "code_ogr": 100076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation de la pêche",
+              "code_ogr": 100078,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'échantillonnage",
+              "code_ogr": 100362,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation de la chasse",
+              "code_ogr": 100079,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Classification des espèces animales",
+              "code_ogr": 100051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des espaces et espèces protégés",
+              "code_ogr": 100050,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes de sécurité et d'accessibilité des espaces et des établissements recevant du public",
+              "code_ogr": 100091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit rural",
+              "code_ogr": 100077,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'audition",
+              "code_ogr": 519248,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de comptage",
+              "code_ogr": 100086,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de marquage",
+              "code_ogr": 100098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de baguage",
+              "code_ogr": 100087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'interpellation",
+              "code_ogr": 515827,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de conservation de la biodiversité",
+              "code_ogr": 100057,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Association",
+          "code_ogr": 300849
+        },
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": false
+    },
+    {
+      "code": "82",
+      "libelle": "Culture et patrimoine",
+      "principal": false
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": true
+    },
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1207 - Chef / Cheffe d'équipe de travaux de milieux naturels",
+      "code_org_rome_cible": 488640,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1217 - Responsable de gardes nature",
+      "code_org_rome_cible": 515396,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1311 - Technicien forestier / Technicienne forestière",
+      "code_org_rome_cible": 510154,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1315 - Technicien / Technicienne naturaliste",
+      "code_org_rome_cible": 515385,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1240 - Educateur / Educatrice nature environnement",
+      "code_org_rome_cible": 510150,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1705 - Secouriste",
+      "code_org_rome_cible": 395,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "G1231 - Accompagnateur / Accompagnatrice nature",
+      "code_org_rome_cible": 489016,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1202 - Agent / Agente d'exploitation de la voirie",
+      "code_org_rome_cible": 308,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1707 - Policier municipal / Policière municipale",
+      "code_org_rome_cible": 397,
+      "ordre_mobilite": 10
+    }
+  ]
+}

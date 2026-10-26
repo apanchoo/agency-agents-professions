@@ -1,0 +1,257 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509914,
+    "code_rome": "I1331",
+    "libelle": "Nivoculteur / Nivocultrice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1304"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.507,
+      "matched_terms": [
+        "equipement",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ISP.05",
+          "title": "Supervision 6",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=243",
+          "selection_score": 48.9118,
+          "shared_terms": [
+            "supervision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 36.523,
+          "shared_terms": [
+            "electricite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 36.3833,
+          "shared_terms": [
+            "electricite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Réaliser et vérifier le raccordement d’un équipement",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=61",
+          "selection_score": 60.5316,
+          "shared_terms": [
+            "equipement",
+            "verifier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 44.2682,
+          "shared_terms": [
+            "equipement",
+            "installation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.713,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Contexte énergétique",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=64",
+          "selection_score": 37.5709,
+          "shared_terms": [
+            "energetique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OPTIM.02",
+          "title": "Réhabilitation énergétique et environnementale des bâtiments",
+          "page": 430,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=430",
+          "selection_score": 36.8571,
+          "shared_terms": [
+            "energetique",
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.EXPLOIT.06",
+          "title": "Utilisation avancée des tableurs",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=179",
+          "selection_score": 30.0525,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Mise en service et maintenance de premier niveau d’une installation",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=61",
+          "selection_score": 34.5585,
+          "shared_terms": [
+            "installation",
+            "maintenance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 33.7194,
+          "shared_terms": [
+            "energetique",
+            "environnementale",
+            "installation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.102,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 30.5345,
+          "shared_terms": [
+            "controle",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 26.2622,
+          "shared_terms": [
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Culture et communication 6",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=172",
+          "selection_score": 26.1237,
+          "shared_terms": [
+            "culture"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MAE.01",
+          "title": "Mettre en œuvre des mesures répondant à des problématiques environnementales et énergétiques",
+          "page": 303,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=303",
+          "selection_score": 30.4473,
+          "shared_terms": [
+            "energetique",
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.TI.01",
+          "title": "Mettre en œuvre une chaîne d’instrumentation complexe dans des conditions spécifiques ou extrêmes",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=163",
+          "selection_score": 26.6328,
+          "shared_terms": [
+            "condition"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

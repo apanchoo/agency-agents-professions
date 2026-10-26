@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 523,
+    "code_rome": "N4101",
+    "libelle": "Conducteur / Conductrice de poids lourd",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4101"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.804,
+      "matched_terms": [
+        "exploitation",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 62.3627,
+          "shared_terms": [
+            "exploitation",
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Géographie des échanges",
+          "page": 38,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=38",
+          "selection_score": 52.7333,
+          "shared_terms": [
+            "geographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Transport routier de marchandises : contexte et techniques",
+          "page": 39,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=39",
+          "selection_score": 51.9417,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MSCD.01",
+          "title": "Organisation d’acheminements internationaux de marchandises en adoptant une démarche durable",
+          "page": 201,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=201",
+          "selection_score": 50.975,
+          "shared_terms": [
+            "adoptant",
+            "marchandise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel d’offre",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=34",
+          "selection_score": 32.7027,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

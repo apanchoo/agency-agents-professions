@@ -1,0 +1,231 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 233,
+    "code_rome": "H1505",
+    "libelle": "Nez",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1505"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.004,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.SAB.15",
+          "title": "Génie Alimentaire et Cosmétique",
+          "page": 507,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=507",
+          "selection_score": 63.147,
+          "shared_terms": [
+            "alimentaire",
+            "cosmetique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BMB.07",
+          "title": "Toxicologie",
+          "page": 307,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=307",
+          "selection_score": 63.0083,
+          "shared_terms": [
+            "toxicologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SEE.07",
+          "title": "Toxicologie et Ecotoxicologie",
+          "page": 670,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=670",
+          "selection_score": 44.2337,
+          "shared_terms": [
+            "toxicologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.DN.03",
+          "title": "Préparation d’une enquête alimentaire",
+          "page": 334,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=334",
+          "selection_score": 51.8742,
+          "shared_terms": [
+            "alimentaire",
+            "enquete"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.03",
+          "title": "Contrôler les paramètres microbiologiques et physico-chimiques des aliments et des bioproduits",
+          "page": 489,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=489",
+          "selection_score": 46.1146,
+          "shared_terms": [
+            "chimique",
+            "microbiologique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.297,
+      "matched_terms": [
+        "chimi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Equilibres en solution",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=70",
+          "selection_score": 45.8755,
+          "shared_terms": [
+            "equilibre"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Méthodes spectrométriques d’analyse moléculaire",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=95",
+          "selection_score": 36.5014,
+          "shared_terms": [
+            "moleculaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Bilans Matière & Chaleur *",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=104",
+          "selection_score": 31.9385,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Synthèse, purification et caractérisation d’un composé",
+          "page": 263,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=263",
+          "selection_score": 48.8373,
+          "shared_terms": [
+            "compose",
+            "synthese"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Réalisation d’une étape de synthèse d’un composé",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=88",
+          "selection_score": 47.8232,
+          "shared_terms": [
+            "compose",
+            "synthese"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.757,
+      "matched_terms": [
+        "fabrication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Ingénierie de construction mécanique",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=75",
+          "selection_score": 27.0698,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 43.1769,
+          "shared_terms": [
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Fabrication d’une pièce unitaire",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=88",
+          "selection_score": 34.9675,
+          "shared_terms": [
+            "fabrication"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

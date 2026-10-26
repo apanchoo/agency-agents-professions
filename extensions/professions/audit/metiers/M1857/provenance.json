@@ -1,0 +1,253 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489174,
+    "code_rome": "M1857",
+    "libelle": "Urbaniste Datacenter",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1801"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 88.508,
+      "matched_terms": [
+        "data"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [
+        "data"
+      ],
+      "specific_title_terms": [
+        "data"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 27.6547,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Technologies web",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "selection_score": 25.6262,
+          "shared_terms": [
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Migration de données vers ou depuis un environnement NoSQL",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=114",
+          "selection_score": 38.9356,
+          "shared_terms": [
+            "migration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Ecriture et lecture de fichiers de données",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=34",
+          "selection_score": 36.6018,
+          "shared_terms": [
+            "lecture"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.815,
+      "matched_terms": [
+        "informatique",
+        "reseau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.09",
+          "title": "Architectures sécurisées",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=177",
+          "selection_score": 79.5679,
+          "shared_terms": [
+            "architecture",
+            "securisee"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Principes et architecture des réseaux",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "selection_score": 76.7535,
+          "shared_terms": [
+            "architecture",
+            "principe",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PILPRO.11",
+          "title": "Etude de solutions techniques d’aménagement des infrastructures R&T",
+          "page": 410,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=410",
+          "selection_score": 68.6099,
+          "shared_terms": [
+            "amenagement",
+            "infrastructure",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 67.0444,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre en place une solution informatique pour l’entreprise",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=95",
+          "selection_score": 61.1941,
+          "shared_terms": [
+            "informatique",
+            "place",
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.684,
+      "matched_terms": [
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.02",
+          "title": "Développement efficace",
+          "page": 112,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=112",
+          "selection_score": 74.2862,
+          "shared_terms": [
+            "efficace"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.10",
+          "title": "Économie durable et numérique",
+          "page": 299,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=299",
+          "selection_score": 59.7351,
+          "shared_terms": [
+            "durable",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Architecture des réseaux",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=116",
+          "selection_score": 54.9264,
+          "shared_terms": [
+            "architecture",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ADMIN.01",
+          "title": "Proposer une solution optimisée à partir de données internes et externes",
+          "page": 287,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=287",
+          "selection_score": 26.6551,
+          "shared_terms": [
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DEPLOI.01",
+          "title": "Évolution d’une infrastructure",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=219",
+          "selection_score": 25.1069,
+          "shared_terms": [
+            "evolution",
+            "infrastructure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

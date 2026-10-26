@@ -1,0 +1,282 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509345,
+    "code_rome": "H1523",
+    "libelle": "Responsable Qualité Sécurité Environnement -QSE- en industrie",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 192.402,
+      "matched_terms": [
+        "environnement",
+        "prevention",
+        "qse",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "environnement",
+        "qse",
+        "securite"
+      ],
+      "specific_title_terms": [
+        "qse",
+        "securite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.01",
+          "title": "Gestion de crise",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=133",
+          "selection_score": 64.7482,
+          "shared_terms": [
+            "crise"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.04",
+          "title": "Introduction au système de management QHSSE",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=103",
+          "selection_score": 61.8477,
+          "shared_terms": [
+            "management",
+            "qhsse"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 52.5169,
+          "shared_terms": [
+            "equipement",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 82.1484,
+          "shared_terms": [
+            "audit",
+            "interne",
+            "qhsse",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre à jour un plan d’intervention interne",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=50",
+          "selection_score": 45.9155,
+          "shared_terms": [
+            "interne",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.377,
+      "matched_terms": [
+        "amelioration",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "qualite"
+      ],
+      "specific_title_terms": [
+        "qualite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.07",
+          "title": "Mise en place d’une certification système",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=162",
+          "selection_score": 79.1921,
+          "shared_terms": [
+            "certification",
+            "mise",
+            "place"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 65.1679,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.07",
+          "title": "Amélioration de la performance",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=141",
+          "selection_score": 52.7337,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MP.02",
+          "title": "Gestion d’une situation de crise",
+          "page": 174,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=174",
+          "selection_score": 63.1624,
+          "shared_terms": [
+            "crise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.QMI.02",
+          "title": "Inventaire des exigences d’un SMI",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=277",
+          "selection_score": 44.293,
+          "shared_terms": [
+            "exigence"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 29.658,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "environnement"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        21
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.04",
+          "title": "Projet Personnel et Professionnel",
+          "page": 683,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=683",
+          "selection_score": 33.968,
+          "shared_terms": [
+            "personnel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Traitement des données expérimentales et statistiques",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=155",
+          "selection_score": 31.7323,
+          "shared_terms": [
+            "experimentale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.10",
+          "title": "Mise en oeuvre de l’économie circulaire",
+          "page": 689,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=689",
+          "selection_score": 31.3532,
+          "shared_terms": [
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Mise en œuvre d’une expérimentation et suivi analytique",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=149",
+          "selection_score": 39.5259,
+          "shared_terms": [
+            "mise",
+            "suivi",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 658,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=658",
+          "selection_score": 32.95,
+          "shared_terms": [
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

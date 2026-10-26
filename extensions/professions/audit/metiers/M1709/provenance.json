@@ -1,0 +1,259 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488275,
+    "code_rome": "M1709",
+    "libelle": "Chef / Cheffe de gamme en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1703"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.935,
+      "matched_terms": [
+        "marketing"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1703",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.BDMRC.04",
+          "title": "Nouveaux comportements des clients",
+          "page": 509,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=509",
+          "selection_score": 84.2005,
+          "shared_terms": [
+            "client",
+            "comportement",
+            "nouveaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SME.11",
+          "title": "Stratégie de développement de marque - 1",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=177",
+          "selection_score": 49.5949,
+          "shared_terms": [
+            "marque",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SME.03",
+          "title": "Stratégie de développement de marque - 2",
+          "page": 189,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=189",
+          "selection_score": 49.0675,
+          "shared_terms": [
+            "marque",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.BDMRC.01",
+          "title": "Mise en œuvre et pilotage de la stratégie client d’une entreprise",
+          "page": 484,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=484",
+          "selection_score": 42.0622,
+          "shared_terms": [
+            "client",
+            "strategie",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SME.03",
+          "title": "Organisation d’un évènement comme outil de branding",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=142",
+          "selection_score": 37.2041,
+          "shared_terms": [
+            "evenement"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.831,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1703",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.15",
+          "title": "Marketing fondamental, Stratégie de marque",
+          "page": 587,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=587",
+          "selection_score": 57.8966,
+          "shared_terms": [
+            "marketing",
+            "marque",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.14",
+          "title": "Études de marché, Marketing d’études",
+          "page": 586,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=586",
+          "selection_score": 50.9065,
+          "shared_terms": [
+            "marche",
+            "marketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.PUB.11",
+          "title": "Comportement des consommateurs / Analyse des données",
+          "page": 613,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=613",
+          "selection_score": 38.0845,
+          "shared_terms": [
+            "comportement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.COMOR.01",
+          "title": "Répondre à un brief client",
+          "page": 181,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=181",
+          "selection_score": 54.0295,
+          "shared_terms": [
+            "client",
+            "repondre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.COMOR.01",
+          "title": "Concevoir et organiser un événement",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=128",
+          "selection_score": 52.0777,
+          "shared_terms": [
+            "evenement"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.363,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1703",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CREA.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=113",
+          "selection_score": 40.4789,
+          "shared_terms": [
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 27.4551,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.STRAT-UX.05",
+          "title": "Stratégie de Com / Webmarketing",
+          "page": 198,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=198",
+          "selection_score": 17.0638,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.01",
+          "title": "Développer des parcours utilisateur au sein d’un système d’information",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=223",
+          "selection_score": 36.2604,
+          "shared_terms": [
+            "sein"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Concevoir un produit ou un service et sa communication",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=75",
+          "selection_score": 31.934,
+          "shared_terms": [
+            "produit"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

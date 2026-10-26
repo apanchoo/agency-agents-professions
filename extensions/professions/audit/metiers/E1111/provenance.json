@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488867,
+    "code_rome": "E1111",
+    "libelle": "Game master",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1101"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.52,
+      "matched_terms": [
+        "developpe",
+        "experience utilisateur"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Design d’expérience",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=136",
+          "selection_score": 35.6903,
+          "shared_terms": [
+            "experience"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Production audio et vidéo",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=63",
+          "selection_score": 34.7859,
+          "shared_terms": [
+            "video"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.07",
+          "title": "Ecriture Multimédia et narration",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=154",
+          "selection_score": 30.5105,
+          "shared_terms": [
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.STRAT-UX.01",
+          "title": "Concevoir et déployer une stratégie de communication et une expérience utilisateur",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=203",
+          "selection_score": 64.1492,
+          "shared_terms": [
+            "experience",
+            "strategie",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.01",
+          "title": "Créer pour une campagne de communication visuelle",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=130",
+          "selection_score": 62.4946,
+          "shared_terms": [
+            "creer",
+            "visuelle"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

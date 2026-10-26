@@ -1,0 +1,246 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510430,
+    "code_rome": "M1888",
+    "libelle": "Spécialiste en modélisation climatique",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1809"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.274,
+      "matched_terms": [
+        "donnee",
+        "modelis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [
+        "modelis"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Programmation statistique",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "selection_score": 48.7214,
+          "shared_terms": [
+            "programmation",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 45.9505,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EMS.06",
+          "title": "Modélisation statistique avancée",
+          "page": 183,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=183",
+          "selection_score": 43.3629,
+          "shared_terms": [
+            "modelisation",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.01",
+          "title": "Collecte automatisée de données web",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=76",
+          "selection_score": 36.8065,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.03",
+          "title": "Description et prévision de données temporelles",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=79",
+          "selection_score": 34.4674,
+          "shared_terms": [
+            "prevision"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.278,
+      "matched_terms": [
+        "developpe",
+        "donnees",
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.12",
+          "title": "Modélisations mathématiques",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=162",
+          "selection_score": 47.503,
+          "shared_terms": [
+            "mathematique",
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Programmation système",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=115",
+          "selection_score": 36.8895,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Politique de communication",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=153",
+          "selection_score": 36.1028,
+          "shared_terms": [
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 47.21,
+          "shared_terms": [
+            "logiciel"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.477,
+      "matched_terms": [
+        "informatique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 37.5604,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Expression-Culture-Communication professionnelles : Savoir collaborer",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=134",
+          "selection_score": 34.4922,
+          "shared_terms": [
+            "collaborer"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.IOM.17",
+          "title": "Collecte et traitement de données issues IoT",
+          "page": 292,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=292",
+          "selection_score": 31.0611,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "selection_score": 33.2874,
+          "shared_terms": [
+            "construire",
+            "informatique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Piloter un projet informatique",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "selection_score": 22.9354,
+          "shared_terms": [
+            "informatique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

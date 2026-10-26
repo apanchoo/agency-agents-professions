@@ -1,0 +1,183 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488749,
+    "code_rome": "E1110",
+    "libelle": "Directeur / Directrice de la rédaction",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1101"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.862,
+      "matched_terms": [
+        "editorial",
+        "journal"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Publication assistée par ordinateur (PAO)",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=87",
+          "selection_score": 134.4596,
+          "shared_terms": [
+            "assistee",
+            "ordinateur",
+            "pao",
+            "publication"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.INFONUM.19",
+          "title": "PAO et médias professionnels",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=219",
+          "selection_score": 67.9636,
+          "shared_terms": [
+            "media",
+            "pao"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PUB.11",
+          "title": "Image et Web (niveau 2, AV, PAO, Web)",
+          "page": 638,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=638",
+          "selection_score": 65.4574,
+          "shared_terms": [
+            "image",
+            "pao"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.COMOR.01",
+          "title": "Concevoir et organiser un événement",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=128",
+          "selection_score": 52.8557,
+          "shared_terms": [
+            "evenement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MLP.01",
+          "title": "Réaliser un évènement ou une médiation",
+          "page": 500,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=500",
+          "selection_score": 38.1783,
+          "shared_terms": [
+            "evenement"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.68,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Écriture multimédia et narration",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=87",
+          "selection_score": 54.0161,
+          "shared_terms": [
+            "ecriture",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Gestion de contenus",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=91",
+          "selection_score": 48.5388,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=173",
+          "selection_score": 41.1726,
+          "shared_terms": [
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 57.3723,
+          "shared_terms": [
+            "contenu",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Construire sa présence en ligne",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=78",
+          "selection_score": 39.2429,
+          "shared_terms": [
+            "ligne"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

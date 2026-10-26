@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509765,
+    "code_rome": "F1629",
+    "libelle": "Electricien / Electricienne de signalisation ferroviaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1602"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.721,
+      "matched_terms": [
+        "structure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1602",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 62.9527,
+          "shared_terms": [
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 62.3948,
+          "shared_terms": [
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.15",
+          "title": "Marchés de travaux",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=179",
+          "selection_score": 31.0869,
+          "shared_terms": [
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.TP.06",
+          "title": "Diagnostic, pathologie et réparation d’un ouvrage",
+          "page": 198,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=198",
+          "selection_score": 56.8375,
+          "shared_terms": [
+            "diagnostic",
+            "reparation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Etat des lieux d’un ouvrage existant",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=63",
+          "selection_score": 30.4568,
+          "shared_terms": [
+            "etat"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

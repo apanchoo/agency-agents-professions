@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509879,
+    "code_rome": "H1529",
+    "libelle": "Chargé / Chargée de matériovigilance",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.921,
+      "matched_terms": [
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.02",
+          "title": "Risques liés au transport",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=134",
+          "selection_score": 52.016,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.01",
+          "title": "Risques liés à l’exposition aux produits chimiques et aux rayonnements",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=76",
+          "selection_score": 49.4839,
+          "shared_terms": [
+            "lies",
+            "produit",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.02",
+          "title": "Risques biologiques et risques liés aux rayonnements",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=115",
+          "selection_score": 45.9496,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.03",
+          "title": "Conseiller un organisateur d’événement en matière de sécurité du public et d’impact environnemental",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=74",
+          "selection_score": 67.8185,
+          "shared_terms": [
+            "conseiller",
+            "matiere",
+            "public",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.02",
+          "title": "Concevoir un plan de gestion des risques liés aux coactivités",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=93",
+          "selection_score": 45.6257,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.716,
+      "matched_terms": [
+        "amelioration"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 70.4255,
+          "shared_terms": [
+            "conformite",
+            "surveillance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 64.5193,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Connaissance technologique de l’entreprise",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=89",
+          "selection_score": 50.5578,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 96.1314,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.OSC.02",
+          "title": "Organisation une logistique de retours de produits",
+          "page": 261,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=261",
+          "selection_score": 59.9767,
+          "shared_terms": [
+            "produit",
+            "retour"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.655,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Normes et réglementations",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=136",
+          "selection_score": 80.2865,
+          "shared_terms": [
+            "norme",
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Contrôle non destructif des pièces",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=103",
+          "selection_score": 47.332,
+          "shared_terms": [
+            "controle",
+            "non"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Structure de la matière 1",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=60",
+          "selection_score": 38.1181,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Adaptation du matériau pour un cahier des charges produit",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=127",
+          "selection_score": 37.4642,
+          "shared_terms": [
+            "charge",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Suivi de protocole pour l’élaboration en sécurité",
+          "page": 44,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=44",
+          "selection_score": 35.1026,
+          "shared_terms": [
+            "securite",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

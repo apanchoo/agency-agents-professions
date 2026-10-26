@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521020,
+    "code_rome": "M1434",
+    "libelle": "Développeur / Développeuse d'audience",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.663,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 98.9432,
+          "shared_terms": [
+            "digital",
+            "digitale",
+            "indicateur",
+            "marketing",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.09",
+          "title": "Comportement de consommation culturel, artistique, sportif ou de tourisme",
+          "page": 365,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=365",
+          "selection_score": 63.1429,
+          "shared_terms": [
+            "artistique",
+            "comportement",
+            "consommation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MCMO.10",
+          "title": "Fondamentaux du marketing digital",
+          "page": 267,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=267",
+          "selection_score": 57.5961,
+          "shared_terms": [
+            "digital",
+            "marketing"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux responsables et environnementaux",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=94",
+          "selection_score": 61.886,
+          "shared_terms": [
+            "ameliorer",
+            "performance",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Participer au pilotage d’une organisation - Etude concurrentielle",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=75",
+          "selection_score": 53.8896,
+          "shared_terms": [
+            "concurrentielle"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.822,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 39.8402,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Reporting et Datavisualisation",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=61",
+          "selection_score": 37.2079,
+          "shared_terms": [
+            "reporting"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Tableur et reporting",
+          "page": 40,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=40",
+          "selection_score": 36.1671,
+          "shared_terms": [
+            "reporting"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Construction et présentation d’indicateurs de performance",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=57",
+          "selection_score": 82.5776,
+          "shared_terms": [
+            "indicateur",
+            "performance",
+            "presentation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.01",
+          "title": "Collecte automatisée de données web",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=76",
+          "selection_score": 56.5105,
+          "shared_terms": [
+            "collecte",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.093,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GEMA.09",
+          "title": "Environnement juridique : Droit de la concurrence et de la consommation",
+          "page": 312,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=312",
+          "selection_score": 45.4299,
+          "shared_terms": [
+            "consommation",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CG2P.11",
+          "title": "Outils et pilotage de l’organisation : Initiation au pilotage de la performance",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=218",
+          "selection_score": 26.1832,
+          "shared_terms": [
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.11",
+          "title": "Contrôle de gestion : Evaluation des résultats et des performances",
+          "page": 159,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=159",
+          "selection_score": 25.0593,
+          "shared_terms": [
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GPRH.01",
+          "title": "Proposer une politique RH dans le cadre d’une évolution du périmètre de l’entreprise",
+          "page": 404,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=404",
+          "selection_score": 56.7515,
+          "shared_terms": [
+            "evolution",
+            "proposer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Identifier l’impact des décisions de gestion sur la performance de l’organisation",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=83",
+          "selection_score": 43.3163,
+          "shared_terms": [
+            "identifier",
+            "performance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

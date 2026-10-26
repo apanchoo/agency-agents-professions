@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 67,
+    "code_rome": "C1203",
+    "libelle": "Chargé / Chargée d'affaires bancaires",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "C1203"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.084,
+      "matched_terms": [
+        "financ",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.11",
+          "title": "Finance : Politique de financement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=141",
+          "selection_score": 50.8803,
+          "shared_terms": [
+            "financement",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.04",
+          "title": "Fiscalité",
+          "page": 112,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=112",
+          "selection_score": 47.1674,
+          "shared_terms": [
+            "fiscalite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.12",
+          "title": "Comptabilité : Techniques de base de comptabilité approfondie et de révision comptable",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=121",
+          "selection_score": 41.6953,
+          "shared_terms": [
+            "comptabilite",
+            "comptable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 28.3914,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.03",
+          "title": "Optimiser une politique de développement des compétences",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=384",
+          "selection_score": 28.0317,
+          "shared_terms": [
+            "politique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

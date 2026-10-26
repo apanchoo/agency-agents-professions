@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509501,
+    "code_rome": "D1512",
+    "libelle": "Directeur régional / Directrice régionale d'hypermarché ou de supermarché",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "D1504"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.565,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1504",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Marketing stratégique et opérationnel",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=108",
+          "selection_score": 70.5903,
+          "shared_terms": [
+            "marketing",
+            "operationnel",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MDFS.05",
+          "title": "Fiscalité du chiffre d’affaires",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=244",
+          "selection_score": 62.0756,
+          "shared_terms": [
+            "affaire",
+            "chiffre"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 61.3703,
+          "shared_terms": [
+            "indicateur",
+            "marketing",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 66.2905,
+          "shared_terms": [
+            "financiere",
+            "performance",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MCMO.01",
+          "title": "Piloter un projet aux enjeux commerciaux",
+          "page": 292,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=292",
+          "selection_score": 64.1982,
+          "shared_terms": [
+            "commerciaux",
+            "piloter"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

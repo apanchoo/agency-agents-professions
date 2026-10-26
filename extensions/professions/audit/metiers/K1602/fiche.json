@@ -1,0 +1,615 @@
+{
+  "numero": 432,
+  "rome": {
+    "code_rome": "K1602",
+    "intitule": "Conservateur / Conservatrice du patrimoine",
+    "code_ogr": 390
+  },
+  "appellations": [
+    {
+      "libelle": "Attaché / Attachée de conservation du patrimoine",
+      "libelle_court": "Attaché / Attachée de conservation du patrimoine",
+      "code_ogr": 11394
+    },
+    {
+      "libelle": "Chargé / Chargée d'études et d'inventaire patrimoine",
+      "libelle_court": "Chargé / Chargée d'études et d'inventaire patrimoine",
+      "code_ogr": 11892
+    },
+    {
+      "libelle": "Conservateur / Conservatrice de musée",
+      "libelle_court": "Conservateur / Conservatrice de musée",
+      "code_ogr": 13506
+    },
+    {
+      "libelle": "Conservateur / Conservatrice d'établissement patrimonial",
+      "libelle_court": "Conservateur / Conservatrice d'établissement patrimonial",
+      "code_ogr": 13511
+    },
+    {
+      "libelle": "Conservateur / Conservatrice du patrimoine historique",
+      "libelle_court": "Conservateur / Conservatrice du patrimoine historique",
+      "code_ogr": 13514
+    },
+    {
+      "libelle": "Conservateur départemental / Conservatrice départementale du patrimoine",
+      "libelle_court": "Conservateur(trice) départemental(e) du patrimoine",
+      "code_ogr": 13507
+    },
+    {
+      "libelle": "Conservateur territorial / Conservatrice territoriale du patrimoine",
+      "libelle_court": "Conservateur(trice) territorial(e) du patrimoine",
+      "code_ogr": 13515
+    },
+    {
+      "libelle": "Directeur / Directrice de la conservation départementale",
+      "libelle_court": "Directeur / Directrice de la conservation départementale",
+      "code_ogr": 14264
+    },
+    {
+      "libelle": "Gestionnaire de collections",
+      "libelle_court": "Gestionnaire de collections",
+      "code_ogr": 15325
+    },
+    {
+      "libelle": "Historien / Historienne de l'œuvre",
+      "libelle_court": "Historien / Historienne de l'œuvre",
+      "code_ogr": 15470
+    },
+    {
+      "libelle": "Responsable de collections",
+      "libelle_court": "Responsable de collections",
+      "code_ogr": 18690
+    }
+  ],
+  "definition": "Un conservateur du patrimoine est un professionnel spécialisé dans la protection, la gestion et la valorisation du patrimoine culturel, qu'il soit matériel (monuments, sites, objets, œuvres d'art, archives, collections) ou immatériel (traditions, savoir-faire, langues, musiques, fêtes, etc). Protège et conserve les biens culturels (objets, monuments, archives) pour les générations futures Étudie et expertise les œuvres et les sites pour en déterminer l'histoire, l'authenticité et l'état Gère les collections en organisant l'acquisition, le classement et le catalogage des pièces Met en œuvre des actions de conservation préventive et supervise les restaurations nécessaires Valorise le patrimoine par des expositions, des visites et des actions de médiation auprès du public Coordonne les projets patrimoniaux en respectant les réglementations",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac +5 en histoire de l'art, archéologie, muséologie, patrimoine, conservation-restauration, ou disciplines proches.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller une organisation, une structure",
+              "code_ogr": 300016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Concevoir des supports de communication et d'image",
+              "code_ogr": 300113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des thèmes d'exposition",
+              "code_ogr": 122655,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner, mettre à jour une documentation technique",
+              "code_ogr": 300125,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Restaurer un élément du patrimoine ou d'une collection",
+              "code_ogr": 123595,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Planifier et superviser des actions de conservation préventive et de restauration",
+              "code_ogr": 519989,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Superviser le transport d'oeuvres d'art",
+              "code_ogr": 125306,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Analyser et expertiser les œuvres ou les sites pour en comprendre l'histoire, l'authenticité et l'état de conservation",
+              "code_ogr": 519987,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conseiller sur la conservation préventive de collections",
+              "code_ogr": 123594,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etudier et évaluer des oeuvres, pièces, objets de collection",
+              "code_ogr": 108155,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer des collections patrimoniales",
+              "code_ogr": 300610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et gérer des collections (inventaire, classement, catalogage, conservation)",
+              "code_ogr": 519988,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Acquérir de nouvelles pièces de collections",
+              "code_ogr": 125783,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir des projets de valorisation (expositions, médiation, visites, supports pédagogiques)",
+              "code_ogr": 519990,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir et gérer un projet",
+              "code_ogr": 300488,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir et réaliser des actions de promotion du patrimoine",
+              "code_ogr": 300402,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+              "code_ogr": 300401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des prêts de collection",
+              "code_ogr": 122656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la mise en œuvre d'un projet, d'un plan d'action",
+              "code_ogr": 300241,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recenser le patrimoine, les collections et contrôler le mouvement des oeuvres (inventaire, entrées, sorties, ...)",
+              "code_ogr": 108150,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rechercher des financements, des investisseurs",
+              "code_ogr": 300388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rechercher des oeuvres",
+              "code_ogr": 125782,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser l'étude, l'enrichissement et la mise en valeur des patrimoines culturels",
+              "code_ogr": 300674,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser la conservation des œuvres et des bâtiments du patrimoine",
+              "code_ogr": 300673,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Coordonner les acteurs et les partenaires tout en respectant les réglementations et les contraintes budgétaires",
+              "code_ogr": 519991,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser un public",
+              "code_ogr": 300028,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le partage et la capitalisation de l'information",
+              "code_ogr": 300453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des livres anciens, manuscrits, incunables",
+              "code_ogr": 119141,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la lumière pour la préservation des œuvres",
+              "code_ogr": 520104,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Master mention patrimoine et musées",
+              "code_ogr": 515002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention histoire de l'art et archéologie",
+              "code_ogr": 514631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention muséologie, muséo-expographie",
+              "code_ogr": 514647,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Patrimoine architectural et artistique",
+              "code_ogr": 103862,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sciences de la vie et de la terre",
+              "code_ogr": 118135,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anthropologie",
+              "code_ogr": 118211,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire de l'art",
+              "code_ogr": 119191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des habitats naturels",
+              "code_ogr": 118136,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire de la musique",
+              "code_ogr": 100799,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire des arts décoratifs",
+              "code_ogr": 100681,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Muséologie",
+              "code_ogr": 108157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Archéologie",
+              "code_ogr": 108159,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Muséographie",
+              "code_ogr": 100619,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion budgétaire",
+              "code_ogr": 102216,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Arts et traditions populaires",
+              "code_ogr": 108161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Arts industriels, sciences et techniques industrielles, ...",
+              "code_ogr": 108163,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Arts graphiques, cinématographiques, photographiques, etc",
+              "code_ogr": 108162,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation du commerce de l'art",
+              "code_ogr": 101879,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de conservation préventive",
+              "code_ogr": 100597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de sécurité",
+              "code_ogr": 100144,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des musées",
+              "code_ogr": 108156,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de transport d'art international",
+              "code_ogr": 520107,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Méthodes de lutte contre les nuisibles en musée",
+              "code_ogr": 520105,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation d'événements thématiques",
+              "code_ogr": 120617,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Institution culturelle",
+          "code_ogr": 489413
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "82",
+      "libelle": "Culture et patrimoine",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1601 - Documentaliste",
+      "code_org_rome_cible": 389,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2401 - Chercheur / Chercheuse en sciences humaines et sociales",
+      "code_org_rome_cible": 426,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2103 - Chef / Cheffe d'établissement d'enseignement",
+      "code_org_rome_cible": 406,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "E1105 - Editeur / Editrice",
+      "code_org_rome_cible": 123,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "E1401 - Chef / Cheffe de publicité",
+      "code_org_rome_cible": 140,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1201 - Brocanteur / Brocanteuse",
+      "code_org_rome_cible": 87,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "G1102 - Chargé / Chargée de promotion touristique",
+      "code_org_rome_cible": 181,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "E1106 - Journaliste",
+      "code_org_rome_cible": 124,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1206 - Animateur coordinateur socioculturel / Animatrice coordinatrice socioculturelle",
+      "code_org_rome_cible": 373,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2108 - Professeur / Professeure des universités",
+      "code_org_rome_cible": 411,
+      "ordre_mobilite": 10
+    }
+  ]
+}

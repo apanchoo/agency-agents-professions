@@ -1,0 +1,502 @@
+{
+  "numero": 34022,
+  "rome": {
+    "code_rome": "H2515",
+    "intitule": "Chef / Cheffe d'atelier en industrie de transformation",
+    "code_ogr": 520127
+  },
+  "appellations": [
+    {
+      "libelle": "Animateur / Animatrice d'îlot de production en industrie de transformation",
+      "libelle_court": "Animateur(trice) d'îlot de production ind de transformation",
+      "code_ogr": 11045
+    },
+    {
+      "libelle": "Chef / Cheffe de fabrication en industrie de transformation",
+      "libelle_court": "Chef / Cheffe de fabrication en industrie de transformation",
+      "code_ogr": 12143
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe de production en industrie de transformation",
+      "libelle_court": "Chef(fe) d'équipe production industrie de transforma",
+      "code_ogr": 12429
+    },
+    {
+      "libelle": "Contremaître / Contremaîtresse de fabrication en industrie de transformation",
+      "libelle_court": "Contremaître / Contremaîtresse fabrication en ind transform",
+      "code_ogr": 13562
+    },
+    {
+      "libelle": "Coordinateur / Coordinatrice d'îlots de production en industrie de transformation",
+      "libelle_court": "Coordinateur(trice) îlots production en ind transformation",
+      "code_ogr": 13690
+    },
+    {
+      "libelle": "Responsable d'atelier de production en industrie de transformation",
+      "libelle_court": "Responsable d'atelier production en industrie transformation",
+      "code_ogr": 18643
+    },
+    {
+      "libelle": "Responsable d'équipe en industrie de transformation",
+      "libelle_court": "Responsable d'équipe en industrie de transformation",
+      "code_ogr": 18915
+    },
+    {
+      "libelle": "Superviseur / Superviseuse en industrie de transformation",
+      "libelle_court": "Superviseur / Superviseuse en industrie de transformation",
+      "code_ogr": 19568
+    }
+  ],
+  "definition": "Le Chef d'atelier en industrie de transformation supervise les activités et les objectifs de production en termes de quantité, qualité au sein d'un atelier. Optimise les processus de production, la gestion du stock de matières premières pour améliorer l'efficacité et réduire les coûts Veille au respect des normes de qualité et des procédures de contrôle en mettant en place des actions correctives Assure la maintenance des équipements de production et se coordonne avec le service maintenance Applique et fait respecter les règles de sécurité, d'hygiène et d'environnement Encadre et anime une équipe d'opérateurs, de techniciens et de responsables d'îlots",
+  "acces_metier": "Ce métier est accessible avec un niveau Bac + 2 à Bac + 5 BTS, licence en pilotage et gestion de procédés, diplôme d'ingénieur spécialisé en agroalimentaire et industrie alimentaire, génie industriel, Master en management de la production. Un Certificat de qualification professionnelle (CQP) de chef d'atelier en industrie de transformation est également pertinent.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Organiser le travail d'une équipe",
+              "code_ogr": 300436,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Définir des procédures d'intervention éco industrielle",
+              "code_ogr": 122599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier les opérations de maintenance préventive",
+              "code_ogr": 483224,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre les processus et les modes opératoires techniques",
+              "code_ogr": 300129,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un diagnostic technique",
+              "code_ogr": 300185,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler le fonctionnement d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300172,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir et mettre en oeuvre des protocoles de sécurité",
+              "code_ogr": 300150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier des interventions de maintenance",
+              "code_ogr": 122329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser des opérations, des actions",
+              "code_ogr": 300486,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier l'état de l'installation de fusion/transformation de matières",
+              "code_ogr": 105902,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité et la conformité des matières premières",
+              "code_ogr": 300247,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les anomalies ou les dysfonctionnements d'une production",
+              "code_ogr": 120790,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter une démarche qualité, un processus d'amélioration continue",
+              "code_ogr": 300245,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Proposer des solutions pour réduire les déchets industriels",
+              "code_ogr": 482264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Contrôler des indicateurs de performance, analyser et corriger des écarts",
+              "code_ogr": 300322,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter une activité",
+              "code_ogr": 300487,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion des stocks et des inventaires",
+              "code_ogr": 476874,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation des processus de production",
+              "code_ogr": 476953,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyse de la performance industrielle",
+              "code_ogr": 476955,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification de la production",
+              "code_ogr": 476797,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chimie",
+              "code_ogr": 101065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Thermodynamique",
+              "code_ogr": 115858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation des processus industriels",
+              "code_ogr": 477120,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prévention des risques",
+              "code_ogr": 119596,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion de Production Assistée Par Ordinateur (GPAO)",
+              "code_ogr": 119507,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sciences physiques",
+              "code_ogr": 118750,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conformité des processus industriels",
+              "code_ogr": 478134,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets et recyclage",
+              "code_ogr": 481044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de salubrité",
+              "code_ogr": 123880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité",
+              "code_ogr": 103130,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Protocoles de tests physico-chimiques",
+              "code_ogr": 123737,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques fondamentales de la transformation des matériaux",
+              "code_ogr": 490241,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenance préventive et corrective",
+              "code_ogr": 477228,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de recyclage des matériaux",
+              "code_ogr": 498602,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sécurité des procédés industriels",
+              "code_ogr": 476944,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "83",
+      "libelle": "Industrie - Alimentaire",
+      "principal": false
+    },
+    {
+      "code": "90",
+      "libelle": "Industrie - Textile et mode",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2502 - Responsable d'unité de production industrielle",
+      "code_org_rome_cible": 263,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H1206 - Ingénieur / Ingénieure R&D en industrie",
+      "code_org_rome_cible": 217,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H1402 - Ingénieur / Ingénieure méthodes et process",
+      "code_org_rome_cible": 226,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1302 - Ingénieur / Ingénieure Hygiène, Sécurité et Environnement en industrie (HSE)",
+      "code_org_rome_cible": 223,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H1102 - Ingénieur / Ingénieure d'affaires en industrie",
+      "code_org_rome_cible": 211,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1324 - Ingénieur / Ingénieure biogaz",
+      "code_org_rome_cible": 518781,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1414 - Ingénieur statisticien / Ingénieure statisticienne",
+      "code_org_rome_cible": 489213,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1121 - Ingénieur de maintenance / Ingénieure de maintenance",
+      "code_org_rome_cible": 519229,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1112 - Ingénieur / Ingénieure calcul et structure",
+      "code_org_rome_cible": 403090,
+      "ordre_mobilite": 10
+    }
+  ]
+}

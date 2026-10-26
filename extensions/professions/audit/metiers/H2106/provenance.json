@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515400,
+    "code_rome": "H2106",
+    "libelle": "Technicien / Technicienne de fabrication en industrie alimentaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2102"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.249,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2102",
+      "title_terms": [
+        "aliment"
+      ],
+      "specific_title_terms": [
+        "aliment"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.06",
+          "title": "Qualité et hygiène en industrie alimentaire",
+          "page": 545,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=545",
+          "selection_score": 143.0342,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "industrie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SAB.11",
+          "title": "Génie des Procédés Alimentaires",
+          "page": 528,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=528",
+          "selection_score": 122.3501,
+          "shared_terms": [
+            "alimentaire",
+            "genie",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.SAB.15",
+          "title": "Génie Alimentaire et Cosmétique",
+          "page": 507,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=507",
+          "selection_score": 93.0586,
+          "shared_terms": [
+            "alimentaire",
+            "genie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.03",
+          "title": "Contrôler les paramètres microbiologiques et physico-chimiques des aliments et des bioproduits",
+          "page": 489,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=489",
+          "selection_score": 120.4081,
+          "shared_terms": [
+            "chimique",
+            "microbiologique",
+            "physico"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 93.9233,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

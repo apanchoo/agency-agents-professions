@@ -1,0 +1,178 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488351,
+    "code_rome": "H1223",
+    "libelle": "Coordinateur / Coordinatrice d'études cliniques en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.104,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Communication de l’information et recherche documentaire",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=47",
+          "selection_score": 61.8491,
+          "shared_terms": [
+            "documentaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 46.3141,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Communication des données, éthique et responsabilité",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=120",
+          "selection_score": 40.2699,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EMS.04",
+          "title": "Conformité réglementaire pour analyser des données",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=140",
+          "selection_score": 70.7174,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.04",
+          "title": "Conformité réglementaire pour traiter des données",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=80",
+          "selection_score": 58.4819,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.27,
+      "matched_terms": [
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 48.6189,
+          "shared_terms": [
+            "essai",
+            "relatif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Algorithmique et informatique",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=64",
+          "selection_score": 22.9003,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Informatique d’instrumentation",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=94",
+          "selection_score": 22.5328,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Mettre en œuvre les techniques de l’informatique d’instrumentation pour le suivi de mesures",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=75",
+          "selection_score": 30.8506,
+          "shared_terms": [
+            "informatique",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.TI.01",
+          "title": "Mener une campagne d’essais avec des mesures et analyses dans le domaine temporel et dans le domaine fréquentiel",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=144",
+          "selection_score": 23.4517,
+          "shared_terms": [
+            "essai"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

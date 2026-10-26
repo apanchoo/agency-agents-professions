@@ -1,0 +1,196 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 471,
+    "code_rome": "M1501",
+    "libelle": "Assistant / Assistante Ressources Humaines (RH)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1501"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 109.534,
+      "matched_terms": [
+        "administrat",
+        "comptab",
+        "gestion",
+        "paie",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [
+        14
+      ],
+      "parent_rome": "M1501",
+      "title_terms": [
+        "ressources humaines"
+      ],
+      "specific_title_terms": [
+        "ressources humaines"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.14",
+          "title": "Ressources humaines : Gestion des emplois et des parcours professionnels",
+          "page": 353,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=353",
+          "selection_score": 134.816,
+          "shared_terms": [
+            "emploi",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.12",
+          "title": "Ressources humaines : Pratique de la paie",
+          "page": 351,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=351",
+          "selection_score": 131.2387,
+          "shared_terms": [
+            "humaine",
+            "paie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 129.049,
+          "shared_terms": [
+            "administrative",
+            "contrat",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 167.0106,
+          "shared_terms": [
+            "individuel",
+            "salarie",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 68.0955,
+          "shared_terms": [
+            "administratif"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.575,
+      "matched_terms": [
+        "entrepris",
+        "gestion",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 1",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=190",
+          "selection_score": 54.6789,
+          "shared_terms": [
+            "administrative",
+            "personnel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 2",
+          "page": 213,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=213",
+          "selection_score": 53.9351,
+          "shared_terms": [
+            "administrative",
+            "personnel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MRPE.04",
+          "title": "Veille et pilotage dans une approche éco-responsable",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=167",
+          "selection_score": 42.0757,
+          "shared_terms": [
+            "responsable",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MRPE.01",
+          "title": "Piloter un projet aux enjeux responsables et environnementaux",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=140",
+          "selection_score": 41.875,
+          "shared_terms": [
+            "enjeux",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Conduire un projet de développement commercial dans un contexte international",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=142",
+          "selection_score": 39.4033,
+          "shared_terms": [
+            "conduire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

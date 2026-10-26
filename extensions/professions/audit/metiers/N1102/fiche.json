@@ -1,0 +1,701 @@
+{
+  "numero": 525,
+  "rome": {
+    "code_rome": "N1102",
+    "intitule": "Déménageur / Déménageuse",
+    "code_ogr": 501
+  },
+  "appellations": [
+    {
+      "libelle": "Aide-déménageur / Aide-déménageuse",
+      "libelle_court": "Aide-déménageur / Aide-déménageuse",
+      "code_ogr": 10875
+    },
+    {
+      "libelle": "Bardeur / Bardeuse en déménagement de transfert industriel",
+      "libelle_court": "Bardeur / Bardeuse en déménagement de transfert industriel",
+      "code_ogr": 11493
+    },
+    {
+      "libelle": "Déménageur conducteur / Déménageuse conductrice de poids lourd",
+      "libelle_court": "Déménageur(se) conducteur(trice) de poids lourd",
+      "code_ogr": 13948
+    },
+    {
+      "libelle": "Déménageur emballeur / Déménageuse emballeuse",
+      "libelle_court": "Déménageur emballeur / Déménageuse emballeuse",
+      "code_ogr": 13949
+    },
+    {
+      "libelle": "Déménageur professionnel / Déménageuse professionnelle",
+      "libelle_court": "Déménageur professionnel / Déménageuse professionnelle",
+      "code_ogr": 13950
+    }
+  ],
+  "definition": "Le déménageur assure le transport, à l'aide d'un véhicule adapté sur toutes distances, de meubles ou tous objets pour le compte de particuliers ou d'entreprises. Emballe, monte et démonte des meubles et sécurise les objets qui peuvent être fragiles et de valeur, les charge et décharge dans le véhicule Assure la manutention des objets parfois lourds avec des équipements adaptés pour prévenir les risques de blessure Organise et optimise l'espace dans le camion ou des caisses pour un transport sûr et efficace Coordonne avec les clients pour planifier les détails du déménagement et répondre à leurs besoins spécifiques",
+  "acces_metier": "Cet emploi est accessible à tous les niveaux de qualification. Un déménageur conducteur doit être titulaire du permis de conduire de la catégorie B et parfois le C et CE complété de la formation initiale minimum obligatoire (FIMO) renouvelée tous les 5 ans, la formation continue (FCO). Pour s'installer et utiliser un monte meuble, une formation à la sécurité est nécessaire. Une habilitation électrique peut également être nécessaire. Des formations relatives aux \"gestes et postures\" sont obligatoires. Des formations spécifiques comme le Certificat d'Aptitude à la Conduite En Sécurité (CACES) peuvent être nécessaires mais ne sont pas obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Maintenir une bonne condition physique pour supporter les efforts physiques",
+              "code_ogr": 482863,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Utiliser des systèmes de gestion électronique",
+              "code_ogr": 485193,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements de navigation (GPS professionnel, applications mobiles)",
+              "code_ogr": 513452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les aides à la conduite",
+              "code_ogr": 513458,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Appliquer les procédures en cas d'accident ou de panne",
+              "code_ogr": 485797,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'état de fonctionnement du véhicule",
+              "code_ogr": 110527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir le véhicule en bon état de propreté et de fonctionnement",
+              "code_ogr": 487216,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer, préparer et ranger le matériel de déménagement après usage",
+              "code_ogr": 482859,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder aux vérifications de sécurité d'un véhicule",
+              "code_ogr": 110675,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Anticiper la conduite à tenir dans les situations anormales et les situations d'urgence",
+              "code_ogr": 400666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer les procédures de sécurité en cas d'urgence",
+              "code_ogr": 484248,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Vérifier l'état des biens avant et après le déménagement",
+              "code_ogr": 483582,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner, emballer",
+              "code_ogr": 512895,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner et charger le matériel de déménagement en fonction de la commande",
+              "code_ogr": 110012,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des marchandises pendant le transport",
+              "code_ogr": 485678,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Charger et décharger",
+              "code_ogr": 512860,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Choisir des emballages adaptés",
+              "code_ogr": 512861,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduire un poids lourd",
+              "code_ogr": 110024,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduire un véhicule léger",
+              "code_ogr": 113751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déménager des objets communs ou volumineux, fragiles ou précieux (objets d'art, meubles d'époques)",
+              "code_ogr": 512972,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déterminer un itinéraire en fonction des délais et des particularités du trafic",
+              "code_ogr": 119989,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lever des produits à l'aide d'un monte meuble",
+              "code_ogr": 513114,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre en charge un véhicule avec ses équipements et accessoires",
+              "code_ogr": 119992,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger les objets déménagés dans un véhicule, un box ou un conteneur",
+              "code_ogr": 513244,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Remplir les documents de transport et de déménagement (inventaire, liste de colisage)",
+              "code_ogr": 513345,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les principes d'écoconduite",
+              "code_ogr": 400117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Garantir la satisfaction du client",
+              "code_ogr": 403015,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Adopter une communication professionnelle avec les clients, les forces de l'ordre, les secours et les usagers de la route",
+              "code_ogr": 512789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer efficacement avec les clients pour comprendre leurs besoins",
+              "code_ogr": 484815,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter l'entreprise et son image de marque auprès des donneurs d'ordre et des clients",
+              "code_ogr": 513363,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter sa conduite en fonction des conditions météorologiques",
+              "code_ogr": 484192,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les urgences et imprévus durant le déménagement",
+              "code_ogr": 483580,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rapporter les incidents et anomalies rencontrés",
+              "code_ogr": 121866,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter le code de la route et le code du travail",
+              "code_ogr": 513368,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les délais convenus avec le client pour la livraison",
+              "code_ogr": 482864,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les procédures de sécurité lors du chargement et déchargement",
+              "code_ogr": 485099,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de sécurité routière",
+              "code_ogr": 487071,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements de protection individuelle (EPI)",
+              "code_ogr": 482123,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Connaissance des motorisations de véhicules (thermique, électrique)",
+              "code_ogr": 489623,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de communication",
+              "code_ogr": 478129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements d'emballage",
+              "code_ogr": 401002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Camion porteur",
+              "code_ogr": 120417,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariot élévateurs, monte-meuble",
+              "code_ogr": 512687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicule articulé",
+              "code_ogr": 300768,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de déménagement",
+              "code_ogr": 477481,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Habilitation électrique BS chargé d'intervention élémentaire, basse tension",
+              "code_ogr": 512502,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitation pour la conduite de certains véhicules routiers affectés aux transports de marchandises",
+              "code_ogr": 491645,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP emballeur professionnel",
+              "code_ogr": 512401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie B",
+              "code_ogr": 123456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie C",
+              "code_ogr": 491634,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP déménageur professionnel - conducteur poids-lourds",
+              "code_ogr": 491590,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 1B gerbeurs à conducteur porté (hauteur de levée > 1,20 m)",
+              "code_ogr": 491384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 1A transpalettes à conducteur porté et préparateurs de commande sans élévation du poste de conduite (hauteur de levée < ou = à 1,20 m)",
+              "code_ogr": 491583,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie CE",
+              "code_ogr": 126455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel conducteur du transport routier de marchandises sur porteur",
+              "code_ogr": 512484,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP déménageur sur véhicule utilitaire léger",
+              "code_ogr": 491589,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel conducteur livreur sur véhicule utilitaire léger",
+              "code_ogr": 512485,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Application des directives de l'entreprise",
+              "code_ogr": 480378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôle et entretien de véhicules",
+              "code_ogr": 512534,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des risques liés au déménagement",
+              "code_ogr": 477476,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Précautions à prendre sur un véhicules hybride, électrique",
+              "code_ogr": 491719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des systèmes d'assistance à la conduite (ADAS)",
+              "code_ogr": 480991,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de l'itinéraire et optimisation des trajets",
+              "code_ogr": 480959,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Principes de l'écoconduite",
+              "code_ogr": 140977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de carte routière",
+              "code_ogr": 110028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documentation de transport et de déménagement (inventaire, liste de colisage)",
+              "code_ogr": 512604,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de conduite et de sécurité routière",
+              "code_ogr": 108568,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation liée au déménagement",
+              "code_ogr": 110019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protection des biens",
+              "code_ogr": 124936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de circulation et de stationnement en agglomération",
+              "code_ogr": 110550,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de levage et de transfert",
+              "code_ogr": 103396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'arrimage",
+              "code_ogr": 110020,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de la charge maximale admissible",
+              "code_ogr": 478464,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de conduite économique et écologique",
+              "code_ogr": 479904,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage et démontage de meubles",
+              "code_ogr": 477483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'emballage, suremballage (lots, ...)",
+              "code_ogr": 106433,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de premier niveau des véhicules de déménagement",
+              "code_ogr": 477478,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1116 - Inventoriste",
+      "code_org_rome_cible": 489168,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1115 - Opérateur / Opératrice logistique",
+      "code_org_rome_cible": 489164,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1107 - Chef / Cheffe d'équipe en déménagement",
+      "code_org_rome_cible": 488599,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1104 - Pontier / Pontière",
+      "code_org_rome_cible": 503,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1101 - Cariste",
+      "code_org_rome_cible": 500,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N4101 - Conducteur / Conductrice de poids lourd",
+      "code_org_rome_cible": 523,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2308 - Opérateur / Opératrice de tri en récupération et revalorisation",
+      "code_org_rome_cible": 489068,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N3203 - Ouvrier / Ouvrière de manutention portuaire",
+      "code_org_rome_cible": 522,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# Methods and Validation
+
+## Workflow
+
+1. Collect site, uses, surveys and constraints of the work.
+2. Compare constructive and environmental solutions.
+3. Prepare calculations, plans, quantities and organization of the site.
+4. Check consistency of hypotheses, interfaces and reception points.
+
+## Technical Areas
+
+Select techniques that fit the task and available resources.
+
+- Drawing - Reading plans 1
+- Drawing - Reading plans 2
+- Secondary State Corps (CES) technology
+- Thermal, visual and acoustic comfort
+- Building thermal
+- Advanced use of spreadsheets
+
+## Validation Scenarios
+
+Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
+
+- Sizing of comfort systems applied to public works
+- Sizing of systems to ensure comfort in a building
+- Regulatory thermal and environmental studies on a building in the design phase
+- Preparation of the instrumentation of an installation or building and measurements with a view to producing its energy balance
+
+## Deliverables
+
+- Design or calculation note
+- Plans and quantity
+- Control plan and phasing
+
+## Acceptance Criteria
+
+- Site data is separated from assumptions
+- Load units and combinations are traceable
+- Validation of the competent professional is identified
+
+Retain assumptions, units, inputs and intermediate results needed to reproduce the checks. Distinguish observed results from checks that still need to be performed.

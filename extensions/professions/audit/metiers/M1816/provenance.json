@@ -1,0 +1,272 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488603,
+    "code_rome": "M1816",
+    "libelle": "Technicien / Technicienne réseaux informatiques et télécoms",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1810"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 186.931,
+      "matched_terms": [
+        "informatique",
+        "reseau",
+        "telecom"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [
+        "informatique",
+        "reseau",
+        "telecom"
+      ],
+      "specific_title_terms": [
+        "reseau",
+        "telecom"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Principes et architecture des réseaux",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=75",
+          "selection_score": 78.2012,
+          "shared_terms": [
+            "architecture",
+            "principe",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.ROM.10",
+          "title": "Opérateur de télécom",
+          "page": 462,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=462",
+          "selection_score": 77.6948,
+          "shared_terms": [
+            "telecom"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Architecture des systèmes numériques et informatiques",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=79",
+          "selection_score": 58.6976,
+          "shared_terms": [
+            "architecture",
+            "informatique",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ROM.01",
+          "title": "Déployer une infrastructure opérateur et ses services clients",
+          "page": 448,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=448",
+          "selection_score": 84.1168,
+          "shared_terms": [
+            "deployer",
+            "infrastructure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ROM.03",
+          "title": "Concevoir un réseau informatique adapté au multimédia",
+          "page": 425,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425",
+          "selection_score": 68.6667,
+          "shared_terms": [
+            "informatique",
+            "reseau"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 91.473,
+      "matched_terms": [
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [
+        "informati"
+      ],
+      "specific_title_terms": [
+        "informatique"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.06",
+          "title": "Installation & Configuration de services complexes",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=227",
+          "selection_score": 108.2487,
+          "shared_terms": [
+            "configuration",
+            "installation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.06",
+          "title": "Cloud computing",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=245",
+          "selection_score": 98.1452,
+          "shared_terms": [
+            "computing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.12",
+          "title": "Sécurité système et réseaux",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=216",
+          "selection_score": 77.6536,
+          "shared_terms": [
+            "reseaux",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DEPLOI.01",
+          "title": "Déployer et sécuriser des services dans un réseau",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=199",
+          "selection_score": 95.2727,
+          "shared_terms": [
+            "deployer",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DEPLOI.01",
+          "title": "Évolution d’une infrastructure",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=219",
+          "selection_score": 61.7122,
+          "shared_terms": [
+            "infrastructure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.791,
+      "matched_terms": [
+        "communication",
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intégration",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "selection_score": 38.7994,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Développement Front et intégration",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=120",
+          "selection_score": 28.1609,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.07",
+          "title": "Ecriture Multimédia et narration",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=154",
+          "selection_score": 26.7943,
+          "shared_terms": [
+            "ecriture"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Concevoir une recommandation de communication numérique",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=48",
+          "selection_score": 57.3505,
+          "shared_terms": [
+            "numerique",
+            "recommandation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Produire les éléments d’une communication visuelle",
+          "page": 49,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=49",
+          "selection_score": 26.34,
+          "shared_terms": [
+            "element"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

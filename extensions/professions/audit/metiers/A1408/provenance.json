@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 22,
+    "code_rome": "A1408",
+    "libelle": "Eleveur / Eleveuse d'animaux sauvages",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1408"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.11,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1408",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.08",
+          "title": "Écologie et surveillance des milieux naturels",
+          "page": 646,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=646",
+          "selection_score": 60.97,
+          "shared_terms": [
+            "naturel",
+            "surveillance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SEE.10",
+          "title": "Traitement de l’air",
+          "page": 673,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=673",
+          "selection_score": 57.1008,
+          "shared_terms": [
+            "air",
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 55.495,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.04",
+          "title": "Préparer et mettre en œuvre une production alimentaire ou de bioproduit",
+          "page": 465,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=465",
+          "selection_score": 53.4155,
+          "shared_terms": [
+            "alimentaire",
+            "preparer",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 51.2261,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,438 @@
+{
+  "numero": 33289,
+  "rome": {
+    "code_rome": "D1116",
+    "intitule": "Négociant / Négociante en bétail",
+    "code_ogr": 509905
+  },
+  "appellations": [
+    {
+      "libelle": "Chevillard / Chevillarde",
+      "libelle_court": "Chevillard",
+      "code_ogr": 509966
+    },
+    {
+      "libelle": "Maquignon / Maquignonne",
+      "libelle_court": "Maquignon / Maquignonne",
+      "code_ogr": 509967
+    },
+    {
+      "libelle": "Marchand / Marchande de bestiaux",
+      "libelle_court": "Marchand / Marchande de bestiaux",
+      "code_ogr": 140971
+    },
+    {
+      "libelle": "Marchand de chevaux / Marchande de chevaux",
+      "libelle_court": "Marchand de chevaux / Marchande de chevaux",
+      "code_ogr": 517978
+    }
+  ],
+  "definition": "Le négociant en bétail est un acteur dans le commerce des animaux d'élevage. Négocie l'achat et la vente de bétail Assure le transport et le bien-être des animaux durant les déplacements Contrôle la qualité et la conformité des animaux achetés et vendus Développe et entretient un réseau de clients et de fournisseurs Suit les tendances du marché et ajuste les stratégies de vente en conséquence Respecte les réglementations en vigueur concernant le commerce des animaux",
+  "acces_metier": "Cet emploi est accessible avec un CAP en élevage bovin, un Bac Professionnel en conduite et gestion de l'entreprise agricole (option polyculture - élevage) ou un BTS en productions animales.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Assurer des visites régulières chez les producteurs pour vérifier l'état des cheptels",
+              "code_ogr": 511034,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaître les besoins alimentaires et de soins des animaux",
+              "code_ogr": 511029,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler les animaux dans le respect des règles EHS et de la réglementation animale",
+              "code_ogr": 490178,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir le bien-être animal lors des transactions",
+              "code_ogr": 504247,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Connaître les techniques d'embarquement et de transport des animaux en respectant leur bien-être",
+              "code_ogr": 511033,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer un risque sanitaire et mettre en place des mesures d'urgence (vaccination, fermeture d'établissement, abattage d'animaux, ...)",
+              "code_ogr": 115145,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Maîtriser les critères de qualité des animaux (poids, âge, état de santé, etc)",
+              "code_ogr": 511028,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité et le bien-être des animaux lors du transport",
+              "code_ogr": 404022,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser le transport des animaux pour la vente ou le transfert",
+              "code_ogr": 485935,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Organiser le transport des animaux depuis le lieu d'élevage jusqu'au lieu de vente ou d'abattage",
+              "code_ogr": 511035,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser une livraison",
+              "code_ogr": 300276,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les documents administratifs et financiers liés aux transactions (contrats, factures, etc)",
+              "code_ogr": 511032,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tenir les registres des transactions commerciales",
+              "code_ogr": 511036,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Connaître les réglementations sanitaires et vétérinaires en vigueur",
+              "code_ogr": 511031,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier les prix avec des éleveurs, des acheteurs ou des transformateurs",
+              "code_ogr": 511026,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Renseigner le client sur les races et le mode de vie des animaux",
+              "code_ogr": 126267,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les tendances du marché des bestiaux",
+              "code_ogr": 504243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construire et maintenir des relations avec les éleveurs, les abattoirs, les exportateurs, etc",
+              "code_ogr": 511030,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer un portefeuille clients et prospects",
+              "code_ogr": 121427,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier les prix d'achat et de vente des bestiaux",
+              "code_ogr": 504239,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les documents réglementaires nécessaires (certificats de santé, documents de traçabilité)",
+              "code_ogr": 511037,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Connaître le marché du bétail, les différentes races d'animaux, leurs caractéristiques, leurs besoins et leurs valeurs marchandes",
+              "code_ogr": 511025,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaître les différentes races de bétail (bovins, ovins, caprins, etc)",
+              "code_ogr": 511027,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPA option travaux de la production animale spécialité élevage de ruminants",
+              "code_ogr": 404603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux de la production animale spécialité polyculture et élevage",
+              "code_ogr": 403972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSA métiers de l'élevage : développement, production, conseil",
+              "code_ogr": 514077,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro conduite et gestion de l'entreprise agricole",
+              "code_ogr": 490705,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSA productions animales",
+              "code_ogr": 514079,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Evaluation des risques sanitaires",
+              "code_ogr": 477180,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Analyse de la demande du marché",
+              "code_ogr": 121388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des réglementations locales",
+              "code_ogr": 477934,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de marketing direct",
+              "code_ogr": 117688,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de transport d'animaux",
+              "code_ogr": 100303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication et de négociation",
+              "code_ogr": 404573,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1110 - Vendeur ambulant / Vendeuse ambulante",
+      "code_org_rome_cible": 509365,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1309 - Technicien / Technicienne d'élevage équin",
+      "code_org_rome_cible": 509754,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1113 - Commercial itinérant / Commerciale itinérante en entreprise de commerce de gros",
+      "code_org_rome_cible": 509568,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1109 - Chef boucher / Cheffe bouchère",
+      "code_org_rome_cible": 489178,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "D1407 - Technico-commercial / Technico-commerciale",
+      "code_org_rome_cible": 108,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1420 - Chef / Cheffe de culture responsable d'unité de production agricole",
+      "code_org_rome_cible": 403956,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1304 - Conseiller / Conseillère technique agricole",
+      "code_org_rome_cible": 403951,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1102 - Directeur / Directrice des achats",
+      "code_org_rome_cible": 457,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1206 - Responsable comptabilité",
+      "code_org_rome_cible": 463,
+      "ordre_mobilite": 10
+    }
+  ]
+}

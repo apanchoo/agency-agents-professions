@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510042,
+    "code_rome": "K1915",
+    "libelle": "Avocat / Avocate",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1903"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.539,
+      "matched_terms": [
+        "droit",
+        "jurid",
+        "justice"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1903",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.AJ.04",
+          "title": "Libertés et droits fondamentaux",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=129",
+          "selection_score": 69.4823,
+          "shared_terms": [
+            "droit",
+            "liberte"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Organisation judiciaire",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=51",
+          "selection_score": 62.9171,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Droit fiscal 2",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=115",
+          "selection_score": 60.4873,
+          "shared_terms": [
+            "droit",
+            "fiscal"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.02",
+          "title": "Rédaction et/ou contrôle d’actes administratifs",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=91",
+          "selection_score": 68.3991,
+          "shared_terms": [
+            "actes",
+            "redaction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AJ.01",
+          "title": "Gestion de dossiers de contentieux administratif et/ou judiciaire",
+          "page": 123,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=123",
+          "selection_score": 60.4061,
+          "shared_terms": [
+            "dossier",
+            "judiciaire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

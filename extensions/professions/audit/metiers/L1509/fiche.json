@@ -1,0 +1,619 @@
+{
+  "numero": 456,
+  "rome": {
+    "code_rome": "L1509",
+    "intitule": "Régisseur / Régisseuse de production",
+    "code_ogr": 455
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante de régie",
+      "libelle_court": "Assistant / Assistante de régie",
+      "code_ogr": 11250
+    },
+    {
+      "libelle": "Directeur / Directrice technique cinéma",
+      "libelle_court": "Directeur / Directrice technique cinéma",
+      "code_ogr": 14478
+    },
+    {
+      "libelle": "Régisseur / Régisseuse de plateau",
+      "libelle_court": "Régisseur / Régisseuse de plateau",
+      "code_ogr": 18404
+    },
+    {
+      "libelle": "Régisseur / Régisseuse de studio d'enregistrement",
+      "libelle_court": "Régisseur / Régisseuse de studio d'enregistrement",
+      "code_ogr": 38667
+    },
+    {
+      "libelle": "Régisseur / Régisseuse de tournée",
+      "libelle_court": "Régisseur / Régisseuse de tournée",
+      "code_ogr": 18408
+    },
+    {
+      "libelle": "Régisseur / Régisseuse d'extérieurs",
+      "libelle_court": "Régisseur / Régisseuse d'extérieurs",
+      "code_ogr": 18416
+    },
+    {
+      "libelle": "Responsable de la logistique cinéma",
+      "libelle_court": "Responsable de la logistique cinéma",
+      "code_ogr": 18744
+    }
+  ],
+  "definition": "Met en place et supervise l'organisation logistique et technique de spectacles (concerts, pièces de théâtre, ...), de tournages ou d'enregistrements (émissions télévisées, longs-métrages, documentaires, films publicitaires, maquettes, ...) selon la réglementation sécurité et les impératifs de production. Coordonne les activités de différents services techniques. Peut participer à l'implantation d'éléments de décor et de matériel technique.",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau BAC à Master dans les spécialités techniques du spectacle (son, lumière, machinerie, ...). Il est également accessible avec une expérience professionnelle dans ces secteurs sans diplôme particulier. Des habilitations spécifiques (habilitation aux risques d'origine électrique, Certificat(s) d'Aptitude à la Conduite en Sécurité -CACES-, ...) peuvent être demandées. La maîtrise de l'outil informatique (logiciels de Dessin Assisté par Ordinateur -DAO-, tableur, ...) et des technologies de l'information et de la communication (intranet, internet, ...) peut être requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser les effectifs, l'adéquation et l'allocation des ressources",
+              "code_ogr": 300435,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Recruter et intégrer une personne",
+              "code_ogr": 300004,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Demander une autorisation de tournage ou de représentation",
+              "code_ogr": 124214,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir un plan de salle",
+              "code_ogr": 125446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner, mettre à jour une documentation technique",
+              "code_ogr": 300125,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer un schéma directeur technique, définir des besoins en équipement",
+              "code_ogr": 300197,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Implanter des éléments de décor",
+              "code_ogr": 124207,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer du matériel d'éclairage de scène",
+              "code_ogr": 124208,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer du matériel de sonorisation",
+              "code_ogr": 124209,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer les accessoires de scène",
+              "code_ogr": 124210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner un lieu pour un évènement",
+              "code_ogr": 124213,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Réaliser des corrections ou réparations sur un ouvrage",
+              "code_ogr": 300178,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Superviser l'envoi des rushes au laboratoire de postproduction",
+              "code_ogr": 117635,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Superviser l'acheminement et l'installation de la logistique et de la signalétique sur le lieu d'un spectacle",
+              "code_ogr": 109333,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer un planning",
+              "code_ogr": 300464,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un suivi financier",
+              "code_ogr": 124383,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Concevoir et gérer un projet",
+              "code_ogr": 300488,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le déroulement d'un tournage ou d'une représentation",
+              "code_ogr": 125116,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Solliciter un appui logistique auprès des services concernés",
+              "code_ogr": 124211,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer une situation d'urgence",
+              "code_ogr": 300481,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Organiser et développer son réseau professionnel",
+              "code_ogr": 300502,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des matériels son",
+              "code_ogr": 109337,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Engins de manutention non motorisés (transpalette, diable, etc.)",
+              "code_ogr": 101829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériels de prise de vues",
+              "code_ogr": 102644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de produits audiovisuels/cinématographiques (film, reportage, etc.)",
+              "code_ogr": 109129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériels d'éclairage",
+              "code_ogr": 109257,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Chariots porteurs (capacité de charge < ou = à 2 tonnes) (CACES R 489-2A) - Depuis le 01/01/2020",
+              "code_ogr": 200070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "PEMP du groupe A (CACES R 486-A) - Depuis le 01/01/2020",
+              "code_ogr": 200060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gerbeurs à conducteur porté (hauteur de levée > 1.20 m) (CACES R 489-1B - Depuis le 01/01/2020",
+              "code_ogr": 200069,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transpalettes et préparateurs sans élévation du poste de conduite (h < ou = à 1,20 m) (CACES R 489-1A) - Depuis le 01/01/2020",
+              "code_ogr": 200068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistant de production cinéma, audiovisuel et contenus numériques",
+              "code_ogr": 522625,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots frontaux en porte-à-faux (capacité nominale < ou = à 6 tonnes) (CACES R 489-3) - Depuis le 01/01/2020",
+              "code_ogr": 200072,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots tracteurs (capacité de traction < ou = à 25 tonnes) (CACES R 489-2B) - Depuis le 01/01/2020",
+              "code_ogr": 200071,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transpalettes à conducteur porté et préparateurs de commandes au sol (CACES R 389-1)",
+              "code_ogr": 123696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitations électriques de travaux hors tension",
+              "code_ogr": 124200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduite hors production des PEMP des types 1 et 3 (CACES R 486-C) - Depuis le 01/01/2020",
+              "code_ogr": 200062,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déplacement, chargement, transfert de chariots sans activité de production (CACES R 389-6)",
+              "code_ogr": 123722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Grues mobiles (CACES R 383)",
+              "code_ogr": 121310,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots à poste de conduite élevable (hauteur plancher > 1,20 m) (CACES R 489-6) - Depuis le 01/01/2020",
+              "code_ogr": 200075,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "PEMP du groupe B (CACES R 486-B) - Depuis le 01/01/2020",
+              "code_ogr": 200061,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots tracteurs et à plateau porteur de capacité inférieure à 6 000 kg (CACES R 389-2)",
+              "code_ogr": 123697,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plates-formes élévatrices mobiles de personnes ou PEMP (CACES R 386)",
+              "code_ogr": 121311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Grues mobiles (CACES R 483) - Depuis le 01/01/2020",
+              "code_ogr": 200050,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS métiers de l'audiovisuel option gestion de la production",
+              "code_ogr": 514060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots élévateurs en porte-à-faux de capacité inférieure ou égale à 6000 kg (CACES R 389-3)",
+              "code_ogr": 123698,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plates-formes élévatrices mobiles de personnel (CACES R 486) - Depuis le 01/01/2020",
+              "code_ogr": 200059,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Service de sécurité incendie et d'assistance aux personnes de niveau 1 (SSIAP 1) - diplôme d'agent de service",
+              "code_ogr": 121837,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitations électriques de travaux sous tension",
+              "code_ogr": 124201,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduite des chariots hors production des chariots à conducteur porté de toutes les catégories (CACES R 489-7) - Depuis le 01/01/2020",
+              "code_ogr": 200076,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Lecture de plan de travail, de plan de tournage",
+              "code_ogr": 109336,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation sociale",
+              "code_ogr": 100343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité et d'accessibilité des espaces et des établissements recevant du public",
+              "code_ogr": 100091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sécurité incendie",
+              "code_ogr": 101449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plan de salle",
+              "code_ogr": 104333,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fiches techniques d'un spectacle ou d'un tournage",
+              "code_ogr": 115463,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de montage/démontage de décors",
+              "code_ogr": 109292,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'accrochage",
+              "code_ogr": 109295,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Association",
+          "code_ogr": 300849
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "87",
+      "libelle": "Artisanat d'art, audiovisuel et spectacle",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "L1508 - Ingénieur / Ingénieure du son",
+      "code_org_rome_cible": 454,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "L1506 - Machiniste spectacle",
+      "code_org_rome_cible": 452,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "L1504 - Eclairagiste",
+      "code_org_rome_cible": 450,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "L1301 - Metteur / Metteuse en scène",
+      "code_org_rome_cible": 442,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "L1304 - Assistant réalisateur / Assistante réalisatrice",
+      "code_org_rome_cible": 445,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1107 - Chef / Cheffe de projet événementiel",
+      "code_org_rome_cible": 125,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1102 - Directeur / Directrice des achats",
+      "code_org_rome_cible": 457,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "L1503 - Accessoiriste",
+      "code_org_rome_cible": 449,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "L1302 - Producteur / Productrice audiovisuel et cinéma",
+      "code_org_rome_cible": 443,
+      "ordre_mobilite": 10
+    }
+  ]
+}

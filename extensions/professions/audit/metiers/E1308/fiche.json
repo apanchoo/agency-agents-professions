@@ -1,0 +1,656 @@
+{
+  "numero": 154,
+  "rome": {
+    "code_rome": "E1308",
+    "intitule": "Technicien / Technicienne des industries graphiques",
+    "code_ogr": 139
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente technique de fabrication d'imprimerie",
+      "libelle_court": "Agent / Agente technique de fabrication d'imprimerie",
+      "code_ogr": 10771
+    },
+    {
+      "libelle": "Agent / Agente technique de fabrication en industrie graphique",
+      "libelle_court": "Agent(e) technique de fabrication en industrie graphique",
+      "code_ogr": 10772
+    },
+    {
+      "libelle": "Agent de fabrication-deviseur / Agente de fabrication-deviseuse en industrie graphique",
+      "libelle_court": "Agent(e) de fabrication-deviseur(se) en industrie graphique",
+      "code_ogr": 10454
+    },
+    {
+      "libelle": "Deviseur / Deviseuse en industrie graphique",
+      "libelle_court": "Deviseur / Deviseuse en industrie graphique",
+      "code_ogr": 14159
+    },
+    {
+      "libelle": "Fabricant / Fabricante en industrie graphique",
+      "libelle_court": "Fabricant / Fabricante en industrie graphique",
+      "code_ogr": 15027
+    },
+    {
+      "libelle": "Simulateur / Simulatrice d'impression en industrie graphique",
+      "libelle_court": "Simulateur / Simulatrice d'impression en industrie graphique",
+      "code_ogr": 19434
+    },
+    {
+      "libelle": "Support produit en industrie graphique",
+      "libelle_court": "Support produit en industrie graphique",
+      "code_ogr": 19576
+    },
+    {
+      "libelle": "Technicien / Technicienne de fabrication d'édition",
+      "libelle_court": "Technicien / Technicienne de fabrication d'édition",
+      "code_ogr": 19758
+    },
+    {
+      "libelle": "Technicien / Technicienne de fabrication en industrie graphique",
+      "libelle_court": "Technicien(ne) de fabrication en industrie graphique",
+      "code_ogr": 19762
+    },
+    {
+      "libelle": "Technicien / Technicienne de fabrication-deviseur en industrie graphique",
+      "libelle_court": "Technicien(ne) de fabrication-deviseur en ind graphique",
+      "code_ogr": 19770
+    },
+    {
+      "libelle": "Technicien / Technicienne de laboratoire en industrie graphique",
+      "libelle_court": "Technicien(ne) de laboratoire en industrie graphique",
+      "code_ogr": 19805
+    },
+    {
+      "libelle": "Technicien / Technicienne études-recherche-développement en industrie graphique",
+      "libelle_court": "Technicien(ne) études-recherche-développement ind graphique",
+      "code_ogr": 20139
+    },
+    {
+      "libelle": "Technicien supérieur / Technicienne supérieure en industrie graphique",
+      "libelle_court": "Technicien(ne) supérieur(e) en industrie graphique",
+      "code_ogr": 20270
+    }
+  ],
+  "definition": "Le Technicien des industries graphiques prépare des fichiers pour l'impression, règle et opère les machines d'impression tout en assurant le contrôle qualité et la maintenance des équipements. Conçoit et prépare les fichiers pour l'impression selon les spécifications du client Contrôle la qualité des produits imprimés et assure la conformité aux normes de l'industrie Optimise les processus de production pour améliorer l'efficacité et réduire les coûts Collabore avec les équipes de conception et de production pour garantir la précision des produits finaux Réalise des tests et des ajustements sur les machines d'impression pour garantir la meilleure qualité possible Assiste techniquement l'équipe de production pour résoudre les problèmes techniques",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac +2 dans les domaine de la signalétique et des industries graphiques ou des métiers du multimédia et de l'édition.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Concevoir des maquettes pour impression",
+              "code_ogr": 499864,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir et réaliser des éléments graphiques et visuels",
+              "code_ogr": 300116,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer des documents numériques",
+              "code_ogr": 405259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter des images numériques (colorimétrie, cadrage etc.)",
+              "code_ogr": 125979,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Etablir le Bon à Tirer",
+              "code_ogr": 300564,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser un document de production",
+              "code_ogr": 120260,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir un support de production",
+              "code_ogr": 117334,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer des processus et des modes opératoires techniques",
+              "code_ogr": 300146,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les flux d'impression et définir des choix de fabrication, délais et spécificités techniques",
+              "code_ogr": 511674,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Contrôler les calendriers d'avancement des travaux et effectuer les ajustements nécessaires au respect des délais et du budget engagé",
+              "code_ogr": 403503,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lancer la production sur les traceurs et la machine de découpe",
+              "code_ogr": 511681,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les processus d'impression pour réduire les déchets",
+              "code_ogr": 486945,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le dossier de fabrication",
+              "code_ogr": 300644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les documents à reproduire, sélectionner les machines d'impression et les paramétrer",
+              "code_ogr": 102980,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les encres et les supports nécessaires à l'impression",
+              "code_ogr": 486942,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une première impression avant roulage et procéder aux ajustements (densité, calage des couleurs, contours, ...)",
+              "code_ogr": 102796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une épreuve de contrôle",
+              "code_ogr": 125560,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Régler les machines de production pour optimiser la qualité des produits",
+              "code_ogr": 482636,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter textes et images en fonction des modes et des supports d'impression",
+              "code_ogr": 102948,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser et régler un outil ou machine d'impression, de tirage",
+              "code_ogr": 300157,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance préventive de premier niveau des équipements",
+              "code_ogr": 485420,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la calibration régulière des instruments",
+              "code_ogr": 120102,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler un système d'imposition numérique",
+              "code_ogr": 124606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser des phases d'impression",
+              "code_ogr": 102887,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller le fonctionnement de la machine d'impression (arrivée papier, bourrage, impression, ...)",
+              "code_ogr": 102981,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des impressions réalisées",
+              "code_ogr": 486943,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité du produit à la commande",
+              "code_ogr": 400163,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité des process",
+              "code_ogr": 300258,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la conformité des corrections portées au document avant impression",
+              "code_ogr": 102920,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de consommables pour la production",
+              "code_ogr": 501858,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300315,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Implémenter des mesures pour réduire les coûts",
+              "code_ogr": 485568,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Veiller à la durabilité et au recyclage des matériaux utilisés",
+              "code_ogr": 486706,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Analyser la demande des clients et identifier la ou les technologies à utiliser ainsi que les différentes étapes de procédé",
+              "code_ogr": 404776,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Apporter une assistance technique aux équipes",
+              "code_ogr": 300184,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec des équipes pour résoudre les problèmes techniques",
+              "code_ogr": 485648,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Elaborer, adapter une proposition commerciale",
+              "code_ogr": 300377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Présenter au client les améliorations envisageables (grammage papier, mise en page, etc.) après avoir vérifié la faisabilité de la commande",
+              "code_ogr": 102996,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Elaborer des tableaux de bord",
+              "code_ogr": 118990,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la mise en œuvre d'un projet, d'un plan d'action",
+              "code_ogr": 300241,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les coûts de production",
+              "code_ogr": 482141,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la gestion de la production, de l'exploitation",
+              "code_ogr": 300175,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Documenter les procédures d'impression pour référence future",
+              "code_ogr": 486946,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de machines et /ou équipements d'impression à grand format",
+              "code_ogr": 102897,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines et /ou équipements d'impression automatisées",
+              "code_ogr": 102895,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de conception graphique",
+              "code_ogr": 477832,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines et /ou équipements d'impression complexes (façonnage incorporé)",
+              "code_ogr": 102896,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP signalétique et décors graphiques",
+              "code_ogr": 514134,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Sérigraphie",
+              "code_ogr": 125178,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Publication Assistée par Ordinateur (PAO)",
+              "code_ogr": 119226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de Production Assistée Par Ordinateur (GPAO)",
+              "code_ogr": 119507,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils informatiques d'impression",
+              "code_ogr": 119433,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chaîne graphique",
+              "code_ogr": 102461,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Techniques d'impression numérique",
+              "code_ogr": 102966,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Computer To Film (CTF)",
+              "code_ogr": 124605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés et contraintes d'impression",
+              "code_ogr": 102730,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Computer To Plate (CTP)",
+              "code_ogr": 124603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes environnementales",
+              "code_ogr": 493146,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de flexographie",
+              "code_ogr": 120646,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de colorimétrie",
+              "code_ogr": 490497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gravure laser",
+              "code_ogr": 102962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des techniques d'impression graphique",
+              "code_ogr": 493647,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "89",
+      "libelle": "Industrie - Papier et imprimerie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "E1310 - Contrôleur / Contrôleuse qualité en industrie graphique",
+      "code_org_rome_cible": 509894,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "E1307 - Opérateur / Opératrice en reprographie",
+      "code_org_rome_cible": 138,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "E1301 - Conducteur / Conductrice de machines d'impression",
+      "code_org_rome_cible": 132,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "E1303 - Chef / Cheffe de fabrication en industrie graphique",
+      "code_org_rome_cible": 134,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "E1205 - Designer graphique",
+      "code_org_rome_cible": 131,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "E1112 - Chargé / Chargée de communication",
+      "code_org_rome_cible": 488921,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1210 - Web designer",
+      "code_org_rome_cible": 510604,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1502 - Responsable qualité en industrie",
+      "code_org_rome_cible": 230,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2424 - Chef / Cheffe de ligne chromo en industrie textile",
+      "code_org_rome_cible": 488875,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 10
+    }
+  ]
+}

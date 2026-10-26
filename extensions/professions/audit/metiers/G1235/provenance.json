@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509374,
+    "code_rome": "G1235",
+    "libelle": "Animateur / Animatrice de séjour de vacances",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1203"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.032,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.09",
+          "title": "Développement de l’enfant et de l’adolescent",
+          "page": 619,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=619",
+          "selection_score": 190.0824,
+          "shared_terms": [
+            "adolescent",
+            "enfant"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.07",
+          "title": "Développement de l’adulte",
+          "page": 664,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=664",
+          "selection_score": 136.1237,
+          "shared_terms": [
+            "adulte"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.09",
+          "title": "Enjeux pédagogiques",
+          "page": 666,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=666",
+          "selection_score": 88.1651,
+          "shared_terms": [
+            "pedagogique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.ASSC.04",
+          "title": "Expérimenter des rôles différents dans la mise en œuvre de démarches éducatives et de techniques d’animation",
+          "page": 630,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=630",
+          "selection_score": 60.4732,
+          "shared_terms": [
+            "animation",
+            "educative"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ASSC.03",
+          "title": "Concevoir et mettre en œuvre un projet d’animation socioéducative s’adressant à un public ciblé",
+          "page": 653,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=653",
+          "selection_score": 57.5345,
+          "shared_terms": [
+            "animation",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

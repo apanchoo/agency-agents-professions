@@ -1,0 +1,111 @@
+# Connected equipment maintenance technician
+
+## Scope
+
+The Connected Equipment Maintenance Technician ensures the reliability and security of connected equipment (alarms, fire systems, etc.). Carries out predictive and corrective maintenance operations on customer sites Controls, monitors and maintains equipment (preventive, forecast maintenance) Advises and trains users on the operation and maintenance of equipment Proposes solutions to improve the safety and performance of equipment May intervene in installation operations of connected equipment
+
+## Related Job Titles
+
+- Alarm and security systems maintenance agent
+- Connected equipment repairer
+- Alarm systems maintenance technician
+- Alarm and remote monitoring systems maintenance technician
+- Maintenance technician in video surveillance installations
+- Alarm and security systems maintenance technician
+- Fire alarm security maintenance technician
+- Fire systems maintenance technician
+- Electronic systems technician
+
+## Activities and Skills
+
+- Support customers in using a product or equipment
+- Organize a technical assistance service
+- Configure or configure telecommunications equipment, low currents
+- Read and interpret technical data and documents, if necessary in English
+- Carry out the testing of a computer installation, a connected home automation installation
+- Use a graphical interface (tablet, smartphone, numerical control machine, etc.)
+- Configure and configure equipment or an electronic system
+- Configure connected equipment on an integration platform
+- Install and connect a gateway or radio antenna
+- Measure electrical characteristics
+- Prepare and use the equipment, materials and tools provided for the task
+- Carry out and interpret radio field measurements
+- Carry out an intervention requiring authorization
+- Disable and log an electrical system
+- Disable part of a network before intervention
+- Install the equipment on site and connect it to external networks
+- Connect equipment connected to high current and low current
+- Diagnose breakdowns of connected equipment and propose solutions
+- Detect the origin of a breakdown (on site or remotely)
+- Carry out or supervise preventive and corrective maintenance interventions on connected equipment
+- Check equipment or material
+- Plan equipment maintenance operations
+- Ensure the application and compliance with hygiene, safety (wearing a helmet, etc.) and environmental (waste management, noise pollution, etc.) rules on the site
+- Manage stocks of maintenance equipment and spare parts
+- Establish the terms of a service
+- Identify the characteristics of a site
+- Respect the planned intervention time
+- Support and train a client on the business application or user interface
+- Determine solutions and technical recommendations and communicate them to customers
+- Demonstrate commercial acumen and interpersonal skills
+- Complete the intervention monitoring materials
+- React effectively in the event of a technical incident
+- Continuously develop your skills, particularly in emerging technologies
+
+## Professional Approach
+
+- Have team spirit
+- Be proactive
+- Demonstrate rigor and precision
+- Show responsiveness
+
+## Products, tools and materials
+
+- Features of IoT sensors
+- Operation of IoT equipment
+- Use of control and measurement equipment
+
+## Areas of expertise
+
+- Electronics
+- Interpretation of electronic test data
+- Electricity
+- Computer Aided Maintenance Management (CMMS)
+- Maintenance data
+- Industrial mechanics
+- Home automation
+- Network technologies and protocols
+- Telecom technologies
+- Pneumatic
+- Automation
+- Robotics
+- Fiber optic technology
+
+## Standards and processes
+
+- Maintenance Procedures
+- Reading plans and diagrams
+- Technical documentation of equipment
+- Standards and regulations applicable to maintenance
+- Low voltage electrical work
+
+## Working Conditions
+
+- Business customers
+- Individuals
+- Employees
+- Private sector employee (CDI, CDD)
+- Business travel
+- In an industrial environment
+- Wearing personal protective equipment (PPE): gloves, shoes, helmet, hearing protection
+- Carrying and handling heavy or bulky loads
+- On site
+- On-call work
+- Daytime work
+- Work weekends and public holidays
+- Industrial company
+
+## Sectors
+
+- Industries
+- IT and telecommunications

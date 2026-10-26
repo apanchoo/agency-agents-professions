@@ -1,0 +1,585 @@
+{
+  "numero": 180,
+  "rome": {
+    "code_rome": "F1203",
+    "intitule": "Chef / Cheffe de carrière",
+    "code_ogr": 152
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de maîtrise d'exploitation de carrières",
+      "libelle_court": "Agent / Agente de maîtrise d'exploitation de carrières",
+      "code_ogr": 518681
+    },
+    {
+      "libelle": "Chef / Cheffe d'abattage de roches",
+      "libelle_court": "Chef / Cheffe d'abattage de roches",
+      "code_ogr": 12019
+    },
+    {
+      "libelle": "Chef / Cheffe de mission prospection minière",
+      "libelle_court": "Chef / Cheffe de mission prospection minière",
+      "code_ogr": 12194
+    },
+    {
+      "libelle": "Chef / Cheffe de tir de mines",
+      "libelle_court": "Chef / Cheffe de tir de mines",
+      "code_ogr": 12378
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe de mines",
+      "libelle_court": "Chef / Cheffe d'équipe de mines",
+      "code_ogr": 12420
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe en carrière",
+      "libelle_court": "Chef / Cheffe d'équipe en carrière",
+      "code_ogr": 12452
+    },
+    {
+      "libelle": "Chef / Cheffe d'exploitation de carrière",
+      "libelle_court": "Chef / Cheffe d'exploitation de carrière",
+      "code_ogr": 12512
+    },
+    {
+      "libelle": "Chef porion / Cheffe porionne",
+      "libelle_court": "Chef porion / Cheffe porionne",
+      "code_ogr": 12598
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure d'installations minières",
+      "libelle_court": "Ingénieur / Ingénieure d'installations minières",
+      "code_ogr": 15720
+    },
+    {
+      "libelle": "Porion / Porionne",
+      "libelle_court": "Porion / Porionne",
+      "code_ogr": 17891
+    }
+  ],
+  "definition": "Le chef de carrière assure l'ensemble des responsabilités liées à l'exploitation d'un gisement de matériaux. Organise, planifie et gère la production conformément aux normes environnementales Supervise l'extraction et la qualité des matériaux Optimise les méthodes d'extraction et les processus opérationnels pour améliorer les rendements Encadre et coordonne l'activité des équipes Contrôle les stocks de matériaux et prépare les rapports de production Organise la maintenance et pilote le budget de fonctionnement de son site",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac +2 à Bac +5 dans le domaine des mines, de la géologie ou des travaux publics. Il est également accessible sans diplôme particulier mais après quelques années d'expérience et une formation spécifique de Chef de carrière. Le Certificat de Préposé au Tir peut être nécessaire pour les opérations de mise en œuvre de produits explosifs.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Coordonner les opérations de réaménagement et de réhabilitation d'un site",
+              "code_ogr": 122168,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déléguer, responsabiliser",
+              "code_ogr": 300434,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les effectifs, l'adéquation et l'allocation des ressources",
+              "code_ogr": 300435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier et organiser l'activité du personnel relevant de sa responsabilité",
+              "code_ogr": 489827,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Gérer les ressources humaines",
+              "code_ogr": 403009,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Réaliser les prélèvements d'échantillons, les mesures d'eau, d'air, de poussières et analyser les résultats",
+              "code_ogr": 103097,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une veille technique ou technologique pour anticiper les évolutions",
+              "code_ogr": 300081,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Concevoir le plan de tir de mines",
+              "code_ogr": 121825,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier la production, estimer les besoins en matériel, matériaux et main-d'œuvre, afin de respecter les contraintes de coûts et les délais de réalisation",
+              "code_ogr": 403507,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Analyser des forations et le résultat de tirs de mines",
+              "code_ogr": 114309,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir la production et contrôler la chaîne de traitement des matériaux",
+              "code_ogr": 300926,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer l'emplacement d'une charge explosive selon le plan de tir",
+              "code_ogr": 122146,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Extraire des roches",
+              "code_ogr": 122634,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre l'évolution d'un gisement",
+              "code_ogr": 122225,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Concevoir les voies et infrastructures de circulation du site",
+              "code_ogr": 121826,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance préventive des engins",
+              "code_ogr": 484180,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser le rangement dans un espace de stockage",
+              "code_ogr": 126064,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Superviser des opérations, des actions",
+              "code_ogr": 300486,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser la maintenance régulière des équipements",
+              "code_ogr": 483555,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser le périmètre d'intervention",
+              "code_ogr": 121159,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité et la conformité des matières premières",
+              "code_ogr": 300247,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer le stock de matériaux et d'équipements nécessaires pour le chantier",
+              "code_ogr": 489356,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des rapports de production et d'incidents",
+              "code_ogr": 121378,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evaluer l'impact environnemental des processus de production",
+              "code_ogr": 483123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un diagnostic environnemental",
+              "code_ogr": 300301,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Commercialiser des produits d'extraction",
+              "code_ogr": 121751,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Ajuster des paramètres d'exploitation",
+              "code_ogr": 122226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le fonctionnement des installations de traitement et de transformation des matériaux (pilotage, réglage, ...)",
+              "code_ogr": 114307,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Prendre une décision et l'expliquer",
+              "code_ogr": 300459,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le respect des réglementations environnementales",
+              "code_ogr": 402289,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Technicien supérieur professionnel en géologie",
+              "code_ogr": 522452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de Préposé au Tir (CPT)",
+              "code_ogr": 122635,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Mise à jour des connaissances en mécanique",
+              "code_ogr": 104514,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de l'eau dans les carrières",
+              "code_ogr": 515898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management opérationnel",
+              "code_ogr": 121075,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation en pyrotechnie",
+              "code_ogr": 103378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guidage d'engins de chantier",
+              "code_ogr": 119373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plans géologiques d'une exploitation",
+              "code_ogr": 114308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation Générale des Industries Extractives (RGIE)",
+              "code_ogr": 103270,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Diagnostic de pannes",
+              "code_ogr": 480222,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance préventive d'engins",
+              "code_ogr": 478898,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement allergène",
+          "code_ogr": 300781
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1208 - Conducteur / Conductrice de travaux publics",
+      "code_org_rome_cible": 509797,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1209 - Chef / Cheffe de chantier travaux publics",
+      "code_org_rome_cible": 510010,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1105 - Géologue",
+      "code_org_rome_cible": 146,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1407 - Technico-commercial / Technico-commerciale",
+      "code_org_rome_cible": 108,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H1303 - Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel (HSE)",
+      "code_org_rome_cible": 224,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1401 - Responsable ordonnancement-lancement-planification en industrie",
+      "code_org_rome_cible": 225,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H2502 - Responsable d'unité de production industrielle",
+      "code_org_rome_cible": 263,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2306 - Responsable de site éco-industriel",
+      "code_org_rome_cible": 425,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "I1108 - Chef / Cheffe d'atelier engins de chantier",
+      "code_org_rome_cible": 509502,
+      "ordre_mobilite": 10
+    }
+  ]
+}

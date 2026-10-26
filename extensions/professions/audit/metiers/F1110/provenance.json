@@ -1,0 +1,203 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 403079,
+    "code_rome": "F1110",
+    "libelle": "Dessinateur / Dessinatrice enveloppe du bâtiment",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "F1104"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.558,
+      "matched_terms": [
+        "batiment",
+        "construction",
+        "rehabilitation",
+        "structure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1104",
+      "title_terms": [
+        "batiment"
+      ],
+      "specific_title_terms": [
+        "batiment"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 60.4954,
+          "shared_terms": [
+            "dessin",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.06",
+          "title": "Solutions techniques et démarche BIM",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=176",
+          "selection_score": 59.5796,
+          "shared_terms": [
+            "bim",
+            "solution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 59.1158,
+          "shared_terms": [
+            "dessin",
+            "plans"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Etude d’éxécution d’un ouvrage de bâtiment",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=58",
+          "selection_score": 72.5768,
+          "shared_terms": [
+            "batiment",
+            "execution",
+            "ouvrage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BEC.03",
+          "title": "Justification d’éléments de structure béton armé assurant une descente de charge jusqu’aux fondations",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=377",
+          "selection_score": 71.9767,
+          "shared_terms": [
+            "arme",
+            "beton",
+            "jusqu",
+            "structure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.219,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Dessin d’ingénierie - BIM",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=76",
+          "selection_score": 87.3529,
+          "shared_terms": [
+            "bim",
+            "dessin",
+            "ingenierie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OPTIM.02",
+          "title": "Réhabilitation énergétique et environnementale des bâtiments",
+          "page": 430,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=430",
+          "selection_score": 79.2426,
+          "shared_terms": [
+            "batiment",
+            "energetique",
+            "environnementale",
+            "rehabilitation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MANÉ.04",
+          "title": "Audit des éclairages intérieur et extérieur",
+          "page": 317,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=317",
+          "selection_score": 69.6492,
+          "shared_terms": [
+            "exterieur",
+            "interieur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.OPTIM.03",
+          "title": "Études thermique et environnementale réglementaires sur un bâtiment en phase de conception",
+          "page": 394,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=394",
+          "selection_score": 98.2435,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "environnementale",
+            "phase",
+            "reglementaire",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Conception et réalisation d’un projet à l’aide de techniques de fabrication utilisées en énergétique",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=97",
+          "selection_score": 70.3997,
+          "shared_terms": [
+            "conception",
+            "energetique",
+            "fabrication",
+            "realisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509682,
+    "code_rome": "K2323",
+    "libelle": "Responsable propreté urbaine",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "K2302"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.705,
+      "matched_terms": [
+        "hygiene"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Outils de bureautique",
+          "page": 43,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=43",
+          "selection_score": 56.0662,
+          "shared_terms": [
+            "bureautique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.09",
+          "title": "Analyse et maîtrise des impacts environnementaux",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=85",
+          "selection_score": 38.686,
+          "shared_terms": [
+            "maitrise"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 37.3128,
+          "shared_terms": [
+            "equipement",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 66.9848,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.03",
+          "title": "Conseiller un organisateur d’événement en matière de sécurité du public et d’impact environnemental",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=74",
+          "selection_score": 43.34,
+          "shared_terms": [
+            "evenement",
+            "public",
+            "securite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

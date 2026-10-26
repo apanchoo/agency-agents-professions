@@ -1,0 +1,513 @@
+{
+  "numero": 56,
+  "rome": {
+    "code_rome": "A1415",
+    "intitule": "Marin-pêcheur",
+    "code_ogr": 29
+  },
+  "appellations": [
+    {
+      "libelle": "Bosco",
+      "libelle_court": "Bosco",
+      "code_ogr": 11559
+    },
+    {
+      "libelle": "Ligneur / Ligneuse",
+      "libelle_court": "Ligneur / Ligneuse",
+      "code_ogr": 488834
+    },
+    {
+      "libelle": "Maître / Maîtresse d'équipage à la pêche",
+      "libelle_court": "Maître / Maîtresse d'équipage à la pêche",
+      "code_ogr": 16310
+    },
+    {
+      "libelle": "Marin calier",
+      "libelle_court": "Marin calier",
+      "code_ogr": 16397
+    },
+    {
+      "libelle": "Marin fileyeur",
+      "libelle_court": "Marin fileyeur",
+      "code_ogr": 16402
+    },
+    {
+      "libelle": "Marin glaceur",
+      "libelle_court": "Marin glaceur",
+      "code_ogr": 16403
+    },
+    {
+      "libelle": "Marin grande pêche",
+      "libelle_court": "Marin grande pêche",
+      "code_ogr": 16404
+    },
+    {
+      "libelle": "Marin-trancheur",
+      "libelle_court": "Marin-trancheur",
+      "code_ogr": 16408
+    },
+    {
+      "libelle": "Matelot / Matelote de pêche",
+      "libelle_court": "Matelot / Matelote de pêche",
+      "code_ogr": 488835
+    },
+    {
+      "libelle": "Timonier / Timonière",
+      "libelle_court": "Timonier / Timonière",
+      "code_ogr": 20326
+    }
+  ],
+  "definition": "En contact permanent avec la nature, le marin-pêcheur est un professionnel polyvalent de la mer. Entretient le bateau et les équipements de pêche tels que les filets, les lignes et les casiers Trie et préserve la pêche du jour, en assurant la fraîcheur et la qualité des produits Respecte les réglementations maritimes et les quotas de pêche pour une exploitation durable des ressources Peut participer à la maintenance du navire et à la préparation des voyages en mer Peut vendre directement les produits de la pêche sur les marchés locaux ou à des distributeurs",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac professionnel dans le domaine maritime. Des certifications complémentaires peuvent être demandées en fonction de la taille des navires ou des lieux de pêche. Cet emploi requiert une bonne condition physique.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Déployer un outil de pêche",
+              "code_ogr": 122755,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le poisson pour la conservation",
+              "code_ogr": 126245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Récolter les produits de la mer",
+              "code_ogr": 403002,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un bateau",
+              "code_ogr": 124550,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir l'équipement de pêche en bon état",
+              "code_ogr": 123102,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser le remaillage d'un filet en s'assurant du respect minimal ou maximal de la taille du maillage",
+              "code_ogr": 122279,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'état de l'embarcation pendant la navigation, détecter les anomalies (avaries, ...) et en informer le maître d'équipage ou l'officier de quart",
+              "code_ogr": 100387,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Manœuvrer les engins de pêche (chaluts, filets, ...) et participer à la préparation et au stockage des captures",
+              "code_ogr": 114981,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Remonter un filet de pêche",
+              "code_ogr": 123079,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un noeud d'accrochage",
+              "code_ogr": 119908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier des produits de la pêche",
+              "code_ogr": 123080,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Surveiller la route d'un bateau",
+              "code_ogr": 100238,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Préparer et actionner les équipements du navire (ancres, câbles, cordages et gréement...) lors des manoeuvres d'appareillage ou d'accostage",
+              "code_ogr": 110360,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser ou contrôler les manoeuvres du navire et les opérations de pêche",
+              "code_ogr": 100239,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Gérer les ressources naturelles de manière durable",
+              "code_ogr": 482269,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Commercialiser les produits récoltés ou pêchés",
+              "code_ogr": 405501,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec l'équipage en cas d'urgence",
+              "code_ogr": 484324,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+              "code_ogr": 300147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité",
+              "code_ogr": 402294,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les équipements de navigation électronique",
+              "code_ogr": 507354,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de sonars",
+              "code_ogr": 499268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipement de secours et de sauvetage",
+              "code_ogr": 100243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des produits de la mer",
+              "code_ogr": 119446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du matériel de pêche",
+              "code_ogr": 123103,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat de marin qualifié pont",
+              "code_ogr": 490984,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP maritime",
+              "code_ogr": 512404,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro polyvalent navigant pont/machine",
+              "code_ogr": 515012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet de capitaine 200 pêche",
+              "code_ogr": 404674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude au commandement à la petite pêche",
+              "code_ogr": 404672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de matelot pont",
+              "code_ogr": 490690,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Ecosystèmes marins",
+              "code_ogr": 479092,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informatique des systèmes embarqués",
+              "code_ogr": 118821,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pêche",
+              "code_ogr": 122285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitement du poisson à bord",
+              "code_ogr": 122405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pêche durable",
+              "code_ogr": 479090,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources halieutiques",
+              "code_ogr": 479084,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation de la pêche",
+              "code_ogr": 100078,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion des déchets en mer",
+              "code_ogr": 479091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de carte marine",
+              "code_ogr": 100205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité à bord des navires (personnes et marchandises)",
+              "code_ogr": 110319,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité maritime",
+              "code_ogr": 100246,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenance préventive des équipements de pêche",
+              "code_ogr": 479085,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de matelotage",
+              "code_ogr": 100392,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de navigation",
+              "code_ogr": 110367,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail le dimanche",
+          "code_ogr": 300793
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1427 - Goémonier / Goémonière",
+      "code_org_rome_cible": 488776,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1404 - Aquaculteur / Aquacultrice",
+      "code_org_rome_cible": 18,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N3102 - Matelot machine de la marine marchande",
+      "code_org_rome_cible": 518,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "I1605 - Mécanicien / Mécanicienne en mécanique marine ou navale",
+      "code_org_rome_cible": 329,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1601 - Préparateur / Préparatrice de bateau",
+      "code_org_rome_cible": 325,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1425 - Ramendeur / Ramendeuse",
+      "code_org_rome_cible": 488728,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1406 - Capitaine de pêche",
+      "code_org_rome_cible": 20,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1105 - Poissonnier / Poissonnière",
+      "code_org_rome_cible": 84,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N3203 - Ouvrier / Ouvrière de manutention portuaire",
+      "code_org_rome_cible": 522,
+      "ordre_mobilite": 10
+    }
+  ]
+}

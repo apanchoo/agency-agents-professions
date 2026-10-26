@@ -1,0 +1,268 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488286,
+    "code_rome": "H2506",
+    "libelle": "Chef / Cheffe de production en industrie agroalimentaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H2504"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.762,
+      "matched_terms": [
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2504",
+      "title_terms": [
+        "production"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.OSC.11",
+          "title": "Mesure de la performance tout au long de la Supply Chain",
+          "page": 232,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=232",
+          "selection_score": 54.2404,
+          "shared_terms": [
+            "chain",
+            "performance",
+            "supply"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.07",
+          "title": "Amélioration de la performance",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=141",
+          "selection_score": 53.0469,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.OSC.09",
+          "title": "Reverse Supply Chain",
+          "page": 273,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=273",
+          "selection_score": 50.2575,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.03",
+          "title": "Projet Supply Chain en tant que technicien",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=191",
+          "selection_score": 44.8468,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OSC.03",
+          "title": "Projet Supply Chain en tant que cadre intermédiaire",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=237",
+          "selection_score": 44.7477,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.775,
+      "matched_terms": [
+        "industri",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2504",
+      "title_terms": [
+        "industri"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Organisation des systèmes industriels 1",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=50",
+          "selection_score": 37.9745,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Informatique 5",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=133",
+          "selection_score": 33.479,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Informatique 1",
+          "page": 42,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=42",
+          "selection_score": 33.1204,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Exécuter des opérations élémentaires de maintenance",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=34",
+          "selection_score": 36.1015,
+          "shared_terms": [
+            "maintenance",
+            "operation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Identifier et réaliser les opérations élémentaires de maintenance",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=59",
+          "selection_score": 35.7983,
+          "shared_terms": [
+            "maintenance",
+            "operation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.533,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2504",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.CQESP.04",
+          "title": "Gestion des risques et amélioration continue",
+          "page": 238,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=238",
+          "selection_score": 73.3927,
+          "shared_terms": [
+            "amelioration",
+            "continue",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "TP Production industrielle",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=145",
+          "selection_score": 47.3948,
+          "shared_terms": [
+            "industrielle",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Equilibres et transferts de matière dans les opérations unitaires",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=105",
+          "selection_score": 42.7198,
+          "shared_terms": [
+            "matiere",
+            "operation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CPIT.01",
+          "title": "Conception, optimisation et conduite d’un procédé.",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=141",
+          "selection_score": 33.9989,
+          "shared_terms": [
+            "optimisation",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CQESP.02",
+          "title": "Etude QSE d’une installation de production ou de traitement (1)",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=172",
+          "selection_score": 31.1158,
+          "shared_terms": [
+            "production",
+            "traitement"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

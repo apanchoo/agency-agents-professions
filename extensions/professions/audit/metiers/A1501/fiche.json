@@ -1,0 +1,512 @@
+{
+  "numero": 66,
+  "rome": {
+    "code_rome": "A1501",
+    "intitule": "Auxiliaire vétérinaire",
+    "code_ogr": 32
+  },
+  "appellations": [
+    {
+      "libelle": "Aide-vétérinaire",
+      "libelle_court": "Aide-vétérinaire",
+      "code_ogr": 10899
+    },
+    {
+      "libelle": "Auxiliaire de santé animale",
+      "libelle_court": "Auxiliaire de santé animale",
+      "code_ogr": 11449
+    },
+    {
+      "libelle": "Auxiliaire de soins aux animaux",
+      "libelle_court": "Auxiliaire de soins aux animaux",
+      "code_ogr": 11450
+    },
+    {
+      "libelle": "Auxiliaire de soins vétérinaires",
+      "libelle_court": "Auxiliaire de soins vétérinaires",
+      "code_ogr": 11451
+    },
+    {
+      "libelle": "Auxiliaire de vétérinaire",
+      "libelle_court": "Auxiliaire de vétérinaire",
+      "code_ogr": 11452
+    },
+    {
+      "libelle": "Auxiliaire Spécialisé / Spécialisée Vétérinaire (ASV)",
+      "libelle_court": "Auxiliaire Spécialisé / Spécialisée Vétérinaire (ASV)",
+      "code_ogr": 11463
+    },
+    {
+      "libelle": "Auxiliaire Vétérinaire Qualifié / Qualifiée (AVQ)",
+      "libelle_court": "Auxiliaire Vétérinaire Qualifié / Qualifiée (AVQ)",
+      "code_ogr": 11465
+    }
+  ],
+  "definition": "L'auxiliaire vétérinaire, au contact direct des animaux et de leur propriétaire, assiste et seconde le vétérinaire au sein du cabinet ou de la clinique. Gère les rendez-vous, les dossiers médicaux et assure la gestion des stocks de médicaments et de matériel Accueille et conseille les clients sur les soins de base, les soins préventifs et le bien-être animal Prépare les animaux, les instruments et les équipements nécessaires aux interventions Assiste le vétérinaire lors des consultations, des soins et des interventions chirurgicales Nettoie et désinfecte le matériel et les cages Peut effectuer des soins de base et des suivis post-opératoires sous la supervision du vétérinaire",
+  "acces_metier": "Cet emploi est accessible avec un Certificat de Qualification Professionnelle d'Auxiliaire Vétérinaire Qualifié ou un BEP/CAP Diplôme d'Auxiliaire Vétérinaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accueillir et rassurer les personnes accueillies",
+              "code_ogr": 482930,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller le propriétaire sur l'alimentation, l'exercice, l'environnement, pour maintenir la santé et le bien-être de l'animal",
+              "code_ogr": 405436,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Administrer des produits vétérinaires",
+              "code_ogr": 119894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assister le vétérinaire lors des examens et des interventions chirurgicales",
+              "code_ogr": 505438,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer la surveillance post-opératoire d'un animal",
+              "code_ogr": 113946,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le comportement et l'état de santé d'un animal",
+              "code_ogr": 119351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier le motif de consultation, le degré d'urgence et informer le propriétaire de l'animal sur les modalités de prise en charge",
+              "code_ogr": 100408,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le matériel et apporter une aide technique au vétérinaire, à l'éleveur, ...",
+              "code_ogr": 100410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer un animal pour une intervention chirurgicale",
+              "code_ogr": 511257,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stériliser et préparer les instruments chirurgicaux",
+              "code_ogr": 501312,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner le matériel et les produits et préparer l'animal au toilettage par désinfection, douche, ...",
+              "code_ogr": 100447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner le dossier de suivi de l'animal et proposer des soins ultérieurs",
+              "code_ogr": 100450,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer et désinfecter le matériel après chaque utilisation",
+              "code_ogr": 507413,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de médicaments vétérinaires",
+              "code_ogr": 505098,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les agendas et planifier des rendez-vous",
+              "code_ogr": 120722,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser les rendez-vous programmés et les urgences vétérinaires",
+              "code_ogr": 501660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les visites de contrôle vétérinaire pour les animaux",
+              "code_ogr": 504249,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la facturation",
+              "code_ogr": 489835,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer des déchets sensibles",
+              "code_ogr": 124708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir les clients et leurs animaux à la clinique",
+              "code_ogr": 505434,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les vétérinaires",
+              "code_ogr": 503615,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer les procédures et répondre aux questions des propriétaires d'animaux",
+              "code_ogr": 505435,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer des documents comptables",
+              "code_ogr": 489828,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les informations sur l'animal (troubles, comportement, antécédents, traitements en cours, etc.) auprès de son accompagnant ou dans le dossier médical",
+              "code_ogr": 100457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de contention animale",
+              "code_ogr": 119112,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Auxiliaire spécialisé vétérinaire",
+              "code_ogr": 513984,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Nutrition animale",
+              "code_ogr": 118972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie animale",
+              "code_ogr": 100132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comportements animaliers",
+              "code_ogr": 480553,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets vétérinaires",
+              "code_ogr": 495110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de désinfection d'équipements médicaux",
+              "code_ogr": 117912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de délivrance des médicaments vétérinaires",
+              "code_ogr": 100420,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prise de température animale",
+              "code_ogr": 498550,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de premiers secours vétérinaires",
+              "code_ogr": 498510,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bloc opératoire",
+          "code_ogr": 400007
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Cabinet libéral",
+          "code_ogr": 300809
+        },
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1309 - Technicien / Technicienne d'élevage équin",
+      "code_org_rome_cible": 509754,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1505 - Animalier / Animalière de laboratoire",
+      "code_org_rome_cible": 488328,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1210 - Vendeur / Vendeuse en animalerie",
+      "code_org_rome_cible": 96,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1511 - Gardien / Gardienne d'animaux",
+      "code_org_rome_cible": 510288,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "A1509 - Comportementaliste animalier / Comportementaliste animalière",
+      "code_org_rome_cible": 509753,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1435 - Eleveur / Eleveuse d'animaux de compagnie",
+      "code_org_rome_cible": 509407,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1426 - Educateur canin / Educatrice canine",
+      "code_org_rome_cible": 488766,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1613 - Télésecrétaire",
+      "code_org_rome_cible": 488885,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1405 - Conseiller / Conseillère en information médicale",
+      "code_org_rome_cible": 106,
+      "ordre_mobilite": 10
+    }
+  ]
+}

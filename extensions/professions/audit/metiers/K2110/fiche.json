@@ -1,0 +1,708 @@
+{
+  "numero": 483,
+  "rome": {
+    "code_rome": "K2110",
+    "intitule": "Enseignant / Enseignante de la conduite et de la sécurité routière",
+    "code_ogr": 413
+  },
+  "appellations": [
+    {
+      "libelle": "Moniteur / Monitrice d'auto-école",
+      "libelle_court": "Moniteur / Monitrice d'auto-école",
+      "code_ogr": 16723
+    },
+    {
+      "libelle": "Moniteur / Monitrice d'auto-école groupe lourds",
+      "libelle_court": "Moniteur / Monitrice d'auto-école groupe lourds",
+      "code_ogr": 16724
+    },
+    {
+      "libelle": "Moniteur / Monitrice de bateau-école",
+      "libelle_court": "Moniteur / Monitrice de bateau-école",
+      "code_ogr": 16725
+    },
+    {
+      "libelle": "Moniteur / Monitrice moto",
+      "libelle_court": "Moniteur / Monitrice moto",
+      "code_ogr": 16745
+    },
+    {
+      "libelle": "Moniteur / Monitrice motocycle",
+      "libelle_court": "Moniteur / Monitrice motocycle",
+      "code_ogr": 16746
+    },
+    {
+      "libelle": "Moniteur / Monitrice poids lourds",
+      "libelle_court": "Moniteur / Monitrice poids lourds",
+      "code_ogr": 16747
+    }
+  ],
+  "definition": "L'enseignant de la conduite et de la sécurité routière contribue à la mise en œuvre de la politique de sécurité routière. Conçoit et anime des séances individuelles ou collectives de formation théorique ou pratique à la sécurité routière et à la conduite d'un véhicule des catégories : B, B1 et BE, AM, A1, A2, C1, C1E, D1, D1E, D et DE Conçoit et réalise des actions de sensibilisation à la sécurité routière, aux nouvelles mobilités et au respect de l'environnement auprès des usagers de la route",
+  "acces_metier": "La profession d'enseignant de la sécurité routière et de la conduite automobile est une activité réglementée. L'exercice de cette profession est subordonné à l' obtention : - du Titre Professionnel Enseignant de la Conduite et de la Sécurité Routière et de l'autorisation administrative d'enseigner. -ou du BEPECASER obtenu avant le 31 décembre 2016 ou l'un des titres et diplômes mentionnés au point III de l'article R. 212-3 du code de la route et de l'autorisation administrative d'enseigner. Cette autorisation, délivrée par le préfet, est valable pour une période de 5 ans. Elle doit être renouvelée à l'issue de cette période. Pour l'enseignement des catégories \"deux roues\" ou \"groupe lourd\", il est nécessaire d'obtenir le CCS correspondant et l'autorisation administrative d'enseigner.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner l'apprentissage de la conduite routière",
+              "code_ogr": 123049,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir l'ingénierie de formation et les séquences pédagogiques",
+              "code_ogr": 300026,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer les capacités des candidats à la conduite de véhicules",
+              "code_ogr": 300510,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer des acquis d'apprentissage, de formation ou d'expérience",
+              "code_ogr": 300018,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer le nombre d'heures de code, de conduite ou de pilotage",
+              "code_ogr": 124590,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des sessions de formation pratique",
+              "code_ogr": 485526,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier des parcours d'apprentissage adaptés",
+              "code_ogr": 505725,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'état de fonctionnement du véhicule",
+              "code_ogr": 110527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des opérations de base de maintenance du véhicule",
+              "code_ogr": 126214,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Favoriser un environnement d'apprentissage sécurisé",
+              "code_ogr": 501157,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Evaluer la qualité et la conformité d'une formation",
+              "code_ogr": 300251,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Conduire un véhicule routier",
+              "code_ogr": 300270,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer un planning",
+              "code_ogr": 300464,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Réduire l'empreinte environnementale de son activité",
+              "code_ogr": 402008,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Améliorer la qualité de service",
+              "code_ogr": 300380,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer à l'écrit de façon appropriée",
+              "code_ogr": 300405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer et gérer des relations interpersonnelles",
+              "code_ogr": 300463,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son activité",
+              "code_ogr": 300462,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser un public à une réglementation",
+              "code_ogr": 123656,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+              "code_ogr": 300147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une veille juridique et réglementaire",
+              "code_ogr": 504297,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une veille documentaire",
+              "code_ogr": 300119,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Actualiser régulièrement ses connaissances",
+              "code_ogr": 300492,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de simulateurs de conduite",
+              "code_ogr": 499265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de matériel pédagogique",
+              "code_ogr": 499229,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Permis de conduire catégorie AM - brevet de sécurité routière option cyclomoteur",
+              "code_ogr": 491637,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie DE",
+              "code_ogr": 126458,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie AM - brevet de sécurité routière option quadricycle léger à moteur",
+              "code_ogr": 491638,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie A2",
+              "code_ogr": 512463,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie B",
+              "code_ogr": 123456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie C",
+              "code_ogr": 491634,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie D1E",
+              "code_ogr": 126457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie C1E",
+              "code_ogr": 126454,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel enseignant de la conduite et de la sécurité routière",
+              "code_ogr": 512488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR (habilitation)",
+              "code_ogr": 491616,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie D",
+              "code_ogr": 123457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie A",
+              "code_ogr": 123455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie B1",
+              "code_ogr": 491639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie CE",
+              "code_ogr": 126455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie A1",
+              "code_ogr": 491636,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie BE",
+              "code_ogr": 126452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie C1",
+              "code_ogr": 126453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie D1",
+              "code_ogr": 126456,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des différents types de véhicules",
+              "code_ogr": 492799,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veille pédagogique",
+              "code_ogr": 499424,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des outils informatiques (Internet, messagerie électronique) et bureautiques (Word, Excel, PowerPoint)",
+              "code_ogr": 403123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de l'andragogie (apprentissage des adultes)",
+              "code_ogr": 496927,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prévention des risques",
+              "code_ogr": 119596,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibilisation aux enjeux écologiques",
+              "code_ogr": 497483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des leçons de conduite",
+              "code_ogr": 496592,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénierie de formation",
+              "code_ogr": 512602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de technologies d'assistance à la conduite",
+              "code_ogr": 499329,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Code de la route",
+              "code_ogr": 512620,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Principes de l'écoconduite",
+              "code_ogr": 140977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire de l'enseignement de la sécurité routière et de la conduite",
+              "code_ogr": 491812,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matrice GDE (Goals for Drivers Education)",
+              "code_ogr": 512609,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Règles de conduite et de sécurité routière",
+              "code_ogr": 108568,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Référentiel pour l'Education à une Mobilité Citoyenne",
+              "code_ogr": 512650,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Méthodes de formation continue",
+              "code_ogr": 496070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des plaintes et des requêtes clients",
+              "code_ogr": 477901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'animation de groupes",
+              "code_ogr": 102344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'écoute active et de médiation",
+              "code_ogr": 404565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Premiers secours en cas d'accident",
+              "code_ogr": 496733,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de recrutement et d'intégration",
+              "code_ogr": 496091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animation de sessions de formation",
+              "code_ogr": 477368,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des principes de l'évaluation formative",
+              "code_ogr": 493259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de supports pédagogiques variés",
+              "code_ogr": 499272,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Adultes",
+          "code_ogr": 300820
+        },
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        },
+        {
+          "libelle": "Mineurs (- 18 ans)",
+          "code_ogr": 300835
+        },
+        {
+          "libelle": "Personnes en situation de handicap",
+          "code_ogr": 300840
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail durant les vacances scolaires",
+          "code_ogr": 403826
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Organisme de formation",
+          "code_ogr": 405286
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "95",
+      "libelle": "Automobile",
+      "principal": false
+    },
+    {
+      "code": "112",
+      "libelle": "Enseignement et formation",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2145 - Formateur / Formatrice de formateurs",
+      "code_org_rome_cible": 510398,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2141 - Formateur / Formatrice conduite d'engins de travaux publics",
+      "code_org_rome_cible": 510141,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1404 - Chargé / Chargée de mission développement territorial",
+      "code_org_rome_cible": 382,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1204 - Médiateur social / Médiatrice sociale",
+      "code_org_rome_cible": 371,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4102 - Conducteur / Conductrice de transport de particuliers",
+      "code_org_rome_cible": 524,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4130 - Conducteur / Conductrice de voiture radar à conduite externalisée",
+      "code_org_rome_cible": 489057,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1238 - Chef / Cheffe d'agence de location de véhicules",
+      "code_org_rome_cible": 510014,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2128 - Formateur / Formatrice aux métiers de l'éducation et de la sécurité routière",
+      "code_org_rome_cible": 509671,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2115 - Conseiller principal / Conseillère principale d'éducation",
+      "code_org_rome_cible": 488886,
+      "ordre_mobilite": 9
+    }
+  ]
+}

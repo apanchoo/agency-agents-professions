@@ -1,0 +1,731 @@
+{
+  "numero": 290,
+  "rome": {
+    "code_rome": "I1606",
+    "intitule": "Carrossier-peintre / Carrossière-peintre",
+    "code_ogr": 330
+  },
+  "appellations": [
+    {
+      "libelle": "Aide carrossier / Aide carrossière",
+      "libelle_court": "Aide carrossier / Aide carrossière",
+      "code_ogr": 10817
+    },
+    {
+      "libelle": "Apprenti carrossier / Apprentie carrossière",
+      "libelle_court": "Apprenti carrossier / Apprentie carrossière",
+      "code_ogr": 488797
+    },
+    {
+      "libelle": "Artisan carrossier / Artisane carrossière",
+      "libelle_court": "Artisan carrossier / Artisane carrossière",
+      "code_ogr": 488805
+    },
+    {
+      "libelle": "Carrossier / Carrossière",
+      "libelle_court": "Carrossier / Carrossière",
+      "code_ogr": 11698
+    },
+    {
+      "libelle": "Carrossier / Carrossière en véhicules industriels",
+      "libelle_court": "Carrossier / Carrossière en véhicules industriels",
+      "code_ogr": 11699
+    },
+    {
+      "libelle": "Carrossier / Carrossière poids lourds",
+      "libelle_court": "Carrossier / Carrossière poids lourds",
+      "code_ogr": 11700
+    },
+    {
+      "libelle": "Carrossier peintre / Carrossière peintre automobile",
+      "libelle_court": "Carrossier peintre / Carrossière peintre automobile",
+      "code_ogr": 490430
+    },
+    {
+      "libelle": "Carrossier-réparateur / Carrossière-réparatrice",
+      "libelle_court": "Carrossier-réparateur / Carrossière-réparatrice",
+      "code_ogr": 11702
+    },
+    {
+      "libelle": "Carrossier-tôlier / Carrossière-tôlière",
+      "libelle_court": "Carrossier-tôlier / Carrossière-tôlière",
+      "code_ogr": 11703
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière finition carrosserie",
+      "libelle_court": "Ouvrier / Ouvrière finition carrosserie",
+      "code_ogr": 17500
+    },
+    {
+      "libelle": "Réparateur / Réparatrice de carrosserie automobile",
+      "libelle_court": "Réparateur / Réparatrice de carrosserie automobile",
+      "code_ogr": 18516
+    },
+    {
+      "libelle": "Réparateur / Réparatrice en carrosserie",
+      "libelle_court": "Réparateur / Réparatrice en carrosserie",
+      "code_ogr": 18524
+    }
+  ],
+  "definition": "Le carrossier - peintre automobile réalise l'ensemble des interventions en carrosserie et en peinture sur un véhicule, incluant le diagnostic des déformations de véhicules accidentés, intervient sur les éléments de structure du véhicule. et son activité comporte également la réalisation de l'ensemble d'une intervention en peinture, de la préparation des surfaces à l'application des couches de finition. Remet en forme des éléments de carrosserie Remplace un élément inamovible avec soudure Estime le cout d'une intervention en carrosserie-peinture en vue de l'intervention d'un expert Réalise un raccord peinture Répare un élément composite",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac professionnel . Un titre à finalité professionnelle existe également. Des habilitations telles que l'attestation de capacité à la manipulation des fluides frigorigènes, ainsi qu'un titre d'habilitation BOL/BCL/B2VL/BCL peuvent être recommandés.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Appuyer techniquement les collaborateurs de l'atelier",
+              "code_ogr": 490483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tutorer les jeunes en formation",
+              "code_ogr": 490482,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser un logiciel de chiffrage",
+              "code_ogr": 490490,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer et sécher les produits de réfection d'un support en matériau composite",
+              "code_ogr": 490466,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer les normes relatives à la manipulation de fluides frigorigènes",
+              "code_ogr": 489755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer une résine/toile ou mat pour réparer un matériau composite",
+              "code_ogr": 490465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poncer les surfaces pour préparer l'application de peinture",
+              "code_ogr": 490463,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Protéger les surfaces non peintes",
+              "code_ogr": 490464,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer la teinte et les produits de finition pour l'opération de peinture",
+              "code_ogr": 490474,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les surfaces par pose de mastic et applicage d'apprêt",
+              "code_ogr": 490462,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un raccord peinture",
+              "code_ogr": 490469,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Déposer et reposer les organes mécaniques",
+              "code_ogr": 490450,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déposer et reposer les principaux organes électriques et électroniques",
+              "code_ogr": 490452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déposer et reposer les éléments du système climatisation",
+              "code_ogr": 490448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poser et déposer des éléments amovibles",
+              "code_ogr": 490442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remplacer les éléments défectueux des trains roulants",
+              "code_ogr": 490456,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la géométrie des châssis, coques, berceaux et redresser les éléments de carrosserie déformés ou les remplacer",
+              "code_ogr": 107098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la structure du véhicule",
+              "code_ogr": 490457,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Diagnostiquer les écarts d'angles des trains roulants",
+              "code_ogr": 490455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diagnostiquer un vitrage afin de s'assurer de sa réparabilité",
+              "code_ogr": 490445,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recharger les éléments du système de climatisation",
+              "code_ogr": 490449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Redresser un élément de carrosserie en acier",
+              "code_ogr": 484285,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Remettre en ligne la structure du véhicule (géométrie des roues)",
+              "code_ogr": 490460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remettre le véhicule en état de fonctionnement et de conformité",
+              "code_ogr": 490454,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Remplacer un vitrage inamovible ou amovible",
+              "code_ogr": 107099,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer des impacts et fissures de vitrage",
+              "code_ogr": 490436,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer un matériau composite par soudage",
+              "code_ogr": 490461,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Appliquer les normes relatives à la prévention des risques électriques",
+              "code_ogr": 489756,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en sécurité les systèmes électriques et airbags",
+              "code_ogr": 490480,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de produits de peinture et de consommables",
+              "code_ogr": 490476,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Pré chiffrer l'intervention en carrosserie peinture",
+              "code_ogr": 490479,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller les clients sur les interventions techniques en carrosserie peinture nécessaire et les options de réparation",
+              "code_ogr": 490481,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Renseigner un ordre de réparation afin d'assurer la traçabilité des travaux réalisés",
+              "code_ogr": 489871,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réagir face à l'imprévu et être force de proposition en cas de dysfonctionnement",
+              "code_ogr": 403306,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des enduits",
+              "code_ogr": 103571,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux en plastiques et composites",
+              "code_ogr": 105976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ponceuses, pistolets à peinture et autres outils de préparation de surface",
+              "code_ogr": 490491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques et propriétés des bois et dérivés du bois",
+              "code_ogr": 104893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Equipements de contrôle de géométrie (marbre, pont de mesure, ...)",
+              "code_ogr": 119051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des colles",
+              "code_ogr": 103612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appareils de mesure et de réglage d'optique",
+              "code_ogr": 119053,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériel de levage",
+              "code_ogr": 100213,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Habilitation électrique BOL/BCL/B2VL/BCL",
+              "code_ogr": 489649,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP réparation des carrosseries",
+              "code_ogr": 491289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Attestation d'aptitude à la manipulation des fluides frigorigènes - catégorie 5",
+              "code_ogr": 489580,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP peinture en carrosserie",
+              "code_ogr": 491190,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP peintre automobile",
+              "code_ogr": 491189,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP peintre en carrosserie",
+              "code_ogr": 491192,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro carrossier peintre automobile",
+              "code_ogr": 491187,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Carrossier peintre",
+              "code_ogr": 491191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP carrossier automobile",
+              "code_ogr": 491286,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Systèmes de refroidissement",
+              "code_ogr": 478616,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés des matériaux de carrosserie : acier, aluminium, matériaux composites",
+              "code_ogr": 489395,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Risques électriques",
+              "code_ogr": 489701,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de remplacement de vitrage",
+              "code_ogr": 490499,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Eléments de sellerie",
+              "code_ogr": 490485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des systèmes de climatisation",
+              "code_ogr": 490487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des systèmes de freinage",
+              "code_ogr": 490488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Architectures de montages des trains avant et arrière",
+              "code_ogr": 489579,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité automobile",
+              "code_ogr": 119047,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des peintures automobile : composition, pigment, liant, etc",
+              "code_ogr": 481358,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Angles de géométrie",
+              "code_ogr": 489578,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de granulométrie",
+              "code_ogr": 490496,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation liée aux véhicules",
+              "code_ogr": 101959,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de manipulation de produits toxiques",
+              "code_ogr": 102690,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de redressage",
+              "code_ogr": 106091,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de polissage de carrosserie",
+              "code_ogr": 481736,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de lustrage",
+              "code_ogr": 105386,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de remplissage (étamage/mastic)",
+              "code_ogr": 490502,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vérinage",
+              "code_ogr": 490501,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de rivetage",
+              "code_ogr": 106393,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de collage",
+              "code_ogr": 100800,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de marouflage",
+              "code_ogr": 121964,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'application peinture",
+              "code_ogr": 490498,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de colorimétrie",
+              "code_ogr": 490497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gravage",
+              "code_ogr": 490500,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de sertissage",
+              "code_ogr": 100958,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Position pénible",
+          "code_ogr": 300798
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "95",
+      "libelle": "Automobile",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1610 - Responsable atelier carrosserie",
+      "code_org_rome_cible": 488613,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "I1604 - Mécanicien / Mécanicienne automobile",
+      "code_org_rome_cible": 328,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2705 - Pilote de ligne de production de composants et de cellules pour batteries de véhicules électriques",
+      "code_org_rome_cible": 489071,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2602 - Câbleur / Câbleuse d'armoires",
+      "code_org_rome_cible": 268,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4401 - Aiguilleur / Aiguilleure du rail",
+      "code_org_rome_cible": 534,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H3404 - Peintre industriel / Peintre industrielle",
+      "code_org_rome_cible": 303,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "E1302 - Conducteur / Conductrice de machines de façonnage routage",
+      "code_org_rome_cible": 133,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1103 - Chef / Cheffe d'atelier après-vente des véhicules (auto, moto, VTR)",
+      "code_org_rome_cible": 306,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1404 - Vendeur / Vendeuse automobile",
+      "code_org_rome_cible": 105,
+      "ordre_mobilite": 10
+    }
+  ]
+}

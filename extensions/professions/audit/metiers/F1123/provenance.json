@@ -1,0 +1,100 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489200,
+    "code_rome": "F1123",
+    "libelle": "Glaciologue",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1105"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.77,
+      "matched_terms": [
+        "climat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1105",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.EXPLOIT.07",
+          "title": "Statistiques",
+          "page": 181,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=181",
+          "selection_score": 32.864,
+          "shared_terms": [
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.REAL.06",
+          "title": "Utilisation avancée des tableurs",
+          "page": 530,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=530",
+          "selection_score": 29.0407,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OPTIM.04",
+          "title": "Bioclimatisme et Simulation Energétique Dynamique",
+          "page": 434,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=434",
+          "selection_score": 24.9483,
+          "shared_terms": [
+            "dynamique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.REAL.01",
+          "title": "Mise en œuvre et intégration d’une installation complexe à un projet global jusqu’au parfait achèvement",
+          "page": 545,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=545",
+          "selection_score": 20.2885,
+          "shared_terms": [
+            "global"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Préparation de l’instrumentation d’une installation ou d’un bâtiment et mesures en vue de la réalisation de son bilan énergétique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=57",
+          "selection_score": 17.684,
+          "shared_terms": [
+            "vue"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

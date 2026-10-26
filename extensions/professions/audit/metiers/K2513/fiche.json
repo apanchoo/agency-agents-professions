@@ -1,0 +1,448 @@
+{
+  "numero": 33396,
+  "rome": {
+    "code_rome": "K2513",
+    "intitule": "Gardien / Gardienne de locaux",
+    "code_ogr": 510072
+  },
+  "appellations": [
+    {
+      "libelle": "Gardien / Gardienne chef",
+      "libelle_court": "Gardien / Gardienne chef",
+      "code_ogr": 15214
+    },
+    {
+      "libelle": "Gardien / Gardienne de cimetière municipal",
+      "libelle_court": "Gardien / Gardienne de cimetière municipal",
+      "code_ogr": 15215
+    },
+    {
+      "libelle": "Gardien / Gardienne de collège",
+      "libelle_court": "Gardien / Gardienne de collège",
+      "code_ogr": 15216
+    },
+    {
+      "libelle": "Gardien / Gardienne de gymnase",
+      "libelle_court": "Gardien / Gardienne de gymnase",
+      "code_ogr": 510127
+    },
+    {
+      "libelle": "Gardien / Gardienne de stade",
+      "libelle_court": "Gardien / Gardienne de stade",
+      "code_ogr": 510126
+    },
+    {
+      "libelle": "Gardien / Gardienne de toilettes",
+      "libelle_court": "Gardien / Gardienne de toilettes",
+      "code_ogr": 15224
+    },
+    {
+      "libelle": "Gardien / Gardienne d'établissement scolaire",
+      "libelle_court": "Gardien / Gardienne d'établissement scolaire",
+      "code_ogr": 15227
+    },
+    {
+      "libelle": "Gardien régisseur / Gardienne régisseuse",
+      "libelle_court": "Gardien régisseur / Gardienne régisseuse",
+      "code_ogr": 15232
+    }
+  ],
+  "definition": "Le gardien de locaux veille à la sécurité et à la propreté des espaces qui lui sont confiés. Surveille les entrées et sorties des visiteurs et résidents pour garantir la sécurité des lieux Gère les incidents et les urgences en appliquant les procédures de sécurité appropriées Réalise des rondes régulières pour prévenir toute activité suspecte ou dangereuse Entretient les espaces communs et privés pour assurer la propreté et l'hygiène Peut effectuer des petites réparations et de la maintenance de premier niveau",
+  "acces_metier": "Ce métier est accessible sans qualification particulière, mais des formations dans le domaine de la sécurité peuvent être un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accueillir et informer les visiteurs, usagers ou intervenants",
+              "code_ogr": 518783,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer l'entretien courant des locaux (petites réparations)",
+              "code_ogr": 518779,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les clés des locaux",
+              "code_ogr": 505865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Intervenir sur des dépannages simples ou alerter les services techniques si nécessaire",
+              "code_ogr": 518780,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler l'application des consignes de sécurité",
+              "code_ogr": 402012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un dispositif de sécurité",
+              "code_ogr": 104016,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Maintenir un registre des opérations effectuées",
+              "code_ogr": 486459,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rapporter toute anomalie ou incident",
+              "code_ogr": 484279,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les conflits en cas de litige avec un client",
+              "code_ogr": 485844,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Contrôler l'accès et la circulation des personnes sur le site",
+              "code_ogr": 516896,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler les portes, fenêtres, issues de secours et serrures",
+              "code_ogr": 518784,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer des rondes de surveillance",
+              "code_ogr": 404881,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les flux de personnes",
+              "code_ogr": 485188,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les objets trouvés",
+              "code_ogr": 484501,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur le site",
+              "code_ogr": 300619,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Effectuer un reporting régulier à la hiérarchie",
+              "code_ogr": 403441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter son comportement, sa pratique professionnelle aux situations",
+              "code_ogr": 404186,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les services concernés des réclamations, anomalies, dysfonctionnements et dégradations",
+              "code_ogr": 108823,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Intervenir en cas d'incident ou d'urgence",
+              "code_ogr": 505866,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir un environnement propre et accueillant",
+              "code_ogr": 108821,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller le respect des règles et des procédures internes",
+              "code_ogr": 506909,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'équipements de surveillance",
+              "code_ogr": 104290,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnalités des équipements et systèmes de sécurité (alarmes, détecteurs, etc.)",
+              "code_ogr": 104285,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Application des procédures d'urgence",
+              "code_ogr": 480037,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité",
+              "code_ogr": 103130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'accueil",
+              "code_ogr": 126265,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Surveillance par système de vidéosurveillance",
+              "code_ogr": 497799,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance des accès et contrôle des entrées et sorties",
+              "code_ogr": 497743,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rapport d'incidents et anomalies",
+              "code_ogr": 497124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des clés et des badges d'accès",
+              "code_ogr": 495012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de premier niveau des équipements de sécurité",
+              "code_ogr": 495784,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des visiteurs et des livraisons",
+              "code_ogr": 495570,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement scolaire",
+          "code_ogr": 405244
+        },
+        {
+          "libelle": "Structure sportive",
+          "code_ogr": 403961
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2504 - Agent / Agente de sécurité événementielle",
+      "code_org_rome_cible": 404548,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2503 - Agent / Agente de prévention et de sécurité",
+      "code_org_rome_cible": 430,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2502 - Responsable sécurité de site",
+      "code_org_rome_cible": 429,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K2501 - Gardien / Gardienne d'immeuble",
+      "code_org_rome_cible": 428,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2203 - Responsable de secteur en propreté de locaux",
+      "code_org_rome_cible": 418,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1204 - Médiateur social / Médiatrice sociale",
+      "code_org_rome_cible": 371,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1221 - Ecoutant social / Ecoutante sociale",
+      "code_org_rome_cible": 509896,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1308 - Animateur / Animatrice en Hygiène Sécurité Environnement (HSE)",
+      "code_org_rome_cible": 489181,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2113 - Accompagnant / Accompagnante des élèves en situation de handicap (AESH)",
+      "code_org_rome_cible": 404546,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "I1203 - Agent / Agente d'entretien du bâtiment",
+      "code_org_rome_cible": 309,
+      "ordre_mobilite": 10
+    }
+  ]
+}

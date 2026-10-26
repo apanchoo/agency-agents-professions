@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 145,
+    "code_rome": "F1104",
+    "libelle": "Dessinateur-projeteur / Dessinatrice-projeteuse de la construction",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1104"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 91.231,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1104",
+      "title_terms": [
+        "construction"
+      ],
+      "specific_title_terms": [
+        "construction"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Topographie 2",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=104",
+          "selection_score": 69.4665,
+          "shared_terms": [
+            "topographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Topographie 1",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=76",
+          "selection_score": 69.1033,
+          "shared_terms": [
+            "topographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Technologie des Travaux Publics 2",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=105",
+          "selection_score": 67.4594,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Projet de voiries et de réseaux divers (VRD)",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=88",
+          "selection_score": 123.0853,
+          "shared_terms": [
+            "diver",
+            "reseaux",
+            "voirie",
+            "vrd"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BAT.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine du bâtiment",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=145",
+          "selection_score": 77.347,
+          "shared_terms": [
+            "batiment",
+            "budget",
+            "chantier",
+            "installation",
+            "plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

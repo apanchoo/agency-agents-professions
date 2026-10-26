@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489206,
+    "code_rome": "I1320",
+    "libelle": "Technicien / Technicienne de maintenance d'équipements connectés",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1307"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 48.308,
+      "matched_terms": [
+        "equipement",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1307",
+      "title_terms": [
+        "equipement",
+        "maintenance"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.3MI.05",
+          "title": "Maintenance prévisionnelle 6",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=162",
+          "selection_score": 65.7274,
+          "shared_terms": [
+            "maintenance",
+            "previsionnelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 61.0049,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 60.9954,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ISP.02",
+          "title": "Installer un système en équipe",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=211",
+          "selection_score": 63.7308,
+          "shared_terms": [
+            "installer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 46.0813,
+          "shared_terms": [
+            "equipement",
+            "installation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.378,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1307",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Fibres optiques et propagation",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=128",
+          "selection_score": 74.1937,
+          "shared_terms": [
+            "fibre",
+            "optique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.PILPRO.09",
+          "title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "selection_score": 71.5317,
+          "shared_terms": [
+            "reseaux",
+            "technologie",
+            "telecom"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IOM.10",
+          "title": "Conception et étude de performance des réseaux IoT",
+          "page": 331,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=331",
+          "selection_score": 56.9318,
+          "shared_terms": [
+            "iot",
+            "performance",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.IOM.01",
+          "title": "Implémenter les réseaux et protocoles sans fil dédiés à l’IoT",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=295",
+          "selection_score": 55.08,
+          "shared_terms": [
+            "iot",
+            "protocole",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.IOM.03",
+          "title": "Concevoir un réseau multi-sites intégrant des objets connectés",
+          "page": 270,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=270",
+          "selection_score": 46.9552,
+          "shared_terms": [
+            "connecte",
+            "sites"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.724,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1307",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Systèmes optiques",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=92",
+          "selection_score": 56.4869,
+          "shared_terms": [
+            "optique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Systèmes électroniques",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=93",
+          "selection_score": 42.7104,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Systèmes électriques",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=63",
+          "selection_score": 42.355,
+          "shared_terms": [
+            "electrique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Mettre en œuvre un capteur grâce à des systèmes électroniques",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=74",
+          "selection_score": 51.2373,
+          "shared_terms": [
+            "capteur",
+            "electronique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mettre en œuvre des mesures sur les systèmes optiques",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=71",
+          "selection_score": 51.1781,
+          "shared_terms": [
+            "mesure",
+            "optique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

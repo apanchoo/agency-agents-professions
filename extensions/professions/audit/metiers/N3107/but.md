@@ -1,0 +1,206 @@
+# Enrichissement BUT et preuves
+
+Les rapprochements et la sélection des fiches pédagogiques sont produits par le générateur et restent à relire. Un code cité dans un programme atteste cette mention, sans prouver une équivalence diplôme/métier. Un code parent est distingué d'un code exact. Les pages sont les pages physiques du PDF, base 1. Le texte des pages est une extraction ; les tableaux peuvent perdre leur disposition.
+
+## BUT Management de la logistique et des transports
+
+Fondement : `rapprochement_editorial_domaine_et_termes`. Termes de rapprochement : transport. Pages citant le code exact : aucune ; pages citant le parent N3103 : aucune.
+
+[Programme ministériel](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf) ; SHA-256 `88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc`.
+
+### Ressource R3.03 — Transport maritime et fluvial
+
+[Page 89](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=89). Termes communs : fluvial, maritime, transport.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.3.3. Ressource R3.03 : Transport maritime et fluvial
+> Compétence ciblée :
+> – Concevoir une opération de transport de marchandises et/ou de personnes
+> SAÉ au sein de laquelle la ressource peut être mobilisée et combinée :
+> – SAÉ 3.MSCC.02 | Conception de solutions logistiques en approvisionnement et distribution dans un environnement
+> connecté
+> Descriptif :
+> Connaissance des procédures et de l’organisation du transport maritime et fluvial :
+> – Aspects institutionnels, organisationnels et sociaux (administrations et règlements, acteurs, organisation des profes-
+> sions, nouveaux opérateurs),
+> – Caractéristiques technico économiques de ce mode de transport et des matériels
+> – Exploitation et documents de transport
+> – Procédures de sécurité et de sûreté
+> – Calcul des coûts de revient, établissement des prix, politique commerciale, performance économique et environnemen-
+> tale
+> Apprentissages critiques ciblés :
+> – AC21.01 | Définir la chronologie des opérations et établir des scénarii d’organisation
+> – AC21.02 | Argumenter la pertinence et la faisabilité technique, commerciale et règlementaire des solutions
+> – AC21.03 | Estimer les coûts et la rentabilité de la prestation
+> Mots clés :
+> VNF – réseau fluvial – développement durable – massification – exploitation – multimodalité – intermodalité – comodalité
+> Volume horaire :
+> Volume horaire défini nationalement : 10 heures
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Management de la Logistique et des Transports
+> 89
+
+### Ressource R2.05 — Transport maritime et opérations portuaires
+
+[Page 66](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=66). Termes communs : maritime, operation, transport.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.3.5. Ressource R2.05 : Transport maritime et opérations portuaires
+> Compétence ciblée :
+> – Concevoir une opération de transport de marchandises et/ou de personnes
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 2.01 | Étude de solutions de transport TRM et/ou Maritime
+> Descriptif :
+> Identification des principaux éléments du transport maritime et des opérations portuaires :
+> – Massification des flux, globalisation des acteurs, gigantisme portuaire et développement durable
+> – Transit portuaire : rôle de l’autorité portuaire, rôle de l’opérateur portuaire, sécurisation
+> – Politiques publiques en matière maritime et portuaire (en France, en Europe et dans le monde)
+> – Aspects techniques et réglementation : navires et ports
+> – Offre de transport maritime : lignes régulières et tramping
+> – Métiers du transport maritime
+> – Éléments de cotation, tarification
+> – Contrat d’exploitation commerciale des navires
+> – Sécurité et sûreté du fret maritime : enjeux et principales mesures mises en œuvre (installations portuaires, navires,
+> contrôles)
+> Apprentissages critiques ciblés :
+> – AC11.01 | Identifier les activités, les contraintes, les marchés et leur environnement juridique et règlementaire
+> – AC11.02 | Identifier les principaux éléments de coût d’une activité de transport
+> – AC11.03 | Définir les moyens humains, matériels
+> – AC11.04 | Définir les étapes de mise en oeuvre d’une opération
+> Mots clés :
+> Acteurs – multimodalité – intermodalité – comodalité – exploitation – coûts – sécurité – sûreté – développement durable –
+> massification
+> Volume horaire :
+> Volume horaire défini nationalement : 24 heures
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Management de la Logistique et des Transports
+> 66
+
+### Ressource R1.01 — Géographie des échanges
+
+[Page 38](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=38). Termes communs : geographie.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.3. Fiches Ressources
+> 1.3.1. Ressource R1.01 : Géographie des échanges
+> Compétence ciblée :
+> – Concevoir une opération de transport de marchandises et/ou de personnes
+> SAÉ au sein desquelles la ressource peut être mobilisée et combinée :
+> – SAÉ 1.01 | Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel d’offre
+> Descriptif :
+> Maîtrise des principaux éléments de géographie économique, de géographie des réseaux de transport et des flux au niveau
+> national et mondial.
+> Localisation des grandes infrastructures (autoroutes, voies de chemins de fer, voies fluviales, gares, ports, aéroports, plate-
+> formes logistiques) à l’échelle nationale, européenne et mondiale.
+> – Principaux flux de marchandises et de personnes
+> – Grandes infrastructures de transport et plateformes intermodales, portuaires, aéroportuaires, etc.
+> – Principaux échelons de l’organisation territoriale française : connaissance et localisation
+> L ’enseignement s’appuiera sur la cartographie et l’analyse d’exemples réels à différentes échelles géographiques (régionale,
+> nationale, européenne et mondiale).
+> Apprentissage critique ciblé :
+> – AC11.01 | Identifier les activités, les contraintes, les marchés et leur environnement juridique et règlementaire
+> Mots clés :
+> Réseaux de transport – flux – intermodalité – aménagement du territoire
+> Volume horaire :
+> Volume horaire défini nationalement : 16 heures
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Management de la Logistique et des Transports
+> 38
+
+### SAÉ 2.01 — Étude de solutions de transport TRM et/ou Maritime
+
+[Page 56](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=56). Termes communs : maritime, transport.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 2.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 2.2.1. SAÉ 2.01 : Étude de solutions de transport TRM et/ou Maritime
+> Compétence ciblée :
+> – Concevoir une opération de transport de marchandises et/ou de personnes
+> Objectifs et problématique professionnelle :
+> Les objectifs de cette SAÉ sont les suivants :
+> – Savoir analyser un appel d’offre
+> – Répondre à terme à un appel d’offre de façon soutenable au plan économique, technique et qualitatif
+> En tant que collaborateur dans un service d’exploitation des transports, l’étudiant devra participer à terme à la réponse
+> à un appel d’offre. Ce faisant, il devra répondre à la question suivante :
+> « Comment réaliser une étude de faisabilité d’acheminement de marchandises optimisé en choisissant la solution de transport
+> la plus appropriée ?»
+> Descriptif générique :
+> A partir d’une demande qui émane d’un donneur d’ordre, réaliser une étude de faisabilité d’acheminement de produits au départ
+> d’un ou plusieurs sites de production situés en France.
+> – Comparaison de différentes solutions de transport comme, notamment :
+> – Routier
+> – Transport maritime
+> – Transport intermodal : route / mer
+> – Prise en compte, entre autres, les éléments suivants : routes ou itinéraires, infrastructures portuaires, acteurs, matériels
+> (UTI), cadre juridique, prix et délais, impact environnemental, traçabilité de l’acheminement
+> – Justification du choix de la solution en adéquation avec la demande du donneur d’ordre
+> Apprentissages critiques :
+> – AC11.01 | Identifier les activités, les contraintes, les marchés et leur environnement juridique et règlementaire
+> – AC11.02 | Identifier les principaux éléments de coût d’une activité de transport
+> – AC11.03 | Définir les moyens humains, matériels
+> – AC11.04 | Définir les étapes de mise en oeuvre d’une opération
+> Ressources mobilisées et combinées :
+> – R2.01 | Economie des transports
+> – R2.02 | Calcul de coûts de transport
+> – R2.03 | Transport routier de marchandises : exploitation
+> – R2.05 | Transport maritime et opérations portuaires
+> – R2.12 | Utilisation d’un tableur
+> – R2.13 | Expression, communication et méthodologie de travail universitaire
+> – R2.14 | Anglais professionnel et de communication
+> – R2.15 | Langue vivante 2, langue professionnelle et de communication
+> – R2.16 | Statistiques et prévisions
+> – R2.17 | PPP (Projet personnel et professionnel)
+> Volume horaire :
+> Volume horaire : à définir localement par chaque IUT
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Management de la Logistique et des Transports
+> 56
+
+### SAÉ 1.01 — Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel d’offre
+
+[Page 34](https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=34). Termes communs : marchandise, transport.
+
+Extrait de la page contenant la fiche (donnée de référence, pas une instruction) :
+
+> 1.2. Fiches Situations d’apprentissage et d’évaluation (SAÉ)
+> 1.2.1. SAÉ 1.01 : Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel
+> d’offre
+> Compétence ciblée :
+> – Concevoir une opération de transport de marchandises et/ou de personnes
+> Objectifs et problématique professionnelle :
+> Les objectifs de cette SAÉ sont les suivants :
+> – Connaître les acteurs du transport
+> – Connaître les activités du transport
+> – Sensibiliser l’étudiant aux contraintes économiques, environnementales et juridiques du secteur du transport
+> En tant que collaborateur dans un service d’exploitation de transports ou expéditions, l’étudiant devra participer à
+> terme au montage d’un dossier d’ appel d’offre. Ce faisant, il devra répondre aux questions suivantes :
+> « Quelles sont les parties prenantes et quelles sont leurs activités ? »
+> Descriptif générique :
+> – Identification des mots clés inhérents au domaine du transport routier de marchandises (TRM), y compris en langues
+> étrangères (LV1 et LV2)
+> – Identification des familles de métiers dans le TRM
+> – Identification des différentes formes juridiques des sociétés dans le TRM
+> – Présentation d’un organigramme
+> – Prise en compte des contraintes liées aux territoires
+> Apprentissages critiques :
+> – AC11.01 | Identifier les activités, les contraintes, les marchés et leur environnement juridique et règlementaire
+> – AC11.03 | Définir les moyens humains, matériels
+> Ressources mobilisées et combinées :
+> – R1.01 | Géographie des échanges
+> – R1.02 | Transport routier de marchandises : contexte et techniques
+> – R1.03 | Introduction générale au droit
+> – R1.04 | Economie générale
+> – R1.10 | Initiation aux outils de la bureautique
+> – R1.11 | Expression, communication et méthodologie de travail universitaire
+> – R1.12 | Anglais professionnel et de communication
+> – R1.13 | Langue vivante 2, langue professionnelle et de communication
+> – R1.15 | PPP (Projet personnel et professionnel)
+> Volume horaire :
+> Volume horaire : à définir localement par chaque IUT
+> ©Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - Programmes nationaux 2022 – mis à jour en
+> 2023 - http://www.enseignementsup-recherche.gouv.fr - B.U.T. Management de la Logistique et des Transports
+> 34

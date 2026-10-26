@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 130,
+    "code_rome": "E1204",
+    "libelle": "Technicien / Technicienne d'exploitation cinématographique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1204"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 88.827,
+      "matched_terms": [
+        "graph"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1204",
+      "title_terms": [
+        "graph"
+      ],
+      "specific_title_terms": [
+        "graph"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Ergonomie et Accessibilité",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=83",
+          "selection_score": 47.4095,
+          "shared_terms": [
+            "accessibilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.06",
+          "title": "Création numérique",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=153",
+          "selection_score": 31.278,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CREA.02",
+          "title": "Création numérique interactive",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=160",
+          "selection_score": 24.5978,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 45.7033,
+          "shared_terms": [
+            "support"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CREA.01",
+          "title": "Créer par/pour le numérique",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=144",
+          "selection_score": 30.6374,
+          "shared_terms": [
+            "numerique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

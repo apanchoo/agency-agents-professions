@@ -1,0 +1,164 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510446,
+    "code_rome": "M1890",
+    "libelle": "Responsable d'opérations en station météorologique",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1809"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.353,
+      "matched_terms": [
+        "donnees",
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Communication : organisation et diffusion de l’information",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=172",
+          "selection_score": 59.3135,
+          "shared_terms": [
+            "diffusion"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Introduction aux systèmes d’exploitation et à leur fonctionnement",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=72",
+          "selection_score": 32.964,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Communication et fonctionnement bas niveau",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=94",
+          "selection_score": 32.9424,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 46.7955,
+          "shared_terms": [
+            "logiciel"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.01,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 45.528,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 40.1557,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Anglais pour la coopération internationale et enjeux internationaux des données",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=119",
+          "selection_score": 35.7654,
+          "shared_terms": [
+            "internationaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.01",
+          "title": "Collecte automatisée de données web",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=76",
+          "selection_score": 35.7303,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.03",
+          "title": "Description et prévision de données temporelles",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=79",
+          "selection_score": 34.091,
+          "shared_terms": [
+            "prevision"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

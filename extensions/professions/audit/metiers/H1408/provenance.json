@@ -1,0 +1,157 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520086,
+    "code_rome": "H1408",
+    "libelle": "Programmeur / Programmeuse en Conception de Fabrication Assistée par Ordinateur (CFAO)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1404"
+  },
+  "but": [
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 33.14,
+      "matched_terms": [
+        "fabrication",
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1404",
+      "title_terms": [
+        "fabrication"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Production - Méthodes",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=98",
+          "selection_score": 26.5112,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 75.1772,
+          "shared_terms": [
+            "piece",
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Fabrication d’une pièce unitaire",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=88",
+          "selection_score": 66.952,
+          "shared_terms": [
+            "fabrication",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.914,
+      "matched_terms": [
+        "production"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Outils statistiques de pilotage d’un process",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=116",
+          "selection_score": 37.5378,
+          "shared_terms": [
+            "proces"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Algorithmique, Programmation et Systèmes d’Information",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=91",
+          "selection_score": 27.1153,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Organisation du système de production",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=74",
+          "selection_score": 24.9213,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Organisation d’une situation de production",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=58",
+          "selection_score": 24.0268,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 17.5873,
+          "shared_terms": [
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

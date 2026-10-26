@@ -1,0 +1,118 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489175,
+    "code_rome": "N1207",
+    "libelle": "Chef / Cheffe de groupe affrètement",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "N1201"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 102.724,
+      "matched_terms": [
+        "affret",
+        "exploitation",
+        "flux",
+        "logist",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1201",
+      "title_terms": [
+        "affret"
+      ],
+      "specific_title_terms": [
+        "affret"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Transport routier de marchandises : affrètement",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=118",
+          "selection_score": 82.495,
+          "shared_terms": [
+            "affretement",
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.01",
+          "title": "Droit des contrats de prestations logistiques",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=163",
+          "selection_score": 69.8088,
+          "shared_terms": [
+            "contrat",
+            "logistique",
+            "prestation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 61.9876,
+          "shared_terms": [
+            "exploitation",
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Proposition d’une offre de produit ou de service",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=59",
+          "selection_score": 74.4627,
+          "shared_terms": [
+            "offre",
+            "produit",
+            "proposition"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCD.01",
+          "title": "Optimisation d’une chaîne logistique dans une démarche durable",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=226",
+          "selection_score": 53.7893,
+          "shared_terms": [
+            "chaine",
+            "logistique",
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

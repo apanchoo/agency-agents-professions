@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 304,
+    "code_rome": "I1101",
+    "libelle": "Directeur / Directrice de la gestion technique des bâtiments",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "I1101"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.737,
+      "matched_terms": [
+        "equipement",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.04",
+          "title": "Génie électrique 3",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=94",
+          "selection_score": 64.7795,
+          "shared_terms": [
+            "electrique",
+            "genie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Génie Electrique 4",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=116",
+          "selection_score": 64.5202,
+          "shared_terms": [
+            "electrique",
+            "genie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Génie Electrique 1",
+          "page": 45,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=45",
+          "selection_score": 64.0128,
+          "shared_terms": [
+            "electrique",
+            "genie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 77.848,
+          "shared_terms": [
+            "equipement",
+            "installation",
+            "preparer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Evaluer les risques lors d’une intervention simple",
+          "page": 38,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=38",
+          "selection_score": 72.8921,
+          "shared_terms": [
+            "evaluer",
+            "intervention",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488782,
+    "code_rome": "E1207",
+    "libelle": "Motion designer",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1205"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 101.141,
+      "matched_terms": [
+        "design",
+        "graph",
+        "multimedia",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1205",
+      "title_terms": [
+        "design"
+      ],
+      "specific_title_terms": [
+        "design"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CREA.09",
+          "title": "Création et design interactif (UI)",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=117",
+          "selection_score": 133.6436,
+          "shared_terms": [
+            "creation",
+            "design",
+            "interactif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CREA.07",
+          "title": "Audiovisuel - Motion design",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=140",
+          "selection_score": 111.1357,
+          "shared_terms": [
+            "design",
+            "motion"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.05",
+          "title": "Définir une direction artistique",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=152",
+          "selection_score": 108.6026,
+          "shared_terms": [
+            "artistique",
+            "definir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.01",
+          "title": "Créer pour une campagne de communication visuelle",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=130",
+          "selection_score": 116.5405,
+          "shared_terms": [
+            "creer",
+            "visuelle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 82.3152,
+          "shared_terms": [
+            "support",
+            "web"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,604 @@
+{
+  "numero": 32687,
+  "rome": {
+    "code_rome": "I1506",
+    "intitule": "Superviseur / Superviseuse cordiste",
+    "code_ogr": 488770
+  },
+  "appellations": [
+    {
+      "libelle": "Chef / Cheffe de chantier cordiste",
+      "libelle_court": "Chef / Cheffe de chantier cordiste",
+      "code_ogr": 520710
+    },
+    {
+      "libelle": "Chef / Cheffe de chantier en travaux d'accès difficile",
+      "libelle_court": "Chef / Cheffe de chantier en travaux d'accès difficile",
+      "code_ogr": 520712
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe cordiste",
+      "libelle_court": "Chef d'équipe cordiste",
+      "code_ogr": 12401
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe en travaux d'accès difficile",
+      "libelle_court": "Chef / Cheffe d'équipe en travaux d'accès difficile",
+      "code_ogr": 520711
+    }
+  ],
+  "definition": "Le superviseur cordiste encadre les travaux effectués en hauteur ou difficiles d'accès : Obligatoire sur les chantiers, il est le garant sur site de la sécurité des intervenants. Dirige et coordonne sur site les activités de son équipe lors d'interventions en hauteur et au moyen de cordes Assure la sécurité des intervenants sous sa responsabilité Contrôle la conformité des installations, des moyens de protection et des équipements utilisés Doit savoir encadrer et réaliser des opérations de sauvetage ou d'évacuation en hauteur Fait respecter les exigences légales, réglementaires et normatives des travaux en hauteur Peut participer à la production Participe à la construction, la maintenance et l'inspection de structures en hauteur ou d'accès difficile, telles que des bâtiments, des ponts, des ouvrages en milieu naturel, des installations industrielles, des éoliennes",
+  "acces_metier": "Cet emploi est accessible avec une formation en travaux sur cordes de niveau « superviseur ».",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encadrer et coordonner une équipe",
+              "code_ogr": 485916,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer régulièrement les compétences des membres de l'équipe",
+              "code_ogr": 484645,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire appliquer les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 490106,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les ressources matérielles pour chaque projet",
+              "code_ogr": 484646,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser des temps d'échange avec les équipes opérationnelles et remonter les remarques à la hiérarchie",
+              "code_ogr": 520747,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Assurer l'adéquation entre les qualifications des intervenants et les tâches à réaliser",
+              "code_ogr": 520755,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer l'intégration des nouvelles recrues (présentation aux équipes, formation à la sécurité...)",
+              "code_ogr": 403455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail de façon à réduire l'usure professionnelle et les troubles musculo-squelettiques",
+              "code_ogr": 520742,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Faire preuve de pédagogie pour faciliter la compréhension",
+              "code_ogr": 400407,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Adapter les méthodes de travail en fonction des besoins opérationnels",
+              "code_ogr": 504104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des amarrages complexes en autonomie tenant compte des consignes transmises",
+              "code_ogr": 513145,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et utiliser le matériel, les matériaux et les outillages prévus pour la tâche",
+              "code_ogr": 125978,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Contrôler l'état d'avancement des travaux",
+              "code_ogr": 125508,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Réaliser ou superviser les interventions de maintenance préventive et corrective",
+              "code_ogr": 490295,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Appliquer les mesures de prévention en s'appuyant sur les documents de chantier",
+              "code_ogr": 520723,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une présence en continu sur site durant la phase des travaux afin de garantir la sécurité des intervenants",
+              "code_ogr": 520731,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'assurer de l'adéquation entre les risques et les mesures de prévention prévues, et proposer des adaptations le cas échéant",
+              "code_ogr": 520721,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "S'assurer de la bonne compréhension des consignes par les équipes, notamment en réalisant des «briefings sécurité»",
+              "code_ogr": 520727,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "S'assurer que la procédure de sauvetage est fonctionnelle, adaptée aux conditions d'intervention et prête à être déclenchée en cas de besoin",
+              "code_ogr": 522350,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser le montage et le démontage des dispositifs d'accès",
+              "code_ogr": 484644,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Optimiser l'utilisation des ressources pour réduire les déchets",
+              "code_ogr": 482198,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "S'assurer de l'application permanente des mesures de prévention",
+              "code_ogr": 520730,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Intégrer l'écoresponsabilité dans toutes les dimensions de son activité",
+              "code_ogr": 402182,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir l'utilisation de matériaux recyclés ou écologiques",
+              "code_ogr": 486727,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Analyser les retours d'expérience pour améliorer les pratiques",
+              "code_ogr": 484649,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler et faire remonter l'état d'avancement des travaux",
+              "code_ogr": 520745,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer une communication claire et efficace avec l'équipe",
+              "code_ogr": 483667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les opérations de sauvetage d'un travailleur dans toutes les situations",
+              "code_ogr": 520732,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transmettre les règles et consignes à son équipe et s'assurer de leur compréhension",
+              "code_ogr": 490451,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Documenter les procédures et les interventions réalisées",
+              "code_ogr": 484648,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire appliquer les règles en matière de sécurité et de santé au travail et responsabiliser chaque salarié",
+              "code_ogr": 403910,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les conflits internes",
+              "code_ogr": 482977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préciser les ancrages utilisables définis dans les documents de chantier aux intervenants et s'assurer qu'ils sont conformes à la réglementation",
+              "code_ogr": 520733,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "S'assurer du respect des procédures par l'ensemble des collaborateurs",
+              "code_ogr": 403552,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Technicien cordiste - superviseur",
+              "code_ogr": 522577,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP travailler sur cordes - niveau confirmé",
+              "code_ogr": 512438,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP superviser les travaux sur cordes sur site",
+              "code_ogr": 522670,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Travaux de construction et de maintenance en milieu industriel",
+              "code_ogr": 520703,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construction métallique",
+              "code_ogr": 118808,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Génie civil",
+              "code_ogr": 106594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion d'équipe",
+              "code_ogr": 477325,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interne",
+              "code_ogr": 477200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Monuments historiques et sites classés",
+              "code_ogr": 103467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des stocks",
+              "code_ogr": 495456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réfection de bâtiments et construction en milieu urbain",
+              "code_ogr": 520704,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interventions en milieu naturel",
+              "code_ogr": 519334,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Outils et méthodes de gestion de projet",
+              "code_ogr": 121030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'urgence en hauteur",
+              "code_ogr": 479450,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité pour les travaux en hauteur",
+              "code_ogr": 477022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre législatif et réglementaire des travaux en hauteur",
+              "code_ogr": 519332,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils de remontée d'information",
+              "code_ogr": 520719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques sur les chantiers",
+              "code_ogr": 118851,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de sécurité relatives aux travaux en hauteur et sur cordes",
+              "code_ogr": 520717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de sauvetage et secourisme",
+              "code_ogr": 121831,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion du stress",
+              "code_ogr": 478065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Adaptation aux différents environnements de travail",
+              "code_ogr": 478272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'ancrage pour cordistes",
+              "code_ogr": 479451,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En altitude",
+          "code_ogr": 23377
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En grande hauteur",
+          "code_ogr": 300782
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Position pénible",
+          "code_ogr": 300798
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    },
+    {
+      "code": "108",
+      "libelle": "Énergie",
+      "principal": false
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": false
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1108 - Conducteur / Conductrice de grue mobile",
+      "code_org_rome_cible": 488735,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4401 - Aiguilleur / Aiguilleure du rail",
+      "code_org_rome_cible": 534,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1412 - Directeur / Directrice de parc à thème",
+      "code_org_rome_cible": 489204,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K2203 - Responsable de secteur en propreté de locaux",
+      "code_org_rome_cible": 418,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1202 - Chef / Cheffe de chantier bâtiment",
+      "code_org_rome_cible": 151,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1618 - Poseur / Poseuse de façade vitrée",
+      "code_org_rome_cible": 403083,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1102 - Conducteur / Conductrice d'engins d'exploitation forestière",
+      "code_org_rome_cible": 403950,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1201 - Bûcheron / Bûcheronne",
+      "code_org_rome_cible": 7,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1405 - Directeur / Directrice de structure sportive",
+      "code_org_rome_cible": 404965,
+      "ordre_mobilite": 10
+    }
+  ]
+}

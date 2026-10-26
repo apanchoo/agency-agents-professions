@@ -1,0 +1,562 @@
+{
+  "numero": 90,
+  "rome": {
+    "code_rome": "C1207",
+    "intitule": "Directeur / Directrice d'agence bancaire",
+    "code_ogr": 71
+  },
+  "appellations": [
+    {
+      "libelle": "Adjoint / Adjointe de direction bancaire",
+      "libelle_court": "Adjoint / Adjointe de direction bancaire",
+      "code_ogr": 10291
+    },
+    {
+      "libelle": "Chef / Cheffe d'agence bancaire",
+      "libelle_court": "Chef / Cheffe d'agence bancaire",
+      "code_ogr": 12021
+    },
+    {
+      "libelle": "Directeur / Directrice de caisse bancaire locale",
+      "libelle_court": "Directeur / Directrice de caisse bancaire locale",
+      "code_ogr": 14215
+    },
+    {
+      "libelle": "Directeur / Directrice de centre d'affaires bancaires",
+      "libelle_court": "Directeur / Directrice de centre d'affaires bancaires",
+      "code_ogr": 14221
+    }
+  ],
+  "definition": "Le Directeur d'agence bancaire est en charge de l'organisation et de la supervision de toutes les opérations se déroulant au sein d'une agence bancaire. Veille à la réalisation des objectifs de l'agence au niveau commercial, de la gestion des risques et de la satisfaction client Dirige l'agence et coordonne les activités quotidiennes pour garantir la performance et la rentabilité de l'équipe avec un service client optimal Assure la conformité avec les réglementations ainsi que les normes de sécurité et développe des stratégies pour accroitre les actifs de la banque Maintient des relations professionnelles avec les clients et représente l'agence lors d'événements pour renforcer l'image de la banque",
+  "acces_metier": "Ce métier est accessible avec un niveau Bac + 3 à Bac + 5 Licence en économie, Master mention monnaie, banque, finance ou assurance. Un Diplôme d'État de conseiller financier et une certification AMF sont obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer des compétences et détecter des potentiels",
+              "code_ogr": 400421,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer et développer les compétences de ses collaborateurs",
+              "code_ogr": 300445,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener un entretien d'évaluation",
+              "code_ogr": 115691,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre les actions de transformation nécessaires aux changements",
+              "code_ogr": 300001,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Représenter sa structure ou son service lors d'un événement ou auprès d'instances de décision",
+              "code_ogr": 404536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Intégrer des produits Data dans les processus métiers",
+              "code_ogr": 300201,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Concevoir et maintenir un système de cybersécurité",
+              "code_ogr": 300587,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déterminer des mesures correctives",
+              "code_ogr": 300242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les risques de cybersécurité",
+              "code_ogr": 300615,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité des process",
+              "code_ogr": 300250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'opérationnalité d'une structure",
+              "code_ogr": 124235,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un contrôle interne des actes bancaires",
+              "code_ogr": 124300,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Analyser et gérer les risques financiers",
+              "code_ogr": 300334,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre une décision sur une demande de crédit",
+              "code_ogr": 122711,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations de marché financier",
+              "code_ogr": 300335,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un audit financier",
+              "code_ogr": 300333,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une analyse comptable et financière",
+              "code_ogr": 300319,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre la comptabilité d'une structure",
+              "code_ogr": 124767,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier l'enregistrement d'opérations bancaires et de justificatifs comptables réglementaires",
+              "code_ogr": 124768,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter des dossiers de contentieux",
+              "code_ogr": 120695,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Améliorer la qualité de service",
+              "code_ogr": 300380,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer une stratégie commerciale",
+              "code_ogr": 300384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des conditions commerciales",
+              "code_ogr": 300370,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Concevoir et mettre en oeuvre une stratégie digitale",
+              "code_ogr": 300393,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir l'implantation de succursales bancaires",
+              "code_ogr": 122528,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser la performance de l'organisation",
+              "code_ogr": 300398,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Mettre en application les règles et les procédures",
+              "code_ogr": 400342,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Sécurité des informations",
+              "code_ogr": 497404,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence droit, économie, gestion mention droit, économie",
+              "code_ogr": 514516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention économie et gestion",
+              "code_ogr": 490835,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention économie",
+              "code_ogr": 491440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Prise de décision",
+              "code_ogr": 477442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management d'équipe",
+              "code_ogr": 109185,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation avancées",
+              "code_ogr": 121470,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse financière",
+              "code_ogr": 510915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits financiers",
+              "code_ogr": 101351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la relation client (CRM)",
+              "code_ogr": 116414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification stratégique",
+              "code_ogr": 476781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fiscalité",
+              "code_ogr": 100118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes et outils de résolution de problèmes",
+              "code_ogr": 122425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comptabilité bancaire",
+              "code_ogr": 121077,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Dispositif TRACFIN (Traitement du renseignement et action contre les circuits financiers clandestins)",
+              "code_ogr": 117755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des risques financiers",
+              "code_ogr": 121704,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conformité réglementaire",
+              "code_ogr": 124696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recommandations AMF (Autorité des Marchés Financiers)",
+              "code_ogr": 125746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse de patrimoine financier",
+              "code_ogr": 123802,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Loi de sécurité financière (LSF)",
+              "code_ogr": 121943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation bancaire",
+              "code_ogr": 101505,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des conflits",
+              "code_ogr": 510923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle d'affaires",
+          "code_ogr": 300819
+        },
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Possibilité de télétravail",
+          "code_ogr": 300799
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "91",
+      "libelle": "Finance, banque et assurance",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "C1202 - Analyste de crédits et risques bancaires",
+      "code_org_rome_cible": 66,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "C1303 - Responsable de portefeuille financier",
+      "code_org_rome_cible": 74,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "C1301 - Trader",
+      "code_org_rome_cible": 72,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "C1302 - Gestionnaire des opérations sur les marchés financiers",
+      "code_org_rome_cible": 73,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "C1104 - Responsable d'agence en assurances",
+      "code_org_rome_cible": 58,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1402 - Responsable en organisation en entreprise",
+      "code_org_rome_cible": 468,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1201 - Analyste financier / Analyste financière",
+      "code_org_rome_cible": 458,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1207 - Trésorier / Trésorière",
+      "code_org_rome_cible": 464,
+      "ordre_mobilite": 10
+    }
+  ]
+}

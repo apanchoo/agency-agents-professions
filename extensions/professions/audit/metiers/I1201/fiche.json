@@ -1,0 +1,456 @@
+{
+  "numero": 246,
+  "rome": {
+    "code_rome": "I1201",
+    "intitule": "Agent / Agente technique d'affichage",
+    "code_ogr": 307
+  },
+  "appellations": [
+    {
+      "libelle": "Afficheur / Afficheuse",
+      "libelle_court": "Afficheur / Afficheuse",
+      "code_ogr": 10321
+    },
+    {
+      "libelle": "Afficheur / Afficheuse colle",
+      "libelle_court": "Afficheur / Afficheuse colle",
+      "code_ogr": 10322
+    },
+    {
+      "libelle": "Afficheur / Afficheuse déroulant",
+      "libelle_court": "Afficheur / Afficheuse déroulant",
+      "code_ogr": 10323
+    },
+    {
+      "libelle": "Afficheur / Afficheuse mobilier urbain",
+      "libelle_court": "Afficheur / Afficheuse mobilier urbain",
+      "code_ogr": 10324
+    },
+    {
+      "libelle": "Afficheur / Afficheuse publicitaire",
+      "libelle_court": "Afficheur / Afficheuse publicitaire",
+      "code_ogr": 510497
+    },
+    {
+      "libelle": "Afficheur / Afficheuse sur dispositif publicitaire",
+      "libelle_court": "Afficheur / Afficheuse sur dispositif publicitaire",
+      "code_ogr": 10327
+    },
+    {
+      "libelle": "Afficheur monteur / Afficheuse monteuse",
+      "libelle_court": "Afficheur monteur / Afficheuse monteuse",
+      "code_ogr": 10325
+    },
+    {
+      "libelle": "Colleur / Colleuse d'affiche",
+      "libelle_court": "Colleur / Colleuse d'affiche",
+      "code_ogr": 12707
+    },
+    {
+      "libelle": "Poseur / Poseuse d'affiche",
+      "libelle_court": "Poseur / Poseuse d'affiche",
+      "code_ogr": 17903
+    },
+    {
+      "libelle": "Poseur / Poseuse d'enseigne et d'adhésifs",
+      "libelle_court": "Poseur / Poseuse d'enseigne et d'adhésifs",
+      "code_ogr": 17945
+    },
+    {
+      "libelle": "Technicien / Technicienne de pose d'affiches",
+      "libelle_court": "Technicien / Technicienne de pose d'affiches",
+      "code_ogr": 19895
+    }
+  ],
+  "definition": "L'Agent technique d'affichage installe et entretient les supports de publicité et d'information visuelle. Assure la pose et la dépose des affiches selon les campagnes en cours Veille à la conformité et à la bonne visibilité des affiches Réalise des interventions rapides en cas de dégradation ou de nécessité de changement Gère le stock d'affiches et les outils nécessaires à leur installation Peut participer à la mise en place de nouveaux supports d'affichage",
+  "acces_metier": "Cet emploi est accessible sans qualification particulière. Des habilitations peuvent être nécessaires pour la manipulation sécurisée des installations électriques et pour le travail en hauteur. Des certificats d'aptitude à la conduite en sécurité (CACES) peuvent être demandés pour l'utilisation de nacelles élévatrices.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Installer des dispositifs pour des affichages temporaires",
+              "code_ogr": 508309,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer du mobilier publicitaire ou urbain",
+              "code_ogr": 122777,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en fonction du mobilier publicitaire ou urbain",
+              "code_ogr": 122778,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poser et déposer des éléments amovibles",
+              "code_ogr": 490442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poser les affichages et panneaux des mobiliers publicitaires",
+              "code_ogr": 126276,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la pose de visuels",
+              "code_ogr": 102976,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la pose extérieure de signalétique (totems, panneaux muraux, enseignes...)",
+              "code_ogr": 126298,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance de premier niveau des équipements d'affichage et alerter en cas de dysfonctionnement",
+              "code_ogr": 508312,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir la propreté des zones d'affichage",
+              "code_ogr": 508311,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Nettoyer du mobilier urbain, façades, enseignes",
+              "code_ogr": 108677,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la sécurité des installations d'affichage",
+              "code_ogr": 508310,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler le fonctionnement d'un équipement publicitaire ou urbain",
+              "code_ogr": 123600,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Organiser le chargement du véhicule selon le plan de tournée",
+              "code_ogr": 485096,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer la tournée et le matériel nécessaire",
+              "code_ogr": 126269,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Renseigner les documents de suivi d'intervention et les transmettre au service concerné",
+              "code_ogr": 508313,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Expliquer les interventions et les choix au client ou au bailleur d'emplacements",
+              "code_ogr": 508318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les clients",
+              "code_ogr": 501038,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Installer des dispositifs temporaires pour sécuriser les zones de travail en hauteur",
+              "code_ogr": 400771,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité lors des installations",
+              "code_ogr": 482326,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'une nacelle élévatrice",
+              "code_ogr": 121599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de pose de bande publicitaire",
+              "code_ogr": 106642,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de découpe de matériaux publicitaires",
+              "code_ogr": 498031,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des stocks de matériel publicitaire",
+              "code_ogr": 495489,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Permis de conduire catégorie B",
+              "code_ogr": 123456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R486 plates-formes élévatrices mobiles de personnel (PEMP) catégorie A PEMP du groupe A à élévation verticale de type 1 ou 3",
+              "code_ogr": 404104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R486 plates-formes élévatrices mobiles de personnel (PEMP) catégorie B PEMP du groupe B à élévation multidirectionnelle de type 1 ou 3",
+              "code_ogr": 404105,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R486 plates-formes élévatrices mobiles de personnel (PEMP) catégorie C conduite hors-production des PEMP des catégories A ou B",
+              "code_ogr": 404106,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Maintenance de dispositifs publicitaires",
+              "code_ogr": 495774,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'entretiens de mobiliers urbains",
+              "code_ogr": 116714,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation liée à la conduite d'engins de manutention",
+              "code_ogr": 110468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle qualité",
+              "code_ogr": 124680,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'entretien des dispositifs d'affichage",
+              "code_ogr": 492919,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Reporting d'activité",
+              "code_ogr": 497270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'enlèvement de graffitis",
+              "code_ogr": 106643,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pose d'affiches",
+              "code_ogr": 498500,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "94",
+      "libelle": "Communication et marketing",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1205 - Installateur vérificateur / Installatrice vérificatrice d'extincteurs",
+      "code_org_rome_cible": 488628,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "I1209 - Technicien / Technicienne d'installation de panneau digital",
+      "code_org_rome_cible": 510452,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "I1207 - Agent / Agente de maintenance de mobilier urbain et publicitaire",
+      "code_org_rome_cible": 510070,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "I1311 - Technicien / Technicienne installation réseaux câblés fibre optique",
+      "code_org_rome_cible": 488292,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1307 - Antenniste",
+      "code_org_rome_cible": 316,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4105 - Conducteur-livreur / Conductrice-livreuse",
+      "code_org_rome_cible": 527,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1622 - Monteur / Monteuse en éclairage public",
+      "code_org_rome_cible": 488912,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1116 - Inventoriste",
+      "code_org_rome_cible": 489168,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1627 - Poseur / Poseuse de compteurs",
+      "code_org_rome_cible": 509523,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 458,
+    "code_rome": "M1201",
+    "libelle": "Analyste financier / Analyste financière",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1201"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 95.113,
+      "matched_terms": [
+        "financ"
+      ],
+      "direct_rome_pages": [
+        13
+      ],
+      "parent_rome": "M1201",
+      "title_terms": [
+        "financ"
+      ],
+      "specific_title_terms": [
+        "financ"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.13",
+          "title": "Finance : Diagnostic financier approfondi et prévision du BFRE",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=122",
+          "selection_score": 76.04,
+          "shared_terms": [
+            "diagnostic",
+            "finance",
+            "financier",
+            "prevision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Finance",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=115",
+          "selection_score": 49.8244,
+          "shared_terms": [
+            "finance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CG2P.13",
+          "title": "Management d’activités : Management des opérations et pilotage de la performance",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=197",
+          "selection_score": 49.0903,
+          "shared_terms": [
+            "management",
+            "operation",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Identifier l’impact des décisions de gestion sur la performance de l’organisation",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=83",
+          "selection_score": 63.5997,
+          "shared_terms": [
+            "decision",
+            "impact",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 39.9344,
+          "shared_terms": [
+            "diagnostic",
+            "financier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

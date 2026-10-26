@@ -1,0 +1,511 @@
+{
+  "numero": 325,
+  "rome": {
+    "code_rome": "J1302",
+    "intitule": "Technicien / Technicienne de laboratoire d'analyses médicales",
+    "code_ogr": 339
+  },
+  "appellations": [
+    {
+      "libelle": "Aide de laboratoire médical",
+      "libelle_court": "Aide de laboratoire médical",
+      "code_ogr": 510834
+    },
+    {
+      "libelle": "Laborantin / Laborantine d'analyses médicales",
+      "libelle_court": "Laborantin / Laborantine d'analyses médicales",
+      "code_ogr": 16143
+    },
+    {
+      "libelle": "Laborantin / Laborantine dans le secteur médical",
+      "libelle_court": "Laborantin / Laborantine dans le secteur médical",
+      "code_ogr": 510833
+    },
+    {
+      "libelle": "Technicien / Technicienne de biologie médicale",
+      "libelle_court": "Technicien / Technicienne de biologie médicale",
+      "code_ogr": 19720
+    },
+    {
+      "libelle": "Technicien biologiste médical / Technicienne biologiste médicale",
+      "libelle_court": "Technicien(ne) biologiste médical(e)",
+      "code_ogr": 19676
+    }
+  ],
+  "definition": "Garant de la fiabilité des résultats, le technicien de laboratoire d'analyses médicales est au cœur du diagnostic et du suivi des patients. Réalise et traite des prélèvements biologiques en vue d'analyses biomédicales selon la prescription médicale, dans un objectif de diagnostic, dépistage, traitement, prévention ou de recherche Peut réaliser des prélèvements biologiques spécifiques Opère et entretient les équipements de laboratoire pour garantir leur bon fonctionnement Assure la conformité des procédures de laboratoire avec les normes de sécurité et d'hygiène",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac+2 à Bac+5 dans le domaine de la biologie médicale ou biochimie.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Vérifier les conditions de faisabilité d'un prélèvement biologique et informer le patient sur son déroulement",
+              "code_ogr": 115006,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Effectuer des analyses biologiques (parasitologie, bactériologie, virologie, etc.)",
+              "code_ogr": 100475,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder au traitement de l'échantillon par centrifugation, dilution, chauffage, surveiller le déroulement de l'analyse et consigner les données",
+              "code_ogr": 107343,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un prélèvement biologique",
+              "code_ogr": 107341,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer les analyseurs, les réactifs et l'échantillon biologique (fractionnement, répartition, etc.) selon le type d'analyse",
+              "code_ogr": 107342,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir les équipements en bon état de fonctionnement",
+              "code_ogr": 400206,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le fonctionnement des analyseurs",
+              "code_ogr": 300558,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler la stérilisation des outils et équipements",
+              "code_ogr": 518593,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la conformité des conditions de prélèvement",
+              "code_ogr": 518592,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la traçabilité des échantillons analysés",
+              "code_ogr": 501087,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer le stock de produits sanguins labiles",
+              "code_ogr": 300562,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner et contrôler le prélèvement et ses indications avant analyse",
+              "code_ogr": 403014,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer des déchets sensibles",
+              "code_ogr": 124708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de défaillance du matériel",
+              "code_ogr": 487197,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité et d'hygiène en laboratoire",
+              "code_ogr": 482690,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Produits Sanguins Labiles (PSL)",
+              "code_ogr": 123501,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BUT spécialité génie biologique parcours biologie médicale et biotechnologie",
+              "code_ogr": 404599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS analyses de biologie médicale",
+              "code_ogr": 490713,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention sciences biomédicales",
+              "code_ogr": 490791,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS biologie médicale",
+              "code_ogr": 514044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DUT génie biologique option analyses biologiques et biochimiques",
+              "code_ogr": 404641,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Biocontamination",
+              "code_ogr": 117074,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en immunologie",
+              "code_ogr": 117384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en parasitologie",
+              "code_ogr": 117385,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en hématologie",
+              "code_ogr": 117382,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en cytologie",
+              "code_ogr": 117381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en virologie",
+              "code_ogr": 117386,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse de prélèvements de tissus",
+              "code_ogr": 117390,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse de prélèvements sanguins",
+              "code_ogr": 117388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse de prélèvements de sécrétions",
+              "code_ogr": 117389,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation d'analyses urinaires",
+              "code_ogr": 495717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en anatomo-cytopathologie",
+              "code_ogr": 117378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'analyse en bactériologie",
+              "code_ogr": 117379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'analyse biomédicale",
+              "code_ogr": 117380,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de stockage d'analyses biologiques",
+              "code_ogr": 117578,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de stockage des produits sanguins labiles",
+              "code_ogr": 107308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guide de Bonne Exécution des Analyses Médicales (GBEA)",
+              "code_ogr": 107295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guide de Bonne Utilisation de l'Informatique (GBUI)",
+              "code_ogr": 123513,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de validation biologique",
+              "code_ogr": 123508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de nettoyage écologique",
+              "code_ogr": 107349,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Patients",
+          "code_ogr": 300838
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        },
+        {
+          "libelle": "Laboratoire de biologie médicale",
+          "code_ogr": 513694
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1303 - Assistant / Assistante médico-technique",
+      "code_org_rome_cible": 340,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "J1305 - Ambulancier / Ambulancière",
+      "code_org_rome_cible": 342,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1307 - Préparateur / Préparatrice en pharmacie",
+      "code_org_rome_cible": 344,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "J1201 - Biologiste médical / Biologiste médicale",
+      "code_org_rome_cible": 336,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "J1504 - Infirmier / Infirmière de bloc opératoire (IBODE)",
+      "code_org_rome_cible": 360,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1211 - Attaché / Attachée de recherche clinique (ARC)",
+      "code_org_rome_cible": 404541,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H1503 - Technicien / Technicienne de laboratoire d'analyse industrielle",
+      "code_org_rome_cible": 231,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1510 - Technicien / Technicienne de laboratoire de contrôle en industrie pharmaceutique",
+      "code_org_rome_cible": 488296,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H1518 - Consultant / Consultante qualité",
+      "code_org_rome_cible": 488344,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H2302 - Conducteur / Conductrice de procédé de fabrication en industrie pharmaceutique",
+      "code_org_rome_cible": 488276,
+      "ordre_mobilite": 10
+    }
+  ]
+}

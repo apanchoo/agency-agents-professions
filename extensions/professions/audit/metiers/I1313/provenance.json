@@ -1,0 +1,267 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488605,
+    "code_rome": "I1313",
+    "libelle": "Hydraulicien industriel / Hydraulicienne industrielle",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1302"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 36.629,
+      "matched_terms": [
+        "equipement",
+        "industri",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1302",
+      "title_terms": [
+        "industri"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 81.1152,
+          "shared_terms": [
+            "automatisme",
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 80.4034,
+          "shared_terms": [
+            "automatisme",
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.3MI.06",
+          "title": "Automatismes Industriels 3MI 5",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=140",
+          "selection_score": 56.1676,
+          "shared_terms": [
+            "automatisme",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Réaliser et vérifier le raccordement d’un équipement",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=61",
+          "selection_score": 62.6444,
+          "shared_terms": [
+            "equipement",
+            "raccordement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Utiliser les outils de contrôle et mesure dans le milieu industriel",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=63",
+          "selection_score": 51.3552,
+          "shared_terms": [
+            "controle",
+            "industriel",
+            "mesure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.699,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mécanique des fluides 2",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=85",
+          "selection_score": 53.7454,
+          "shared_terms": [
+            "fluide",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Mécanique des fluides 1",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=60",
+          "selection_score": 53.4162,
+          "shared_terms": [
+            "fluide",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Électricité – Électrotechnique",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=59",
+          "selection_score": 44.7633,
+          "shared_terms": [
+            "electricite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Choix d’équipements d’un réseau de transport de fluide",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=48",
+          "selection_score": 60.4132,
+          "shared_terms": [
+            "equipement",
+            "fluide",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 29.5562,
+          "shared_terms": [
+            "automatisme",
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.68,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Fondamentaux des systèmes électroniques",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=77",
+          "selection_score": 44.4605,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 35.7184,
+          "shared_terms": [
+            "norme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "selection_score": 25.0478,
+          "shared_terms": [
+            "equipement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "selection_score": 36.6686,
+          "shared_terms": [
+            "construire",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PILPRO.01",
+          "title": "Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client",
+          "page": 373,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=373",
+          "selection_score": 28.9018,
+          "shared_terms": [
+            "reseau",
+            "securite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

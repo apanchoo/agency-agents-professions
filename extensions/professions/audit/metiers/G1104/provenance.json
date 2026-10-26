@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488765,
+    "code_rome": "G1104",
+    "libelle": "Consultant / Consultante tourisme",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "G1102"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.403,
+      "matched_terms": [
+        "entrepris",
+        "organis",
+        "projet"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1102",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MACAST.07",
+          "title": "Recherche de partenariats culturels, artistiques, sportifs ou de tourisme",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=382",
+          "selection_score": 68.5307,
+          "shared_terms": [
+            "artistique",
+            "partenariat",
+            "tourisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.06",
+          "title": "Règlementation spécifique culturelle, artistique, sportive ou de tourisme",
+          "page": 398,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=398",
+          "selection_score": 67.1992,
+          "shared_terms": [
+            "artistique",
+            "reglementation",
+            "specifique",
+            "tourisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 61.7524,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MACAST.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 322,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=322",
+          "selection_score": 57.5631,
+          "shared_terms": [
+            "ameliorer",
+            "artistique",
+            "touristique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 52.191,
+          "shared_terms": [
+            "ameliorer",
+            "strategique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

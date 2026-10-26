@@ -1,0 +1,527 @@
+{
+  "numero": 559,
+  "rome": {
+    "code_rome": "N4301",
+    "intitule": "Conducteur / Conductrice de train",
+    "code_ogr": 532
+  },
+  "appellations": [
+    {
+      "libelle": "Conducteur / Conductrice de ligne du réseau ferré",
+      "libelle_court": "Conducteur / Conductrice de ligne du réseau ferré",
+      "code_ogr": 12994
+    },
+    {
+      "libelle": "Conducteur / Conductrice de locotracteur-locomoteur",
+      "libelle_court": "Conducteur / Conductrice de locotracteur-locomoteur",
+      "code_ogr": 13004
+    },
+    {
+      "libelle": "Conducteur / Conductrice de manœuvre",
+      "libelle_court": "Conducteur / Conductrice de manœuvre",
+      "code_ogr": 513563
+    },
+    {
+      "libelle": "Conducteur / Conductrice de RER",
+      "libelle_court": "Conducteur / Conductrice de RER",
+      "code_ogr": 513562
+    },
+    {
+      "libelle": "Conducteur / Conductrice d'engins ferroviaires",
+      "libelle_court": "Conducteur / Conductrice d'engins ferroviaires",
+      "code_ogr": 510794
+    },
+    {
+      "libelle": "Conducteur / Conductrice du réseau ferré",
+      "libelle_court": "Conducteur / Conductrice du réseau ferré",
+      "code_ogr": 13291
+    },
+    {
+      "libelle": "Conducteur / Conductrice du réseau ferré urbain",
+      "libelle_court": "Conducteur / Conductrice du réseau ferré urbain",
+      "code_ogr": 13292
+    },
+    {
+      "libelle": "Conducteur de tram-train",
+      "libelle_court": "Conducteur de tram-train",
+      "code_ogr": 513564
+    }
+  ],
+  "definition": "Le conducteur de train assure le transport de passagers ou de marchandises en toute sécurité sur les réseaux ferrés. Conduit et manoeuvre le train selon les horaires et les règles de sécurité établies et les horaires Contrôle le bon fonctionnement du matériel roulant avant, pendant et après le trajet et effectue des opérations de dépannage Assure la communication avec les centres de supervision du trafic pour garantir la sécurité et la régularité de circulation du trafic Intervient en cas d'incident technique et applique les procédures d'urgence Peut participer à la formation pratique des nouveaux conducteurs",
+  "acces_metier": "L'accès au métier se fait par l'obtention d'une formation obligatoire de conducteur de train. Cette formation est quant à elle accessible avec un niveau d'enseignement secondaire (cf. décret 2010/708 relatif à la certification des conducteurs de train). Des conditions médicales et des tests psychotechniques sont exigés pour exercer le métier. Des formations dans le domaine de l'électricité, l'électronique, la mécanique, etc. peuvent faciliter l'entrée en formation obligatoire de conducteur de train. L'obtention de la licence européenne de conducteur de train (délivré par l'EPSF) et une attestation d'habilitation par l'employeur sont également requises. Les conditions d'exercice de l'activité peuvent nécessiter d'être véhiculé, dans certains cas le permis B est exigé.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Coordonner l'intervention d'équipes pluridisciplinaires",
+              "code_ogr": 300472,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre les savoir-faire aux futurs conducteurs de train",
+              "code_ogr": 513441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance de premier niveau des équipements",
+              "code_ogr": 500199,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la surveillance du trajet via les systèmes embarqués",
+              "code_ogr": 504067,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la conformité des équipements de sécurité",
+              "code_ogr": 502712,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer les risques liés au transport de marchandises spécifiques",
+              "code_ogr": 486176,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Former le personnel aux procédures de sécurité ferroviaire",
+              "code_ogr": 507901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir un environnement sécurisé pour les passagers",
+              "code_ogr": 504070,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les opérateurs de surveillance aérienne",
+              "code_ogr": 511552,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Conduire un véhicule ferroviaire",
+              "code_ogr": 300271,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un train avant départ",
+              "code_ogr": 504065,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manoeuvrer sur des lignes particulières (chantier, zone de stationnement, site de maintenance, ...)",
+              "code_ogr": 115655,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Respecter les horaires et itinéraires prévus",
+              "code_ogr": 487069,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Contrôler la montée et la descente en sécurité des voyageurs (commande automatique des portes, etc.)",
+              "code_ogr": 115653,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations liées aux conditions météorologiques",
+              "code_ogr": 504073,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Collaborer avec des équipes multidisciplinaires",
+              "code_ogr": 404783,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec le personnel de bord pour la gestion des passagers",
+              "code_ogr": 504072,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Communiquer efficacement avec l'équipe et les clients",
+              "code_ogr": 403448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des annonces fluides aux passagers",
+              "code_ogr": 504069,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les situations d'urgence et appliquer les procédures adéquates",
+              "code_ogr": 504068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité ferroviaire en vigueur",
+              "code_ogr": 502258,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Transport de matières radioactives",
+              "code_ogr": 512683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation des équipements de sécurité",
+              "code_ogr": 499383,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Conducteur de train",
+              "code_ogr": 512410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention logistique et transports internationaux",
+              "code_ogr": 491621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management des processus logistiques",
+              "code_ogr": 491622,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management des transports et de la distribution",
+              "code_ogr": 491660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS gestion des transports et logistique associée",
+              "code_ogr": 512394,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent de la sûreté ferroviaire",
+              "code_ogr": 515015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention activités juridiques : métiers du droit des transports",
+              "code_ogr": 514994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention logistique et pilotage des flux",
+              "code_ogr": 491620,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Itinéraires ferroviaires",
+              "code_ogr": 481579,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de premier niveau des équipements de train",
+              "code_ogr": 495785,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des matériels roulants",
+              "code_ogr": 512526,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transport ferroviaire",
+              "code_ogr": 104067,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des signaux ferroviaires",
+              "code_ogr": 493491,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Application des procédures d'urgence",
+              "code_ogr": 480037,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Code de circulation ferroviaire",
+              "code_ogr": 110622,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures techniques de conduite sur réseau ferré",
+              "code_ogr": 110624,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité ferroviaire",
+              "code_ogr": 110623,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication",
+              "code_ogr": 477699,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de manœuvre en gare",
+              "code_ogr": 498246,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de freinage d'urgence",
+              "code_ogr": 498128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurisation des marchandises",
+              "code_ogr": 512732,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Exposition possible à gaz, aérosol, fumées ...",
+          "code_ogr": 403022
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N4130 - Conducteur / Conductrice de voiture radar à conduite externalisée",
+      "code_org_rome_cible": 489057,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1114 - Conducteur / Conductrice d'engins lourds de manutention",
+      "code_org_rome_cible": 489077,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4119 - Conducteur / Conductrice de tramway",
+      "code_org_rome_cible": 488874,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4101 - Conducteur / Conductrice de poids lourd",
+      "code_org_rome_cible": 523,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4115 - Conducteur / Conductrice de véhicules Super Lourds",
+      "code_org_rome_cible": 488739,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1303 - Conducteur / Conductrice d'engin de damage",
+      "code_org_rome_cible": 510057,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1302 - Conducteur / Conductrice d'engins de chantier",
+      "code_org_rome_cible": 155,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N4303 - Conducteur / Conductrice d'engins de manœuvre du réseau ferré",
+      "code_org_rome_cible": 509380,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "E1314 - Conducteur / Conductrice de machines à pelliculer",
+      "code_org_rome_cible": 510302,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1101 - Conducteur / Conductrice d'engins agricoles",
+      "code_org_rome_cible": 6,
+      "ordre_mobilite": 10
+    }
+  ]
+}

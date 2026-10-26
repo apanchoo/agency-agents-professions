@@ -1,0 +1,274 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509528,
+    "code_rome": "H1525",
+    "libelle": "Biologiste de contrôle fabrication en industrie",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1503"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 95.365,
+      "matched_terms": [
+        "logist",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Connaissance technologique de l’entreprise",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=89",
+          "selection_score": 51.1268,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Bases du contrôle de gestion industriel",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=137",
+          "selection_score": 46.6558,
+          "shared_terms": [
+            "controle",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 31.5291,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 54.4909,
+          "shared_terms": [
+            "evolution",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Audit d’un poste de travail",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=80",
+          "selection_score": 32.1087,
+          "shared_terms": [
+            "audit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 93.792,
+      "matched_terms": [
+        "biologi",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [
+        "biologi"
+      ],
+      "specific_title_terms": [
+        "biologi"
+      ],
+      "parent_rome_pages": [
+        18,
+        21,
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Génétique et biologie moléculaire",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=131",
+          "selection_score": 53.0156,
+          "shared_terms": [
+            "biologie",
+            "moleculaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Microbiologie",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=84",
+          "selection_score": 48.3761,
+          "shared_terms": [
+            "microbiologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.07",
+          "title": "Immuno-détection et Biologie Moléculaire",
+          "page": 546,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=546",
+          "selection_score": 46.7063,
+          "shared_terms": [
+            "biologie",
+            "moleculaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.BMB.03",
+          "title": "Cultiver des cellules dans le respect des bonnes pratiques de laboratoire",
+          "page": 224,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=224",
+          "selection_score": 57.9706,
+          "shared_terms": [
+            "bonne",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.BMB.04",
+          "title": "Mettre en oeuvre un examen de biologie médicale de première intention en biochimie dans le cadre d’un contrôle et/ou d’une prévention",
+          "page": 225,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=225",
+          "selection_score": 43.6387,
+          "shared_terms": [
+            "biochimie",
+            "biologie",
+            "controle"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.477,
+      "matched_terms": [
+        "fabrication",
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [
+        "fabrication"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 30.4532,
+          "shared_terms": [
+            "industrielle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Organisation et Pilotage Industriel",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=119",
+          "selection_score": 26.3303,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CPD.13",
+          "title": "Approche Environnementale",
+          "page": 387,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=387",
+          "selection_score": 25.7424,
+          "shared_terms": [
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 40.0867,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CAI.02",
+          "title": "Intégrer les dimensions réglementaires et contractuelles dans la gestion d’une affaire industrielle",
+          "page": 446,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=446",
+          "selection_score": 36.6967,
+          "shared_terms": [
+            "industrielle",
+            "reglementaire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

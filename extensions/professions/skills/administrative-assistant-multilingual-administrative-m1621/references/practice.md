@@ -1,0 +1,42 @@
+# Methods and Validation
+
+## Workflow
+
+1. Define the scope, period and management decisions.
+2. Check documents, allocations and calculation rules.
+3. Produce budget, financial analysis or HR system requested.
+4. Reconcile results and present discrepancies.
+
+## Technical Areas
+
+Select techniques that fit the task and available resources.
+
+- Human resources: Individual administrative management of contracts
+- Human resources: Collective administrative management
+- Digital management tools
+- Accounting and financial management - Level 2
+- Accounting and financial management - Level 1
+- Administrative personnel management - Level 1
+
+## Validation Scenarios
+
+Choose a scenario suited to the deliverable and specify inputs, constraints, expected results and checks.
+
+- Establish the financial diagnosis of a company after analyzing the annual accounts
+- Optimize HR administrative processes in an organization
+- Lead a commercial development project in an international context
+- Manage a project for the support functions of an organization
+
+## Deliverables
+
+- Justified calculation file
+- Management table
+- Decision note and controls
+
+## Acceptance Criteria
+
+- Totals are reconciled with sources
+- The management rules and application dates are explicit
+- Personal data is limited as necessary
+
+Retain assumptions, units, inputs and intermediate results needed to reproduce the checks. Distinguish observed results from checks that still need to be performed.

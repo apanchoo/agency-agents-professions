@@ -1,0 +1,434 @@
+{
+  "numero": 497,
+  "rome": {
+    "code_rome": "K2304",
+    "intitule": "Agent / Agente de tri des déchets",
+    "code_ogr": 423
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de valorisation",
+      "libelle_court": "Agent / Agente de valorisation",
+      "code_ogr": 520401
+    },
+    {
+      "libelle": "Opérateur / Opératrice de tri",
+      "libelle_court": "Opérateur / Opératrice de tri",
+      "code_ogr": 520402
+    },
+    {
+      "libelle": "Trieur / Trieuse de déchets",
+      "libelle_court": "Trieur / Trieuse de déchets",
+      "code_ogr": 488937
+    }
+  ],
+  "definition": "L'agent de tri des déchets procède à l'identification et au tri des matières valorisables issues des collectes et les oriente vers le circuit de traitement approprié. Identifie les matières présentes dans les flux de déchets Sépare et classe les déchets selon leur nature et leur qualité conformément au cahier des charges Contrôle la qualité des matériaux triés et élimine les déchets dangereux ou interdits Entretient son poste de travail et alerte et signale tout incident, accident ou anomalie à sa hiérarchie selon les procédures en vigueur",
+  "acces_metier": "Ce métier est accessible sans qualification particulière. Cependant, des formations telles que le CAP Propreté de l'environnement urbain-collecte et recyclage ou le CQP (Certificat de Qualification Professionnelle) Agent de tri, peuvent en faciliter l'accès. La détention d'un CACES et la capacité à utiliser un équipement peut être un atout pour l'évolution des carrières.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Extraire les produits indésirables",
+              "code_ogr": 520413,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier tous les produits entrants",
+              "code_ogr": 520414,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier visuellement les flux et les matières",
+              "code_ogr": 520005,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler les moyens mis à sa disposition pour adapter son environnement de travail",
+              "code_ogr": 520409,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Orienter les produits valorisables vers le bon contenant",
+              "code_ogr": 520412,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Repérer et identifier les produits dangereux",
+              "code_ogr": 520004,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Trier les déchets manuellement ou à l'aide d'un outil mécanique ou numérique",
+              "code_ogr": 520411,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de dysfonctionnement des équipements",
+              "code_ogr": 485443,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter les risques et alerter en cas d'incident, d'accident et d'anomalie",
+              "code_ogr": 519998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir une bonne condition physique conformément aux exigences du métier",
+              "code_ogr": 508033,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer les procédures d'hygiène et de prévention des risques",
+              "code_ogr": 520002,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des matériaux triés",
+              "code_ogr": 124562,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evacuer et trier des déchets, des produits",
+              "code_ogr": 300298,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec l'équipe pour optimiser le processus de tri",
+              "code_ogr": 485440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer les règles de sécurité en cas d'urgence",
+              "code_ogr": 519999,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etre capable de caractériser un échantillon de déchets",
+              "code_ogr": 520408,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter le rythme de la chaîne",
+              "code_ogr": 520410,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles, procédures et consignes",
+              "code_ogr": 520000,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre les consignes de travail",
+              "code_ogr": 403900,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP propreté de l'environnement urbain - collecte et recyclage",
+              "code_ogr": 491389,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collecteur de biodéchets",
+              "code_ogr": 522004,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP trieur",
+              "code_ogr": 522054,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent des services de gestion et valorisation des déchets",
+              "code_ogr": 522121,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent polyvalent de gestion et valorisation des déchets",
+              "code_ogr": 515314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R482 engins de chantier catégorie B1 engins d'extraction à déplacement séquentiel",
+              "code_ogr": 490906,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel agent technique de réception et de valorisation de déchets",
+              "code_ogr": 491394,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP valorisation des matières et propreté des espaces urbains",
+              "code_ogr": 522089,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Méthodes de caractérisation des déchets",
+              "code_ogr": 520407,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à travailler en équipe",
+              "code_ogr": 479792,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ergonomie au poste de tri",
+              "code_ogr": 520406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Compréhension des étapes et équipements du processus de tri",
+              "code_ogr": 520405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Indicateurs de qualité de tri",
+              "code_ogr": 520403,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Reconnaissance des matières",
+              "code_ogr": 520404,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matières recyclables",
+              "code_ogr": 520419,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures de sécurité spécifiques au tri des déchets",
+              "code_ogr": 480272,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en horaires fixes",
+          "code_ogr": 522277
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail posté (2x8, 3x8, 5x8, etc.)",
+          "code_ogr": 126450
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2310 - Ambassadeur / Ambassadrice du tri",
+      "code_org_rome_cible": 489221,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2308 - Opérateur / Opératrice de tri en récupération et revalorisation",
+      "code_org_rome_cible": 489068,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4118 - Conducteur / Conductrice de matériel de collecte",
+      "code_org_rome_cible": 488857,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2309 - Technicien / Technicienne réutilisation recyclage",
+      "code_org_rome_cible": 489069,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2204 - Agent / Agente de nettoyage industriel",
+      "code_org_rome_cible": 419,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1301 - Agent / Agente de service hospitalier (ASH)",
+      "code_org_rome_cible": 338,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1203 - Agent / Agente d'entretien des espaces verts",
+      "code_org_rome_cible": 9,
+      "ordre_mobilite": 9
+    }
+  ]
+}

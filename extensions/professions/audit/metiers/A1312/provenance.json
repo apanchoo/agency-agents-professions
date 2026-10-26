@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510270,
+    "code_rome": "A1312",
+    "libelle": "Directeur / Directrice environnement",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1303"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.334,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1303",
+      "title_terms": [
+        "environnement"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.SEE.14",
+          "title": "Etude de la biodiversité 1",
+          "page": 601,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=601",
+          "selection_score": 106.2598,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.06",
+          "title": "Analyse et réduction de l’empreinte environnementale",
+          "page": 699,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=699",
+          "selection_score": 105.5335,
+          "shared_terms": [
+            "environnementale",
+            "reduction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.SEE.12",
+          "title": "Etude de la biodiversité 2",
+          "page": 625,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=625",
+          "selection_score": 105.1268,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SEE.03",
+          "title": "Decrire un milieu et sa biodiversité",
+          "page": 610,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=610",
+          "selection_score": 63.6499,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 658,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=658",
+          "selection_score": 40.226,
+          "shared_terms": [
+            "impact"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

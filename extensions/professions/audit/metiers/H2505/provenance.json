@@ -1,0 +1,188 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 266,
+    "code_rome": "H2505",
+    "libelle": "Chef / Cheffe d'équipe et d'atelier textile",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H2505"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 26.95,
+      "matched_terms": [
+        "amelioration",
+        "approvisionnement",
+        "flux",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.08",
+          "title": "Planification de la production et prévision de la demande à moyen et long terme",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=142",
+          "selection_score": 48.7111,
+          "shared_terms": [
+            "moyen",
+            "prevision",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.11",
+          "title": "Amélioration d’un poste et d’un atelier",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=120",
+          "selection_score": 45.7144,
+          "shared_terms": [
+            "amelioration",
+            "atelier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Coordination approvisionnements - production",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=118",
+          "selection_score": 44.0527,
+          "shared_terms": [
+            "approvisionnement",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 95.2574,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MTD.03",
+          "title": "Projet transformation digitale en tant que cadre intermédiaire",
+          "page": 415,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=415",
+          "selection_score": 29.7023,
+          "shared_terms": [
+            "transformation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.59,
+      "matched_terms": [
+        "equipement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Mécanique et Matériaux 2",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=68",
+          "selection_score": 42.7073,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Mécanique et Matériaux 5",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=135",
+          "selection_score": 42.2516,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Mécanique et Matériaux 1",
+          "page": 43,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=43",
+          "selection_score": 41.6115,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 60.8318,
+          "shared_terms": [
+            "equipement",
+            "preparer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.3MI.01",
+          "title": "Elaborer un plan de maintenance",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=128",
+          "selection_score": 45.7177,
+          "shared_terms": [
+            "elaborer",
+            "maintenance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,265 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 212,
+    "code_rome": "H1201",
+    "libelle": "Coloriste en industrie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1201"
+  },
+  "but": [
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.196,
+      "matched_terms": [
+        "controle",
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 39.4303,
+          "shared_terms": [
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.10",
+          "title": "Conditionnement de signaux et pilotage d’instruments",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=121",
+          "selection_score": 34.8896,
+          "shared_terms": [
+            "instrument"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Thermodynamique et machines thermiques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=67",
+          "selection_score": 34.7674,
+          "shared_terms": [
+            "machine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 51.1186,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.01",
+          "title": "Caractériser et interpréter les résultats d’analyse d’échantillons selon la chaîne de mesure utilisée",
+          "page": 206,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=206",
+          "selection_score": 43.635,
+          "shared_terms": [
+            "echantillon",
+            "mesure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.425,
+      "matched_terms": [
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 71.5518,
+          "shared_terms": [
+            "echantillon",
+            "preparation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.ANA.01",
+          "title": "Echantillonnage",
+          "page": 182,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=182",
+          "selection_score": 62.6337,
+          "shared_terms": [
+            "echantillonnage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MPF.01",
+          "title": "Génie des mélanges",
+          "page": 312,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=312",
+          "selection_score": 53.6924,
+          "shared_terms": [
+            "melange"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Vérification d’une caractéristique donnée d’un matériau ou d’un produit formulé",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=89",
+          "selection_score": 65.3957,
+          "shared_terms": [
+            "caracteristique",
+            "formule",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.06",
+          "title": "Gestion HSE d’un laboratoire ou d’un atelier de production",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=92",
+          "selection_score": 56.2549,
+          "shared_terms": [
+            "atelier",
+            "laboratoire",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.019,
+      "matched_terms": [
+        "procede"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.14",
+          "title": "Chimie organique et Biochimie 1",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=91",
+          "selection_score": 53.6965,
+          "shared_terms": [
+            "chimie",
+            "organique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Chimie organique et biochimie 2",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=109",
+          "selection_score": 51.9213,
+          "shared_terms": [
+            "chimie",
+            "organique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "TP Production industrielle",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=145",
+          "selection_score": 48.3588,
+          "shared_terms": [
+            "industrielle",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 79.9326,
+          "shared_terms": [
+            "condition",
+            "environnemental",
+            "operatoire",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPIT.02",
+          "title": "Extrapolation d’un procédé du laboratoire à l’échelle pilote (Partie 2)",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=122",
+          "selection_score": 35.8267,
+          "shared_terms": [
+            "laboratoire",
+            "procede"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

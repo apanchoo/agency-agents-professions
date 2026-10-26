@@ -1,0 +1,257 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518200,
+    "code_rome": "H1245",
+    "libelle": "Mécatronicien / Mécatronicienne",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.475,
+      "matched_terms": [
+        "informatique",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEVCLOUD.11",
+          "title": "Programmer son infrastructure",
+          "page": 254,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=254",
+          "selection_score": 53.6472,
+          "shared_terms": [
+            "programmer"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Fondamentaux des systèmes électroniques",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=77",
+          "selection_score": 43.4796,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 38.2567,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.IOM.01",
+          "title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=335",
+          "selection_score": 45.8068,
+          "shared_terms": [
+            "cahier",
+            "charge"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ROM.03",
+          "title": "Concevoir un réseau informatique adapté au multimédia",
+          "page": 425,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425",
+          "selection_score": 43.0059,
+          "shared_terms": [
+            "adapte",
+            "informatique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.156,
+      "matched_terms": [
+        "electron"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Electronique",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "selection_score": 45.6045,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EME.12",
+          "title": "Mécatronique parcours EME",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=239",
+          "selection_score": 44.34,
+          "shared_terms": [
+            "mecatronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Vie de l’Entreprise : Gestion de projet, éco-conception et durabilité",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=73",
+          "selection_score": 44.2605,
+          "shared_terms": [
+            "conception",
+            "durabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Conception et vérification d’un prototype à partir d’un cahier des charges complet",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=67",
+          "selection_score": 77.9269,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "conception",
+            "prototype"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EME.01",
+          "title": "Concevoir, installer, vérifier et maintenir un système de conversion et de gestion de l’énergie électrique",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=219",
+          "selection_score": 70.3875,
+          "shared_terms": [
+            "electrique",
+            "maintenir",
+            "verifier"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.455,
+      "matched_terms": [
+        "mecani"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.01",
+          "title": "Mécanique",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=152",
+          "selection_score": 33.7042,
+          "shared_terms": [
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.08",
+          "title": "Organisation et Pilotage Industriel",
+          "page": 159,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=159",
+          "selection_score": 26.9894,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Ingénierie de construction mécanique",
+          "page": 174,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=174",
+          "selection_score": 21.8343,
+          "shared_terms": [
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.II.02",
+          "title": "Ameliorer techniquement",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=258",
+          "selection_score": 37.9421,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.II.02",
+          "title": "Analyser l’innovation et l’améliorer techniquement",
+          "page": 317,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=317",
+          "selection_score": 37.6524,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

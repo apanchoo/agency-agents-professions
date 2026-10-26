@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519120,
+    "code_rome": "H1243",
+    "libelle": "Technicien / Technicienne en bioproduction",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1210"
+  },
+  "but": [
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 95.43,
+      "matched_terms": [
+        "bioproduction",
+        "chimi",
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [
+        "bioproduction"
+      ],
+      "specific_title_terms": [
+        "bioproduction"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.14",
+          "title": "Chimie organique et Biochimie 1",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=91",
+          "selection_score": 49.4538,
+          "shared_terms": [
+            "biochimie",
+            "chimie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Chimie organique et biochimie 2",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=109",
+          "selection_score": 49.2655,
+          "shared_terms": [
+            "biochimie",
+            "chimie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.13",
+          "title": "Chimie générale",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=64",
+          "selection_score": 44.3793,
+          "shared_terms": [
+            "chimie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 38.8395,
+          "shared_terms": [
+            "automatisme",
+            "parametre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 2).",
+          "page": 269,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=269",
+          "selection_score": 38.7995,
+          "shared_terms": [
+            "automatisme",
+            "parametre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 88.482,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [
+        "producti"
+      ],
+      "specific_title_terms": [
+        "producti"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Organisation et Pilotage Industriel",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=119",
+          "selection_score": 26.0373,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Production - Méthodes",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=139",
+          "selection_score": 25.2661,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 39.8816,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.II.02",
+          "title": "Utiliser des concepts existants pour renouveller",
+          "page": 278,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=278",
+          "selection_score": 36.4913,
+          "shared_terms": [
+            "concept"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 22.734,
+      "matched_terms": [
+        "aliment",
+        "biologi",
+        "biotech"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        17,
+        18,
+        20,
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.BMB.14",
+          "title": "Bioproduction",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=295",
+          "selection_score": 63.6193,
+          "shared_terms": [
+            "bioproduction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Biologie cellulaire",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=85",
+          "selection_score": 62.922,
+          "shared_terms": [
+            "biologie",
+            "cellulaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.BMB.06",
+          "title": "Rôle du technicien dans un laboratoire de biologie médicale",
+          "page": 325,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=325",
+          "selection_score": 61.7566,
+          "shared_terms": [
+            "biologie",
+            "laboratoire",
+            "technicien"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.BMB.03",
+          "title": "Cultiver des cellules dans le respect des bonnes pratiques de laboratoire",
+          "page": 224,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=224",
+          "selection_score": 92.4175,
+          "shared_terms": [
+            "bonne",
+            "cellule",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mesurer un paramètre biologique",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=102",
+          "selection_score": 62.9753,
+          "shared_terms": [
+            "biologique",
+            "parametre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

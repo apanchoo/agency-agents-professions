@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518479,
+    "code_rome": "C1216",
+    "libelle": "Rédacteur / Rédactrice Banque de France",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "C1207"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.248,
+      "matched_terms": [
+        "financ"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1207",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.12",
+          "title": "Comptabilité : Techniques de base de comptabilité approfondie et de révision comptable",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=121",
+          "selection_score": 72.7164,
+          "shared_terms": [
+            "comptabilite",
+            "comptable",
+            "revision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.10",
+          "title": "Comptabilité : Techniques particulières de comptabilité approfondie et de révision comptable",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=158",
+          "selection_score": 64.6968,
+          "shared_terms": [
+            "comptabilite",
+            "comptable",
+            "revision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Finance",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=96",
+          "selection_score": 49.3092,
+          "shared_terms": [
+            "finance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Participer, dans le respect des contraintes réglementaires et dans une démarche de gouvernance durable à la création ou au développement d’une organisation",
+          "page": 125,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=125",
+          "selection_score": 54.7226,
+          "shared_terms": [
+            "gouvernance",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Contribuer à la gestion d’une organisation en fonction de ses besoins",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=81",
+          "selection_score": 50.1181,
+          "shared_terms": [
+            "fonction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

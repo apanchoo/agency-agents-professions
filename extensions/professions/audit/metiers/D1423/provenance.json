@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 512356,
+    "code_rome": "D1423",
+    "libelle": "Conseiller / Conseillère produits en véhicules",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1404"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.036,
+      "matched_terms": [
+        "client",
+        "marque",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.02",
+          "title": "Entretien de vente",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=120",
+          "selection_score": 70.6245,
+          "shared_terms": [
+            "entretien",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BDMRC.12",
+          "title": "Management de la valeur client",
+          "page": 499,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=499",
+          "selection_score": 65.1438,
+          "shared_terms": [
+            "client",
+            "valeur"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BDMRC.16",
+          "title": "Fondamentaux de la relation client",
+          "page": 459,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=459",
+          "selection_score": 50.3543,
+          "shared_terms": [
+            "client",
+            "relation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BI.03",
+          "title": "Développement de l’offre à l’international",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=384",
+          "selection_score": 48.0693,
+          "shared_terms": [
+            "offre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MMPV.03",
+          "title": "Propositions d’amélioration du fonctionnement du point de vente et du management de l’équipe",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=223",
+          "selection_score": 37.1325,
+          "shared_terms": [
+            "fonctionnement",
+            "vente"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

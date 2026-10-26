@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509670,
+    "code_rome": "H1527",
+    "libelle": "Responsable de sécurité industrielle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 98.799,
+      "matched_terms": [
+        "environnement",
+        "prevention",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "securite"
+      ],
+      "specific_title_terms": [
+        "securite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Introduction aux sciences du danger",
+          "page": 30,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=30",
+          "selection_score": 56.2174,
+          "shared_terms": [
+            "danger"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 42.7231,
+          "shared_terms": [
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Physique appliquée à la prévention des risques professionnels",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=58",
+          "selection_score": 42.5341,
+          "shared_terms": [
+            "prevention",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 67.817,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 41.029,
+          "shared_terms": [
+            "audit",
+            "interne"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.734,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        21
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.04",
+          "title": "Protection des milieux naturels",
+          "page": 697,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=697",
+          "selection_score": 64.0501,
+          "shared_terms": [
+            "milieux",
+            "protection"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.05",
+          "title": "Outils de gestion des milieux",
+          "page": 684,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=684",
+          "selection_score": 58.2392,
+          "shared_terms": [
+            "milieux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SAB.14",
+          "title": "Méthodes d’optimisation et de validation",
+          "page": 531,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=531",
+          "selection_score": 41.396,
+          "shared_terms": [
+            "validation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.03",
+          "title": "Organiser et mettre en place une procédure d’expérimentation animale dans le cadre de la règlementation en vigueur",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=199",
+          "selection_score": 45.0313,
+          "shared_terms": [
+            "procedure",
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.04",
+          "title": "Préparer et mettre en œuvre une production alimentaire ou de bioproduit",
+          "page": 465,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=465",
+          "selection_score": 36.0712,
+          "shared_terms": [
+            "preparer",
+            "uvre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.906,
+      "matched_terms": [
+        "mesure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 23.4413,
+          "shared_terms": [
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MAE.05",
+          "title": "Mesures normalisées de la qualité de l’environnement",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=336",
+          "selection_score": 22.6701,
+          "shared_terms": [
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 18.9389,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mettre en œuvre des mesures sur les systèmes optiques",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=71",
+          "selection_score": 33.1732,
+          "shared_terms": [
+            "mesure",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Mettre en œuvre des mesures électriques",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=48",
+          "selection_score": 32.5934,
+          "shared_terms": [
+            "mesure",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

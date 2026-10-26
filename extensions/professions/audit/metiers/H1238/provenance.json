@@ -1,0 +1,270 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509906,
+    "code_rome": "H1238",
+    "libelle": "Chef / Cheffe de projet conception industrielle en mécanique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1203"
+  },
+  "but": [
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 107.855,
+      "matched_terms": [
+        "conception industrielle en mecanique le chef de projet conception industri",
+        "mecani"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1203",
+      "title_terms": [
+        "conception industri",
+        "mecani"
+      ],
+      "specific_title_terms": [
+        "mecani"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SNRV.12",
+          "title": "Simulation",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=146",
+          "selection_score": 44.5899,
+          "shared_terms": [
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.01",
+          "title": "Mécanique",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=152",
+          "selection_score": 34.0401,
+          "shared_terms": [
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 30.8183,
+          "shared_terms": [
+            "industrielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 76.7882,
+          "shared_terms": [
+            "piece",
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Fabrication d’une pièce unitaire",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=88",
+          "selection_score": 68.8968,
+          "shared_terms": [
+            "fabrication",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.487,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Matériaux métalliques 3",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=114",
+          "selection_score": 62.7589,
+          "shared_terms": [
+            "materiaux",
+            "metallique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Matériaux métalliques 1",
+          "page": 52,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=52",
+          "selection_score": 62.6142,
+          "shared_terms": [
+            "materiaux",
+            "metallique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Matériaux composites 3",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=135",
+          "selection_score": 62.4721,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Conception, réalisation et validation d’un produit simple",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=72",
+          "selection_score": 73.8595,
+          "shared_terms": [
+            "conception",
+            "produit",
+            "realisation",
+            "validation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Etude des matériaux d’un produit industriel",
+          "page": 45,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=45",
+          "selection_score": 54.3749,
+          "shared_terms": [
+            "industriel",
+            "materiaux",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.793,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.11",
+          "title": "Matériaux et résistance des matériaux",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=122",
+          "selection_score": 58.7028,
+          "shared_terms": [
+            "materiaux",
+            "resistance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.09",
+          "title": "Structure des matériaux",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=95",
+          "selection_score": 40.6581,
+          "shared_terms": [
+            "materiaux",
+            "structure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Mécanique",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=91",
+          "selection_score": 34.0221,
+          "shared_terms": [
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Dessiner et concevoir un élément nécessaire à une campagne de mesure à l’aide d’un logiciel spécifique (DAO/CAO)",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=46",
+          "selection_score": 66.7743,
+          "shared_terms": [
+            "cao",
+            "dao",
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.09",
+          "title": "Projet en groupe visant à la réalisation d’une prestation de mesures ou à la conception d’un système simple de mesures",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=80",
+          "selection_score": 49.6017,
+          "shared_terms": [
+            "conception",
+            "prestation",
+            "realisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

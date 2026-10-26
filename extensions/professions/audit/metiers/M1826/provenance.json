@@ -1,0 +1,271 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488753,
+    "code_rome": "M1826",
+    "libelle": "Ingénieur / Ingénieure supervision IT Datacenter",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1803"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.304,
+      "matched_terms": [
+        "data"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [
+        "data"
+      ],
+      "specific_title_terms": [
+        "data"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 46.6518,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 40.4933,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Tests d’hypothèses pour l’analyse bi-variée",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=87",
+          "selection_score": 39.2227,
+          "shared_terms": [
+            "tests"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.VCOD.01",
+          "title": "Développement d’un composant d’une solution décisionnelle",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=96",
+          "selection_score": 58.5319,
+          "shared_terms": [
+            "decisionnelle",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Ecriture et lecture de fichiers de données",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=34",
+          "selection_score": 26.539,
+          "shared_terms": [
+            "ecriture"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 23.03,
+      "matched_terms": [
+        "application",
+        "informati",
+        "logiciel"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.08",
+          "title": "Techniques d’intelligence artificielle",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=297",
+          "selection_score": 174.4615,
+          "shared_terms": [
+            "artificielle",
+            "intelligence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.ADMIN.09",
+          "title": "Réseau avancé",
+          "page": 282,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=282",
+          "selection_score": 102.8342,
+          "shared_terms": [
+            "avance",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Architecture logicielle",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=133",
+          "selection_score": 85.8655,
+          "shared_terms": [
+            "architecture",
+            "logicielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 101.4808,
+          "shared_terms": [
+            "protection"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ADMIN.01",
+          "title": "Proposer une solution optimisée à partir de données internes et externes",
+          "page": 287,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=287",
+          "selection_score": 67.4155,
+          "shared_terms": [
+            "proposer",
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.791,
+      "matched_terms": [
+        "informatique",
+        "reseau",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.CYBER.09",
+          "title": "Sécurité des réseaux LAN",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=155",
+          "selection_score": 77.4906,
+          "shared_terms": [
+            "lan",
+            "reseaux",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Fibres optiques et propagation",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=128",
+          "selection_score": 74.4935,
+          "shared_terms": [
+            "fibre",
+            "optique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Physique des télécoms",
+          "page": 148,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=148",
+          "selection_score": 63.6243,
+          "shared_terms": [
+            "physique",
+            "telecom"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PILPRO.01",
+          "title": "Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client",
+          "page": 373,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=373",
+          "selection_score": 72.4671,
+          "shared_terms": [
+            "client",
+            "informatique",
+            "reseau",
+            "securite",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre en place une solution informatique pour l’entreprise",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=95",
+          "selection_score": 62.2847,
+          "shared_terms": [
+            "informatique",
+            "place",
+            "solution"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

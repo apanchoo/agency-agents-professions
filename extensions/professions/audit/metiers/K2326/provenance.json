@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509803,
+    "code_rome": "K2326",
+    "libelle": "Agent / Agente de mise en fourrière animale",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K2305"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.936,
+      "matched_terms": [
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2305",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.07",
+          "title": "Hygiène et salubrité des locaux et des produits alimentaires",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=83",
+          "selection_score": 49.5725,
+          "shared_terms": [
+            "hygiene",
+            "locaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.03",
+          "title": "Droit de la santé et de la sécurité au travail",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=78",
+          "selection_score": 45.9049,
+          "shared_terms": [
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.04",
+          "title": "Introduction au système de management QHSSE",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=103",
+          "selection_score": 44.6147,
+          "shared_terms": [
+            "qhsse"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 67.4276,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Préparer et animer en groupe une séquence autour d’un risque dans le cadre d’une campagne de sensibilisation",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=51",
+          "selection_score": 54.7211,
+          "shared_terms": [
+            "campagne",
+            "risque",
+            "sensibilisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,100 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488917,
+    "code_rome": "M1840",
+    "libelle": "Directeur / Directrice de projets des territoires connectés",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1803"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.201,
+      "matched_terms": [
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.05",
+          "title": "Définir une direction artistique",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=152",
+          "selection_score": 38.9375,
+          "shared_terms": [
+            "definir"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.18",
+          "title": "Projet Personnel et Professionnel",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=126",
+          "selection_score": 19.2081,
+          "shared_terms": [
+            "personnel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Management et Assurance qualité",
+          "page": 148,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=148",
+          "selection_score": 16.883,
+          "shared_terms": [
+            "management"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.01",
+          "title": "Développer des parcours utilisateur au sein d’un système d’information",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=223",
+          "selection_score": 40.3363,
+          "shared_terms": [
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 29.515,
+          "shared_terms": [
+            "utilisateur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489183,
+    "code_rome": "H1309",
+    "libelle": "Technicien / Technicienne en radioprotection",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1303"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 19.833,
+      "matched_terms": [
+        "environnement",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        7
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.01",
+          "title": "Risques liés à l’exposition aux produits chimiques et aux rayonnements",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=76",
+          "selection_score": 94.1379,
+          "shared_terms": [
+            "chimique",
+            "exposition",
+            "lies",
+            "produit",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.02",
+          "title": "Risques liés au transport",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=134",
+          "selection_score": 73.6482,
+          "shared_terms": [
+            "lies",
+            "risque",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.05",
+          "title": "Sécurité des installations face au risque d’incendie",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=80",
+          "selection_score": 73.0876,
+          "shared_terms": [
+            "incendie",
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 67.9511,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.02",
+          "title": "Concevoir un plan de gestion des risques liés aux coactivités",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=93",
+          "selection_score": 46.5251,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

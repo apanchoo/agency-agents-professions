@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510436,
+    "code_rome": "A1313",
+    "libelle": "Chargé / Chargée de mission environnement",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1301"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 35.222,
+      "matched_terms": [
+        "ecolog",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1301",
+      "title_terms": [
+        "environnement"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        17
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.SEE.17",
+          "title": "Pollutions chimiques",
+          "page": 604,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=604",
+          "selection_score": 110.6694,
+          "shared_terms": [
+            "chimique",
+            "pollution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 101.6847,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.SEE.14",
+          "title": "Bases d’écologie",
+          "page": 627,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=627",
+          "selection_score": 97.9974,
+          "shared_terms": [
+            "ecologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SEE.04",
+          "title": "Identifier et caractériser les différents polluants dans un écosystème",
+          "page": 585,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=585",
+          "selection_score": 54.2749,
+          "shared_terms": [
+            "ecosysteme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 634,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=634",
+          "selection_score": 40.577,
+          "shared_terms": [
+            "impact"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489052,
+    "code_rome": "E1113",
+    "libelle": "Responsable e-commerce",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1101"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.194,
+      "matched_terms": [
+        "developpe",
+        "internet"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CREA.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=113",
+          "selection_score": 40.9426,
+          "shared_terms": [
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.12",
+          "title": "Développement Web",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=65",
+          "selection_score": 32.9925,
+          "shared_terms": [
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 28.168,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.01",
+          "title": "Créer pour une campagne de communication visuelle",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=130",
+          "selection_score": 61.3233,
+          "shared_terms": [
+            "campagne",
+            "creer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Construire sa présence en ligne",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=78",
+          "selection_score": 40.2341,
+          "shared_terms": [
+            "ligne"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

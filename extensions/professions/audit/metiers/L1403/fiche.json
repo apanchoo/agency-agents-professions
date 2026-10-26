@@ -1,0 +1,592 @@
+{
+  "numero": 33015,
+  "rome": {
+    "code_rome": "L1403",
+    "intitule": "Cavalier / Cavalière d'entraînement",
+    "code_ogr": 509395
+  },
+  "appellations": [
+    {
+      "libelle": "Cavalier dresseur / Cavalière dresseuse de chevaux",
+      "libelle_court": "Cavalier dresseur / Cavalière dresseuse de chevaux",
+      "code_ogr": 11714
+    },
+    {
+      "libelle": "Cavalier professionnel / Cavalière professionnelle",
+      "libelle_court": "Cavalier professionnel / Cavalière professionnelle",
+      "code_ogr": 11716
+    },
+    {
+      "libelle": "Entraîneur / Entraîneuse de chevaux",
+      "libelle_court": "Entraîneur / Entraîneuse de chevaux",
+      "code_ogr": 509475
+    },
+    {
+      "libelle": "Jockey",
+      "libelle_court": "Jockey",
+      "code_ogr": 16072
+    },
+    {
+      "libelle": "Lad driver",
+      "libelle_court": "Lad driver",
+      "code_ogr": 509477
+    },
+    {
+      "libelle": "Lad jockey",
+      "libelle_court": "Lad jockey",
+      "code_ogr": 509476
+    }
+  ],
+  "definition": "Le Cavalier d'entraînement travaille sous la responsabilité d'un entraîneur et participe à la préparation physique et mentale des chevaux de courses (galop ou trot) en vue des compétitions. Monte les chevaux de course à l'entraînement selon les consignes de l'entraîneur Adapte le travail en fonction du niveau et des besoins de chaque cheval Assure les soins quotidiens aux chevaux (pansage, alimentation, surveillance de l'état de santé) Participe à l'entretien des installations et du matériel (sellerie, écuries, pistes d'entraînement) Observe le comportement des chevaux et signaler tout problème à l'entraîneur Respecte les consignes de sécurité et le bien-être animal Accompagne et/ou transporte éventuellement les chevaux aux courses",
+  "acces_metier": "Cet emploi est accessible avec un Certificat d'aptitude professionnelle agricole Lad - cavalier d'entraînement, un Bac Pro Conduite et Gestion de l'Entreprise Agricole (Bac Pro CGEA), un Bac Pro Conduite et Gestion de l'Entreprise Hippique (Bac Pro CGEH) ou un Certificat de Spécialisation Option Éducation et Travail des jeunes équidés (CS ETJE). Pour exercer en tant que Jockey et participer aux courses, la licence professionnelle de Jockey est obligatoire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Participer aux séances d'entraînement pour chevaux",
+              "code_ogr": 513495,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Concourir en compétition et adapter les actions selon les directives de l'entraîneur, du directeur sportif",
+              "code_ogr": 109181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir un projet d'entraînement pour l'équidé, de manière autonome ou collaborative, selon la discipline et les objectifs à atteindre",
+              "code_ogr": 513531,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en place les conditions favorisant la performance sportive et la prévention de blessures (nutrition, récupération, travail technico-tactique en dehors des entraînements)",
+              "code_ogr": 403851,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les équipements nécessaires pour l'entraînement des équidés",
+              "code_ogr": 505159,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les exercices de préparation physique",
+              "code_ogr": 109178,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Assurer les soins courants des équidés",
+              "code_ogr": 404003,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaître et évaluer les conditions d'accueil et l'environnement des animaux",
+              "code_ogr": 300595,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer le bien-être des équidés au quotidien",
+              "code_ogr": 502385,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les chevaux pour l'entraînement",
+              "code_ogr": 500282,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les équidés pour la compétition ou pour des évènements",
+              "code_ogr": 404018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'opération de débourrage d'un jeune cheval",
+              "code_ogr": 122602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'alimentation des équidés pour garantir leur bien-être et leur santé",
+              "code_ogr": 505161,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Connaître les outils d'analyse des performances équines",
+              "code_ogr": 513496,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Observer le comportement des chevaux pour détecter des problèmes",
+              "code_ogr": 500284,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir le matériel équestre en bon état",
+              "code_ogr": 484864,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler un engin mécanique ou thermique dédié à l'entretien des boxes et des litières",
+              "code_ogr": 513509,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Respecter les règles de sécurité dont le port des EPI et la tenue vestimentaire adaptée",
+              "code_ogr": 405390,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assister l'organisation des déplacements pour les compétitions",
+              "code_ogr": 513510,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité et le bien-être des animaux lors du transport",
+              "code_ogr": 404022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les déplacements pour les compétitions équestres",
+              "code_ogr": 500289,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner le matériel ou les équipements selon la compétition et les contraintes",
+              "code_ogr": 109180,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Garantir la sécurité des équidés, des biens et des personnes",
+              "code_ogr": 500287,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les entraîneurs, jockeys et propriétaires des chevaux",
+              "code_ogr": 500288,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'endurance et de sang-froid",
+              "code_ogr": 511052,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Construire son projet professionnel dans le domaine des courses hippiques",
+              "code_ogr": 505171,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'une bonne résistance physique et mentale",
+              "code_ogr": 513512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à des sessions de formation continue",
+              "code_ogr": 485699,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des équipements sportifs",
+              "code_ogr": 109184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option C : équitation d'extérieur",
+              "code_ogr": 403977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option A : initiation poney, cheval",
+              "code_ogr": 403975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option B : approfondissement technique",
+              "code_ogr": 403976,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Analyse des performances et des données biométriques",
+              "code_ogr": 513506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de contention animale",
+              "code_ogr": 100302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques physiques, physiologiques et comportementales de l'équidé",
+              "code_ogr": 403966,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Substances dopantes et réglementations associées",
+              "code_ogr": 513508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des courses hippiques (code des courses)",
+              "code_ogr": 513498,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du sport et des activités sportives",
+              "code_ogr": 109183,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité des installations équestres",
+              "code_ogr": 497406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'accueil des animaux",
+              "code_ogr": 100455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du sport de haut niveau",
+              "code_ogr": 103939,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Préparation physique des chevaux",
+              "code_ogr": 496810,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Notions de maréchalerie",
+              "code_ogr": 498101,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de monte en compétition",
+              "code_ogr": 498348,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dressage de chevaux",
+              "code_ogr": 498090,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de réhabilitation équine",
+              "code_ogr": 496095,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Premiers secours pour animaux",
+              "code_ogr": 479401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins équins",
+              "code_ogr": 497512,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement allergène",
+          "code_ogr": 300781
+        },
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        },
+        {
+          "libelle": "Structure sportive",
+          "code_ogr": 403961
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": false
+    },
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "L1206 - Cavalier / Cavalière de spectacle",
+      "code_org_rome_cible": 488757,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1309 - Technicien / Technicienne d'élevage équin",
+      "code_org_rome_cible": 509754,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1230 - Guide de tourisme équestre",
+      "code_org_rome_cible": 488860,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1439 - Eleveur / Eleveuse d'équidés",
+      "code_org_rome_cible": 509679,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1406 - Directeur / Directrice d'équipement sportif",
+      "code_org_rome_cible": 488348,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "L1401 - Sportif professionnel / Sportive professionnelle",
+      "code_org_rome_cible": 446,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "L1207 - Cascadeur / Cascadeuse",
+      "code_org_rome_cible": 488789,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1210 - Enseignant / Enseignante d'équitation",
+      "code_org_rome_cible": 403958,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "G1211 - Analyste de la performance sportive",
+      "code_org_rome_cible": 404961,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1502 - Maréchal-ferrant / Maréchale-ferrante",
+      "code_org_rome_cible": 33,
+      "ordre_mobilite": 10
+    }
+  ]
+}

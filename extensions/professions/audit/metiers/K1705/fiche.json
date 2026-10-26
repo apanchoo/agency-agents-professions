@@ -1,0 +1,812 @@
+{
+  "numero": 448,
+  "rome": {
+    "code_rome": "K1705",
+    "intitule": "Secouriste",
+    "code_ogr": 395
+  },
+  "appellations": [
+    {
+      "libelle": "Artificier démineur / Artificière démineuse",
+      "libelle_court": "Artificier démineur / Artificière démineuse",
+      "code_ogr": 11150
+    },
+    {
+      "libelle": "Chef / Cheffe d'agrées",
+      "libelle_court": "Chef / Cheffe d'agrées",
+      "code_ogr": 12027
+    },
+    {
+      "libelle": "Chef / Cheffe de garde",
+      "libelle_court": "Chef / Cheffe de garde",
+      "code_ogr": 12151
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe de secours",
+      "libelle_court": "Chef / Cheffe d'équipe de secours",
+      "code_ogr": 12432
+    },
+    {
+      "libelle": "Démineur / Démineuse sécurité civile",
+      "libelle_court": "Démineur / Démineuse sécurité civile",
+      "code_ogr": 13952
+    },
+    {
+      "libelle": "Electromécanicien / Electromécanicienne de sécurité",
+      "libelle_court": "Electromécanicien / Electromécanicienne de sécurité",
+      "code_ogr": 14655
+    },
+    {
+      "libelle": "Intervenant / Intervenante de sécurité civile et de secours",
+      "libelle_court": "Intervenant / Intervenante de sécurité civile et de secours",
+      "code_ogr": 16052
+    },
+    {
+      "libelle": "Maître-chien / Maîtresse-chien sécurité civile",
+      "libelle_court": "Maître-chien / Maîtresse-chien sécurité civile",
+      "code_ogr": 16324
+    },
+    {
+      "libelle": "Spécialiste sécurité civile",
+      "libelle_court": "Spécialiste sécurité civile",
+      "code_ogr": 19510
+    },
+    {
+      "libelle": "Spéléologue secouriste",
+      "libelle_court": "Spéléologue secouriste",
+      "code_ogr": 19513
+    },
+    {
+      "libelle": "Stationnaire",
+      "libelle_court": "Stationnaire",
+      "code_ogr": 19521
+    },
+    {
+      "libelle": "Technicien / Technicienne de la prévention et de lutte contre les sinistres",
+      "libelle_court": "Technicien(ne) de prévention et lutte contre les sinistres",
+      "code_ogr": 19782
+    },
+    {
+      "libelle": "Technicien / Technicienne en sécurité incendie et secourisme",
+      "libelle_court": "Technicien / Technicienne en sécurité incendie et secourisme",
+      "code_ogr": 20123
+    }
+  ],
+  "definition": "Le secouriste réalise les interventions de secours, d'assistance à personnes et la lutte contre les périls, sinistres, risques naturels, technologiques, etc, menaçant la sécurité publique, les biens et les patrimoines selon les règles de sécurité et les impératifs d'urgence et de priorité. Peut réaliser la prévention de risques Peut coordonner une équipe",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) complété par une formation en secourisme (attestation, certificat de premier secours, brevet de pisteur-secouriste, ...). Des habilitations électriques peuvent être requises. Une bonne condition physique est requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former le personnel aux premiers secours",
+              "code_ogr": 486826,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Assister et secourir des personnes victimes d'accident en milieu immergé ou hyperbare",
+              "code_ogr": 114954,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer les premiers secours",
+              "code_ogr": 511241,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les situations de stress chez les patients",
+              "code_ogr": 482292,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser aux bonnes pratiques d'hygiène et de santé",
+              "code_ogr": 107447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement sur les risques de sécurité",
+              "code_ogr": 485840,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner les alertes (appels téléphoniques, alarmes) et déclencher des interventions de secours et d'assistance adaptés",
+              "code_ogr": 114884,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler et utiliser les EPI et EPC",
+              "code_ogr": 490618,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler un équipement ou matériel",
+              "code_ogr": 124805,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer les opérations de sécurisation ou de secours lors d'accident, de sinistres après évaluation des situations et des risques",
+              "code_ogr": 108186,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer le cadre organisationnel du management des risques",
+              "code_ogr": 116313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la situation, les risques et déterminer les actions d'assistance et de secours à personnes",
+              "code_ogr": 511733,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Exécuter des ordres en situation de stress",
+              "code_ogr": 482595,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former et informer les salariés pour les sensibiliser à la prévention des risques",
+              "code_ogr": 402154,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier et évaluer les risques professionnels dans l'entreprise",
+              "code_ogr": 490325,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recenser les moyens de protection/prévention des risques sur site",
+              "code_ogr": 119623,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rechercher et identifier les risques, menaces, atteintes à la sécurité publique, aux lois et aux institutions",
+              "code_ogr": 108218,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des interventions de sécurité nécessitant une habilitation",
+              "code_ogr": 105754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les interventions de lutte contre les sinistres (incendies, effondrements, inondations, etc.) et les produits dangereux, corrosifs, toxiques",
+              "code_ogr": 108230,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser ou participer à la réalisation d'études de risques (identification, recensement, évaluation, ...)",
+              "code_ogr": 114605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Savoir installer des dispositifs d'évacuation ou de secours simples",
+              "code_ogr": 400857,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Superviser l'application des normes d'hygiène et de sécurité au sein de l'établissement",
+              "code_ogr": 483164,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Réguler, superviser le trafic d'un réseau de transport",
+              "code_ogr": 300279,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger des rapports d'intervention détaillés",
+              "code_ogr": 501701,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité administrative et réglementaire d'un lieu recevant du public",
+              "code_ogr": 123878,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les protocoles de premiers secours en cas d'urgence vitale",
+              "code_ogr": 518374,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assister et aider les personnes en attendant les secours",
+              "code_ogr": 108845,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la protection des personnes en situation d'incident ou d'accident",
+              "code_ogr": 115650,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evacuer les personnes, les mettre en sécurité en cas d'accident, d'incendie et guider les secours",
+              "code_ogr": 115272,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer rapidement l'état d'une victime pour déterminer les gestes de secours adaptés",
+              "code_ogr": 518373,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier une zone d'accident, de sinistre et les modalités d'intervention nécessaires",
+              "code_ogr": 119609,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Intervenir en milieu hostile ou dangereux (incendie, accident de la route, etc.)",
+              "code_ogr": 518377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre des moyens de protection des personnes",
+              "code_ogr": 121882,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser une opération logistique de secours",
+              "code_ogr": 513610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à l'élaboration et à la modification du Plan d'Organisation de la Surveillance et des Secours",
+              "code_ogr": 490371,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des interventions de recherche de personnes disparues",
+              "code_ogr": 123785,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations dans des zones d'accès difficiles",
+              "code_ogr": 108251,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stabiliser l'état d'une victime en attendant l'arrivée des secours médicaux",
+              "code_ogr": 518376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements de localisation pour trouver des victimes",
+              "code_ogr": 505368,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser du matériel de secours (défibrillateur, matériel de secours, etc.)",
+              "code_ogr": 518375,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer une communication claire et efficace avec l'équipe",
+              "code_ogr": 483667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec l'équipe pour des opérations coordonnées",
+              "code_ogr": 484051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer efficacement avec la centrale de coordination",
+              "code_ogr": 485127,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer efficacement les besoins et les urgences",
+              "code_ogr": 483587,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les hiérarchiques, forces de l'ordre, médecins, ... sur les interventions, les risques et les évolutions de la situation",
+              "code_ogr": 108232,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter les solutions aux contraintes de l'environnement de production",
+              "code_ogr": 485225,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Adapter son comportement, sa pratique professionnelle aux situations",
+              "code_ogr": 404186,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer des techniques de gestion du stress",
+              "code_ogr": 482628,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une veille professionnelle continue",
+              "code_ogr": 482948,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer le stress et prendre des décisions rapides en situation d'urgence",
+              "code_ogr": 484614,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Participer à une action ou mission humanitaire",
+              "code_ogr": 124898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité et les droits des individus",
+              "code_ogr": 486270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité et d'hygiène",
+              "code_ogr": 485161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité lors des interventions",
+              "code_ogr": 483891,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements de protection individuelle (EPI)",
+              "code_ogr": 482123,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "S'entraîner régulièrement aux gestes de secourisme en équipe afin d'améliorer la chaîne de secours lors d'un incident",
+              "code_ogr": 490372,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de soin",
+              "code_ogr": 108234,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation d'équipement de secours et de sauvetage",
+              "code_ogr": 100243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'engin et matériel incendie",
+              "code_ogr": 108233,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation d'appareil de réanimation",
+              "code_ogr": 108235,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicule de secours et d'assistance aux victimes (VSAV)",
+              "code_ogr": 107394,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'aide-soignant",
+              "code_ogr": 404157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Formation aux premiers secours",
+              "code_ogr": 123799,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat d'ambulancier",
+              "code_ogr": 512440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Premiers secours en équipe niveau 1",
+              "code_ogr": 123809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitations électriques de travaux hors tension",
+              "code_ogr": 124200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet National de Pisteur Secouriste 1er degré (BNPS)",
+              "code_ogr": 123789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitation Prévention et Secours Civiques de niveau 1 (PSC1)",
+              "code_ogr": 123811,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet national de sécurité et sauvetage aquatique",
+              "code_ogr": 123796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet National de Pisteur Secouriste 3eme degré (BNPS)",
+              "code_ogr": 123794,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à l'exercice de la profession de maître nageur sauveteur (CAEP - MNS)",
+              "code_ogr": 489619,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Service de Sécurité Incendie et d'Assistance à Personnes (SSIAP2)",
+              "code_ogr": 121838,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet National de Pisteur Secouriste 2eme degré (BNPS)",
+              "code_ogr": 123790,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sauvetage et Lutte contre les Incendies d'Aéronefs -SSLIA-",
+              "code_ogr": 108242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Service de sécurité incendie et d'assistance aux personnes de niveau 1 (SSIAP 1) - diplôme d'agent de service",
+              "code_ogr": 121837,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de Formation Aux Premiers Secours Routiers (CFAPSR)",
+              "code_ogr": 123800,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Premiers secours psychologiques",
+              "code_ogr": 477050,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'alpinisme",
+              "code_ogr": 106891,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Génie civil",
+              "code_ogr": 106594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques en milieu naturel",
+              "code_ogr": 103190,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaboration avec des équipes médicales",
+              "code_ogr": 492433,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation en pyrotechnie",
+              "code_ogr": 103378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation de la chaîne logistique",
+              "code_ogr": 102224,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures de décontamination",
+              "code_ogr": 101073,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sécurité incendie",
+              "code_ogr": 101449,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire et légal de l'organisation des opérations de prévention et de secours",
+              "code_ogr": 400915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sauvetage Secourisme au Travail (SST)",
+              "code_ogr": 119258,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de lutte contre les incendies",
+              "code_ogr": 107093,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveillance des émissions polluantes",
+              "code_ogr": 101450,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de prévention des avalanches",
+              "code_ogr": 108237,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En altitude",
+          "code_ogr": 23377
+        },
+        {
+          "libelle": "En grande hauteur",
+          "code_ogr": 300782
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Travail dans des milieux difficiles et exigeants pour l'humain",
+          "code_ogr": 511480
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1726 - Pisteur / Pisteuse secouriste",
+      "code_org_rome_cible": 510040,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1704 - Officier / Officière de police",
+      "code_org_rome_cible": 394,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1701 - Combattant / Combattante en milieu terrestre",
+      "code_org_rome_cible": 391,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1706 - Gendarme",
+      "code_org_rome_cible": 396,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1702 - Responsable de sécurité civile et de secours",
+      "code_org_rome_cible": 392,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2503 - Agent / Agente de prévention et de sécurité",
+      "code_org_rome_cible": 430,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2502 - Responsable sécurité de site",
+      "code_org_rome_cible": 429,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1305 - Ambulancier / Ambulancière",
+      "code_org_rome_cible": 342,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1707 - Policier municipal / Policière municipale",
+      "code_org_rome_cible": 397,
+      "ordre_mobilite": 10
+    }
+  ]
+}

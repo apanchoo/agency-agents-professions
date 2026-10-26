@@ -1,0 +1,532 @@
+{
+  "numero": 21,
+  "rome": {
+    "code_rome": "B1402",
+    "intitule": "Relieur / Relieuse d'art",
+    "code_ogr": 42
+  },
+  "appellations": [
+    {
+      "libelle": "Brocheur papetier / Brocheuse papetière main",
+      "libelle_court": "Brocheur papetier / Brocheuse papetière main",
+      "code_ogr": 11600
+    },
+    {
+      "libelle": "Chef / Cheffe d'atelier en reliure artisanale",
+      "libelle_court": "Chef / Cheffe d'atelier en reliure artisanale",
+      "code_ogr": 12061
+    },
+    {
+      "libelle": "Papetier brocheur / Papetière brocheuse",
+      "libelle_court": "Papetier brocheur / Papetière brocheuse",
+      "code_ogr": 510782
+    },
+    {
+      "libelle": "Relieur / Relieuse",
+      "libelle_court": "Relieur / Relieuse",
+      "code_ogr": 404413
+    },
+    {
+      "libelle": "Relieur / Relieuse main",
+      "libelle_court": "Relieur / Relieuse main",
+      "code_ogr": 18500
+    },
+    {
+      "libelle": "Relieur-doreur / Relieuse-doreuse",
+      "libelle_court": "Relieur-doreur / Relieuse-doreuse",
+      "code_ogr": 18501
+    }
+  ],
+  "definition": "Spécialiste de la création, restauration et décoration de livres récents ou anciens, cet artisan du livre préserve et embellit le patrimoine écrit. Evalue l'état des livres et conseille le client sur les meilleures options de conservation et de restauration Restaure et conserve des livres anciens ou précieux dans le respect des techniques de reliure Réalise des reliures artistiques pour valoriser des ouvrages de collection",
+  "acces_metier": "Cet emploi est accessible avec une qualification spécialisée. Les niveaux d'études requis varient de CAP/BEP à Bac selon la formation.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer la formation continue des salariés sur les nouvelles techniques de reliure",
+              "code_ogr": 486809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Concevoir des motifs décoratifs pour couvertures",
+              "code_ogr": 486802,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer des techniques de conservation des œuvres",
+              "code_ogr": 486803,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Choisir les matériaux adaptés pour la reliure d'art",
+              "code_ogr": 486801,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Couvrir par découpe de gabarit",
+              "code_ogr": 125607,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habiller des cartons de couverture",
+              "code_ogr": 125610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un travail de précision nécessitant le sens de la minutie",
+              "code_ogr": 405118,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une plaçure par démontage d'un ouvrage",
+              "code_ogr": 125634,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser une presse hydraulique",
+              "code_ogr": 400835,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Fixer des cartons de couverture",
+              "code_ogr": 125609,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place une coiffe et les nerfs d'une couverture",
+              "code_ogr": 125608,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir les équipements de reliure en bon état",
+              "code_ogr": 486808,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Restaurer des livres anciens en respectant leur intégrité",
+              "code_ogr": 486804,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Maintenir l'atelier en ordre et sécurisé pour prévenir les accidents",
+              "code_ogr": 484979,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité du papier ou du cuir pour la reliure",
+              "code_ogr": 486800,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer l'inventaire des matériaux de reliure",
+              "code_ogr": 486805,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Planifier la production en fonction des commandes clients",
+              "code_ogr": 499941,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Optimiser l'utilisation des ressources pour réduire les déchets",
+              "code_ogr": 482198,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Communiquer avec les clients sur les spécifications de reliure",
+              "code_ogr": 486806,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Présenter des échantillons ou des modèles à des clients",
+              "code_ogr": 125581,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Calculer les marges, la rentabilité d'un produit ou d'une activité",
+              "code_ogr": 122032,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contractualiser une prestation",
+              "code_ogr": 121431,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter les coûts et délais de livraison à un client",
+              "code_ogr": 122159,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de fer à dorer",
+              "code_ogr": 100673,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de fleuron et empreinte",
+              "code_ogr": 100674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des encres et colorants",
+              "code_ogr": 481662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des pâtes à papier recyclé",
+              "code_ogr": 106302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des adhésifs pour reliure",
+              "code_ogr": 481659,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du papier reliure",
+              "code_ogr": 100788,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Spécificités des matériaux anciens",
+              "code_ogr": 105033,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de massicot",
+              "code_ogr": 100772,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des matériaux innovants pour la reliure",
+              "code_ogr": 481668,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BMA spécialité art de la reliure et de la dorure",
+              "code_ogr": 490732,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DMA arts graphiques option reliure dorure",
+              "code_ogr": 490734,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP arts de la reliure",
+              "code_ogr": 490733,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Histoire du livre",
+              "code_ogr": 100776,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion d'atelier d'art",
+              "code_ogr": 481658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des méthodes de reliure non traditionnelles",
+              "code_ogr": 481666,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Gestion de la qualité des finitions",
+              "code_ogr": 481661,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Principes de conservation préventive",
+              "code_ogr": 100597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets de matériaux de reliure",
+              "code_ogr": 481670,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de diagnostic de l'état des livres",
+              "code_ogr": 481664,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dorure à la feuille",
+              "code_ogr": 125133,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de sertissage d'élément de décor",
+              "code_ogr": 100789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de démontage et remontage de livres",
+              "code_ogr": 100777,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de restauration de documents",
+              "code_ogr": 100598,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dorure au film",
+              "code_ogr": 100790,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de rognage",
+              "code_ogr": 100773,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de reliure écologique",
+              "code_ogr": 481669,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de reliure",
+              "code_ogr": 101899,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de manipulation de livres anciens",
+              "code_ogr": 481663,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de couture de documents papier",
+              "code_ogr": 100778,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dorure au balancier",
+              "code_ogr": 100791,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pliage et assemblage",
+              "code_ogr": 481660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de nettoyage de livres",
+              "code_ogr": 481665,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "89",
+      "libelle": "Industrie - Papier et imprimerie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1701 - Taxidermiste",
+      "code_org_rome_cible": 48,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "B1806 - Tapissier / Tapissière d'ameublement",
+      "code_org_rome_cible": 54,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "B1403 - Restaurateur / Restauratrice de livres anciens",
+      "code_org_rome_cible": 489064,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "B1802 - Maroquinier / Maroquinière",
+      "code_org_rome_cible": 50,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "B1304 - Artisan démonstrateur / Artisane démonstratrice",
+      "code_org_rome_cible": 488724,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H2401 - Opérateur / Opératrice de fabrication industrie des cuirs, peaux et matériaux associés",
+      "code_org_rome_cible": 247,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1601 - Documentaliste",
+      "code_org_rome_cible": 389,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1201 - Brocanteur / Brocanteuse",
+      "code_org_rome_cible": 87,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1603 - Bibliothécaire",
+      "code_org_rome_cible": 488327,
+      "ordre_mobilite": 10
+    }
+  ]
+}

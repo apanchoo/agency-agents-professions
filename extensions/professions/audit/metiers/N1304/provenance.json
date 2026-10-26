@@ -1,0 +1,199 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488588,
+    "code_rome": "N1304",
+    "libelle": "Directeur / Directrice logistique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "N1301"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.843,
+      "matched_terms": [
+        "logist",
+        "organisation",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1301",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.13",
+          "title": "Achats dans la Supply Chain",
+          "page": 255,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=255",
+          "selection_score": 79.3466,
+          "shared_terms": [
+            "achat",
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.14",
+          "title": "Distribution, transport et Supply Chain",
+          "page": 256,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=256",
+          "selection_score": 63.2298,
+          "shared_terms": [
+            "chain",
+            "supply",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 62.9972,
+          "shared_terms": [
+            "logistique",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 95.9996,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 55.0066,
+          "shared_terms": [
+            "evolution",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.81,
+      "matched_terms": [
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1301",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MSCC.06",
+          "title": "Appels d’offre de solutions digitales",
+          "page": 168,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=168",
+          "selection_score": 69.162,
+          "shared_terms": [
+            "appel",
+            "offre",
+            "solution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MSCC.21",
+          "title": "Innovations technologiques pour la mobilité et la supply chain",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=108",
+          "selection_score": 68.595,
+          "shared_terms": [
+            "chain",
+            "supply",
+            "technologique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Gestion des entrepôts : approfondissement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=141",
+          "selection_score": 65.85,
+          "shared_terms": [
+            "entrepot"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Étude de l’entreposage et de la logistique",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=35",
+          "selection_score": 76.7484,
+          "shared_terms": [
+            "entreposage",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCD.01",
+          "title": "Optimisation d’une chaîne logistique dans une démarche durable",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=226",
+          "selection_score": 72.2386,
+          "shared_terms": [
+            "chaine",
+            "durable",
+            "logistique",
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

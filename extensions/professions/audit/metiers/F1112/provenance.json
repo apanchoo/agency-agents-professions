@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 403090,
+    "code_rome": "F1112",
+    "libelle": "Ingénieur / Ingénieure calcul et structure",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1106"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 31.842,
+      "matched_terms": [
+        "structure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [
+        "structure"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie des Travaux Publics 1",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=75",
+          "selection_score": 66.6217,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.08",
+          "title": "Technologie des Travaux Publics 5",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=253",
+          "selection_score": 66.0082,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Technologie des Travaux Publics 2",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=105",
+          "selection_score": 65.807,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.RAPEB.02",
+          "title": "Etude de faisabilité de réhabilitation",
+          "page": 323,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=323",
+          "selection_score": 86.392,
+          "shared_terms": [
+            "faisabilite",
+            "rehabilitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BAT.03",
+          "title": "Justification d’éléments de structure béton armé",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=143",
+          "selection_score": 71.6464,
+          "shared_terms": [
+            "arme",
+            "beton",
+            "structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

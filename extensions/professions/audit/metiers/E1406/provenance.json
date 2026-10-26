@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510209,
+    "code_rome": "E1406",
+    "libelle": "Influenceur / Influenceuse web",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1402"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.179,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.PUB.15",
+          "title": "Culture et tendances publicitaires",
+          "page": 617,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=617",
+          "selection_score": 62.7221,
+          "shared_terms": [
+            "publicitaire",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.PUB.06",
+          "title": "Publicité et influenceurs / Publicité internationale",
+          "page": 691,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=691",
+          "selection_score": 54.8948,
+          "shared_terms": [
+            "influenceur"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.17",
+          "title": "Culture et tendances publicitaires / Culture graphique",
+          "page": 589,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=589",
+          "selection_score": 54.5831,
+          "shared_terms": [
+            "publicitaire",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MLP.01",
+          "title": "Créer un guide de lecteur ou catalogue de collection",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=535",
+          "selection_score": 57.7863,
+          "shared_terms": [
+            "collection",
+            "creer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.PUB.04",
+          "title": "Concevoir une stratégie de communication publicitaire",
+          "page": 625,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=625",
+          "selection_score": 54.7624,
+          "shared_terms": [
+            "publicitaire",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

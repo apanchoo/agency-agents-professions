@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510054,
+    "code_rome": "E1119",
+    "libelle": "Concepteur rédacteur / Conceptrice rédactrice",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1104"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.853,
+      "matched_terms": [
+        "design",
+        "graph",
+        "internet"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.07",
+          "title": "Ecriture Multimédia et narration",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=154",
+          "selection_score": 87.7947,
+          "shared_terms": [
+            "ecriture",
+            "multimedia",
+            "narration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Référencement",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=114",
+          "selection_score": 61.962,
+          "shared_terms": [
+            "referencement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Production audio et vidéo",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=63",
+          "selection_score": 50.5896,
+          "shared_terms": [
+            "production",
+            "video"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 81.9417,
+          "shared_terms": [
+            "contenu",
+            "multimedia",
+            "produire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.02",
+          "title": "Développer une communication sur les médias sociaux",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=191",
+          "selection_score": 75.5005,
+          "shared_terms": [
+            "media",
+            "sociaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

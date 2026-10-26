@@ -1,0 +1,535 @@
+{
+  "numero": 107,
+  "rome": {
+    "code_rome": "D1211",
+    "intitule": "Vendeur / Vendeuse d'articles de sport et loisirs",
+    "code_ogr": 97
+  },
+  "appellations": [
+    {
+      "libelle": "Skiman / Skiwoman",
+      "libelle_court": "Skiman / Skiwoman",
+      "code_ogr": 38080
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en articles de sport",
+      "libelle_court": "Vendeur / Vendeuse en articles de sport",
+      "code_ogr": 20552
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en cycles",
+      "libelle_court": "Vendeur / Vendeuse en cycles",
+      "code_ogr": 20571
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en équipement de sport",
+      "libelle_court": "Vendeur / Vendeuse en équipement de sport",
+      "code_ogr": 20578
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en instruments et accessoires de musique",
+      "libelle_court": "Vendeur / Vendeuse en instruments et accessoires de musique",
+      "code_ogr": 20588
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en jeux électroniques",
+      "libelle_court": "Vendeur / Vendeuse en jeux électroniques",
+      "code_ogr": 20590
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en jeux vidéo",
+      "libelle_court": "Vendeur / Vendeuse en jeux vidéo",
+      "code_ogr": 38494
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en ski",
+      "libelle_court": "Vendeur / Vendeuse en ski",
+      "code_ogr": 20628
+    },
+    {
+      "libelle": "Vendeur armurier / Vendeuse armurière",
+      "libelle_court": "Vendeur armurier / Vendeuse armurière",
+      "code_ogr": 20512
+    }
+  ],
+  "definition": "Le vendeur d'articles de sport et loisirs optimise l'expérience client en proposant des solutions sportives et de loisir adaptées, grâce à une expertise produit solide. Conseille les clients sur les produits les mieux adaptés à leurs besoins sportifs et de loisirs Vend des articles de sport, des équipements et des vêtements adaptés à diverses activités sportives Traite les transactions de vente et gère la caisse Réalise la vente d'articles et d'accessoires destinés à des activités sportives ou de loisirs auprès d'une clientèle de particuliers Peut organiser des événements ou des démonstrations pour promouvoir les produits du magasin",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 dans les secteurs de la vente, du commerce et de la distribution.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la propreté et l'ordre dans l'espace de vente",
+              "code_ogr": 486238,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les réglages ou la maintenance de premier niveau d'instruments de musique",
+              "code_ogr": 102142,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les réglages ou la maintenance de premier niveau d'équipements de sport",
+              "code_ogr": 102143,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Participer à un inventaire",
+              "code_ogr": 300259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'étiquetage de produits",
+              "code_ogr": 102912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la mise en rayon",
+              "code_ogr": 117468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réapprovisionner les rayons et veiller à la bonne présentation des articles",
+              "code_ogr": 518825,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des chiffres de vente et réaliser le reporting associé",
+              "code_ogr": 403421,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller les clients sur le choix de matériel sportif ou d'équipements de loisirs",
+              "code_ogr": 519150,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer sur les promotions, nouveautés et services proposés",
+              "code_ogr": 518827,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Assurer un service après-vente",
+              "code_ogr": 300378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer des promotions pour stimuler les ventes",
+              "code_ogr": 519125,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la satisfaction client et ajuster les services",
+              "code_ogr": 484605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en valeur les produits en vitrine et en magasin",
+              "code_ogr": 518823,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs pour optimiser les coûts et la qualité des produits",
+              "code_ogr": 508655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer aux opérations de merchandising et d'animation du point de vente",
+              "code_ogr": 518826,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller et ajuster les prix en fonction de la concurrence et de la demande",
+              "code_ogr": 505690,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre des articles de sports et de loisirs",
+              "code_ogr": 123616,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vendre ou louer des instruments de musique",
+              "code_ogr": 126370,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre ou louer des produits ou des services",
+              "code_ogr": 300368,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des armes",
+              "code_ogr": 120506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des instruments de musique",
+              "code_ogr": 102128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits sport et loisirs",
+              "code_ogr": 118119,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de point de vente",
+              "code_ogr": 478416,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Vendeur conseiller sport",
+              "code_ogr": 522057,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Argumentation commerciale",
+              "code_ogr": 100381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques techniques des produits",
+              "code_ogr": 519151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Application de la règlementation en vigueur",
+              "code_ogr": 492196,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'encaissement",
+              "code_ogr": 100341,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de tenue de caisse",
+              "code_ogr": 102995,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sur les armes",
+              "code_ogr": 102147,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des feedbacks clients",
+              "code_ogr": 478328,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prospection, négociation, vente",
+              "code_ogr": 403143,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des commandes et des stocks",
+              "code_ogr": 477506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vente",
+              "code_ogr": 498870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de merchandising",
+              "code_ogr": 477962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de mise en rayon",
+              "code_ogr": 102405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des inventaires",
+              "code_ogr": 477880,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    },
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1212 - Vendeur / Vendeuse en équipement de la maison",
+      "code_org_rome_cible": 98,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1214 - Vendeur / Vendeuse en prêt-à-porter",
+      "code_org_rome_cible": 100,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1301 - Gérant / Gérante de magasin d'alimentation générale",
+      "code_org_rome_cible": 101,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1302 - Responsable de boutique",
+      "code_org_rome_cible": 488618,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "D1416 - Commercial / Commerciale auprès d'une clientèle d'entreprises",
+      "code_org_rome_cible": 488879,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1438 - Assistant / Assistante e-commerce",
+      "code_org_rome_cible": 510269,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1501 - Animateur / Animatrice de vente",
+      "code_org_rome_cible": 110,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1508 - Responsable de caisses",
+      "code_org_rome_cible": 117,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 10
+    }
+  ]
+}

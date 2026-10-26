@@ -1,0 +1,530 @@
+{
+  "numero": 30046,
+  "rome": {
+    "code_rome": "G1601",
+    "intitule": "Chef / Cheffe de cuisine",
+    "code_ogr": 198
+  },
+  "appellations": [
+    {
+      "libelle": "Chef / Cheffe d'atelier de cuisine",
+      "libelle_court": "Chef / Cheffe d'atelier de cuisine",
+      "code_ogr": 403766
+    },
+    {
+      "libelle": "Chef cuisinier / Cheffe cuisinière",
+      "libelle_court": "Chef cuisinier / Cheffe cuisinière",
+      "code_ogr": 12018
+    },
+    {
+      "libelle": "Chef cuisinier-traiteur / Cheffe cuisinière-traiteuse",
+      "libelle_court": "Chef cuisinier-traiteur / Cheffe cuisinière-traiteuse",
+      "code_ogr": 12111
+    },
+    {
+      "libelle": "Directeur / Directrice de cuisine",
+      "libelle_court": "Directeur / Directrice de cuisine",
+      "code_ogr": 403767
+    }
+  ],
+  "definition": "Le chef de cuisine supervise et coordonne l'ensemble des activités liées à la cuisine de l'établissement. Gère l'approvisionnement des produits et des stocks Encadre l'équipe de cuisine S'assure de la qualité des produits et garantit la sécurité sanitaire des aliments Conçoit régulièrement de nouvelles recettes dans le but de fidéliser sa clientèle",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 en hôtellerie-restauration, option cuisine.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+              "code_ogr": 403296,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déléguer, responsabiliser",
+              "code_ogr": 300434,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encadrer et coordonner une équipe",
+              "code_ogr": 485916,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins et définir les actions de formation à mettre en place afin de développer les compétences de ses équipes en cuisine",
+              "code_ogr": 403556,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Aménager un poste et les conditions de travail",
+              "code_ogr": 300010,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recruter et intégrer les nouveaux cuisiniers avec le chef d'établissement et le responsable de restaurant",
+              "code_ogr": 403454,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Aider à l'organisation d'événements spéciaux",
+              "code_ogr": 125673,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Développer des techniques de restauration innovantes",
+              "code_ogr": 403608,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Dresser des plats pour le service",
+              "code_ogr": 124935,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer des menus bas carbone (réduction de la part de protéines animales, valorisation des végétaux et des produits de saison)",
+              "code_ogr": 522894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Goûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir",
+              "code_ogr": 403537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer et concevoir de nouveaux plats, ainsi que des améliorations de recettes déjà créées",
+              "code_ogr": 489832,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser les possibles dysfonctionnements présents en cuisine, et proposer des mesures correctives afin d'y remédier",
+              "code_ogr": 403624,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine",
+              "code_ogr": 403623,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène",
+              "code_ogr": 114513,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la qualité des produits en rencontrant directement les producteurs",
+              "code_ogr": 489886,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Dresser un inventaire des produits ou matériaux disponibles en réserve",
+              "code_ogr": 403468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock",
+              "code_ogr": 403497,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Commander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région",
+              "code_ogr": 403391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lutter contre le gaspillage alimentaire",
+              "code_ogr": 140976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les coûts d'exploitation de la cuisine",
+              "code_ogr": 483190,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Suivre le budget de fonctionnement du périmètre confié",
+              "code_ogr": 400119,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer et trier des déchets, des produits",
+              "code_ogr": 300298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Intégrer l'écoresponsabilité dans toutes les dimensions de son activité",
+              "code_ogr": 402182,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Concevoir les menus, les cartes et définir les tarifs des plats",
+              "code_ogr": 104183,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en œuvre la stratégie commerciale de l'entreprise",
+              "code_ogr": 122534,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 489877,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Cuisine des spécialités régionales françaises",
+              "code_ogr": 126524,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cuisine du monde",
+              "code_ogr": 117927,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Familles de produits alimentaires",
+              "code_ogr": 115684,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme arts culinaires et entrepreneuriat",
+              "code_ogr": 490992,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option B : management d'unité de production culinaire",
+              "code_ogr": 489601,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Approvisionnement en circuits courts",
+              "code_ogr": 522895,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management de proximité",
+              "code_ogr": 121676,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régimes alimentaires",
+              "code_ogr": 104149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Conditionnement des aliments",
+              "code_ogr": 122413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de cuisson sous vide",
+              "code_ogr": 104192,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Production culinaire",
+              "code_ogr": 120010,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Chaîne du froid",
+              "code_ogr": 101716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système Hazard Analysis Critical Control Point (HACCP)",
+              "code_ogr": 122435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fiches techniques de préparations culinaires",
+              "code_ogr": 117103,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures de la marche en avant",
+              "code_ogr": 104191,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires fractionnés",
+          "code_ogr": 400005
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de restauration traditionnelle",
+          "code_ogr": 489572
+        },
+        {
+          "libelle": "Hôtellerie / Restauration",
+          "code_ogr": 489575
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2109 - Professeur / Professeure d'enseignement technologique",
+      "code_org_rome_cible": 412,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1606 - Cuisinier / Cuisinière de collectivité",
+      "code_org_rome_cible": 404039,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1401 - Adjoint / Adjointe de la direction en hôtellerie-restauration",
+      "code_org_rome_cible": 191,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1404 - Responsable d'établissement de restauration collective",
+      "code_org_rome_cible": 194,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1402 - Directeur / Directrice d'établissement en hôtellerie-restauration",
+      "code_org_rome_cible": 192,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1804 - Sommelier / Sommelière",
+      "code_org_rome_cible": 209,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1403 - Conseiller commercial / Conseillère commerciale auprès des particuliers",
+      "code_org_rome_cible": 104,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1502 - Chef / Cheffe de rayon produits alimentaires",
+      "code_org_rome_cible": 111,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1104 - Pâtissier / Pâtissière",
+      "code_org_rome_cible": 83,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 10
+    }
+  ]
+}

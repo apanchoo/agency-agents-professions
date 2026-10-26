@@ -1,0 +1,615 @@
+{
+  "numero": 33696,
+  "rome": {
+    "code_rome": "A1314",
+    "intitule": "Halieute",
+    "code_ogr": 515384
+  },
+  "appellations": [
+    {
+      "libelle": "Chercheur / Chercheuse halieute",
+      "libelle_court": "Chercheur / Chercheuse halieute",
+      "code_ogr": 521688
+    },
+    {
+      "libelle": "Conseiller / Conseillère en halieutique",
+      "libelle_court": "Conseiller / Conseillère en halieutique",
+      "code_ogr": 517814
+    },
+    {
+      "libelle": "Conseiller / Conseillère halieute",
+      "libelle_court": "Conseiller / Conseillère halieute",
+      "code_ogr": 517815
+    },
+    {
+      "libelle": "Conseiller / Conseillère halieutique",
+      "libelle_court": "Conseiller / Conseillère halieutique",
+      "code_ogr": 517813
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure agro-halieute",
+      "libelle_court": "Ingénieur / Ingénieure agro-halieute",
+      "code_ogr": 15576
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure halieute",
+      "libelle_court": "Ingénieur / Ingénieure halieute",
+      "code_ogr": 15814
+    }
+  ],
+  "definition": "L'halieute est un scientifique qui étudie les écosystèmes aquatiques dans leur ensemble, incluant les fonds marins. Evalue les stocks de poissons dans une zone donnée Conseille sur les quotas ou règles de pêche adaptés Analyse la biologie des espèces (reproduction, croissance, mortalité, alimentation, répartition spatio-temporelle et le fonctionnement des écosystèmes aquatiques et marins dans lesquels elles évoluent Collecte des données sur le terrain (campagnes en mer, prélèvements, enquêtes auprès des navires) puis les traite en laboratoire ou au bureau. Conseille sur les meilleures pratiques de pêche et de gestion des habitats aquatiques et marins Accompagne la mise en place de réglementations et la définition des méthodes de pêche pour la conservation des écosystèmes Collabore avec des organismes de recherche et les professionnels Sensibilise le public aux enjeux de la biodiversité marine et fluviale",
+  "acces_metier": "Pour exercer le métier d'halieute, il est recommandé d'avoir un diplôme universitaire ou d'ingénieur en biologie marine, en agronomie avec une spécialité halieutique. Les certifications en gestion durable des pêches peuvent également être pertinentes. Les niveaux d'études des professionnels vont de Bac + 5 à Bac + 8 en général. Pour devenir ingénieur halieute à l'Ifremer, il faut en pratique un niveau Bac + 5 en biologie marine, écologie marine ou sciences halieutiques, souvent complété par une expérience de recherche (stage long, thèse).",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Encadrer et coordonner une équipe",
+              "code_ogr": 485916,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Accompagner la prise de décision politique par la connaissance scientifique",
+              "code_ogr": 521217,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller une structure dans la gestion de son activité",
+              "code_ogr": 123607,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former les équipages aux techniques de pêche responsable",
+              "code_ogr": 516537,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Mettre en œuvre des actions de communication",
+              "code_ogr": 521462,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une traduction et transposer un texte",
+              "code_ogr": 521566,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger des articles pour des revues spécialisées",
+              "code_ogr": 505898,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Collaborer avec des scientifiques pour la recherche halieutique",
+              "code_ogr": 516541,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les données de pêche pour optimiser les captures",
+              "code_ogr": 516532,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Utiliser des technologies de pêche innovantes",
+              "code_ogr": 516540,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Proposer des solutions pour améliorer la biodiversité",
+              "code_ogr": 508565,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Gérer les équipements de pêche et de navigation",
+              "code_ogr": 516535,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Optimiser les itinéraires de pêche pour réduire les coûts",
+              "code_ogr": 516536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les quotas et réglementations de pêche",
+              "code_ogr": 516543,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Définir et déployer une politique de développement durable",
+              "code_ogr": 300404,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies de pêche durable",
+              "code_ogr": 516533,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer et mettre en place des pratiques agricoles durables",
+              "code_ogr": 500262,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etudier les évolutions de la faune et de la flore dans les milieux naturels",
+              "code_ogr": 100068,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Promouvoir des pratiques d'élevage durable",
+              "code_ogr": 485936,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préconiser des mesures environnementales",
+              "code_ogr": 125440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une étude d'impact environnemental",
+              "code_ogr": 125772,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller les populations de poissons et leur habitat",
+              "code_ogr": 516534,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Action publique",
+          "items": [
+            {
+              "libelle": "Mettre en œuvre les politiques publiques en matière de protection de l'environnement",
+              "code_ogr": 511137,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Concevoir des programmes de conservation de la biodiversité",
+              "code_ogr": 486575,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer des partenariats avec des acteurs locaux",
+              "code_ogr": 484820,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Argumenter en faveur de pratiques de pêche éthiques",
+              "code_ogr": 516542,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Communiquer efficacement avec les parties prenantes internes et externes",
+              "code_ogr": 482627,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de pollution accidentelle",
+              "code_ogr": 516544,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le respect des réglementations environnementales",
+              "code_ogr": 402289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une veille technologique et réglementaire",
+              "code_ogr": 403354,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la réglementation maritime",
+              "code_ogr": 506516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des outils de communication numérique",
+              "code_ogr": 405261,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Actualiser ses connaissances en droit maritime et de l'environnement",
+              "code_ogr": 521221,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construire un réseau de contacts dans l'industrie halieutique",
+              "code_ogr": 516546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer ses compétences en navigation",
+              "code_ogr": 517365,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mémoriser des informations",
+              "code_ogr": 300491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un retour d'expérience",
+              "code_ogr": 521565,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de sonars",
+              "code_ogr": 499268,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Evaluation des impacts climatiques",
+              "code_ogr": 494277,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie marine appliquée",
+              "code_ogr": 515533,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des conflits dans les zones de pêche",
+              "code_ogr": 515544,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des données océanographiques",
+              "code_ogr": 516323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des écosystèmes",
+              "code_ogr": 100019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Hydrobiologie",
+              "code_ogr": 100160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des zones de pêche",
+              "code_ogr": 515534,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Politiques de pêche durable",
+              "code_ogr": 515538,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pêche durable",
+              "code_ogr": 479090,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources halieutiques",
+              "code_ogr": 479084,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des écosystèmes",
+              "code_ogr": 495145,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Pratiques de pêche responsable",
+              "code_ogr": 515537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ethique de la pêche",
+              "code_ogr": 515541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibilisation à la protection de l'environnement marin",
+              "code_ogr": 516036,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse de l'impact environnemental de la pêche",
+              "code_ogr": 515539,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de suivi des populations marines",
+              "code_ogr": 515536,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des stocks de poissons",
+              "code_ogr": 515535,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prélèvement d'échantillons marins",
+              "code_ogr": 498505,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de conservation de la biodiversité",
+              "code_ogr": 100057,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "En milieu aquatique",
+          "code_ogr": 490531
+        },
+        {
+          "libelle": "En milieu hyperbare",
+          "code_ogr": 23384
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Laboratoire de recherche et développement",
+          "code_ogr": 511069
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    },
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": false
+    },
+    {
+      "code": "105",
+      "libelle": "Recherche",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1319 - Ingénieur / Ingénieure écologue",
+      "code_org_rome_cible": 515440,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1325 - Chargé / Chargée de projet Biodiversité",
+      "code_org_rome_cible": 521026,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1312 - Directeur / Directrice environnement",
+      "code_org_rome_cible": 510270,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1219 - Directeur / Directrice espaces verts et biodiversité",
+      "code_org_rome_cible": 515460,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1103 - Directeur / Directrice d'espace naturel protégé",
+      "code_org_rome_cible": 488584,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "E1131 - Chargé / Chargée de plaidoyer",
+      "code_org_rome_cible": 515383,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1306 - Directeur / Directrice de bureau d'étude de la biodiversité",
+      "code_org_rome_cible": 515415,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1406 - Capitaine de pêche",
+      "code_org_rome_cible": 20,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1145 - Ingénieur / Ingénieure en génie maritime",
+      "code_org_rome_cible": 518322,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1111 - Ingénieur / Ingénieure génie civil",
+      "code_org_rome_cible": 403089,
+      "ordre_mobilite": 10
+    }
+  ]
+}

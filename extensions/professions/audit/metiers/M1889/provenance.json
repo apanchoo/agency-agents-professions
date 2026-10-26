@@ -1,0 +1,262 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510440,
+    "code_rome": "M1889",
+    "libelle": "Ingénieur / Ingénieure en Intelligence Artificielle (IA)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1805"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.877,
+      "matched_terms": [
+        "application",
+        "donnees"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.08",
+          "title": "Techniques d’intelligence artificielle",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=297",
+          "selection_score": 96.4501,
+          "shared_terms": [
+            "artificielle",
+            "intelligence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.05",
+          "title": "Programmation avancée",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=155",
+          "selection_score": 54.0232,
+          "shared_terms": [
+            "avancee",
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.05",
+          "title": "Optimisation des services complexes",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=244",
+          "selection_score": 53.6084,
+          "shared_terms": [
+            "complexe",
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.REAL.01",
+          "title": "Évolution d’une application existante",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=167",
+          "selection_score": 96.4651,
+          "shared_terms": [
+            "application",
+            "evolution",
+            "existante"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.REAL.01",
+          "title": "Développement d’une application complexe",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=128",
+          "selection_score": 60.1648,
+          "shared_terms": [
+            "application",
+            "complexe"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.215,
+      "matched_terms": [
+        "automati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        11
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Automatique",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=102",
+          "selection_score": 59.6176,
+          "shared_terms": [
+            "automatique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AII.07",
+          "title": "Automatisme spécialisé",
+          "page": 296,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=296",
+          "selection_score": 46.8176,
+          "shared_terms": [
+            "specialise"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.14",
+          "title": "Réseaux spécialisés AII et EME",
+          "page": 193,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=193",
+          "selection_score": 32.7233,
+          "shared_terms": [
+            "specialise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.AII.01",
+          "title": "Amélioration d’un système automatisé : intégration d’une IHM et gestion des modes de marche et d’arrêt.",
+          "page": 282,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=282",
+          "selection_score": 33.4238,
+          "shared_terms": [
+            "integration",
+            "marche"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AII.01",
+          "title": "Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252",
+          "selection_score": 32.5674,
+          "shared_terms": [
+            "integration",
+            "programmation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.71,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 66.0318,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 37.9203,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.06",
+          "title": "Expression-Culture-Communication professionnelles : S’intégrer dans une organisation",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=172",
+          "selection_score": 35.9244,
+          "shared_terms": [
+            "integrer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 66.4468,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.PILPRO.04",
+          "title": "Mettre en place une solution de téléphonie IP selon un besoin client",
+          "page": 349,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=349",
+          "selection_score": 36.4782,
+          "shared_terms": [
+            "client",
+            "solution"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,177 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489077,
+    "code_rome": "N1114",
+    "libelle": "Conducteur / Conductrice d'engins lourds de manutention",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1104"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.654,
+      "matched_terms": [
+        "logist",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.02",
+          "title": "Droit des transports",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=88",
+          "selection_score": 42.7411,
+          "shared_terms": [
+            "droit",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Transport maritime et opérations portuaires",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=66",
+          "selection_score": 39.3588,
+          "shared_terms": [
+            "operation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MSCD.15",
+          "title": "Normes et labels environnementaux",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=243",
+          "selection_score": 36.4959,
+          "shared_terms": [
+            "norme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Étude du fonctionnement d’une organisation de production de biens ou services",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=36",
+          "selection_score": 27.063,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Étude de l’entreposage et de la logistique",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=35",
+          "selection_score": 23.6151,
+          "shared_terms": [
+            "logistique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.612,
+      "matched_terms": [
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.QMI.09",
+          "title": "Gestion des situations d’urgence",
+          "page": 362,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=362",
+          "selection_score": 67.9342,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Conduite d’un projet d’amélioration",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=121",
+          "selection_score": 25.9341,
+          "shared_terms": [
+            "conduite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 22.8621,
+          "shared_terms": [
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MP.02",
+          "title": "Adaptation de l’équipe et de son fonctionnement aux aléas",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=149",
+          "selection_score": 26.7809,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Immersion-Logistique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=57",
+          "selection_score": 23.3901,
+          "shared_terms": [
+            "logistique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

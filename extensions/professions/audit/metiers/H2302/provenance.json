@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488276,
+    "code_rome": "H2302",
+    "libelle": "Conducteur / Conductrice de procédé de fabrication en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2301"
+  },
+  "but": [
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.732,
+      "matched_terms": [
+        "procede"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2301",
+      "title_terms": [
+        "procede"
+      ],
+      "specific_title_terms": [
+        "procede"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Equilibres et transferts de matière dans les opérations unitaires",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=105",
+          "selection_score": 43.4289,
+          "shared_terms": [
+            "matiere",
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Initiation aux procédés et bilans sur les opérations unitaires",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=54",
+          "selection_score": 36.6147,
+          "shared_terms": [
+            "operation",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Sécurité des procédés et bioprocédés",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=131",
+          "selection_score": 36.1723,
+          "shared_terms": [
+            "procede",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Conduite et analyse critique d’une unité de production",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=97",
+          "selection_score": 70.9186,
+          "shared_terms": [
+            "conduite",
+            "production",
+            "unite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 57.4852,
+          "shared_terms": [
+            "environnemental",
+            "operatoire",
+            "produit"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

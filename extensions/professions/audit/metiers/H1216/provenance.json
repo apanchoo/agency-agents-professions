@@ -1,0 +1,220 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488308,
+    "code_rome": "H1216",
+    "libelle": "Responsable des études épidémiologiques",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.805,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.EMS.06",
+          "title": "Modélisation statistique avancée",
+          "page": 183,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=183",
+          "selection_score": 43.4211,
+          "shared_terms": [
+            "modelisation",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Communication des données, éthique et responsabilité",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=120",
+          "selection_score": 40.5056,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Anglais pour la coopération internationale et enjeux internationaux des données",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=119",
+          "selection_score": 35.7654,
+          "shared_terms": [
+            "internationaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EMS.04",
+          "title": "Conformité réglementaire pour analyser des données",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=140",
+          "selection_score": 71.9385,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.04",
+          "title": "Conformité réglementaire pour traiter des données",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=80",
+          "selection_score": 59.2069,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.953,
+      "matched_terms": [
+        "formul"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MPF.14",
+          "title": "Analyses expérimentales des matériaux et/ou produits formulés",
+          "page": 283,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=283",
+          "selection_score": 46.8804,
+          "shared_terms": [
+            "experimentale",
+            "formule"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ANA.14",
+          "title": "Analyses expérimentales en contrôle-qualité, environnement",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=134",
+          "selection_score": 38.1175,
+          "shared_terms": [
+            "experimentale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SYN.14",
+          "title": "Analyses expérimentales pour la synthèse",
+          "page": 210,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=210",
+          "selection_score": 38.1175,
+          "shared_terms": [
+            "experimentale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.02",
+          "title": "Conception et caractérisation d’un matériau et/ou d’un produit formulé",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=115",
+          "selection_score": 32.4802,
+          "shared_terms": [
+            "conception",
+            "formule"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Analyse de risques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=67",
+          "selection_score": 31.963,
+          "shared_terms": [
+            "risque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.953,
+      "matched_terms": [
+        "methodes"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "sae",
+          "code": "3.II.02",
+          "title": "Ameliorer techniquement",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=258",
+          "selection_score": 37.6479,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.II.02",
+          "title": "Analyser l’innovation et l’améliorer techniquement",
+          "page": 317,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=317",
+          "selection_score": 37.3859,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

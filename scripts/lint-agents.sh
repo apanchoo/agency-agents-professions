@@ -34,6 +34,7 @@ AGENT_DIRS=(
   specialized
   support
   testing
+  professions
 )
 
 REQUIRED_FRONTMATTER=("name" "description" "color")

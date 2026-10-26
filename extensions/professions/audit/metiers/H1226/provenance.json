@@ -1,0 +1,100 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510309,
+    "code_rome": "H1226",
+    "libelle": "Rédacteur médical / Rédactrice médicale en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1207"
+  },
+  "but": [
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.592,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1207",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 36.5286,
+          "shared_terms": [
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CAI.13",
+          "title": "Principes de la gestion d’affaire",
+          "page": 421,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=421",
+          "selection_score": 25.6015,
+          "shared_terms": [
+            "affaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CAI.08",
+          "title": "Droit des affaires",
+          "page": 475,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=475",
+          "selection_score": 25.5696,
+          "shared_terms": [
+            "affaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 39.3954,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.II.02",
+          "title": "Synthetiser et utiliser les concepts existants pour l’innovation",
+          "page": 298,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=298",
+          "selection_score": 38.6246,
+          "shared_terms": [
+            "synthetiser"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

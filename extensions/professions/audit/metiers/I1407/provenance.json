@@ -1,0 +1,182 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509771,
+    "code_rome": "I1407",
+    "libelle": "Réparateur / Réparatrice en produits de télécommunication et multimédia",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1402"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.889,
+      "matched_terms": [
+        "systeme",
+        "telecom"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1402",
+      "title_terms": [
+        "telecom"
+      ],
+      "specific_title_terms": [
+        "telecom"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ROM.09",
+          "title": "Services multimédia",
+          "page": 482,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=482",
+          "selection_score": 85.5224,
+          "shared_terms": [
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ROM.16",
+          "title": "Ingénierie de la téléphonie sur IP",
+          "page": 445,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=445",
+          "selection_score": 72.2523,
+          "shared_terms": [
+            "telephonie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 64.3262,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ROM.03",
+          "title": "Concevoir un réseau informatique adapté au multimédia",
+          "page": 425,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425",
+          "selection_score": 74.9761,
+          "shared_terms": [
+            "informatique",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 65.0658,
+          "shared_terms": [
+            "technologique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.152,
+      "matched_terms": [
+        "logiciel"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.REAL.11",
+          "title": "Développement pour applications mobiles",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=144",
+          "selection_score": 79.2377,
+          "shared_terms": [
+            "application",
+            "mobile"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.06",
+          "title": "Installation & Configuration de services complexes",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=227",
+          "selection_score": 59.2006,
+          "shared_terms": [
+            "configuration",
+            "installation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Architecture logicielle",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=133",
+          "selection_score": 53.3913,
+          "shared_terms": [
+            "logicielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 48.3515,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.INTEG.01",
+          "title": "Adaptation d’un système d’information à des nouveaux besoins",
+          "page": 354,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=354",
+          "selection_score": 41.9653,
+          "shared_terms": [
+            "nouveaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

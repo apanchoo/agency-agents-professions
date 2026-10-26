@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515381,
+    "code_rome": "K1912",
+    "libelle": "Formaliste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1902"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.866,
+      "matched_terms": [
+        "jurid"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1902",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.PF.06",
+          "title": "Droit notarial",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=253",
+          "selection_score": 68.305,
+          "shared_terms": [
+            "droit",
+            "notarial"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 68.0256,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AJ.06",
+          "title": "Droit administratif 1",
+          "page": 99,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=99",
+          "selection_score": 51.5927,
+          "shared_terms": [
+            "administratif",
+            "droit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.02",
+          "title": "Rédaction et/ou contrôle d’actes administratifs",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=91",
+          "selection_score": 91.3288,
+          "shared_terms": [
+            "actes",
+            "administratif",
+            "redaction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.01",
+          "title": "Gestion de dossiers administratifs et juridiques",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=89",
+          "selection_score": 80.0618,
+          "shared_terms": [
+            "administratif",
+            "dossier",
+            "juridique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

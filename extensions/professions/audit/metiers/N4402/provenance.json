@@ -1,0 +1,101 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 535,
+    "code_rome": "N4402",
+    "libelle": "Conducteur / Conductrice de remontées mécaniques",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4402"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.531,
+      "matched_terms": [
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Transport maritime et opérations portuaires",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=66",
+          "selection_score": 39.7648,
+          "shared_terms": [
+            "operation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MSCC.18",
+          "title": "Simulation des flux",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=157",
+          "selection_score": 37.9101,
+          "shared_terms": [
+            "flux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MSCD.15",
+          "title": "Normes et labels environnementaux",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=243",
+          "selection_score": 35.7443,
+          "shared_terms": [
+            "norme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Étude du fonctionnement d’une organisation de production de biens ou services",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=36",
+          "selection_score": 26.7487,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Étude des activités et acteurs du transport de voyageurs",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=57",
+          "selection_score": 22.1474,
+          "shared_terms": [
+            "transport"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

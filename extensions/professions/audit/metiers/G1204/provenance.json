@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 185,
+    "code_rome": "G1204",
+    "libelle": "Educateur sportif / Educatrice sportive",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1204"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.707,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1204",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.09",
+          "title": "Théories des organisations, techniques du travail collectif",
+          "page": 715,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=715",
+          "selection_score": 53.0361,
+          "shared_terms": [
+            "collectif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.09",
+          "title": "Enjeux pédagogiques",
+          "page": 666,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=666",
+          "selection_score": 48.6361,
+          "shared_terms": [
+            "pedagogique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.07",
+          "title": "Travailler avec les publics de l’animation",
+          "page": 617,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=617",
+          "selection_score": 43.1021,
+          "shared_terms": [
+            "animation",
+            "public"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ES.04",
+          "title": "Concevoir un accompagnement éducatif adapté à la situation de la personne et/ou du groupe",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=335",
+          "selection_score": 49.8095,
+          "shared_terms": [
+            "adapte",
+            "groupe"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AS.03",
+          "title": "Concevoir et mettre en œuvre une intervention sociale individuelle et/ou collective",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=297",
+          "selection_score": 48.0379,
+          "shared_terms": [
+            "collective",
+            "individuelle"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

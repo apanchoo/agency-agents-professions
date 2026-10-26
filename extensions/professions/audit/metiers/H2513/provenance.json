@@ -1,0 +1,180 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519158,
+    "code_rome": "H2513",
+    "libelle": "Chef / Cheffe d'équipe et d'atelier cuir et peaux",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H2505"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.538,
+      "matched_terms": [
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.08",
+          "title": "Planification de la production et prévision de la demande à moyen et long terme",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=142",
+          "selection_score": 31.7971,
+          "shared_terms": [
+            "demande",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 31.0129,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Organisation d’un poste et d’un atelier",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=98",
+          "selection_score": 29.8121,
+          "shared_terms": [
+            "atelier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Exécution de gestion de stocks",
+          "page": 56,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=56",
+          "selection_score": 41.1454,
+          "shared_terms": [
+            "stock"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MTD.03",
+          "title": "Projet transformation digitale en tant que cadre intermédiaire",
+          "page": 415,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=415",
+          "selection_score": 28.9148,
+          "shared_terms": [
+            "transformation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.814,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Equilibres et transferts de matière dans les opérations unitaires",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=105",
+          "selection_score": 41.6807,
+          "shared_terms": [
+            "matiere",
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CPOP.04",
+          "title": "Optimisation du système de production",
+          "page": 312,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=312",
+          "selection_score": 39.4049,
+          "shared_terms": [
+            "optimisation",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Propriétés thermodynamiques de la matière",
+          "page": 52,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=52",
+          "selection_score": 31.0668,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 37.0387,
+          "shared_terms": [
+            "operatoire",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CQESP.02",
+          "title": "Etude QSE d’une installation de production ou de traitement (1)",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=172",
+          "selection_score": 29.6448,
+          "shared_terms": [
+            "production",
+            "traitement"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,520 @@
+{
+  "numero": 92,
+  "rome": {
+    "code_rome": "D1213",
+    "intitule": "Vendeur / Vendeuse grossiste en équipement du foyer",
+    "code_ogr": 99
+  },
+  "appellations": [
+    {
+      "libelle": "Vendeur / Vendeuse comptoir de matériels et équipements",
+      "libelle_court": "Vendeur / Vendeuse comptoir de matériels et équipements",
+      "code_ogr": 20517
+    },
+    {
+      "libelle": "Vendeur / Vendeuse comptoir en biens d'équipement",
+      "libelle_court": "Vendeur / Vendeuse comptoir en biens d'équipement",
+      "code_ogr": 20518
+    },
+    {
+      "libelle": "Vendeur / Vendeuse grossiste de matériels et équipements",
+      "libelle_court": "Vendeur / Vendeuse grossiste de matériels et équipements",
+      "code_ogr": 20636
+    },
+    {
+      "libelle": "Vendeur / Vendeuse grossiste en biens de consommation",
+      "libelle_court": "Vendeur / Vendeuse grossiste en biens de consommation",
+      "code_ogr": 20637
+    },
+    {
+      "libelle": "Vendeur / Vendeuse grossiste en équipement de la personne",
+      "libelle_court": "Vendeur / Vendeuse grossiste en équipement de la personne",
+      "code_ogr": 20638
+    },
+    {
+      "libelle": "Vendeur / Vendeuse grossiste en équipements professionnels",
+      "libelle_court": "Vendeur / Vendeuse grossiste en équipements professionnels",
+      "code_ogr": 20640
+    }
+  ],
+  "definition": "Le Vendeur grossiste en équipement du foyer est un professionnel de l'aménagement et de la décoration de la maison. Gère les stocks et l'approvisionnement des produits pour garantir la disponibilité des articles Négocie avec les fournisseurs pour obtenir les meilleurs prix et conditions Assure la présentation attractive des produits en magasin Traite les commandes, les livraisons et les retours de marchandises Maintient à jour ses connaissances sur les nouveaux produits et tendances du marché",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans le domaine du commerce ou de la relation client. Cependant, il est également accessible sans diplôme particulier, avec une expérience professionnelle dans le commerce de gros.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Collaborer avec les équipes pour atteindre les objectifs de vente",
+              "code_ogr": 499486,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner des outils de traçabilité des contacts clients ou prospects",
+              "code_ogr": 400893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner les logiciels de gestion",
+              "code_ogr": 400171,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Utiliser des équipements de paiement électronique",
+              "code_ogr": 504105,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer l'inventaire des matériaux et fournitures",
+              "code_ogr": 119399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Etablir un bon de commande",
+              "code_ogr": 121649,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Effectuer une livraison",
+              "code_ogr": 300269,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser une livraison",
+              "code_ogr": 300276,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des éléments d'une commande",
+              "code_ogr": 116934,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Contrôler la réalisation et les coûts d'une prestation",
+              "code_ogr": 300313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300315,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Définir des modalités de paiement adaptées",
+              "code_ogr": 121671,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier un contrat",
+              "code_ogr": 300350,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer sur la disponibilité des produits",
+              "code_ogr": 400720,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer sur les conditions de vente",
+              "code_ogr": 400721,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Proposer des produits additionnels",
+              "code_ogr": 400722,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Conclure une vente",
+              "code_ogr": 118616,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies pour optimiser l'accès au marché",
+              "code_ogr": 400513,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer un portefeuille clients et prospects",
+              "code_ogr": 121427,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir un devis",
+              "code_ogr": 117243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des conditions commerciales",
+              "code_ogr": 300370,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
+              "code_ogr": 400769,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter et mettre en valeur l'image de l'entreprise",
+              "code_ogr": 400734,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une animation commerciale",
+              "code_ogr": 121845,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Engins de manutention non motorisés (transpalette, diable, etc.)",
+              "code_ogr": 101829,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+              "code_ogr": 489586,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+              "code_ogr": 489587,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro artisanat et métiers d'art option marchandisage visuel",
+              "code_ogr": 513988,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management commercial opérationnel",
+              "code_ogr": 489599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS négociation et digitalisation de la relation client",
+              "code_ogr": 490822,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Marketing (mercatique)",
+              "code_ogr": 101399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Progiciels de gestion intégrée d'entreprise (ERP)",
+              "code_ogr": 121126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de présentation",
+              "code_ogr": 480209,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Commande en gros",
+              "code_ogr": 117584,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des tendances du marché de l'équipement de foyer",
+              "code_ogr": 493694,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation du commerce électronique",
+              "code_ogr": 101859,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1243 - Acheteur vendeur / Acheteuse vendeuse en dépôt-vente",
+      "code_org_rome_cible": 510277,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1107 - Vendeur / Vendeuse grossiste en produits frais",
+      "code_org_rome_cible": 86,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1504 - Directeur / Directrice de magasin de grande distribution",
+      "code_org_rome_cible": 113,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "E1113 - Responsable e-commerce",
+      "code_org_rome_cible": 489052,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "C1504 - Conseiller / Conseillère immobilier",
+      "code_org_rome_cible": 79,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "C1112 - Agent général / Agente générale d'assurance",
+      "code_org_rome_cible": 404511,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1102 - Directeur / Directrice des achats",
+      "code_org_rome_cible": 457,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1302 - Responsable entrepôt logistique",
+      "code_org_rome_cible": 508,
+      "ordre_mobilite": 8
+    }
+  ]
+}

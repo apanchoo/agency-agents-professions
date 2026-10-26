@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 467,
+    "code_rome": "M1401",
+    "libelle": "Enquêteur / Enquêtrice sondage",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1401"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.971,
+      "matched_terms": [
+        "donnee",
+        "statisti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.EMS.10",
+          "title": "Techniques de sondage et méthodologie d’enquête",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=151",
+          "selection_score": 89.4041,
+          "shared_terms": [
+            "enquete",
+            "methodologie",
+            "sondage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 46.3617,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Communication des données, éthique et responsabilité",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=120",
+          "selection_score": 40.2283,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EMS.01",
+          "title": "Mener une étude statistique dans un domaine d’application",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=173",
+          "selection_score": 52.0009,
+          "shared_terms": [
+            "mener",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mise en oeuvre d’une enquête",
+          "page": 38,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=38",
+          "selection_score": 37.358,
+          "shared_terms": [
+            "enquete"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

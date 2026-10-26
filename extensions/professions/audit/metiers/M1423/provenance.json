@@ -1,0 +1,256 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510245,
+    "code_rome": "M1423",
+    "libelle": "Chief Data Officer",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.105,
+      "matched_terms": [
+        "data",
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [
+        "data"
+      ],
+      "specific_title_terms": [
+        "data"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.EMS.06",
+          "title": "Modélisation statistique avancée",
+          "page": 183,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=183",
+          "selection_score": 62.9055,
+          "shared_terms": [
+            "avancee",
+            "modelisation",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.07",
+          "title": "Programmation web pour la visualisation",
+          "page": 123,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=123",
+          "selection_score": 50.5857,
+          "shared_terms": [
+            "programmation",
+            "visualisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 49.5955,
+          "shared_terms": [
+            "avancee",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.VCOD.01",
+          "title": "Développement d’un composant d’une solution décisionnelle",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=96",
+          "selection_score": 59.4031,
+          "shared_terms": [
+            "decisionnelle",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EMS.01",
+          "title": "Modélisation statistique pour les données complexes et le Big Data",
+          "page": 186,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=186",
+          "selection_score": 55.1862,
+          "shared_terms": [
+            "data",
+            "modelisation",
+            "statistique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 19.008,
+      "matched_terms": [
+        "entrepris",
+        "gestion",
+        "projet"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.06",
+          "title": "Stratégie digitale inbound",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=304",
+          "selection_score": 42.497,
+          "shared_terms": [
+            "digitale",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 28.1167,
+          "shared_terms": [
+            "digitale",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Stratégie d’entreprise",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=107",
+          "selection_score": 26.6513,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MACAST.02",
+          "title": "Elaborer la stratégie et les outils de communication d’un projet des secteurs culturels, artistiques, sportifs ou de tourisme",
+          "page": 346,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=346",
+          "selection_score": 11.1605,
+          "shared_terms": [
+            "strategie"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.834,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.09",
+          "title": "Contrôle de gestion : Méthode des coûts cibles et tableaux de bord",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=176",
+          "selection_score": 54.0274,
+          "shared_terms": [
+            "bord",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.10",
+          "title": "Outils et pilotage de l’organisation : Système d’information décisionnel, tableaux de bord et reporting approfondi",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=235",
+          "selection_score": 50.6713,
+          "shared_terms": [
+            "bord",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Environnement juridique",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=149",
+          "selection_score": 36.4978,
+          "shared_terms": [
+            "juridique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Transformation numérique de l’organisation",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=144",
+          "selection_score": 58.3034,
+          "shared_terms": [
+            "numerique",
+            "transformation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GC2F.02",
+          "title": "Analyser la fiabilité d’un projet de reprise d’entreprise",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=127",
+          "selection_score": 53.8354,
+          "shared_terms": [
+            "fiabilite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

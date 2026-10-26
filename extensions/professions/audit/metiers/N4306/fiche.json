@@ -1,0 +1,552 @@
+{
+  "numero": 33675,
+  "rome": {
+    "code_rome": "N4306",
+    "intitule": "Agent / Agente d'accompagnement des trains",
+    "code_ogr": 512369
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente du service commercial du train",
+      "libelle_court": "Agent / Agente du service commercial du train",
+      "code_ogr": 518381
+    },
+    {
+      "libelle": "Agent / Agente relation client à bord",
+      "libelle_court": "Agent / Agente relation client à bord",
+      "code_ogr": 518382
+    },
+    {
+      "libelle": "Agent commercial / Agente commerciale et de contrôle train",
+      "libelle_court": "Agent commercial / Agente commerciale et de contrôle train",
+      "code_ogr": 10363
+    },
+    {
+      "libelle": "Chef / Cheffe de bord de train",
+      "libelle_court": "Chef / Cheffe de bord de train",
+      "code_ogr": 12070
+    },
+    {
+      "libelle": "Contrôleur / Contrôleuse des trains de voyageurs",
+      "libelle_court": "Contrôleur / Contrôleuse des trains de voyageurs",
+      "code_ogr": 13623
+    },
+    {
+      "libelle": "Opérateur / Opératrice de contrôle voyageurs train",
+      "libelle_court": "Opérateur / Opératrice de contrôle de trains de voyageurs",
+      "code_ogr": 17078
+    }
+  ],
+  "definition": "L'agent d'accompagnement des trains veille au respect des règles et à la sécurité des passagers d'un train. Accueille et renseigne les voyageurs à l'accès au train Informe et assiste les passagers Assure la sécurité, la sureté, l'assistance et le confort des voyageurs durant les trajets Contrôle la validité des titres de transport, dresse les PV et encaisse les amendes Contribue à la prévention des fraudes et des comportements inappropriés Contrôle le bon fonctionnement des équipements de confort et de sécurité Rapporte les incidents et anomalies détectés lors du parcours Peut être amené, sur demande du conducteur, à assurer la sécurité du train en cas d'incident Peut participer à la formation des nouveaux agents",
+  "acces_metier": "Cet emploi est accessible avec ou sans diplôme. Il peut nécessiter une aptitude physique (visite médicale) et la réussite à des tests psychotechniques. Le salarié peut être assermenté par la préfecture à l'issue d'une formation (et sous réserve d'un bulletin B2 du casier judiciaire vierge). L'obtention préalable d'une certification dans le domaine commercial, relation client / vente ou sureté peut faciliter l'accès à l'emploi. Les conditions d'exercice de l'activité peuvent nécessiter d'être véhiculé et de pratiquer une langue étrangère.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler le bon fonctionnement et l'état de propreté des équipements",
+              "code_ogr": 512939,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller le comportement des voyageurs durant le trajet",
+              "code_ogr": 507759,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Appliquer les procédures d'évacuation en cas d'urgence",
+              "code_ogr": 485700,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser les voyageurs et alerter les services compétents de gendarmerie, pompiers en cas d'incidents",
+              "code_ogr": 513398,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la présence des matériels et équipements de bord (sécurité, alerte), contrôler leur état et signaler toute anomalie ou dégradation",
+              "code_ogr": 110638,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler les conditions de sécurité et de confort des voyageurs",
+              "code_ogr": 512942,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Accompagner les passagers pendant le voyage",
+              "code_ogr": 518228,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guider les passagers en cas de difficulté",
+              "code_ogr": 518229,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guider les passagers sur les quais avant le départ du train",
+              "code_ogr": 518227,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Inspecter les wagons avant le départ du train",
+              "code_ogr": 518226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier l'état des toilettes avant le départ du train",
+              "code_ogr": 518225,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la position relevée des tablettes de chaque siège",
+              "code_ogr": 518224,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Contrôler la comptabilité des amendes perçues",
+              "code_ogr": 512931,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des systèmes de billetterie électronique et gérer les transactions",
+              "code_ogr": 486887,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Etablir un procès-verbal",
+              "code_ogr": 118989,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les incidents et informer la hiérarchie",
+              "code_ogr": 513074,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Verbaliser une infraction",
+              "code_ogr": 123642,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'accès des voyageurs aux zones de transport",
+              "code_ogr": 507758,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir les voyageurs à leur arrivée et gérer leur départ",
+              "code_ogr": 512781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les voyageurs et leur porter assistance",
+              "code_ogr": 513104,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer la communication des informations de voyage aux passagers",
+              "code_ogr": 507760,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation d'urgence",
+              "code_ogr": 300481,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les dispositions légales liées à l'assermentation",
+              "code_ogr": 513374,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Systèmes de communication interne",
+              "code_ogr": 493548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils connectés",
+              "code_ogr": 108834,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Agent escale ferroviaire",
+              "code_ogr": 522043,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Itinéraires ferroviaires",
+              "code_ogr": 481579,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promotion de la diversité et de l'inclusion",
+              "code_ogr": 478079,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géographie des transports",
+              "code_ogr": 118955,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Respect des horaires stricts de transport",
+              "code_ogr": 479906,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titres de transports",
+              "code_ogr": 115663,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle des matériels et équipements",
+              "code_ogr": 110640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règlements de transport de voyageurs",
+              "code_ogr": 512663,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes de sécurité dans les transports ferroviaires",
+              "code_ogr": 512623,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaissances des dispositions légales sur la sécurité et la sureté dans les transports ferroviaires",
+              "code_ogr": 512625,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle de titres de transport",
+              "code_ogr": 110639,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des urgences et des incidents",
+              "code_ogr": 477508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance de l'équipement de transport",
+              "code_ogr": 512766,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication avec les passagers",
+              "code_ogr": 479902,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de rapport d'incident",
+              "code_ogr": 478754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de service client",
+              "code_ogr": 477997,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N2207 - Agent / Agente d'accompagnement du transport",
+      "code_org_rome_cible": 489211,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4302 - Agent / Agente de contrôle du réseau ferré",
+      "code_org_rome_cible": 533,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4304 - Responsable d'équipe d'agents de conduite du réseau ferré",
+      "code_org_rome_cible": 509497,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4207 - Régulateur / Régulatrice poste central transport sanitaire de personnes",
+      "code_org_rome_cible": 515464,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4401 - Aiguilleur / Aiguilleure du rail",
+      "code_org_rome_cible": 534,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4404 - Chef opérateur / Cheffe opératrice des manœuvres du réseau ferré",
+      "code_org_rome_cible": 509514,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N4201 - Responsable d'agence transport routier de marchandises",
+      "code_org_rome_cible": 528,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1403 - Conseiller commercial / Conseillère commerciale auprès des particuliers",
+      "code_org_rome_cible": 104,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "C1102 - Conseiller commercial / Conseillère commerciale et relation client en assurances",
+      "code_org_rome_cible": 56,
+      "ordre_mobilite": 10
+    }
+  ]
+}

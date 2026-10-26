@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515412,
+    "code_rome": "N1209",
+    "libelle": "Technicien / Technicienne logistique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1303"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.871,
+      "matched_terms": [
+        "flux",
+        "logist",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1303",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la gestion des stocks et des approvisionnements",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=68",
+          "selection_score": 78.8289,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Gestion des stocks et des approvisionnements : approfondissement",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=94",
+          "selection_score": 77.5439,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Gestion des entrepôts : approfondissement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=141",
+          "selection_score": 64.3885,
+          "shared_terms": [
+            "entrepot"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Étude de l’entreposage et de la logistique",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=35",
+          "selection_score": 76.4638,
+          "shared_terms": [
+            "entreposage",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Pilotage d’un processus d’achats et gestion des stocks",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=58",
+          "selection_score": 62.6855,
+          "shared_terms": [
+            "achat",
+            "stock"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

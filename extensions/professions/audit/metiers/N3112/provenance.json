@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515403,
+    "code_rome": "N3112",
+    "libelle": "Commissaire de bord",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N3101"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.862,
+      "matched_terms": [
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N3101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la gestion des stocks et des approvisionnements",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=68",
+          "selection_score": 75.5115,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Gestion des stocks et des approvisionnements : approfondissement",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=94",
+          "selection_score": 75.4991,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Qualité Hygiène Sécurité Environnement",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=164",
+          "selection_score": 49.329,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Pilotage d’un processus d’achats et gestion des stocks",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=58",
+          "selection_score": 32.6136,
+          "shared_terms": [
+            "stock"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MSCC.02",
+          "title": "Conception de solutions logistiques en approvisionnement et distribution dans un environnement connecté",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=84",
+          "selection_score": 22.75,
+          "shared_terms": [
+            "approvisionnement"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

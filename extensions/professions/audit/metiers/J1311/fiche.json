@@ -1,0 +1,425 @@
+{
+  "numero": 33100,
+  "rome": {
+    "code_rome": "J1311",
+    "intitule": "Transporteur / Transporteuse de produits de santé",
+    "code_ogr": 509555
+  },
+  "appellations": [
+    {
+      "libelle": "Transporteur / Transporteuse de médicaments",
+      "libelle_court": "Transporteur / Transporteuse de médicaments",
+      "code_ogr": 512104
+    },
+    {
+      "libelle": "Transporteur / Transporteuse de sang",
+      "libelle_court": "Transporteur / Transporteuse de sang",
+      "code_ogr": 509612
+    },
+    {
+      "libelle": "Transporteur / Transporteuse d'organes",
+      "libelle_court": "Transporteur / Transporteuse d'organes",
+      "code_ogr": 510114
+    }
+  ],
+  "definition": "Un transporteur de produits de santé est un professionnel chargé de la livraison et de la logistique des produits médicaux et pharmaceutiques. Assure le transport et la livraison de produits sanguins entre les différents établissements de santé Veille au respect des conditions de température et de sécurité durant le transport des produits sanguins Contrôle et maintient la documentation nécessaire pour le suivi et la traçabilité des produits transportés Participe à la formation continue pour rester informé des dernières réglementations en matière de transport de produits de santé Collabore avec les équipes médicales pour garantir une communication efficace et la bonne réception des produits Effectue des contrôles réguliers du véhicule pour assurer sa fonctionnalité et sa conformité aux normes de sécurité",
+  "acces_metier": "Cet emploi est accessible avec un permis B, obligatoire pour la conduite. Une formation complémentaire en transport de produits de santé (PSL, produits biologiques, médicaments, organes, matériel) est requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un outil ou un matériel",
+              "code_ogr": 124629,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir les équipements de transport en bon état",
+              "code_ogr": 501477,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le fonctionnement des équipements du véhicule sanitaire, repérer les dysfonctionnements",
+              "code_ogr": 107387,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer les risques liés au transport de marchandises spécifiques",
+              "code_ogr": 486176,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller et ajuster les conditions de température à l'intérieur du véhicule",
+              "code_ogr": 483446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Inspecter les produits à chaque étape du transport pour éviter tout dommage ou contamination",
+              "code_ogr": 512128,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de problème avec les livraisons",
+              "code_ogr": 483589,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser le transport de produits sanguins",
+              "code_ogr": 501472,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser le transport sécurisé d'organes",
+              "code_ogr": 505720,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Assurer la traçabilité des produits transportés",
+              "code_ogr": 501473,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Livrer les produits de santé aux établissements de soins, pharmacies, ou autres points de distribution",
+              "code_ogr": 512129,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des pratiques avec les réglementations en vigueur",
+              "code_ogr": 505591,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec les fournisseurs, les établissements de santé et les autres parties prenantes",
+              "code_ogr": 512152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les urgences et les imprévus dans le transport",
+              "code_ogr": 486748,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'équipements de réfrigération pour le transport de sang",
+              "code_ogr": 499366,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de transport sécurisé pour substances biologiques",
+              "code_ogr": 499223,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'ambulancier",
+              "code_ogr": 512440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Utilisation de dispositifs de conservation, comme des conteneurs réfrigérés",
+              "code_ogr": 512136,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes de qualité et de sécurité sanitaire",
+              "code_ogr": 512133,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des réglementations locales sur le transport de sang",
+              "code_ogr": 493429,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes de transport de matières biologiques",
+              "code_ogr": 493140,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lois et réglementations en vigueur sur le transport des produits de santé",
+              "code_ogr": 512131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des normes sanitaires pour le transport d'organes",
+              "code_ogr": 495927,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de transport sécurisé",
+              "code_ogr": 493289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de désinfection et de sécurité en transport médical",
+              "code_ogr": 496988,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conditionnement des produits de santé",
+              "code_ogr": 512134,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Capacité à suivre des procédures strictes",
+              "code_ogr": 481433,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de conservation des organes pendant le transport",
+              "code_ogr": 497970,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de chargement et déchargement de produits sensibles",
+              "code_ogr": 497891,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion du temps et des itinéraires",
+              "code_ogr": 479816,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": false
+    },
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1305 - Ambulancier / Ambulancière",
+      "code_org_rome_cible": 342,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "J1308 - Brancardier / Brancardière",
+      "code_org_rome_cible": 404042,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4204 - Agent / Agente d'exploitation transport routier de personnes",
+      "code_org_rome_cible": 531,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4125 - Conducteur / Conductrice de transport routier d'animaux vivants",
+      "code_org_rome_cible": 488935,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4102 - Conducteur / Conductrice de transport de particuliers",
+      "code_org_rome_cible": 524,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "J1301 - Agent / Agente de service hospitalier (ASH)",
+      "code_org_rome_cible": 338,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1302 - Technicien / Technicienne de laboratoire d'analyses médicales",
+      "code_org_rome_cible": 339,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1501 - Aide-soignant / Aide-soignante",
+      "code_org_rome_cible": 357,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N2207 - Agent / Agente d'accompagnement du transport",
+      "code_org_rome_cible": 489211,
+      "ordre_mobilite": 10
+    }
+  ]
+}

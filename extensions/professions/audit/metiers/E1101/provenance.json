@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 119,
+    "code_rome": "E1101",
+    "libelle": "Community manager",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1101"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 78.968,
+      "matched_terms": [
+        "numerique",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1101",
+      "title_terms": [],
+      "specific_title_terms": [
+        "community"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.13",
+          "title": "Gestion de contenus avancée",
+          "page": 181,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=181",
+          "selection_score": 63.6092,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.STRAT-UX.07",
+          "title": "Gestion de contenus spécialisée",
+          "page": 200,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=200",
+          "selection_score": 63.4046,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 50.8219,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.03",
+          "title": "Concevoir des visualisations de données pour le web et dans un contexte d’une communication print et/ou sur les réseaux sociaux",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=167",
+          "selection_score": 98.1,
+          "shared_terms": [
+            "reseaux",
+            "sociaux",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.01",
+          "title": "Intégrer une expérience utilisateur au sein d’un système d’information",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=163",
+          "selection_score": 95.9682,
+          "shared_terms": [
+            "sein",
+            "utilisateur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

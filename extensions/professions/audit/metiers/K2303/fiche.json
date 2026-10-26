@@ -1,0 +1,419 @@
+{
+  "numero": 490,
+  "rome": {
+    "code_rome": "K2303",
+    "intitule": "Equipier / Equipière de collecte de déchets",
+    "code_ogr": 422
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de collecte de déchets",
+      "libelle_court": "Agent / Agente de collecte de déchets",
+      "code_ogr": 10400
+    },
+    {
+      "libelle": "Eboueur / Eboueuse",
+      "libelle_court": "Eboueur / Eboueuse",
+      "code_ogr": 14545
+    },
+    {
+      "libelle": "Ripeur / Ripeuse",
+      "libelle_court": "Ripeur / Ripeuse",
+      "code_ogr": 19263
+    }
+  ],
+  "definition": "L'équipier de collecte assure la collecte des déchets des usagers, des collectivités et des entreprises afin qu'ils soient acheminés dans les centres de traitements adaptés. Assure le ramassage des déchets sur la voie publique ou sur des sites privés Manipule les différents contenants pour les vider dans le véhicule de collecte Collecte les déchets en fonction de leur nature (ordures ménagères, collecte sélective, encombrants, etc.) Respecte les normes de sécurité et d'hygiène lors de la collecte des déchets Participe à la propreté des espaces publics en nettoyant les zones de collecte Peut être amené à échanger avec les usagers Peut être amené à remplacer les conducteurs de matériels de collecte roulants",
+  "acces_metier": "Ce métier est accessible sans qualification particulière. Cependant, des formations telles que le CAP Propreté de l'environnement urbain-collecte et recyclage ou le CQP (Certificat de Qualification Professionnelle) équipier de collecte, peuvent en faciliter l'accès.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Collecter des déchets ménagers ou industriels",
+              "code_ogr": 117475,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier visuellement les flux et les matières",
+              "code_ogr": 520005,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler les équipements de collecte",
+              "code_ogr": 519997,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Repérer et identifier les produits dangereux",
+              "code_ogr": 520004,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner et utiliser des équipements de protection individuelle lors des interventions",
+              "code_ogr": 500967,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir l'état de propreté d'un point de collecte",
+              "code_ogr": 400639,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Adopter une posture de vigilance permanente face à l'environnement",
+              "code_ogr": 520001,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter les risques et alerter en cas d'incident, d'accident et d'anomalie",
+              "code_ogr": 519998,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir une bonne condition physique conformément aux exigences du métier",
+              "code_ogr": 508033,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Déplacer des produits volumineux, lourds et de grandes tailles",
+              "code_ogr": 106551,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer les procédures d'hygiène et de prévention des risques",
+              "code_ogr": 520002,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Répondre aux questions des usagers sur l'orientation des déchets",
+              "code_ogr": 505069,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer les règles de sécurité en cas d'urgence",
+              "code_ogr": 519999,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier et gérer une situation conflictuelle",
+              "code_ogr": 520003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter l'itinéraire du plan de collecte",
+              "code_ogr": 520007,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les horaires de collecte",
+              "code_ogr": 504162,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles, procédures et consignes",
+              "code_ogr": 520000,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser les usagers sur les règles de collecte",
+              "code_ogr": 520006,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Types de déchets",
+              "code_ogr": 108728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes informatisés de gestion des déchets",
+              "code_ogr": 499295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de communication en équipe",
+              "code_ogr": 499347,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de conteneurs à déchets spécifiques",
+              "code_ogr": 499020,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Capacité à travailler en équipe",
+              "code_ogr": 479792,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des équipements de protection individuelle",
+              "code_ogr": 520009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matières recyclables",
+              "code_ogr": 520419,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'évacuation des déchets",
+              "code_ogr": 106413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de salubrité et d'hygiène publique",
+              "code_ogr": 108710,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Critères de tri sélectif",
+              "code_ogr": 108735,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Méthodes de collecte des déchets",
+              "code_ogr": 496046,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de conflits",
+              "code_ogr": 520008,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Usagers",
+          "code_ogr": 520010
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en horaires fixes",
+          "code_ogr": 522277
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2304 - Agent / Agente de tri des déchets",
+      "code_org_rome_cible": 423,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4116 - Conducteur / Conductrice de transport routier de marchandises dangereuses",
+      "code_org_rome_cible": 488777,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4105 - Conducteur-livreur / Conductrice-livreuse",
+      "code_org_rome_cible": 527,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1308 - Animateur / Animatrice en Hygiène Sécurité Environnement (HSE)",
+      "code_org_rome_cible": 489181,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2307 - Agent / Agente de propreté urbaine",
+      "code_org_rome_cible": 488790,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2204 - Agent / Agente de nettoyage industriel",
+      "code_org_rome_cible": 419,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "I1203 - Agent / Agente d'entretien du bâtiment",
+      "code_org_rome_cible": 309,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1301 - Agent / Agente de service hospitalier (ASH)",
+      "code_org_rome_cible": 338,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1203 - Agent / Agente d'entretien des espaces verts",
+      "code_org_rome_cible": 9,
+      "ordre_mobilite": 10
+    }
+  ]
+}

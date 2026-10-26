@@ -1,0 +1,185 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488786,
+    "code_rome": "M1831",
+    "libelle": "Développeur / Développeuse - jeux vidéo",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1805"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.769,
+      "matched_terms": [
+        "developpe",
+        "logiciel"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [
+        "developpe"
+      ],
+      "specific_title_terms": [
+        "developpe"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.06",
+          "title": "Sensibilisation à la programmation multimédia",
+          "page": 156,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=156",
+          "selection_score": 89.0919,
+          "shared_terms": [
+            "multimedia",
+            "programmation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Architecture logicielle",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=133",
+          "selection_score": 85.4473,
+          "shared_terms": [
+            "architecture",
+            "logicielle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.05",
+          "title": "Programmation avancée",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=155",
+          "selection_score": 49.1359,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.REAL.01",
+          "title": "Développement d’une application",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=108",
+          "selection_score": 71.5413,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.REAL.01",
+          "title": "Développement d’une application complexe",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=128",
+          "selection_score": 52.5167,
+          "shared_terms": [
+            "application"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 35.34,
+      "matched_terms": [
+        "design",
+        "developpe",
+        "graph"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [
+        "developpe"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DWEB-DI.08",
+          "title": "Hébergement et cybersécurité",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "selection_score": 73.9452,
+          "shared_terms": [
+            "cybersecurite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intégration",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "selection_score": 38.5716,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Production audio et vidéo",
+          "page": 90,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=90",
+          "selection_score": 34.807,
+          "shared_terms": [
+            "video"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.03",
+          "title": "Concevoir des visualisations de données pour le web et une application interactive",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=227",
+          "selection_score": 37.1396,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Produire un contenu audio et vidéo",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=50",
+          "selection_score": 29.5953,
+          "shared_terms": [
+            "video"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

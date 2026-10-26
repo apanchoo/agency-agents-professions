@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 20,
+    "code_rome": "A1406",
+    "libelle": "Capitaine de pêche",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1406"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.175,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1406",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 63.4884,
+          "shared_terms": [
+            "produit",
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.10",
+          "title": "Mise en oeuvre de l’économie circulaire",
+          "page": 689,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=689",
+          "selection_score": 36.4973,
+          "shared_terms": [
+            "economie",
+            "mise"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Outils informatiques",
+          "page": 90,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=90",
+          "selection_score": 31.6196,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.03",
+          "title": "Organiser et mettre en place une procédure d’expérimentation animale dans le cadre de la règlementation en vigueur",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=199",
+          "selection_score": 37.9288,
+          "shared_terms": [
+            "place",
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mesurer un paramètre biologique",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=102",
+          "selection_score": 32.8427,
+          "shared_terms": [
+            "parametre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

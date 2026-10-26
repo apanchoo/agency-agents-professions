@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510152,
+    "code_rome": "K1916",
+    "libelle": "Mandataire de justice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1901"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.359,
+      "matched_terms": [
+        "droit",
+        "judiciaire",
+        "justice"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1901",
+      "title_terms": [
+        "justice"
+      ],
+      "specific_title_terms": [
+        "justice"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.EA.05",
+          "title": "Droit des entreprises en difficulté",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=191",
+          "selection_score": 69.2477,
+          "shared_terms": [
+            "difficulte",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Organisation judiciaire",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=51",
+          "selection_score": 63.1798,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EA.06",
+          "title": "Droit des contentieux et du recouvrement",
+          "page": 192,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=192",
+          "selection_score": 56.7215,
+          "shared_terms": [
+            "droit",
+            "recouvrement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AJ.01",
+          "title": "Gestion de dossiers de contentieux administratif et/ou judiciaire",
+          "page": 123,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=123",
+          "selection_score": 59.8743,
+          "shared_terms": [
+            "dossier",
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.01",
+          "title": "Gestion de dossiers administratifs et juridiques",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=89",
+          "selection_score": 53.6682,
+          "shared_terms": [
+            "dossier",
+            "juridique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

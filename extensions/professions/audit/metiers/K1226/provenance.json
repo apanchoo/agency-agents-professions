@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510058,
+    "code_rome": "K1226",
+    "libelle": "Chargé / Chargée de médiation interculturelle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1204"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.788,
+      "matched_terms": [
+        "educat",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.10",
+          "title": "Travailler avec les publics de l’animation",
+          "page": 667,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=667",
+          "selection_score": 78.3988,
+          "shared_terms": [
+            "animation",
+            "public",
+            "travailler"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.07",
+          "title": "Psychologie des groupes",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=239",
+          "selection_score": 67.3679,
+          "shared_terms": [
+            "groupe",
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.CGE3S.08",
+          "title": "Acteurs et dynamiques du sanitaire, social et médico-social",
+          "page": 491,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=491",
+          "selection_score": 62.3699,
+          "shared_terms": [
+            "acteur",
+            "sanitaire",
+            "social"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ES.05",
+          "title": "Etablir un diagnostic socio-éducatif",
+          "page": 387,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=387",
+          "selection_score": 74.7782,
+          "shared_terms": [
+            "educatif",
+            "etablir",
+            "socio"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ES.05",
+          "title": "Etablir un diagnostic socio-éducatif et participer à la réalisation d’un projet socio-éducatif",
+          "page": 411,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=411",
+          "selection_score": 67.0561,
+          "shared_terms": [
+            "educatif",
+            "etablir",
+            "socio"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

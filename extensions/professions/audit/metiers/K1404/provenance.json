@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 382,
+    "code_rome": "K1404",
+    "libelle": "Chargé / Chargée de mission développement territorial",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1404"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.739,
+      "matched_terms": [
+        "insertion",
+        "territoir"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.10",
+          "title": "Pratiques d’intervention et de médiation auprès de publics spécifiques",
+          "page": 716,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=716",
+          "selection_score": 76.5596,
+          "shared_terms": [
+            "aupre",
+            "intervention",
+            "public",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.AS.03",
+          "title": "Politiques et cadre institutionnel de l’action sociale",
+          "page": 324,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=324",
+          "selection_score": 69.3585,
+          "shared_terms": [
+            "action",
+            "institutionnel",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Cadre politique et institutionnel",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=84",
+          "selection_score": 66.141,
+          "shared_terms": [
+            "institutionnel",
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ES.04",
+          "title": "Adapter l’accompagnement aux problématiques et spécificités des publics",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=461",
+          "selection_score": 70.8435,
+          "shared_terms": [
+            "accompagnement",
+            "public",
+            "specificite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CGE3S.04",
+          "title": "Proposer des modalités d’accompagnement ou de prise en charge adaptées aux spécificités de personnes fragiles",
+          "page": 547,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=547",
+          "selection_score": 61.3817,
+          "shared_terms": [
+            "accompagnement",
+            "charge",
+            "specificite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

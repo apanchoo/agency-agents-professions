@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489219,
+    "code_rome": "H1225",
+    "libelle": "Ingénieur / Ingénieure développement nucléaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.801,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        18,
+        21
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.AGRO.07",
+          "title": "Développement de nouvelles technologies agronomiques",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=177",
+          "selection_score": 54.2258,
+          "shared_terms": [
+            "nouvelle",
+            "technologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 49.9828,
+          "shared_terms": [
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SAB.05",
+          "title": "Gestion et optimisation de la production",
+          "page": 576,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=576",
+          "selection_score": 39.4612,
+          "shared_terms": [
+            "optimisation",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SAB.02",
+          "title": "Produire des aliments ou bioproduits en contrôlant la qualité et en respectant les procédures d’hygiène et de sécurité",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=535",
+          "selection_score": 58.829,
+          "shared_terms": [
+            "procedure",
+            "respectant",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 634,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=634",
+          "selection_score": 47.9868,
+          "shared_terms": [
+            "impact",
+            "milieu"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.829,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CPIT.08",
+          "title": "Modélisation et simulation des procédés 2",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=151",
+          "selection_score": 51.616,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPIT.09",
+          "title": "Modélisation et simulation des procédés 1",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=134",
+          "selection_score": 49.9096,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPOP.10",
+          "title": "Simulation et optimisation de procédés",
+          "page": 283,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=283",
+          "selection_score": 44.437,
+          "shared_terms": [
+            "optimisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Conduite et analyse critique des performances d’une unité pilote de réaction ou séparation",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=120",
+          "selection_score": 56.2383,
+          "shared_terms": [
+            "conduite",
+            "performance",
+            "reaction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CPIT.01",
+          "title": "Conception, optimisation et conduite d’un procédé.",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=141",
+          "selection_score": 50.6504,
+          "shared_terms": [
+            "conception",
+            "conduite",
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.934,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SNRV.12",
+          "title": "Simulation",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=146",
+          "selection_score": 42.9121,
+          "shared_terms": [
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 35.9079,
+          "shared_terms": [
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CPD.13",
+          "title": "Approche Environnementale",
+          "page": 387,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=387",
+          "selection_score": 27.3987,
+          "shared_terms": [
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 42.2046,
+          "shared_terms": [
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.II.02",
+          "title": "Ameliorer techniquement",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=258",
+          "selection_score": 37.9213,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

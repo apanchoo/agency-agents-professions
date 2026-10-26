@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521032,
+    "code_rome": "M1227",
+    "libelle": "Gestionnaire de droits et de redevance",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "M1203"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 33.365,
+      "matched_terms": [
+        "controle la transcription des donnees contractuelles dans les systemes de gestion",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1203",
+      "title_terms": [
+        "gestion"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 62.431,
+          "shared_terms": [
+            "administrative",
+            "collective"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 54.3826,
+          "shared_terms": [
+            "administrative",
+            "contrat"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.04",
+          "title": "Fiscalité",
+          "page": 112,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=112",
+          "selection_score": 47.2215,
+          "shared_terms": [
+            "fiscalite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 30.3871,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 21.5028,
+          "shared_terms": [
+            "financier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

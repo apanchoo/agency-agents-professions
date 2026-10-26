@@ -1,0 +1,704 @@
+{
+  "numero": 171,
+  "rome": {
+    "code_rome": "F1108",
+    "intitule": "Métreur / Métreuse de la construction",
+    "code_ogr": 149
+  },
+  "appellations": [
+    {
+      "libelle": "Métreur / Métreuse",
+      "libelle_court": "Métreur / Métreuse",
+      "code_ogr": 16650
+    },
+    {
+      "libelle": "Métreur / Métreuse bâtiment",
+      "libelle_court": "Métreur / Métreuse bâtiment",
+      "code_ogr": 16651
+    },
+    {
+      "libelle": "Métreur / Métreuse du BTP",
+      "libelle_court": "Métreur / Métreuse du BTP",
+      "code_ogr": 16652
+    },
+    {
+      "libelle": "Métreur / Métreuse en charpente et menuiserie bois",
+      "libelle_court": "Métreur / Métreuse en charpente et menuiserie bois",
+      "code_ogr": 16653
+    },
+    {
+      "libelle": "Métreur / Métreuse en électricité",
+      "libelle_court": "Métreur / Métreuse en électricité",
+      "code_ogr": 16654
+    },
+    {
+      "libelle": "Métreur / Métreuse en génie climatique et sanitaire",
+      "libelle_court": "Métreur / Métreuse en génie climatique et sanitaire",
+      "code_ogr": 16655
+    },
+    {
+      "libelle": "Métreur / Métreuse en métallerie et construction métallique",
+      "libelle_court": "Métreur / Métreuse en métallerie et construction métallique",
+      "code_ogr": 16656
+    },
+    {
+      "libelle": "Métreur / Métreuse en réhabilitation de l'habitat",
+      "libelle_court": "Métreur / Métreuse en réhabilitation de l'habitat",
+      "code_ogr": 16657
+    },
+    {
+      "libelle": "Métreur / Métreuse gros œuvre",
+      "libelle_court": "Métreur / Métreuse gros œuvre",
+      "code_ogr": 16658
+    },
+    {
+      "libelle": "Métreur / Métreuse second œuvre",
+      "libelle_court": "Métreur / Métreuse second œuvre",
+      "code_ogr": 16659
+    },
+    {
+      "libelle": "Métreur / Métreuse travaux publics",
+      "libelle_court": "Métreur / Métreuse travaux publics",
+      "code_ogr": 16660
+    },
+    {
+      "libelle": "Métreur-concepteur / Métreuse-conceptrice",
+      "libelle_court": "Métreur-concepteur / Métreuse-conceptrice",
+      "code_ogr": 16661
+    },
+    {
+      "libelle": "Métreur-vérificateur / Métreuse-vérificatrice",
+      "libelle_court": "Métreur-vérificateur / Métreuse-vérificatrice",
+      "code_ogr": 16662
+    }
+  ],
+  "definition": "Le Métreur de la construction effectue les relevés de mesures pour évaluer les coûts d'un chantier de construction ou de rénovation de bâtiments ou travaux publics. Réalise les métrés ou le relevés topographiques Évalue les quantités de matériaux et le temps nécessaire aux projets de construction Prépare les estimations détaillées des coûts et les devis selon les souhaits de matériaux des clients Passe les commandes de matériaux auprès des fournisseurs Effectue des visites sur site pour mesurer les avancements et les modifications éventuelles Peut participer à la rédaction de cahiers des charges et de documents d'appel d'offres",
+  "acces_metier": "Cet emploi est accessible à partir d'un niveau Bac à Bac+2 de technicien d'étude du bâtiment ou des travaux publics.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Réaliser des études de faisabilité technique et financière",
+              "code_ogr": 400498,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la maquette numérique d'un projet BIM",
+              "code_ogr": 125309,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les spécifications techniques d'un projet",
+              "code_ogr": 484149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir à jour les documents techniques et les plans",
+              "code_ogr": 485042,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir l'utilisation de technologies émergentes",
+              "code_ogr": 484426,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Proposer des solutions techniques adaptées",
+              "code_ogr": 484943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le dossier d'exécution des travaux (procédés techniques, méthodes, plans, etc.)",
+              "code_ogr": 126053,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relever les mesures de pièces ou de leur implantation",
+              "code_ogr": 125832,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des mesures de locaux et les calculs de surfaces",
+              "code_ogr": 126008,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Effectuer un suivi de chantiers et veiller à l'avancement des différents lots (gros œuvre, corps d'état technique...)",
+              "code_ogr": 403500,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des relevés terrain à partir de documents ou relevés topographiques",
+              "code_ogr": 126001,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Respecter en permanence les règles de sécurité établies",
+              "code_ogr": 114888,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des produits finis",
+              "code_ogr": 482508,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins en équipements et en matériels",
+              "code_ogr": 400609,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Commander les matériaux et matériels",
+              "code_ogr": 400255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des rapports de progression des travaux",
+              "code_ogr": 118772,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Contrôler la réalisation et les coûts d'une prestation",
+              "code_ogr": 300313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Estimer la durée des travaux",
+              "code_ogr": 403563,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300315,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier la conformité d'une réalisation avec un cahier des charges",
+              "code_ogr": 121931,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer les normes environnementales en vigueur",
+              "code_ogr": 487163,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des contrats avec des fournisseurs et des distributeurs",
+              "code_ogr": 507798,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un suivi commercial",
+              "code_ogr": 122313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au respect des normes de sécurité",
+              "code_ogr": 404243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Argumenter en faveur de solutions durables",
+              "code_ogr": 485718,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir l'utilisation de matériaux recyclés ou écologiques",
+              "code_ogr": 486727,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Analyser la commande client, rédiger le cahier des charges, élaborer le chiffrage des travaux",
+              "code_ogr": 403447,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les besoins des clients",
+              "code_ogr": 499623,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Apporter une assistance technique aux équipes",
+              "code_ogr": 300184,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Garantir la satisfaction du client",
+              "code_ogr": 403015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Actualiser des prix",
+              "code_ogr": 121776,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir un devis",
+              "code_ogr": 117243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des devis et des livrables associés (maquettes, plans, dessins par ordinateur...)",
+              "code_ogr": 403600,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Optimiser les coûts de construction",
+              "code_ogr": 485810,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Prendre une décision et l'expliquer",
+              "code_ogr": 300459,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir à jour les dossiers de construction",
+              "code_ogr": 485812,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre les évolutions réglementaires",
+              "code_ogr": 126037,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des matériaux biosourcés",
+              "code_ogr": 404051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de mesure",
+              "code_ogr": 118662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicules et engins de travaux publics",
+              "code_ogr": 107065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériaux durables",
+              "code_ogr": 479880,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel technicien supérieur du bâtiment option économie de la construction",
+              "code_ogr": 522599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien supérieur du bâtiment option étude de prix",
+              "code_ogr": 522600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conducteur de travaux - métreur",
+              "code_ogr": 515158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien métreur du bâtiment",
+              "code_ogr": 515009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conducteur de travaux, tous corps d'état - métreur",
+              "code_ogr": 515161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS bâtiment",
+              "code_ogr": 403207,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du BTP : bâtiment et construction",
+              "code_ogr": 490881,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Optimisation des coûts et des budgets",
+              "code_ogr": 124683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul technique",
+              "code_ogr": 119604,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de métré",
+              "code_ogr": 480655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Economie de la construction",
+              "code_ogr": 101642,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Technologie du bâtiment",
+              "code_ogr": 118828,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de projets de construction ou de rénovation",
+              "code_ogr": 478474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travaux publics, génie civil",
+              "code_ogr": 103208,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Méthodes de quantification",
+              "code_ogr": 103236,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation de l'assurance dommages construction ouvrage",
+              "code_ogr": 122932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etude d'impact environnemental",
+              "code_ogr": 123488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de métré",
+              "code_ogr": 121244,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaissance des bases des DTU (Document Technique Unifié)",
+              "code_ogr": 116809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthode des déboursés",
+              "code_ogr": 121487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôle qualité",
+              "code_ogr": 122384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de la construction",
+              "code_ogr": 103045,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cahier des Clauses Administratives Particulières (CCAP)",
+              "code_ogr": 122480,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Lecture de plans techniques et architecturaux",
+              "code_ogr": 480656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'assainissement",
+              "code_ogr": 108727,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de métré",
+              "code_ogr": 103103,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle d'entreprises",
+          "code_ogr": 300821
+        },
+        {
+          "libelle": "Particuliers",
+          "code_ogr": 300837
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": false
+    },
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1120 - Economiste de la construction",
+      "code_org_rome_cible": 488623,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1114 - Conseiller / Conseillère en rénovation énergétique",
+      "code_org_rome_cible": 404538,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1104 - Dessinateur-projeteur / Dessinatrice-projeteuse de la construction",
+      "code_org_rome_cible": 145,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1212 - Vendeur / Vendeuse en équipement de la maison",
+      "code_org_rome_cible": 98,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H2209 - Dessinateur / Dessinatrice de structures en bois",
+      "code_org_rome_cible": 245,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1407 - Technico-commercial / Technico-commerciale",
+      "code_org_rome_cible": 108,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1101 - Acheteur / Acheteuse",
+      "code_org_rome_cible": 456,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1126 - Assistant / Assistante maîtrise d'œuvre en architecture",
+      "code_org_rome_cible": 489182,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1710 - Magasinier / Magasinière en négoce des matériaux de construction",
+      "code_org_rome_cible": 488283,
+      "ordre_mobilite": 9
+    }
+  ]
+}

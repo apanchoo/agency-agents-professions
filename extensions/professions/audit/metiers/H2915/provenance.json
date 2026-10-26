@@ -1,0 +1,89 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489024,
+    "code_rome": "H2915",
+    "libelle": "Chef soudeur / Cheffe soudeuse",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2913"
+  },
+  "but": [
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.429,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2913",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Ingénierie de construction mécanique",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=116",
+          "selection_score": 26.5578,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Science des matériaux",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=73",
+          "selection_score": 18.5332,
+          "shared_terms": [
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 42.5455,
+          "shared_terms": [
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.II.02",
+          "title": "Ameliorer techniquement",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=258",
+          "selection_score": 37.729,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

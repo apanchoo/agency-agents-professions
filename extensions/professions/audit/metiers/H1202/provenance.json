@@ -1,0 +1,270 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 213,
+    "code_rome": "H1202",
+    "libelle": "Dessinateur / Dessinatrice en électricité-électronique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1202"
+  },
+  "but": [
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 173.105,
+      "matched_terms": [
+        "electri",
+        "electron"
+      ],
+      "direct_rome_pages": [
+        10
+      ],
+      "parent_rome": "H1202",
+      "title_terms": [
+        "electri",
+        "electron"
+      ],
+      "specific_title_terms": [
+        "electri",
+        "electron"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.09",
+          "title": "Electronique spécialisée",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=152",
+          "selection_score": 61.6008,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Electronique",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=59",
+          "selection_score": 45.9019,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Automatisme",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=79",
+          "selection_score": 45.4677,
+          "shared_terms": [
+            "automatisme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Conception et vérification d’un prototype à partir d’un cahier des charges complet",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=67",
+          "selection_score": 78.3147,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "conception",
+            "prototype"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ESE.01",
+          "title": "Mettre en œuvre un système électronique et/ou embarqué spécifique",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=136",
+          "selection_score": 46.3848,
+          "shared_terms": [
+            "electronique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.104,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 65.9829,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 55.2106,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Fondamentaux des systèmes électroniques",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=77",
+          "selection_score": 43.7022,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 66.7279,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.IOM.01",
+          "title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=335",
+          "selection_score": 45.9887,
+          "shared_terms": [
+            "cahier",
+            "charge"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.914,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 48.9133,
+          "shared_terms": [
+            "controle",
+            "grandeur",
+            "physique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Métrologie et qualité 2",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=176",
+          "selection_score": 47.5984,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.06",
+          "title": "Métrologie et qualité 1",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=158",
+          "selection_score": 47.0139,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Dessiner et concevoir un élément nécessaire à une campagne de mesure à l’aide d’un logiciel spécifique (DAO/CAO)",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=46",
+          "selection_score": 68.67,
+          "shared_terms": [
+            "cao",
+            "dao",
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.09",
+          "title": "Projet en groupe visant à la réalisation d’une prestation de mesures ou à la conception d’un système simple de mesures",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=80",
+          "selection_score": 48.0768,
+          "shared_terms": [
+            "conception",
+            "groupe",
+            "realisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

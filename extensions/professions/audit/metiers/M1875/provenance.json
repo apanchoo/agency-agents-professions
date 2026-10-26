@@ -1,0 +1,244 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510033,
+    "code_rome": "M1875",
+    "libelle": "Coordinateur / Coordinatrice Maitrise d'Ouvrage Système d'Information (MOA SI)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1806"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.718,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systeme"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Technologies de l’Internet",
+          "page": 99,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=99",
+          "selection_score": 70.6349,
+          "shared_terms": [
+            "internet",
+            "technologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 67.0941,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.PILPRO.09",
+          "title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "selection_score": 56.4941,
+          "shared_terms": [
+            "technologie",
+            "telecom"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.IOM.01",
+          "title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=335",
+          "selection_score": 79.3864,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "place",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 68.1674,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.542,
+      "matched_terms": [
+        "systeme d'information (moa si) le coordinateur maitrise d'ouvrage systeme d'information (moa si) joue un role important dans la conception et l'optimisation des systemes d'information au sein des entreprises. definit les besoins des utilisateurs et elabore le cahier des charges fonctionnel assure la liaison entre les utilisateurs finaux et les equipes techniques pour garantir que les solutions developpees repondent aux exigences supervise la mise en œuvre du systeme d'information et coordonne les differentes phases du projet en mesurant son avancement controle la qualite des travaux realises et s'assure de la conformite des livrables avec les specifications initiales organise la formation des utilisateurs et assure le support technique apres la mise en place du systeme evalue l'efficacite du systeme d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systeme d'information"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.10",
+          "title": "Modélisations mathématiques pour les applications communicantes",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=231",
+          "selection_score": 72.3665,
+          "shared_terms": [
+            "application",
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.11",
+          "title": "Réseau avancé",
+          "page": 215,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=215",
+          "selection_score": 52.4956,
+          "shared_terms": [
+            "reseau"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Développement d’interfaces web",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "selection_score": 43.35,
+          "shared_terms": [
+            "interface"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DEPLOI.01",
+          "title": "Déployer et sécuriser des services dans un réseau",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=199",
+          "selection_score": 94.1267,
+          "shared_terms": [
+            "deployer",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.DEPLOI.01",
+          "title": "Optimisation des services",
+          "page": 236,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=236",
+          "selection_score": 59.6709,
+          "shared_terms": [
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.191,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Ergonomie et Accessibilité",
+          "page": 56,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=56",
+          "selection_score": 42.6408,
+          "shared_terms": [
+            "ergonomie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 113.2356,
+          "shared_terms": [
+            "integrer",
+            "interface",
+            "sein",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.01",
+          "title": "Intégrer une expérience utilisateur au sein d’un système d’information",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=163",
+          "selection_score": 84.7095,
+          "shared_terms": [
+            "integrer",
+            "sein",
+            "utilisateur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,188 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519955,
+    "code_rome": "H2716",
+    "libelle": "Opérateur / Opératrice de centrale solaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H2701"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.721,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.EXPLOIT.03",
+          "title": "Solaire thermique et photovoltaïque",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=173",
+          "selection_score": 91.5848,
+          "shared_terms": [
+            "photovoltaique",
+            "solaire",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 78.0372,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.05",
+          "title": "Technologies et exploitation des centrales de production d’énergie",
+          "page": 205,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=205",
+          "selection_score": 77.2679,
+          "shared_terms": [
+            "centrale",
+            "energie",
+            "exploitation",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 56.9379,
+          "shared_terms": [
+            "energetique",
+            "environnementale",
+            "installation",
+            "optimisation",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OPTIM.03",
+          "title": "Intégration et dimensionnement de réseaux fluides et de leurs équipements dans une maquette numérique",
+          "page": 358,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=358",
+          "selection_score": 38.2764,
+          "shared_terms": [
+            "equipement",
+            "leurs"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.466,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.CQESP.04",
+          "title": "Gestion des risques et amélioration continue",
+          "page": 238,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=238",
+          "selection_score": 53.8917,
+          "shared_terms": [
+            "amelioration",
+            "continue"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Anglais technique : compréhension et expression écrite",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=81",
+          "selection_score": 48.2516,
+          "shared_terms": [
+            "comprehension"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Anglais technique : compréhension et expression orale",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=87",
+          "selection_score": 47.9064,
+          "shared_terms": [
+            "comprehension"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 36.7486,
+          "shared_terms": [
+            "optimisation",
+            "parametre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 2).",
+          "page": 269,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=269",
+          "selection_score": 36.6416,
+          "shared_terms": [
+            "optimisation",
+            "parametre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

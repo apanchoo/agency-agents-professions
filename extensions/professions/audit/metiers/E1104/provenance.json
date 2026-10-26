@@ -1,0 +1,202 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 122,
+    "code_rome": "E1104",
+    "libelle": "Concepteur / Conceptrice de contenus multimedia",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1104"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 106.057,
+      "matched_terms": [
+        "communication",
+        "developpe",
+        "graph",
+        "multimedia",
+        "numerique",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1104",
+      "title_terms": [
+        "multimedia"
+      ],
+      "specific_title_terms": [
+        "multimedia"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.CREA.02",
+          "title": "Création numérique interactive",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=160",
+          "selection_score": 73.2722,
+          "shared_terms": [
+            "creation",
+            "interactive",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Production audio et vidéo",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=63",
+          "selection_score": 71.0575,
+          "shared_terms": [
+            "audio",
+            "video"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.09",
+          "title": "Création et design interactif (UI)",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=177",
+          "selection_score": 51.9611,
+          "shared_terms": [
+            "creation",
+            "interactif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Produire un contenu audio et vidéo",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=50",
+          "selection_score": 104.4936,
+          "shared_terms": [
+            "audio",
+            "contenu",
+            "produire",
+            "video"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Produire les éléments d’une communication visuelle",
+          "page": 49,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=49",
+          "selection_score": 82.5182,
+          "shared_terms": [
+            "element",
+            "produire",
+            "visuelle"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.356,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Publication assistée par ordinateur (PAO)",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=87",
+          "selection_score": 135.7563,
+          "shared_terms": [
+            "assistee",
+            "ordinateur",
+            "pao",
+            "publication"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PUB.11",
+          "title": "Image et Web (niveau 2, AV, PAO, Web)",
+          "page": 638,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=638",
+          "selection_score": 87.6937,
+          "shared_terms": [
+            "image",
+            "pao",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.INFONUM.19",
+          "title": "PAO et médias professionnels",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=219",
+          "selection_score": 70.2761,
+          "shared_terms": [
+            "media",
+            "pao"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.JOU.02",
+          "title": "Produire un reportage multimédia et proposer une stratégie de diffusion",
+          "page": 403,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=403",
+          "selection_score": 72.3021,
+          "shared_terms": [
+            "diffusion",
+            "multimedia",
+            "produire",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.COMOR.04",
+          "title": "Produire un cahier des tendances",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=76",
+          "selection_score": 57.9414,
+          "shared_terms": [
+            "produire",
+            "tendance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

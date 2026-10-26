@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488312,
+    "code_rome": "H1512",
+    "libelle": "Directeur / Directrice de zone en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1501"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.379,
+      "matched_terms": [
+        "amelioration"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Analyse stratégique et financière de l’entreprise",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=158",
+          "selection_score": 66.662,
+          "shared_terms": [
+            "financiere",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 64.3184,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.07",
+          "title": "Amélioration de la performance",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=141",
+          "selection_score": 53.3718,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MP.02",
+          "title": "Gestion d’une situation de crise",
+          "page": 174,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=174",
+          "selection_score": 63.6833,
+          "shared_terms": [
+            "crise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.QMI.02",
+          "title": "Évaluation des risques opérationnels",
+          "page": 301,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=301",
+          "selection_score": 56.7447,
+          "shared_terms": [
+            "operationnel",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

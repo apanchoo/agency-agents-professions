@@ -1,0 +1,593 @@
+{
+  "numero": 109,
+  "rome": {
+    "code_rome": "D1202",
+    "intitule": "Coiffeur / Coiffeuse",
+    "code_ogr": 88
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante de coiffure",
+      "libelle_court": "Assistant / Assistante de coiffure",
+      "code_ogr": 11221
+    },
+    {
+      "libelle": "Assistant coiffeur / Assistante coiffeuse",
+      "libelle_court": "Assistant coiffeur / Assistante coiffeuse",
+      "code_ogr": 11208
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse à domicile",
+      "libelle_court": "Coiffeur / Coiffeuse à domicile",
+      "code_ogr": 12689
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse dames",
+      "libelle_court": "Coiffeur / Coiffeuse dames",
+      "code_ogr": 12691
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse messieurs",
+      "libelle_court": "Coiffeur / Coiffeuse messieurs",
+      "code_ogr": 12693
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse mixte",
+      "libelle_court": "Coiffeur / Coiffeuse mixte",
+      "code_ogr": 12694
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse styliste",
+      "libelle_court": "Coiffeur / Coiffeuse styliste",
+      "code_ogr": 12696
+    },
+    {
+      "libelle": "Coiffeur / Coiffeuse visagiste",
+      "libelle_court": "Coiffeur / Coiffeuse visagiste",
+      "code_ogr": 12697
+    },
+    {
+      "libelle": "Coiffeur créateur / Coiffeuse créatrice",
+      "libelle_court": "Coiffeur créateur / Coiffeuse créatrice",
+      "code_ogr": 12690
+    },
+    {
+      "libelle": "Coloriste permanentiste",
+      "libelle_court": "Coloriste permanentiste",
+      "code_ogr": 12719
+    },
+    {
+      "libelle": "Styliste visagiste en coiffure",
+      "libelle_court": "Styliste visagiste en coiffure",
+      "code_ogr": 19552
+    },
+    {
+      "libelle": "Technicien / Technicienne en coloration",
+      "libelle_court": "Technicien / Technicienne en coloration",
+      "code_ogr": 20043
+    },
+    {
+      "libelle": "Technicien coupeur / Technicienne coupeuse en coiffure",
+      "libelle_court": "Technicien coupeur / Technicienne coupeuse en coiffure",
+      "code_ogr": 19704
+    }
+  ],
+  "definition": "Doté(e) d'un sens aigu de créativité, cet artiste du cheveu sculpte, colore et soigne les chevelures pour sublimer chaque client. Accueille et conseille les clients en fonction de leur style et de leurs attentes Réalise des coupes, des colorations et des coiffures adaptées à chaque individu Propose et effectue des soins capillaires pour améliorer la santé des cheveux Gère les rendez-vous et l'organisation quotidienne du salon",
+  "acces_metier": "Cet emploi est accessible avec un CAP Métiers de la coiffure, un Bac pro Métiers de la coiffure ou un Brevet Professionnel Coiffure.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former les nouveaux employés aux standards du salon",
+              "code_ogr": 485480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Procéder à la mise en forme, au coiffage, à la fixation des cheveux (bouclage, brushing, ...)",
+              "code_ogr": 101905,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer et appliquer des produits colorants, décolorants (mèches, ...)",
+              "code_ogr": 114126,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des prestations de coiffure",
+              "code_ogr": 101916,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+              "code_ogr": 101903,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une coupe ou une coiffure",
+              "code_ogr": 101918,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Développer des techniques de coiffure innovantes pour se démarquer",
+              "code_ogr": 485479,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Adapter les techniques de coupe aux types et conditions des cheveux",
+              "code_ogr": 485475,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir une hygiène stricte du matériel et de l'environnement de travail",
+              "code_ogr": 504340,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de produits capillaires et passer des commandes adéquates",
+              "code_ogr": 485473,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les agendas et planifier des rendez-vous",
+              "code_ogr": 120722,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les paiements et les transactions financières du salon",
+              "code_ogr": 485478,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer des mesures écologiques dans la gestion des déchets du salon",
+              "code_ogr": 485483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Intégrer l'écoresponsabilité dans toutes les dimensions de son activité",
+              "code_ogr": 402182,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les besoins des clients",
+              "code_ogr": 499623,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer des styles de coiffure en fonction des événements et des tendances",
+              "code_ogr": 485471,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter au client sa coiffure sous différents angles pour recueillir son avis",
+              "code_ogr": 101906,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs pour optimiser les coûts et la qualité des produits",
+              "code_ogr": 508655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à des compétitions de coiffure pour accroître la notoriété du salon",
+              "code_ogr": 485482,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les produits de soin capillaire adaptés à chaque type de cheveux",
+              "code_ogr": 484744,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des informations des clients",
+              "code_ogr": 483316,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Gestion des stocks de produits capillaires",
+              "code_ogr": 478409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des produits et accessoires capillaires",
+              "code_ogr": 114127,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BTS métiers de la coiffure",
+              "code_ogr": 490775,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP métiers de la coiffure",
+              "code_ogr": 405313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro métiers de la coiffure",
+              "code_ogr": 405311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BP coiffure",
+              "code_ogr": 405312,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de spécialisation coiffure coupe couleur",
+              "code_ogr": 490776,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Coiffure femme",
+              "code_ogr": 101913,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coiffure homme",
+              "code_ogr": 101914,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseils en image et relooking capillaire",
+              "code_ogr": 480300,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coiffure enfant",
+              "code_ogr": 101912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diagnostic capillaire",
+              "code_ogr": 101909,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des tendances actuelles en coiffure",
+              "code_ogr": 480299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de cuir chevelu",
+              "code_ogr": 480307,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaissance des allergies et réactions cutanées liées aux produits capillaires",
+              "code_ogr": 480301,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation d'évènements professionnels",
+              "code_ogr": 120620,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Manipulation d'outil tranchant (ciseaux de coupe, cranteur, ...)",
+              "code_ogr": 101908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes de réservation en ligne",
+              "code_ogr": 499306,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage de chignon",
+              "code_ogr": 101919,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coupes de cheveux",
+              "code_ogr": 101910,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de raccord, de rajouts, d'extensions",
+              "code_ogr": 119893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tressage",
+              "code_ogr": 100738,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de décoloration, de coloration de cheveux (contraste, ton sur ton, d'oxydation, ...)",
+              "code_ogr": 101915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de séchage",
+              "code_ogr": 101911,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de massage du cuir chevelu",
+              "code_ogr": 478407,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coloration végétale",
+              "code_ogr": 101120,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1217 - Socio-coiffeur / Socio-coiffeuse",
+      "code_org_rome_cible": 488784,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1218 - Formateur coiffeur / Formatrice coiffeuse",
+      "code_org_rome_cible": 488919,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1208 - Esthéticien / Esthéticienne",
+      "code_org_rome_cible": 94,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "L1501 - Maquilleur / Maquilleuse spectacle",
+      "code_org_rome_cible": 447,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "D1220 - Gérant / Gérante salon de coiffure",
+      "code_org_rome_cible": 489036,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1203 - Agent / Agente de soins en hydrothérapie",
+      "code_org_rome_cible": 89,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1416 - Commercial / Commerciale auprès d'une clientèle d'entreprises",
+      "code_org_rome_cible": 488879,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1301 - Gérant / Gérante de magasin d'alimentation générale",
+      "code_org_rome_cible": 101,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1103 - Conseiller / Conseillère en développement personnel",
+      "code_org_rome_cible": 366,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1602 - Secrétaire administratif / Secrétaire administrative de collectivité territoriale",
+      "code_org_rome_cible": 475,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515441,
+    "code_rome": "M1431",
+    "libelle": "Chargé / Chargée de partenariat",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1402"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.657,
+      "matched_terms": [
+        "entrepris",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MCMO.07",
+          "title": "Négociation commerciale",
+          "page": 288,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=288",
+          "selection_score": 58.5066,
+          "shared_terms": [
+            "commerciale",
+            "negociation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MACAST.07",
+          "title": "Recherche de partenariats culturels, artistiques, sportifs ou de tourisme",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=382",
+          "selection_score": 33.9138,
+          "shared_terms": [
+            "partenariat"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.07",
+          "title": "Politiques sectorielles culturelles, artistiques, sportives ou de tourisme",
+          "page": 363,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=363",
+          "selection_score": 31.5965,
+          "shared_terms": [
+            "sectorielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 23.8733,
+          "shared_terms": [
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 21.5607,
+          "shared_terms": [
+            "negociation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

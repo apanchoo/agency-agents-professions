@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488297,
+    "code_rome": "H1405",
+    "libelle": "Responsable supply chain en industrie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "H1401"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 28.927,
+      "matched_terms": [
+        "industri"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1401",
+      "title_terms": [
+        "industri"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ISP.05",
+          "title": "Supervision 6",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=243",
+          "selection_score": 49.4707,
+          "shared_terms": [
+            "supervision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.11",
+          "title": "Sécurité 3",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=102",
+          "selection_score": 31.0181,
+          "shared_terms": [
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.10",
+          "title": "Référentiel Sécurité 5",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=146",
+          "selection_score": 23.1203,
+          "shared_terms": [
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.3MI.01",
+          "title": "Mettre en place une action de maintenance",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=85",
+          "selection_score": 49.723,
+          "shared_terms": [
+            "action",
+            "place"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ISP.01",
+          "title": "Participer à une action de maintenance",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=167",
+          "selection_score": 32.5708,
+          "shared_terms": [
+            "action"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 27.419,
+      "matched_terms": [
+        "amelioration",
+        "approvisionnement",
+        "logist",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.14",
+          "title": "Distribution, transport et Supply Chain",
+          "page": 256,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=256",
+          "selection_score": 82.417,
+          "shared_terms": [
+            "chain",
+            "distribution",
+            "supply",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.13",
+          "title": "Achats dans la Supply Chain",
+          "page": 255,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=255",
+          "selection_score": 77.9621,
+          "shared_terms": [
+            "achat",
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.OSC.10",
+          "title": "Prévision et planification de la distribution",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=231",
+          "selection_score": 55.19,
+          "shared_terms": [
+            "distribution",
+            "planification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OSC.03",
+          "title": "Projet Supply Chain en tant que cadre intermédiaire",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=237",
+          "selection_score": 47.3081,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.03",
+          "title": "Projet Supply Chain en tant que technicien",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=191",
+          "selection_score": 46.0045,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.74,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CAI.13",
+          "title": "Principes de la gestion d’affaire",
+          "page": 421,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=421",
+          "selection_score": 41.7508,
+          "shared_terms": [
+            "principe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 36.9239,
+          "shared_terms": [
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MPI.08",
+          "title": "Management",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=253",
+          "selection_score": 25.6323,
+          "shared_terms": [
+            "management"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 40.7704,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SNRV.02",
+          "title": "Confronter virtuel / réel pour optimiser le couple produit / process via un jumeau numérique",
+          "page": 169,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=169",
+          "selection_score": 29.2644,
+          "shared_terms": [
+            "proces",
+            "produit"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

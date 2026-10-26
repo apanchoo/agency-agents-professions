@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 115,
+    "code_rome": "D1506",
+    "libelle": "Chargé / Chargée de merchandising",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "D1506"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.758,
+      "matched_terms": [
+        "client",
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1506",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MMPV.16",
+          "title": "Marketing du point de vente",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=218",
+          "selection_score": 70.5571,
+          "shared_terms": [
+            "marketing",
+            "point",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MMPV.09",
+          "title": "Merchandising",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=239",
+          "selection_score": 68.0945,
+          "shared_terms": [
+            "merchandising"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BDMRC.12",
+          "title": "Management de la valeur client",
+          "page": 499,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=499",
+          "selection_score": 67.7219,
+          "shared_terms": [
+            "client",
+            "valeur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MMPV.03",
+          "title": "Analyse d’un point de vente ou d’un rayon dans son environnement concurrentiel",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=197",
+          "selection_score": 83.9214,
+          "shared_terms": [
+            "point",
+            "rayon",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MMPV.02",
+          "title": "Démarche d’ouverture d’un point de vente",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=195",
+          "selection_score": 56.119,
+          "shared_terms": [
+            "point",
+            "vente"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

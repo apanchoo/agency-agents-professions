@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510429,
+    "code_rome": "E1125",
+    "libelle": "Concepteur / Conceptrice de jeux vidéo",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1104"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 24.822,
+      "matched_terms": [
+        "design",
+        "developpe",
+        "experience utilisateur",
+        "graph"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1104",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CREA.09",
+          "title": "Création et design interactif (UI)",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=117",
+          "selection_score": 73.4291,
+          "shared_terms": [
+            "creation",
+            "design",
+            "interactif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.05",
+          "title": "Création et design interactif",
+          "page": 259,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=259",
+          "selection_score": 72.3697,
+          "shared_terms": [
+            "creation",
+            "design",
+            "interactif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Design d’expérience",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=111",
+          "selection_score": 66.1468,
+          "shared_terms": [
+            "design",
+            "experience"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.01",
+          "title": "Intégrer une expérience utilisateur au sein d’un système d’information",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=163",
+          "selection_score": 82.8057,
+          "shared_terms": [
+            "experience",
+            "integrer",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 59.3187,
+          "shared_terms": [
+            "integrer",
+            "utilisateur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

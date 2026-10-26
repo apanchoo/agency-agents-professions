@@ -1,0 +1,805 @@
+{
+  "numero": 387,
+  "rome": {
+    "code_rome": "H2912",
+    "intitule": "Régleur / Régleuse d'équipements industriels",
+    "code_ogr": 289
+  },
+  "appellations": [
+    {
+      "libelle": "Monteur régleur / Monteuse régleuse d'outils sur presse",
+      "libelle_court": "Monteur régleur / Monteuse régleuse d'outils sur presse",
+      "code_ogr": 520488
+    },
+    {
+      "libelle": "Opérateur / Opératrice sur machines-outils à commande numérique",
+      "libelle_court": "Opérateur / Opératrice sur machines-outils à commande",
+      "code_ogr": 520487
+    },
+    {
+      "libelle": "Opérateur régleur / Opératrice régleuse",
+      "libelle_court": "Opérateur régleur / Opératrice régleuse",
+      "code_ogr": 520486
+    },
+    {
+      "libelle": "Opérateur-régleur / Opératrice-régleuse sur machine-outil d'usinage des métaux",
+      "libelle_court": "Opérateur(trice)-régleur(se) machine-outil usinage métaux",
+      "code_ogr": 17347
+    },
+    {
+      "libelle": "Régleur / Régleuse de cokerie",
+      "libelle_court": "Régleur / Régleuse de cokerie",
+      "code_ogr": 18428
+    },
+    {
+      "libelle": "Régleur / Régleuse de four à coke",
+      "libelle_court": "Régleur / Régleuse de four à coke",
+      "code_ogr": 18429
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine à couler",
+      "libelle_court": "Régleur / Régleuse de machine à couler",
+      "code_ogr": 18430
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine de frappe à froid",
+      "libelle_court": "Régleur / Régleuse de machine de frappe à froid",
+      "code_ogr": 18431
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine d'usinage des matériaux",
+      "libelle_court": "Régleur / Régleuse de machine d'usinage des matériaux",
+      "code_ogr": 18432
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine et d'outillage de moulage des métaux",
+      "libelle_court": "Régleur(se) de machine et d'outillage de moulage des métaux",
+      "code_ogr": 18433
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine textile",
+      "libelle_court": "Régleur / Régleuse de machine textile",
+      "code_ogr": 18434
+    },
+    {
+      "libelle": "Régleur / Régleuse de machine-outil",
+      "libelle_court": "Régleur / Régleuse de machine-outil",
+      "code_ogr": 18435
+    },
+    {
+      "libelle": "Régleur / Régleuse de métier à tisser",
+      "libelle_court": "Régleur / Régleuse de métier à tisser",
+      "code_ogr": 18446
+    },
+    {
+      "libelle": "Régleur / Régleuse de métiers leavers",
+      "libelle_court": "Régleur / Régleuse de métiers leavers",
+      "code_ogr": 18447
+    },
+    {
+      "libelle": "Régleur / Régleuse de moulinage",
+      "libelle_court": "Régleur / Régleuse de moulinage",
+      "code_ogr": 18448
+    },
+    {
+      "libelle": "Régleur / Régleuse d'encocheuse",
+      "libelle_court": "Régleur / Régleuse d'encocheuse",
+      "code_ogr": 18452
+    },
+    {
+      "libelle": "Régleur / Régleuse d'équipement de production",
+      "libelle_court": "Régleur / Régleuse d'équipement de production",
+      "code_ogr": 18453
+    },
+    {
+      "libelle": "Régleur / Régleuse d'équipement industriel de production",
+      "libelle_court": "Régleur / Régleuse d'équipement industriel de production",
+      "code_ogr": 18454
+    },
+    {
+      "libelle": "Régleur / Régleuse d'outillage industriel",
+      "libelle_court": "Régleur / Régleuse d'outillage industriel",
+      "code_ogr": 18455
+    },
+    {
+      "libelle": "Régleur / Régleuse en production",
+      "libelle_court": "Régleur / Régleuse en production",
+      "code_ogr": 18457
+    },
+    {
+      "libelle": "Régleur / Régleuse machine à comprimer",
+      "libelle_court": "Régleur / Régleuse machine à comprimer",
+      "code_ogr": 18460
+    },
+    {
+      "libelle": "Régleur / Régleuse mécanique",
+      "libelle_court": "Régleur / Régleuse mécanique",
+      "code_ogr": 18464
+    },
+    {
+      "libelle": "Régleur / Régleuse sur commande numérique",
+      "libelle_court": "Régleur / Régleuse sur commande numérique",
+      "code_ogr": 18470
+    },
+    {
+      "libelle": "Régleur / Régleuse sur four",
+      "libelle_court": "Régleur / Régleuse sur four",
+      "code_ogr": 18471
+    },
+    {
+      "libelle": "Régleur / Régleuse sur installation de soudage robotisé",
+      "libelle_court": "Régleur / Régleuse sur installation de soudage robotisé",
+      "code_ogr": 18472
+    },
+    {
+      "libelle": "Régleur / Régleuse sur ligne automatisée",
+      "libelle_court": "Régleur / Régleuse sur ligne automatisée",
+      "code_ogr": 18473
+    },
+    {
+      "libelle": "Régleur / Régleuse sur ligne d'assemblage",
+      "libelle_court": "Régleur / Régleuse sur ligne d'assemblage",
+      "code_ogr": 18474
+    },
+    {
+      "libelle": "Régleur / Régleuse sur ligne de cartonnerie",
+      "libelle_court": "Régleur / Régleuse sur ligne de cartonnerie",
+      "code_ogr": 18475
+    },
+    {
+      "libelle": "Régleur / Régleuse sur ligne de conditionnement",
+      "libelle_court": "Régleur / Régleuse sur ligne de conditionnement",
+      "code_ogr": 18476
+    },
+    {
+      "libelle": "Régleur / Régleuse sur ligne de refendage-cisaillage",
+      "libelle_court": "Régleur / Régleuse sur ligne de refendage-cisaillage",
+      "code_ogr": 18477
+    },
+    {
+      "libelle": "Régleur / Régleuse sur machine de production",
+      "libelle_court": "Régleur / Régleuse sur machine de production",
+      "code_ogr": 18478
+    },
+    {
+      "libelle": "Régleur / Régleuse sur machine industrielle",
+      "libelle_court": "Régleur / Régleuse sur machine industrielle",
+      "code_ogr": 18479
+    },
+    {
+      "libelle": "Régleur / Régleuse sur machine transfert",
+      "libelle_court": "Régleur / Régleuse sur machine transfert",
+      "code_ogr": 18480
+    },
+    {
+      "libelle": "Régleur / Régleuse sur machine-outil",
+      "libelle_court": "Régleur / Régleuse sur machine-outil",
+      "code_ogr": 18481
+    },
+    {
+      "libelle": "Régleur / Régleuse sur machine-outil à commande numérique",
+      "libelle_court": "Régleur / Régleuse sur machine-outil à commande numérique",
+      "code_ogr": 18482
+    },
+    {
+      "libelle": "Régleur / Régleuse sur presse à découper ou emboutir",
+      "libelle_court": "Régleur / Régleuse sur presse à découper ou emboutir",
+      "code_ogr": 18483
+    },
+    {
+      "libelle": "Régleur / Régleuse sur robot de soudure",
+      "libelle_court": "Régleur / Régleuse sur robot de soudure",
+      "code_ogr": 18485
+    },
+    {
+      "libelle": "Régleur / Régleuse sur tour",
+      "libelle_court": "Régleur / Régleuse sur tour",
+      "code_ogr": 18486
+    },
+    {
+      "libelle": "Régleur mécanicien / Régleuse mécanicienne",
+      "libelle_court": "Régleur mécanicien / Régleuse mécanicienne",
+      "code_ogr": 18461
+    },
+    {
+      "libelle": "Régleur mécanicien / Régleuse mécanicienne de machine de confection",
+      "libelle_court": "Régleur(se) mécanicien(ne) de machine de confection",
+      "code_ogr": 18462
+    },
+    {
+      "libelle": "Régleur mécanicien / Régleuse mécanicienne en bonneterie",
+      "libelle_court": "Régleur mécanicien / Régleuse mécanicienne en bonneterie",
+      "code_ogr": 18463
+    },
+    {
+      "libelle": "Régleur metteur / Régleuse metteuse au point d'équipements industriels",
+      "libelle_court": "Régleur(se) metteur(se) au point équipements industriels",
+      "code_ogr": 18465
+    },
+    {
+      "libelle": "Régleur monteur / Régleuse monteuse de machine textile de filature et de tissage",
+      "libelle_court": "Régleur(se) monteur(se) machine textile de filature tissage",
+      "code_ogr": 18466
+    },
+    {
+      "libelle": "Régleur monteur / Régleuse monteuse sur presse à découper ou emboutir",
+      "libelle_court": "Régleur monteur / Régleuse monteuse presse découper-emboutir",
+      "code_ogr": 18467
+    },
+    {
+      "libelle": "Régleur programmateur industriel / Régleuse programmatrice industrielle",
+      "libelle_court": "Régleur(se) programmateur(trice) industriel(le)",
+      "code_ogr": 18468
+    },
+    {
+      "libelle": "Régleur ressortier / Régleuse ressortière",
+      "libelle_court": "Régleur ressortier / Régleuse ressortière",
+      "code_ogr": 18469
+    },
+    {
+      "libelle": "Technicien régleur / Technicienne régleuse de machine de frappe à froid",
+      "libelle_court": "Technicien(ne) régleur(se) de machine de frappe à froid",
+      "code_ogr": 20235
+    }
+  ],
+  "definition": "Le Régleur d'équipements industriels maintient le bon fonctionnement (démarrage, réglage et mise au point) et entretient des machines. Il est en charge du changement des équipements qu'il règle (moules, lames...). Règle les machines pour une chaîne de production Installe et monte les outillages et périphériques afin d'assurer le niveau de qualité souhaitée Réalise et analyse les tests des machines de production avec la tenue de tableaux de bord de production Assure l'étude des dysfonctionnements liés au process, analyse de la qualité des produits, du rendement ou des rejets",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP à Bac ou Bac professionnel en mécanique, productique, électrotechnique, maintenance industrielle.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Apporter un appui technique aux services qualité, maintenance, méthodes, recherche et développement",
+              "code_ogr": 121049,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Procéder à des tests, expérimentations",
+              "code_ogr": 300080,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Exploiter des logiciels de FAO (Fabrication Assistée par Ordinateur)",
+              "code_ogr": 520453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lire et interpréter des données et documents techniques, au besoin en anglais",
+              "code_ogr": 402191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner les supports qualité et de suivi de production",
+              "code_ogr": 126336,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des dessins, des gabarits et des cotations de pièces, outils",
+              "code_ogr": 114787,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Démarrer ou arrêter une machine, une ligne",
+              "code_ogr": 300155,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Proposer des solutions techniques adaptées",
+              "code_ogr": 484943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer la zone de travail et les moyens nécessaires à l'activité",
+              "code_ogr": 402243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des ajustements techniques sur des machines à commande numérique",
+              "code_ogr": 500721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la mise au point des machines et outillages de production",
+              "code_ogr": 119281,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Monter, démonter les pièces, outillages de machines",
+              "code_ogr": 106030,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Analyser un dysfonctionnement ou une non conformité",
+              "code_ogr": 123311,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la maintenance préventive de premier niveau des équipements",
+              "code_ogr": 485420,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de maintenance à caractère préventif, systématique ou conditionnel",
+              "code_ogr": 402264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Proposer des solutions d'amélioration continue",
+              "code_ogr": 499708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "S'adapter à son interlocuteur",
+              "code_ogr": 403893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'intégrer dans l'équipe et faire preuve de coopération",
+              "code_ogr": 402302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre des informations et s'assurer de leur compréhension en adoptant un langage approprié aux interlocuteurs internes et externes",
+              "code_ogr": 513440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer les normes d'hygiène et de sécurité",
+              "code_ogr": 520454,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter des procédures, modes opératoires et instructions",
+              "code_ogr": 120276,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes qualité",
+              "code_ogr": 489282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réagir efficacement en cas d'incident technique",
+              "code_ogr": 506147,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outils électroportatifs (scie électrique, ponceuse, etc.)",
+              "code_ogr": 100507,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de machines-outils à axes multiples",
+              "code_ogr": 104935,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'une chaîne de façonnage",
+              "code_ogr": 102855,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines-outils à commandes numériques",
+              "code_ogr": 104936,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation d'outils de métrologie",
+              "code_ogr": 512708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Opérateur-régleur sur machine-outil à commande numérique par enlèvement de matière",
+              "code_ogr": 522613,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP régleur (euse) de machine de frappe à froid",
+              "code_ogr": 522471,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP conducteur régleur de presse à emboutir et/ou à découper",
+              "code_ogr": 522631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP régleur sur machines-outils de décolletage",
+              "code_ogr": 522504,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur régleur sur machines-outils à commande numérique de transformation de la tôle",
+              "code_ogr": 522441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP régleur ressortier",
+              "code_ogr": 522445,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro technicien en réalisation de produits mécaniques option réalisation et suivi de productions",
+              "code_ogr": 522486,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP conducteur régleur de presse à injecter les matériaux plastiques et métalliques sous pression",
+              "code_ogr": 522567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP metteur au point en emboutissage",
+              "code_ogr": 522448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel opérateur régleur en usinage assisté par ordinateur",
+              "code_ogr": 522620,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Installation de systèmes hydrauliques",
+              "code_ogr": 104425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes automatisés",
+              "code_ogr": 113658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fondamentaux de la métallurgie",
+              "code_ogr": 104617,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pneumatique",
+              "code_ogr": 104547,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fabrication Assistée par Ordinateur (FAO)",
+              "code_ogr": 119426,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Suivi des procédures de contrôle qualité",
+              "code_ogr": 481449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des normes d'hygiène et de sécurité",
+              "code_ogr": 520479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de façonnage",
+              "code_ogr": 106251,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité sur les lieux de travail",
+              "code_ogr": 124944,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documentation technique des équipements",
+              "code_ogr": 124809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de formage",
+              "code_ogr": 100437,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de découpage",
+              "code_ogr": 106252,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de réglage de machines de thermoformage",
+              "code_ogr": 116562,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'affûtage",
+              "code_ogr": 100029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de fraiseuses",
+              "code_ogr": 116534,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglages des paramètres de soudage",
+              "code_ogr": 116551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de machines de décolletage",
+              "code_ogr": 116539,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de presses à emboutir",
+              "code_ogr": 116548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de machines de découpage",
+              "code_ogr": 116540,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de perceuses",
+              "code_ogr": 116535,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Salariés",
+          "code_ogr": 300846
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Alternance",
+          "code_ogr": 403096
+        },
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En ligne ou ilot de production",
+          "code_ogr": 23382
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail posté (2x8, 3x8, 5x8, etc.)",
+          "code_ogr": 126450
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H1209 - Technicien / Technicienne en électricité et électronique études et développement",
+      "code_org_rome_cible": 220,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H1404 - Technicien / Technicienne méthodes",
+      "code_org_rome_cible": 228,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2503 - Responsable d'îlot de production",
+      "code_org_rome_cible": 264,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1506 - Contrôleur / Contrôleuse technique en métallurgie",
+      "code_org_rome_cible": 234,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1302 - Technicien / Technicienne de maintenance d'installations automatisées",
+      "code_org_rome_cible": 311,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1503 - Technicien / Technicienne en risques technologiques",
+      "code_org_rome_cible": 324,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "I1310 - Mécanicien / Mécanicienne de maintenance industrielle",
+      "code_org_rome_cible": 319,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1324 - Technicien / Technicienne d'installation d'équipements industriels",
+      "code_org_rome_cible": 509409,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2309 - Technicien / Technicienne réutilisation recyclage",
+      "code_org_rome_cible": 489069,
+      "ordre_mobilite": 10
+    }
+  ]
+}

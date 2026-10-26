@@ -1,0 +1,238 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488566,
+    "code_rome": "H1224",
+    "libelle": "Technicien / Technicienne de laboratoire de recherche-développement",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1210"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 29.723,
+      "matched_terms": [
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [
+        "laboratoire"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.15",
+          "title": "Risques chimiques et BPL - BPF",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=108",
+          "selection_score": 50.8475,
+          "shared_terms": [
+            "bpl",
+            "chimique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 47.1463,
+          "shared_terms": [
+            "echantillon"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MPF.14",
+          "title": "Analyses expérimentales des matériaux et/ou produits formulés",
+          "page": 283,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=283",
+          "selection_score": 42.342,
+          "shared_terms": [
+            "experimentale",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Vérification d’une caractéristique donnée d’un matériau ou d’un produit formulé",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=89",
+          "selection_score": 65.3229,
+          "shared_terms": [
+            "caracteristique",
+            "materiau",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MPF.01",
+          "title": "Étude et élaboration d’un matériau et/ou d’un produit formulé",
+          "page": 309,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=309",
+          "selection_score": 38.2513,
+          "shared_terms": [
+            "materiau",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.436,
+      "matched_terms": [
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 58.4053,
+          "shared_terms": [
+            "chimique",
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Structures atomique et moléculaire",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=65",
+          "selection_score": 30.5005,
+          "shared_terms": [
+            "moleculaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Culture et communication 4",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=134",
+          "selection_score": 28.3718,
+          "shared_terms": [
+            "culture"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mettre en œuvre des analyses chimiques (acides-bases, complexation, précipitation) en appliquant les bonnes pratiques de laboratoire (BPL)",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=50",
+          "selection_score": 73.7854,
+          "shared_terms": [
+            "bonne",
+            "bpl",
+            "chimique",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.01",
+          "title": "Caractériser et interpréter les résultats d’analyse d’échantillons selon la chaîne de mesure utilisée",
+          "page": 206,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=206",
+          "selection_score": 30.1232,
+          "shared_terms": [
+            "echantillon"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.176,
+      "matched_terms": [
+        "methodes"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SNRV.12",
+          "title": "Simulation",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=146",
+          "selection_score": 42.9839,
+          "shared_terms": [
+            "simulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SNRV.02",
+          "title": "Utiliser la réalité virtuelle et/ou augmentée pour anticiper et corriger des problèmes en situation réelle",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=130",
+          "selection_score": 24.5685,
+          "shared_terms": [
+            "probleme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Conception d’une pièce de sécurité",
+          "page": 90,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=90",
+          "selection_score": 18.6232,
+          "shared_terms": [
+            "securite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

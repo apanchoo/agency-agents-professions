@@ -1,0 +1,773 @@
+{
+  "numero": 120,
+  "rome": {
+    "code_rome": "D1301",
+    "intitule": "Gérant / Gérante de magasin d'alimentation générale",
+    "code_ogr": 101
+  },
+  "appellations": [
+    {
+      "libelle": "Gérant / Gérante de magasin d'alimentation",
+      "libelle_court": "Gérant / Gérante de magasin d'alimentation",
+      "code_ogr": 15287
+    },
+    {
+      "libelle": "Gérant / Gérante de supérette",
+      "libelle_court": "Gérant / Gérante de supérette",
+      "code_ogr": 15298
+    },
+    {
+      "libelle": "Gérant / Gérante mandataire de succursale de magasin d'alimentation",
+      "libelle_court": "Gérant(e) mandataire de succursale de magasin alimentation",
+      "code_ogr": 15307
+    },
+    {
+      "libelle": "Responsable de supérette",
+      "libelle_court": "Responsable de supérette",
+      "code_ogr": 18884
+    }
+  ],
+  "definition": "Le gérant de magasin d'alimentation générale orchestre la gestion quotidienne et la performance globale du magasin Supervise l'organisation du magasin et l'agencement des produits Assure le respect des normes d'hygiène et de sécurité alimentaire Recrute et encadre une équipe de vente en planifiant les activités quotidiennes Développe des stratégies de vente pour atteindre les objectifs commerciaux et satisfaire la clientèle Gère les stocks et approvisionnements pour garantir la disponibilité des produits Maintient une relation de qualité avec les fournisseurs et négocie les achats",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac + 2 à Bac + 5 commerce et distribution.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Encadrer et coordonner une équipe",
+              "code_ogr": 485916,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etablir des objectifs de vente pour l'équipe",
+              "code_ogr": 486035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser une équipe en magasin",
+              "code_ogr": 503867,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Promouvoir une culture d'entreprise positive",
+              "code_ogr": 503878,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recruter et intégrer les nouveaux arrivants",
+              "code_ogr": 400550,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer un rôle de conseil en marketing opérationnel auprès de ses interlocuteurs (mise en place en rayon, qualité des produits) afin d'optimiser les ventes",
+              "code_ogr": 403427,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Encourager et former les employés à des pratiques de vente efficaces",
+              "code_ogr": 503872,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les données de fréquentation",
+              "code_ogr": 484622,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Veiller à la propreté et à l'ordre général du lieu",
+              "code_ogr": 500637,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser les données de vente pour améliorer l'efficacité",
+              "code_ogr": 502924,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité des produits reçus",
+              "code_ogr": 482653,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des commandes et la gestion des stocks",
+              "code_ogr": 482927,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler l'état des stocks",
+              "code_ogr": 489786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer le suivi des stocks via des systèmes informatisés",
+              "code_ogr": 484040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier et gérer des invendus",
+              "code_ogr": 117172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la mise en rayon",
+              "code_ogr": 117468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stocker un produit",
+              "code_ogr": 117548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels de gestion de magasin pour optimiser les opérations",
+              "code_ogr": 503876,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Définir les plannings et congés de ses équipes",
+              "code_ogr": 403386,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir des rapports de vente et d'activité",
+              "code_ogr": 505695,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les opérations quotidiennes d'un magasin d'alimentation",
+              "code_ogr": 503866,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300315,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer le respect des normes sanitaires",
+              "code_ogr": 486775,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les réclamations clients de manière efficace et professionnelle",
+              "code_ogr": 505419,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Implémenter des mesures écologiques dans la gestion du magasin",
+              "code_ogr": 503877,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir et conseiller les clients sur les produits du rayon",
+              "code_ogr": 505716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les données de vente",
+              "code_ogr": 505534,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser les retours clients pour améliorer les produits ou services",
+              "code_ogr": 484314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser les tendances de vente pour ajuster les commandes",
+              "code_ogr": 483746,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la communication avec les clients et les partenaires",
+              "code_ogr": 509060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir des stratégies de fidélisation de la clientèle",
+              "code_ogr": 121207,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conclure une transaction",
+              "code_ogr": 300369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la satisfaction client",
+              "code_ogr": 120147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre des actions commerciales et promotionnelles",
+              "code_ogr": 300376,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser l'agencement des produits pour maximiser les ventes",
+              "code_ogr": 503868,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser, aménager un espace de vente",
+              "code_ogr": 300375,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Promouvoir les produits locaux et de saison dans le magasin",
+              "code_ogr": 503871,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre les innovations dans le secteur de la distribution",
+              "code_ogr": 503879,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Analyser les données de performance de l'entreprise",
+              "code_ogr": 500957,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les performances de l'équipe et proposer des améliorations",
+              "code_ogr": 486295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser les performances de vente pour ajuster les objectifs",
+              "code_ogr": 500764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+              "code_ogr": 300401,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etablir des partenariats avec des producteurs locaux",
+              "code_ogr": 484146,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer une communication claire et efficace avec l'équipe",
+              "code_ogr": 483667,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Elaborer des plans d'urgence pour les périodes de forte affluence",
+              "code_ogr": 503875,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre des décisions rapides sous pression",
+              "code_ogr": 482468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 489877,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Produits alimentaires spécifiques (bio, local, etc.)",
+              "code_ogr": 493322,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de produits d'alimentation",
+              "code_ogr": 118098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tendances du marché alimentaire",
+              "code_ogr": 493690,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes de surveillance en magasin",
+              "code_ogr": 499309,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence pro mention technico-commercial",
+              "code_ogr": 490788,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité techniques de commercialisation parcours marketing digital, e-business et entrepreneuriat",
+              "code_ogr": 490782,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP manager opérationnel en magasin",
+              "code_ogr": 514250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management commercial opérationnel",
+              "code_ogr": 489599,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DUT techniques de commercialisation",
+              "code_ogr": 490783,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du commerce international",
+              "code_ogr": 490787,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP manager opérationnel d'un point de vente",
+              "code_ogr": 515167,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention commerce et distribution",
+              "code_ogr": 489659,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel manager d'unité marchande",
+              "code_ogr": 489728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité techniques de commercialisation parcours marketing et management du point de vente",
+              "code_ogr": 404360,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention management et commerce international",
+              "code_ogr": 490790,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention commerce et distribution",
+              "code_ogr": 489652,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management des activités commerciales",
+              "code_ogr": 490786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager d'unité marchande [Polynésie Française]",
+              "code_ogr": 490789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention commercialisation de produits et services",
+              "code_ogr": 490784,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Management d'équipe",
+              "code_ogr": 109185,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Merchandising / Marchandisage",
+              "code_ogr": 121250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Esprit d'initiative",
+              "code_ogr": 494131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à travailler sous pression",
+              "code_ogr": 479393,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits de grande consommation",
+              "code_ogr": 493330,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des produits frais (fruits, légumes, viandes, poissons)",
+              "code_ogr": 493338,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Approvisionnement en ligne / E achat",
+              "code_ogr": 124447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mise en place de promotions et offres spéciales",
+              "code_ogr": 478357,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des outils informatiques (Internet, messagerie électronique) et bureautiques (Word, Excel, PowerPoint)",
+              "code_ogr": 403123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitement des commandes",
+              "code_ogr": 122632,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interne",
+              "code_ogr": 477200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciel de gestion des stocks",
+              "code_ogr": 491701,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Législation des invendus alimentaires",
+              "code_ogr": 124953,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de tenue de caisse",
+              "code_ogr": 102995,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit commercial",
+              "code_ogr": 101359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développement de stratégies de fidélisation de la clientèle",
+              "code_ogr": 117687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'encaissement et modalités de paiements",
+              "code_ogr": 512671,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Sens du service client",
+              "code_ogr": 497469,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des pertes et gestion des vols",
+              "code_ogr": 496856,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mise en place de systèmes de sécurité",
+              "code_ogr": 496204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des outils de suivi des ventes",
+              "code_ogr": 495938,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sens de l'organisation et de la planification",
+              "code_ogr": 497464,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Polyactivité",
+          "code_ogr": 403024
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1516 - Responsable merchandising",
+      "code_org_rome_cible": 510170,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1504 - Directeur / Directrice de magasin de grande distribution",
+      "code_org_rome_cible": 113,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1406 - Directeur / Directrice des ventes",
+      "code_org_rome_cible": 107,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1303 - Conseiller / Conseillère en voyages",
+      "code_org_rome_cible": 190,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1715 - Directeur commercial / Directrice commerciale",
+      "code_org_rome_cible": 488738,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "G1807 - Gérant / Gérante de bar-tabac",
+      "code_org_rome_cible": 488582,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1805 - Gérant / Gérante de café, bar-brasserie",
+      "code_org_rome_cible": 489037,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1509 - Responsable de département en grande distribution",
+      "code_org_rome_cible": 118,
+      "ordre_mobilite": 9
+    }
+  ]
+}

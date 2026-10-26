@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 512369,
+    "code_rome": "N4306",
+    "libelle": "Agent / Agente d'accompagnement des trains",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": "O",
+    "emploi_cadre": null,
+    "code_rome_parent": "N4302"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.388,
+      "matched_terms": [
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Transport ferroviaire",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=120",
+          "selection_score": 78.7554,
+          "shared_terms": [
+            "ferroviaire",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Géographie des échanges",
+          "page": 38,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=38",
+          "selection_score": 51.7002,
+          "shared_terms": [
+            "geographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MSCC.07",
+          "title": "Accompagnement au changement des projets connectés",
+          "page": 169,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=169",
+          "selection_score": 51.1878,
+          "shared_terms": [
+            "accompagnement",
+            "connecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MSCC.01",
+          "title": "Création de services pour les voyageurs dans un environnement connecté",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=82",
+          "selection_score": 66.4549,
+          "shared_terms": [
+            "connecte",
+            "voyageur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Étude des activités et acteurs du transport de voyageurs",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=57",
+          "selection_score": 57.5441,
+          "shared_terms": [
+            "transport",
+            "voyageur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

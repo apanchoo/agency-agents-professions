@@ -1,0 +1,605 @@
+{
+  "numero": 394,
+  "rome": {
+    "code_rome": "K1303",
+    "intitule": "Garde d'enfant",
+    "code_ogr": 377
+  },
+  "appellations": [
+    {
+      "libelle": "Baby-sitter",
+      "libelle_court": "Baby-sitter",
+      "code_ogr": 11480
+    },
+    {
+      "libelle": "Garde d'enfant à domicile",
+      "libelle_court": "Garde d'enfant à domicile",
+      "code_ogr": 15196
+    },
+    {
+      "libelle": "Gouvernant / Gouvernante d'enfant à domicile",
+      "libelle_court": "Gouvernant / Gouvernante d'enfant à domicile",
+      "code_ogr": 15383
+    }
+  ],
+  "definition": "Un garde d'enfant est une personne qui s'occupe des enfants directement au domicile des parents. Aide les enfants dans la réalisation des actes de la vie quotidienne (habillage, prise de repas, etc.) Mène avec eux des activités d'éveil (jeux, apprentissage de la vie collective, etc.) Assure la sécurité et le bien-être des enfants Organise et met en place des activités éducatives et ludiques Gère les horaires de sommeil et surveille les siestes des enfants Peut effectuer l'entretien du cadre de vie, ainsi que l'entretien du linge Surveille un ou plusieurs enfants dans la réalisation de devoirs",
+  "acces_metier": "Cet emploi est accessible avec ou sans diplôme, mais une expérience professionnelle auprès des enfants est un atout. L'obtention du Titre à Finalité Professionnelle \"Assistant Maternel-Garde d'enfants\" peut être un atout pour exercer ce métier.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Organiser des activités éducatives adaptées à l'âge des enfants",
+              "code_ogr": 502238,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser et animer des activités ludiques et d'éveil",
+              "code_ogr": 107848,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Aider l'enfant à faire ses devoirs",
+              "code_ogr": 400097,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller les parents sur la nutrition infantile",
+              "code_ogr": 500486,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager l'autonomie dans les activités quotidiennes",
+              "code_ogr": 482711,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Accompagner au développement, à l'autonomie et à l'éveil de l'enfant",
+              "code_ogr": 400438,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
+              "code_ogr": 107371,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accompagner à l'hygiène, à la nutrition et au développement de l'enfant de moins de 3 ans",
+              "code_ogr": 400127,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Adapter ses pratiques à l'accompagnement de l'enfant en situation de handicap",
+              "code_ogr": 400080,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contribuer au bien-être physique d'une personne",
+              "code_ogr": 300597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contribuer au bien-être psychologique d'une personne",
+              "code_ogr": 300598,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les temps de repos et de sommeil des enfants",
+              "code_ogr": 499956,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Observer le comportement, l'évolution de l'enfant et repérer d'éventuelles difficultés",
+              "code_ogr": 103913,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procurer à l'enfant des éléments de confort, de réconfort",
+              "code_ogr": 107936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à la toilette et aux soins de l'enfant",
+              "code_ogr": 107935,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer et donner un repas, une boisson à l'enfant",
+              "code_ogr": 107933,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller l'état de santé d'une personne",
+              "code_ogr": 300044,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Evaluer régulièrement les besoins de la personne ou de la famille",
+              "code_ogr": 107834,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer des plats culinaires",
+              "code_ogr": 300090,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir le linge",
+              "code_ogr": 120699,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des produits de nettoyage et d'entretien",
+              "code_ogr": 119622,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la sécurité des enfants lors des activités",
+              "code_ogr": 503554,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Mobiliser les éco-gestes",
+              "code_ogr": 399998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le tri sélectif des déchets",
+              "code_ogr": 400750,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Concevoir un projet d'accueil",
+              "code_ogr": 402009,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Mémoriser des informations",
+              "code_ogr": 300491,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des produits de nettoyage",
+              "code_ogr": 124475,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro accompagnement, soins et services à la personne",
+              "code_ogr": 405270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistant de vie aux familles [Polynésie Française]",
+              "code_ogr": 491369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP accompagnant éducatif petite enfance",
+              "code_ogr": 404092,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat d'auxiliaire de puériculture",
+              "code_ogr": 404123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro services aux personnes et animation dans les territoires",
+              "code_ogr": 404726,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistant maternel/garde d'enfants",
+              "code_ogr": 522532,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel assistant de vie aux familles",
+              "code_ogr": 404163,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro animation - enfance et personnes âgées",
+              "code_ogr": 513985,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Allergies infantiles",
+              "code_ogr": 492695,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diététique",
+              "code_ogr": 102065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Allergies courantes",
+              "code_ogr": 492692,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques socio-culturelles des publics",
+              "code_ogr": 107774,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etapes du développement de l'enfant",
+              "code_ogr": 107469,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies de l'enfant",
+              "code_ogr": 107370,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Psychologie de l'enfant et de l'adolescent",
+              "code_ogr": 497110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relation à l'enfant ou l'adolescent",
+              "code_ogr": 107939,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Prévention des accidents domestiques",
+              "code_ogr": 496836,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de l'enfant et protection des mineurs",
+              "code_ogr": 126172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité domestique",
+              "code_ogr": 107925,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'éveil de l'enfant",
+              "code_ogr": 103918,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de préparation des repas pour enfants",
+              "code_ogr": 482060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de premiers soins spécifiques aux enfants",
+              "code_ogr": 482071,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits",
+              "code_ogr": 477396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à surveiller les devoirs et les tâches scolaires",
+              "code_ogr": 482068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication non violente (CNV)",
+              "code_ogr": 477738,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification d'activités éducatives",
+              "code_ogr": 477739,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Enfants",
+          "code_ogr": 300825
+        },
+        {
+          "libelle": "Enfants de plus de 3 ans en situation de handicap",
+          "code_ogr": 512163
+        },
+        {
+          "libelle": "Nourrissons",
+          "code_ogr": 300836
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail durant les vacances scolaires",
+          "code_ogr": 403826
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Particuliers employeurs",
+          "code_ogr": 489935
+        },
+        {
+          "libelle": "Prestataire de services",
+          "code_ogr": 512165
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "86",
+      "libelle": "Service à la personne",
+      "principal": false
+    },
+    {
+      "code": "109",
+      "libelle": "Social",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1314 - Auxiliaire de vie sociale auprès d'enfants",
+      "code_org_rome_cible": 509757,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "J1304 - Auxiliaire de puériculture",
+      "code_org_rome_cible": 341,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1501 - Aide-soignant / Aide-soignante",
+      "code_org_rome_cible": 357,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1301 - Educateur / Educatrice en locomotion",
+      "code_org_rome_cible": 375,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1310 - Assistant maternel / Assistante maternelle",
+      "code_org_rome_cible": 404544,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1202 - Educateur / Educatrice de jeunes enfants",
+      "code_org_rome_cible": 369,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1101 - Conseiller conjugal et familial / Conseillère conjugale et familiale",
+      "code_org_rome_cible": 364,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1208 - Moniteur éducateur / Monitrice éducatrice",
+      "code_org_rome_cible": 488325,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2112 - Conseiller / Conseillère d'orientation",
+      "code_org_rome_cible": 415,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2106 - Professeur / Professeure des écoles",
+      "code_org_rome_cible": 409,
+      "ordre_mobilite": 10
+    }
+  ]
+}

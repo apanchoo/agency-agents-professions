@@ -1,0 +1,112 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515457,
+    "code_rome": "K1924",
+    "libelle": "Clerc de commissaire de justice",
+    "transition_eco": null,
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": null,
+    "code_rome_parent": "K1902"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 102.514,
+      "matched_terms": [
+        "droit",
+        "huissier",
+        "judiciaire",
+        "jurid",
+        "justice"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1902",
+      "title_terms": [
+        "justice"
+      ],
+      "specific_title_terms": [
+        "justice"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Organisation judiciaire",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=51",
+          "selection_score": 63.2151,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EA.06",
+          "title": "Droit des contentieux et du recouvrement",
+          "page": 192,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=192",
+          "selection_score": 57.8387,
+          "shared_terms": [
+            "droit",
+            "recouvrement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.04",
+          "title": "Droit commercial",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=97",
+          "selection_score": 52.943,
+          "shared_terms": [
+            "commercial",
+            "droit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Rédaction professionnelle au sein d’une organisation",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=46",
+          "selection_score": 77.481,
+          "shared_terms": [
+            "redaction",
+            "sein"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.02",
+          "title": "Rédaction et/ou contrôle d’actes administratifs",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=91",
+          "selection_score": 67.547,
+          "shared_terms": [
+            "actes",
+            "redaction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

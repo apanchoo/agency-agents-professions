@@ -1,0 +1,183 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510266,
+    "code_rome": "K2312",
+    "libelle": "Ingénieur / Ingénieure responsable propreté nettoiement",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K2302"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.579,
+      "matched_terms": [
+        "environnement",
+        "hygiene"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.05",
+          "title": "Risques naturels",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=120",
+          "selection_score": 40.2813,
+          "shared_terms": [
+            "naturel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.07",
+          "title": "Hygiène et salubrité des locaux et des produits alimentaires",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=83",
+          "selection_score": 32.569,
+          "shared_terms": [
+            "hygiene",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Écologie, pollutions et microbiologie appliquée à l’environnement",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=63",
+          "selection_score": 26.8925,
+          "shared_terms": [
+            "pollution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 34.6754,
+          "shared_terms": [
+            "audit",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.02",
+          "title": "Proposer un plan de gestion des déchets, rejets et/ou ressources",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=73",
+          "selection_score": 30.5678,
+          "shared_terms": [
+            "dechet"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.969,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 56.5312,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.12",
+          "title": "Dépollution des sols",
+          "page": 650,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=650",
+          "selection_score": 48.4527,
+          "shared_terms": [
+            "depollution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.14",
+          "title": "Collecte et gestion de données agronomiques",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=144",
+          "selection_score": 43.8515,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SAB.02",
+          "title": "Produire des aliments ou bioproduits en contrôlant la qualité et en respectant les procédures d’hygiène et de sécurité",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=535",
+          "selection_score": 62.1741,
+          "shared_terms": [
+            "hygiene",
+            "procedure",
+            "respectant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DN.02",
+          "title": "Mise en place d’un projet d’information et d’éducation nutritionnelle et ses déclinaisons alimentaires pour un public ciblé.",
+          "page": 388,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=388",
+          "selection_score": 54.1428,
+          "shared_terms": [
+            "declinaison",
+            "place",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

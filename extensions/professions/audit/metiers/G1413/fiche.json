@@ -1,0 +1,702 @@
+{
+  "numero": 32916,
+  "rome": {
+    "code_rome": "G1413",
+    "intitule": "Directeur / Directrice de restaurant",
+    "code_ogr": 489205
+  },
+  "appellations": [
+    {
+      "libelle": "Exploitant / Exploitante de restaurant",
+      "libelle_court": "Exploitant / Exploitante de restaurant",
+      "code_ogr": 14993
+    },
+    {
+      "libelle": "Gérant / Gérante de restaurant",
+      "libelle_court": "Gérant / Gérante de restaurant",
+      "code_ogr": 15294
+    },
+    {
+      "libelle": "Responsable de restaurant",
+      "libelle_court": "Responsable de restaurant",
+      "code_ogr": 18847
+    },
+    {
+      "libelle": "Restaurateur / Restauratrice",
+      "libelle_court": "Restaurateur / Restauratrice",
+      "code_ogr": 19215
+    }
+  ],
+  "definition": "Le Directeur de restaurant orchestre le bon fonctionnement et l'excellence du service pour offrir une expérience culinaire inoubliable. Gère l'ensemble des opérations quotidiennes du restaurant, incluant la supervision du personnel, la gestion des réservations et l'accueil des clients Assure la qualité du service et de l'expérience client en veillant à leur satisfaction Contrôle les coûts et les budgets pour optimiser la rentabilité de l'établissement Développe des stratégies marketing pour promouvoir le restaurant et attirer une clientèle variée Maintient des normes élevées d'hygiène et de sécurité conformément à la réglementation Peut initier des événements spéciaux ou des menus saisonniers pour renouveler l'offre et attirer de nouveaux clients",
+  "acces_metier": "Cet emploi est accessible principalement avec un niveau de formation allant de CAP à Bac +3, selon l'établissement et l'expérience acquise. Aucune certification n'est légalement obligatoire pour exercer ce métier.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer des réunions d'équipe",
+              "code_ogr": 489746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+              "code_ogr": 403296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer et développer les compétences de ses collaborateurs",
+              "code_ogr": 300445,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les compétences de ses collaborateurs et assurer des entretiens annuels",
+              "code_ogr": 400396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir la cohésion et la motivation de l'équipe",
+              "code_ogr": 402196,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Gérer les ressources humaines",
+              "code_ogr": 403009,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir une ambiance agréable et accueillante",
+              "code_ogr": 486160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recruter et intégrer les nouveaux arrivants",
+              "code_ogr": 400550,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Créer, organiser ou coordonner un évènement",
+              "code_ogr": 300123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer une stratégie de communication et de promotion de l'établissement",
+              "code_ogr": 489792,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Superviser l'élaboration des menus, des cartes et des tarifs",
+              "code_ogr": 114487,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Déterminer des travaux de rénovation ou d'aménagements d'une structure",
+              "code_ogr": 122910,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'agencement de la salle pour le service",
+              "code_ogr": 484872,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un établissement et de ses équipements",
+              "code_ogr": 123658,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer l'entretien des équipements et installations",
+              "code_ogr": 400598,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Mettre en place des procédures de sécurité",
+              "code_ogr": 486926,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité du service fourni par l'équipe",
+              "code_ogr": 300599,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la gestion des stocks",
+              "code_ogr": 117561,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre l'organisation matérielle et logistique d'un événement",
+              "code_ogr": 300277,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Réaliser la gestion administrative du personnel",
+              "code_ogr": 105672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les ouvertures et fermetures du site",
+              "code_ogr": 300657,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la réalisation et les coûts d'une prestation",
+              "code_ogr": 300313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller et ajuster les dépenses opérationnelles",
+              "code_ogr": 486933,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Contrôler les coûts et les ratios d'exploitation",
+              "code_ogr": 489779,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer le budget de fonctionnement",
+              "code_ogr": 489806,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un suivi financier",
+              "code_ogr": 124383,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter les factures et les rapprochements bancaires",
+              "code_ogr": 489883,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer la législation et la réglementation en vigueur",
+              "code_ogr": 489749,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les réclamations ainsi que les litiges commerciaux",
+              "code_ogr": 403551,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Mettre en place une politique éco-responsable",
+              "code_ogr": 489815,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Gérer les réservations et l'accueil des clients",
+              "code_ogr": 485579,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur les prestations et services proposés",
+              "code_ogr": 300621,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Adapter l'offre de service aux évolutions de la clientèle",
+              "code_ogr": 489736,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer le suivi de la satisfaction clients",
+              "code_ogr": 400190,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir la tarification des produits ou des services",
+              "code_ogr": 300372,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs pour l'achat de matériel et de services",
+              "code_ogr": 506715,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs pour obtenir de meilleures conditions",
+              "code_ogr": 482584,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Négocier les conditions de paiements avec les fournisseurs",
+              "code_ogr": 489817,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir le restaurant via des canaux marketing",
+              "code_ogr": 123826,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+              "code_ogr": 300401,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser les coûts opérationnels",
+              "code_ogr": 486927,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Coordonner les activités entre la cuisine et la salle",
+              "code_ogr": 300601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les situations d'urgence ou imprévues de manière calme et efficace",
+              "code_ogr": 483442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des documents comptables",
+              "code_ogr": 489828,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Manager en hôtellerie internationale",
+              "code_ogr": 490994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option B : management d'unité de production culinaire",
+              "code_ogr": 489601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP commercialisation et services en hôtel-café-restaurant",
+              "code_ogr": 489606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers des arts culinaires et des arts de la table",
+              "code_ogr": 489654,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management des activités commerciales",
+              "code_ogr": 490786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management et gestion des organisations",
+              "code_ogr": 490836,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention organisation et gestion des établissements hôteliers et de restauration",
+              "code_ogr": 489656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option A : management d'unité de restauration",
+              "code_ogr": 489600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP cuisine",
+              "code_ogr": 404097,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Optimisation des coûts et des budgets",
+              "code_ogr": 124683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des fournisseurs et des commandes",
+              "code_ogr": 480120,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vins et accords mets-vins",
+              "code_ogr": 104348,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de réservation",
+              "code_ogr": 119527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cultures et coutumes internationales",
+              "code_ogr": 480076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Marketing et promotion de restaurant",
+              "code_ogr": 481039,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des opérations de service en restauration",
+              "code_ogr": 481901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des menus et des achats",
+              "code_ogr": 481902,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des tendances du marché de la restauration",
+              "code_ogr": 481903,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tarification en temps réel (Yield management)",
+              "code_ogr": 123186,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Contrôle de la qualité des aliments",
+              "code_ogr": 480117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation de soirées",
+              "code_ogr": 120615,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes de sécurité et d'accessibilité des espaces et des établissements recevant du public",
+              "code_ogr": 100091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système Hazard Analysis Critical Control Point (HACCP)",
+              "code_ogr": 122435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation alimentaire",
+              "code_ogr": 104151,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développement de stratégies de fidélisation de la clientèle",
+              "code_ogr": 117687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de réservation des prestations",
+              "code_ogr": 104173,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de vente",
+              "code_ogr": 498870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Formation et encadrement du personnel",
+              "code_ogr": 481888,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication efficace avec le personnel",
+              "code_ogr": 481905,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation avec les fournisseurs",
+              "code_ogr": 477068,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de restauration traditionnelle",
+          "code_ogr": 489572
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1403 - Responsable de service en établissement touristique",
+      "code_org_rome_cible": 193,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1402 - Directeur / Directrice d'établissement en hôtellerie-restauration",
+      "code_org_rome_cible": 192,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1404 - Responsable d'établissement de restauration collective",
+      "code_org_rome_cible": 194,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1401 - Adjoint / Adjointe de la direction en hôtellerie-restauration",
+      "code_org_rome_cible": 191,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1701 - Responsable de l'administration des ventes",
+      "code_org_rome_cible": 483,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1301 - Gérant / Gérante de magasin d'alimentation générale",
+      "code_org_rome_cible": 101,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1102 - Directeur / Directrice des achats",
+      "code_org_rome_cible": 457,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1510 - Chef / Cheffe de secteur magasin",
+      "code_org_rome_cible": 403087,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1406 - Directeur / Directrice des ventes",
+      "code_org_rome_cible": 107,
+      "ordre_mobilite": 10
+    }
+  ]
+}

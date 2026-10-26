@@ -1,0 +1,428 @@
+{
+  "numero": 33524,
+  "rome": {
+    "code_rome": "A1511",
+    "intitule": "Gardien / Gardienne d'animaux",
+    "code_ogr": 510288
+  },
+  "appellations": [
+    {
+      "libelle": "Garde d'animaux de compagnie - Pet sitter",
+      "libelle_court": "Garde d'animaux de compagnie - Pet sitter",
+      "code_ogr": 38815
+    },
+    {
+      "libelle": "Gardien / Gardienne d'animaux de compagnie",
+      "libelle_court": "Gardien / Gardienne d'animaux de compagnie",
+      "code_ogr": 510368
+    },
+    {
+      "libelle": "Gardien / Gardienne de chenil",
+      "libelle_court": "Gardien / Gardienne de chenil",
+      "code_ogr": 510367
+    }
+  ],
+  "definition": "Le Gardien d'animaux s'occupe des animaux de compagnie en l'absence de leurs propriétaires. Surveille et prend soin des animaux dans leur environnement, à son domicile ou dans un chenil Nourrit les animaux et s'assure que leurs besoins alimentaires spécifiques soient respectés Maintient la propreté des installations et des espaces de vie des animaux Observe le comportement des animaux et rapporte toute évolution au propriétaire ou au vétérinaire Peut administrer des traitements prescrits par un vétérinaire",
+  "acces_metier": "Cet emploi est accessible avec un certificat de capacité des animaux de compagnie d'espèces domestiques. Les chenils ou une pensions animalières doivent posséder des installations conformes à la réglementation en vigueur.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accueillir et rassurer les personnes accueillies",
+              "code_ogr": 482930,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller le propriétaire sur l'alimentation, l'exercice, l'environnement, pour maintenir la santé et le bien-être de l'animal",
+              "code_ogr": 405436,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Administrer des produits vétérinaires",
+              "code_ogr": 119894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le comportement et l'état de santé d'un animal",
+              "code_ogr": 119351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre des actions d'éducation ou de dressage des animaux lors des activités quotidiennes",
+              "code_ogr": 489509,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nourrir les animaux en respectant les régimes spécifiques",
+              "code_ogr": 484559,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser les espaces de vie pour le confort animal",
+              "code_ogr": 507585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser des activités ludiques pour les animaux",
+              "code_ogr": 507579,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promener des animaux domestiques",
+              "code_ogr": 120678,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer et distribuer les rations alimentaires aux animaux",
+              "code_ogr": 405511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter le bien-être animal",
+              "code_ogr": 404019,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sortir l'animal dans un espace extérieur",
+              "code_ogr": 404021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Identifier un animal malade et informer les acteurs concernés (propriétaire, vétérinaire, ...)",
+              "code_ogr": 123087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Nettoyer les enclos des animaux",
+              "code_ogr": 507965,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de nourriture et distribuer les aliments",
+              "code_ogr": 100295,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Réaliser la facturation",
+              "code_ogr": 489835,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des animaux lors des promenades",
+              "code_ogr": 507582,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec les propriétaires d'animaux",
+              "code_ogr": 501661,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'adapter à son interlocuteur",
+              "code_ogr": 403893,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer les procédures et répondre aux questions des propriétaires d'animaux",
+              "code_ogr": 505435,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Animaux domestiques",
+              "code_ogr": 100416,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat d'études techniques de l'animal de compagnie d'espèce domestique option chien",
+              "code_ogr": 490704,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Exercice des activités liées aux animaux de compagnie des espèces domestiques",
+              "code_ogr": 514413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'études techniques de l'animal de compagnie d'espèce domestique option chats et petits mammifères familiers",
+              "code_ogr": 490720,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Nutrition animale",
+              "code_ogr": 118972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comportements animaliers",
+              "code_ogr": 480553,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Zoologie",
+              "code_ogr": 101064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de nettoyage des cages",
+              "code_ogr": 498424,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de premiers secours vétérinaires",
+              "code_ogr": 498510,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile de l'intervenant",
+          "code_ogr": 300777
+        },
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement allergène",
+          "code_ogr": 300781
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": false
+    },
+    {
+      "code": "86",
+      "libelle": "Service à la personne",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1509 - Comportementaliste animalier / Comportementaliste animalière",
+      "code_org_rome_cible": 509753,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1506 - Soigneur animalier / Soigneuse animalière",
+      "code_org_rome_cible": 488759,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1426 - Educateur canin / Educatrice canine",
+      "code_org_rome_cible": 488766,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4125 - Conducteur / Conductrice de transport routier d'animaux vivants",
+      "code_org_rome_cible": 488935,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1503 - Toiletteur / Toiletteuse d'animaux",
+      "code_org_rome_cible": 34,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1505 - Animalier / Animalière de laboratoire",
+      "code_org_rome_cible": 488328,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1210 - Vendeur / Vendeuse en animalerie",
+      "code_org_rome_cible": 96,
+      "ordre_mobilite": 9
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489016,
+    "code_rome": "G1231",
+    "libelle": "Accompagnateur / Accompagnatrice nature",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1201"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.009,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.AS.12",
+          "title": "Ethique",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=244",
+          "selection_score": 55.6488,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AS.11",
+          "title": "Développement social local",
+          "page": 266,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=266",
+          "selection_score": 52.7894,
+          "shared_terms": [
+            "local"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.09",
+          "title": "Enjeux pédagogiques",
+          "page": 666,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=666",
+          "selection_score": 47.7573,
+          "shared_terms": [
+            "pedagogique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ES.04",
+          "title": "Adapter l’accompagnement aux problématiques et spécificités des publics",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=461",
+          "selection_score": 68.5142,
+          "shared_terms": [
+            "accompagnement",
+            "public",
+            "specificite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ES.04",
+          "title": "Concevoir un accompagnement éducatif adapté à la situation de la personne et/ou du groupe",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=335",
+          "selection_score": 44.081,
+          "shared_terms": [
+            "accompagnement",
+            "groupe"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

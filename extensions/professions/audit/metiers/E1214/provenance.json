@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519595,
+    "code_rome": "E1214",
+    "libelle": "Superviseur / Superviseuse de production virtuelle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "E1205"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.477,
+      "matched_terms": [
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Production audio et vidéo",
+          "page": 90,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=90",
+          "selection_score": 48.9935,
+          "shared_terms": [
+            "production",
+            "video"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Gestion de contenus",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=91",
+          "selection_score": 48.4337,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.06",
+          "title": "Création numérique",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=153",
+          "selection_score": 41.7273,
+          "shared_terms": [
+            "creation",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Produire un contenu audio et vidéo",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=50",
+          "selection_score": 54.875,
+          "shared_terms": [
+            "contenu",
+            "video"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 30.3024,
+          "shared_terms": [
+            "contenu"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

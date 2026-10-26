@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509376,
+    "code_rome": "K1213",
+    "libelle": "Médiateur culturel / Médiatrice culturelle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1204"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.834,
+      "matched_terms": [
+        "territoir"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.VTD.12",
+          "title": "Dynamique de groupe et médiation",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=139",
+          "selection_score": 81.3779,
+          "shared_terms": [
+            "dynamique",
+            "groupe",
+            "mediation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.ASSC.09",
+          "title": "Processus et dynamique de groupes",
+          "page": 643,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=643",
+          "selection_score": 68.0843,
+          "shared_terms": [
+            "dynamique",
+            "groupe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.07",
+          "title": "Psychologie des groupes",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=239",
+          "selection_score": 66.8693,
+          "shared_terms": [
+            "groupe",
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.AS.03",
+          "title": "Repérer et identifier des lieux (structures et services) d’un accompagnement social",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=209",
+          "selection_score": 73.3907,
+          "shared_terms": [
+            "accompagnement",
+            "identifier",
+            "lieux",
+            "social"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CGE3S.03",
+          "title": "Formaliser un diagnostic ou un état des lieux pour un projet réalisé dans une structure sanitaire et/ou médico sociale",
+          "page": 546,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=546",
+          "selection_score": 65.7303,
+          "shared_terms": [
+            "diagnostic",
+            "lieux",
+            "realise",
+            "sociale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

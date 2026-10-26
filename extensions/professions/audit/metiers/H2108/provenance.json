@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515433,
+    "code_rome": "H2108",
+    "libelle": "Boulanger pâtissier industriel / Boulangère pâtissière industrielle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2102"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.032,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2102",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.DN.10",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 401,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=401",
+          "selection_score": 63.7673,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.SAB.12",
+          "title": "Qualité et Sécurité des Aliments",
+          "page": 504,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=504",
+          "selection_score": 51.2508,
+          "shared_terms": [
+            "aliment",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.DN.15",
+          "title": "Hygiène Qualité Sécurité Environnement",
+          "page": 380,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=380",
+          "selection_score": 50.8783,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.03",
+          "title": "Contrôler l’hygiène lors d’une production des aliments et/ou de bioproduits",
+          "page": 464,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=464",
+          "selection_score": 53.612,
+          "shared_terms": [
+            "aliment",
+            "hygiene",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 51.4122,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

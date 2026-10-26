@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510465,
+    "code_rome": "M1894",
+    "libelle": "Gestionnaire de base de données",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1801"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 88.905,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [
+        "donnee"
+      ],
+      "specific_title_terms": [
+        "donnee"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 46.1802,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 27.9444,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.01",
+          "title": "Big Data : enjeux, stockage et extraction",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=129",
+          "selection_score": 27.3547,
+          "shared_terms": [
+            "stockage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Ecriture et lecture de fichiers de données",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=34",
+          "selection_score": 43.5507,
+          "shared_terms": [
+            "fichier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EMS.04",
+          "title": "Conformité réglementaire pour analyser des données",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=140",
+          "selection_score": 39.4563,
+          "shared_terms": [
+            "conformite"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 39.818,
+      "matched_terms": [
+        "application",
+        "developpe",
+        "donnees",
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [
+        "donnees"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.02",
+          "title": "Développement efficace",
+          "page": 112,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=112",
+          "selection_score": 74.1681,
+          "shared_terms": [
+            "efficace"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Introduction aux bases de données et SQL",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=73",
+          "selection_score": 67.171,
+          "shared_terms": [
+            "sql"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.06",
+          "title": "Exploitation de la base de données",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=295",
+          "selection_score": 62.9856,
+          "shared_terms": [
+            "exploitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 100.5291,
+          "shared_terms": [
+            "protection"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ADMIN.01",
+          "title": "Création et exploitation d’une base de données",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=248",
+          "selection_score": 48.7607,
+          "shared_terms": [
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.055,
+      "matched_terms": [
+        "cyber"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1801",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Architecture des systèmes numériques et informatiques",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=79",
+          "selection_score": 58.1481,
+          "shared_terms": [
+            "architecture",
+            "informatique",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.PILPRO.09",
+          "title": "Technologies des réseaux et télécoms",
+          "page": 386,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=386",
+          "selection_score": 55.2173,
+          "shared_terms": [
+            "technologie",
+            "telecom"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.10",
+          "title": "Audits de sécurité",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=178",
+          "selection_score": 53.1095,
+          "shared_terms": [
+            "audit",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre en place une solution informatique pour l’entreprise",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=95",
+          "selection_score": 61.618,
+          "shared_terms": [
+            "informatique",
+            "place",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Se sensibiliser à l’hygiène informatique et à la cybersécurité",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=68",
+          "selection_score": 44.9424,
+          "shared_terms": [
+            "cybersecurite",
+            "informatique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

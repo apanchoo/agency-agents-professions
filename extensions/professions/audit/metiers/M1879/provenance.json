@@ -1,0 +1,262 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510169,
+    "code_rome": "M1879",
+    "libelle": "Ingénieur / Ingénieure Cloud computing",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1802"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 91.897,
+      "matched_terms": [
+        "cloud",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "cloud"
+      ],
+      "specific_title_terms": [
+        "cloud"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Infrastructures de sécurité",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "selection_score": 52.5066,
+          "shared_terms": [
+            "infrastructure",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Architecture des systèmes numériques et informatiques",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=79",
+          "selection_score": 39.567,
+          "shared_terms": [
+            "architecture",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 38.3786,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.02",
+          "title": "Développer des applications communicantes",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=118",
+          "selection_score": 28.2216,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Concevoir, réaliser et présenter une solution technique",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=160",
+          "selection_score": 25.3324,
+          "shared_terms": [
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.385,
+      "matched_terms": [
+        "developpe",
+        "donnees"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.06",
+          "title": "Cloud computing",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=245",
+          "selection_score": 94.0608,
+          "shared_terms": [
+            "cloud",
+            "computing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.INTEG.11",
+          "title": "Intégration et performance des systèmes d’information",
+          "page": 367,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=367",
+          "selection_score": 53.8317,
+          "shared_terms": [
+            "integration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.06",
+          "title": "Installation & Configuration de services complexes",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=227",
+          "selection_score": 44.6791,
+          "shared_terms": [
+            "configuration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.INTEG.01",
+          "title": "Intégration d’une application et gestion de projet",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=336",
+          "selection_score": 56.4345,
+          "shared_terms": [
+            "application",
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 56.3968,
+          "shared_terms": [
+            "protection"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.7,
+      "matched_terms": [
+        "developpe",
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.08",
+          "title": "Déploiement de services",
+          "page": 262,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=262",
+          "selection_score": 57.5811,
+          "shared_terms": [
+            "deploiement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intégration",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "selection_score": 38.7411,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Développement Front et intégration",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=120",
+          "selection_score": 28.9182,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.01",
+          "title": "Intégrer une expérience utilisateur au sein d’un système d’information",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=163",
+          "selection_score": 58.5003,
+          "shared_terms": [
+            "integrer",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 58.2965,
+          "shared_terms": [
+            "integrer",
+            "utilisateur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

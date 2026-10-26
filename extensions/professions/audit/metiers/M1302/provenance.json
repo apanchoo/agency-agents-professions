@@ -1,0 +1,195 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 466,
+    "code_rome": "M1302",
+    "libelle": "Responsable de Petite ou Moyenne Entreprise -PME-",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1302"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 36.107,
+      "matched_terms": [
+        "commercial",
+        "entrepris",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1302",
+      "title_terms": [
+        "entrepris"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MCMO.07",
+          "title": "Négociation commerciale",
+          "page": 288,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=288",
+          "selection_score": 58.8649,
+          "shared_terms": [
+            "commerciale",
+            "negociation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.05",
+          "title": "Management de la performance de l’équipe commerciale",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=319",
+          "selection_score": 54.1683,
+          "shared_terms": [
+            "commerciale",
+            "management",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.07",
+          "title": "Management du changement",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=153",
+          "selection_score": 53.6198,
+          "shared_terms": [
+            "changement",
+            "management"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 65.2631,
+          "shared_terms": [
+            "financiere",
+            "performance",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MRPE.01",
+          "title": "Piloter un projet aux enjeux responsables et environnementaux",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=140",
+          "selection_score": 46.0295,
+          "shared_terms": [
+            "piloter",
+            "responsable"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 25.523,
+      "matched_terms": [
+        "financ",
+        "gestion",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [
+        14,
+        14
+      ],
+      "parent_rome": "M1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GEMA.12",
+          "title": "Management d’activités : Management des relations commerciales",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=315",
+          "selection_score": 52.9844,
+          "shared_terms": [
+            "commerciale",
+            "management",
+            "relation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 52.3186,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 45.6596,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GEMA.01",
+          "title": "Accompagner le changement",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=318",
+          "selection_score": 39.1774,
+          "shared_terms": [
+            "changement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.03",
+          "title": "Contribuer à la mise en œuvre des outils RH",
+          "page": 337,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=337",
+          "selection_score": 37.7549,
+          "shared_terms": [
+            "mise",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

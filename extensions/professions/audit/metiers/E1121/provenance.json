@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510143,
+    "code_rome": "E1121",
+    "libelle": "Secrétaire de rédaction",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "E1106"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 22.062,
+      "matched_terms": [
+        "editorial",
+        "information",
+        "journal"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Publication assistée par ordinateur (PAO)",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=87",
+          "selection_score": 135.5215,
+          "shared_terms": [
+            "assistee",
+            "ordinateur",
+            "pao",
+            "publication"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PUB.11",
+          "title": "Image et Web (niveau 2, AV, PAO, Web)",
+          "page": 638,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=638",
+          "selection_score": 84.9843,
+          "shared_terms": [
+            "image",
+            "pao",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.JOU.20",
+          "title": "Écritures et techniques journalistiques (presse, web, radio, TV, Photo)",
+          "page": 376,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=376",
+          "selection_score": 73.4912,
+          "shared_terms": [
+            "ecriture",
+            "journalistique",
+            "presse",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.JOU.02",
+          "title": "Réaliser un article sur la base d’entretiens",
+          "page": 380,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=380",
+          "selection_score": 54.2597,
+          "shared_terms": [
+            "article"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Réaliser une synthèse documentaire à propos d’une organisation",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=73",
+          "selection_score": 35.752,
+          "shared_terms": [
+            "documentaire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

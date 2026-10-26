@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509665,
+    "code_rome": "E1404",
+    "libelle": "Assistant / Assistante en publicité",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1401"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 91.139,
+      "matched_terms": [
+        "publicite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1401",
+      "title_terms": [
+        "publicite"
+      ],
+      "specific_title_terms": [
+        "publicite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Publication assistée par ordinateur (PAO)",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=87",
+          "selection_score": 134.6403,
+          "shared_terms": [
+            "assistee",
+            "ordinateur",
+            "pao",
+            "publication"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.17",
+          "title": "Culture et tendances publicitaires / Culture graphique",
+          "page": 589,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=589",
+          "selection_score": 79.514,
+          "shared_terms": [
+            "graphique",
+            "publicitaire",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.INFONUM.19",
+          "title": "PAO et médias professionnels",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=219",
+          "selection_score": 68.4795,
+          "shared_terms": [
+            "media",
+            "pao"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PUB.03",
+          "title": "Concevoir une création publicitaire",
+          "page": 646,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=646",
+          "selection_score": 59.5912,
+          "shared_terms": [
+            "creation",
+            "publicitaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PUB.04",
+          "title": "Réaliser un projet de communication publicitaire",
+          "page": 647,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=647",
+          "selection_score": 51.8805,
+          "shared_terms": [
+            "publicitaire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

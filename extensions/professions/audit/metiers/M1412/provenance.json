@@ -1,0 +1,189 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488778,
+    "code_rome": "M1412",
+    "libelle": "Ergonome",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1402"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.506,
+      "matched_terms": [
+        "entrepris",
+        "management",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie de l’information et de la communication",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=67",
+          "selection_score": 38.2784,
+          "shared_terms": [
+            "technologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.05",
+          "title": "Management de la performance de l’équipe commerciale",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=319",
+          "selection_score": 34.1278,
+          "shared_terms": [
+            "management",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Ressources humaines",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=109",
+          "selection_score": 33.4757,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCMO.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux commerciaux",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=248",
+          "selection_score": 63.3418,
+          "shared_terms": [
+            "ameliorer",
+            "enjeux",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux responsables et environnementaux",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=94",
+          "selection_score": 57.3554,
+          "shared_terms": [
+            "ameliorer",
+            "enjeux",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.839,
+      "matched_terms": [
+        "administrat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.05",
+          "title": "Psychologie sociale",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=152",
+          "selection_score": 51.3697,
+          "shared_terms": [
+            "psychologie",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GPRH.12",
+          "title": "Ressources humaines : Responsabilité sociale, santé au travail et QVCT",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=377",
+          "selection_score": 49.2785,
+          "shared_terms": [
+            "humaine",
+            "sante",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.08",
+          "title": "Comptabilité : Techniques particulières de comptabilité approfondie et règles de comptabilisation des administrations et associations",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=175",
+          "selection_score": 45.6594,
+          "shared_terms": [
+            "administration",
+            "association"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GC2F.01",
+          "title": "Accompagner le développement de l’entreprise",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=163",
+          "selection_score": 54.8419,
+          "shared_terms": [
+            "accompagner"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CG2P.02",
+          "title": "Mettre en œuvre une démarche qualité et amélioration continue de la performance",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=223",
+          "selection_score": 52.5556,
+          "shared_terms": [
+            "amelioration",
+            "performance",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

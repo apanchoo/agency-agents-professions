@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488310,
+    "code_rome": "M1711",
+    "libelle": "Directeur / Directrice du marketing",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1705"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.708,
+      "matched_terms": [
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [
+        "marketing"
+      ],
+      "specific_title_terms": [
+        "marketing"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.BI.16",
+          "title": "Marketing et vente à l’international",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=379",
+          "selection_score": 52.7535,
+          "shared_terms": [
+            "marketing",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BI.15",
+          "title": "Stratégie et veille à l’international",
+          "page": 378,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=378",
+          "selection_score": 50.6005,
+          "shared_terms": [
+            "strategie",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SME.03",
+          "title": "Stratégie de développement de marque - 2",
+          "page": 189,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=189",
+          "selection_score": 49.6234,
+          "shared_terms": [
+            "marque",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Vente : initiation au jeu de rôle de négociation",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=89",
+          "selection_score": 46.6024,
+          "shared_terms": [
+            "negociation",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.BDMRC.01",
+          "title": "Mise en œuvre et pilotage de la stratégie client d’une entreprise",
+          "page": 484,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=484",
+          "selection_score": 43.125,
+          "shared_terms": [
+            "client",
+            "strategie",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

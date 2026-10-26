@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519719,
+    "code_rome": "H2807",
+    "libelle": "Bobineur / Bobineuse de fils et fibres de verre",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H2801"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.91,
+      "matched_terms": [
+        "composite",
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2801",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Matériaux céramiques et verres 1",
+          "page": 55,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=55",
+          "selection_score": 86.9091,
+          "shared_terms": [
+            "ceramique",
+            "materiaux",
+            "verre"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Matériaux céramiques et verres 2",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=79",
+          "selection_score": 86.6663,
+          "shared_terms": [
+            "ceramique",
+            "materiaux",
+            "verre"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Matériaux céramiques et verres 3",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=115",
+          "selection_score": 85.6055,
+          "shared_terms": [
+            "ceramique",
+            "materiaux",
+            "verre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Incidence d’un procédé de fabrication sur la qualité d’un produit",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=73",
+          "selection_score": 59.7529,
+          "shared_terms": [
+            "fabrication",
+            "procede",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.03",
+          "title": "Adaptation et optimisation d’un procédé de fabrication",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=129",
+          "selection_score": 45.8456,
+          "shared_terms": [
+            "fabrication",
+            "procede"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

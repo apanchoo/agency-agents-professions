@@ -1,0 +1,188 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 495,
+    "code_rome": "M1806",
+    "libelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1806"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 36.26,
+      "matched_terms": [
+        "application",
+        "informati",
+        "systemes d'information le consultant fonctionnel des systemes d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systemes d'information"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.10",
+          "title": "Modélisations mathématiques pour les applications communicantes",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=231",
+          "selection_score": 72.3721,
+          "shared_terms": [
+            "application",
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Développement d’interfaces web",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "selection_score": 43.1409,
+          "shared_terms": [
+            "interface"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.05",
+          "title": "Optimisation des services complexes",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=244",
+          "selection_score": 41.7636,
+          "shared_terms": [
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Implémentation d’un besoin client",
+          "page": 62,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=62",
+          "selection_score": 75.473,
+          "shared_terms": [
+            "client",
+            "implementation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.DEPLOI.01",
+          "title": "Optimisation des services",
+          "page": 236,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=236",
+          "selection_score": 59.9777,
+          "shared_terms": [
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.675,
+      "matched_terms": [
+        "informatique",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systeme"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 55.5095,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CYBER.04",
+          "title": "Réponse à incident",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "selection_score": 52.0816,
+          "shared_terms": [
+            "incident"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 35.4791,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PILPRO.01",
+          "title": "Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client",
+          "page": 373,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=373",
+          "selection_score": 55.5242,
+          "shared_terms": [
+            "client",
+            "informatique",
+            "securite",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ROM.03",
+          "title": "Concevoir un réseau informatique adapté au multimédia",
+          "page": 425,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425",
+          "selection_score": 41.397,
+          "shared_terms": [
+            "adapte",
+            "informatique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

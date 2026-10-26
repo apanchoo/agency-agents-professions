@@ -1,0 +1,177 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509702,
+    "code_rome": "I1328",
+    "libelle": "Conseiller / Conseillère en hydraulique agricole",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1302"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.188,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ROM.04",
+          "title": "Veille technologique",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=494",
+          "selection_score": 65.484,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Réseaux locaux et équipements actifs",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=76",
+          "selection_score": 24.2717,
+          "shared_terms": [
+            "equipement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Analyse et traitement de données structurées",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=106",
+          "selection_score": 23.4618,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 66.0683,
+          "shared_terms": [
+            "technologique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Concevoir, réaliser et présenter une solution technique",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=160",
+          "selection_score": 23.9498,
+          "shared_terms": [
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.853,
+      "matched_terms": [
+        "equipement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Génie Electrique 6",
+          "page": 159,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=159",
+          "selection_score": 34.3406,
+          "shared_terms": [
+            "genie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Génie électrique 5",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=137",
+          "selection_score": 33.5821,
+          "shared_terms": [
+            "genie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Génie Electrique 4",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=116",
+          "selection_score": 33.1152,
+          "shared_terms": [
+            "genie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 43.454,
+          "shared_terms": [
+            "equipement",
+            "installation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Evaluer les risques lors d’une intervention simple",
+          "page": 38,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=38",
+          "selection_score": 36.7343,
+          "shared_terms": [
+            "evaluer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

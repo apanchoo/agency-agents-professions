@@ -1,0 +1,870 @@
+{
+  "numero": 24,
+  "rome": {
+    "code_rome": "B1601",
+    "intitule": "Métallier / Métallière d'art",
+    "code_ogr": 44
+  },
+  "appellations": [
+    {
+      "libelle": "Armurier / Armurière d'art",
+      "libelle_court": "Armurier / Armurière d'art",
+      "code_ogr": 11141
+    },
+    {
+      "libelle": "Bronzier / Bronzière",
+      "libelle_court": "Bronzier / Bronzière",
+      "code_ogr": 11603
+    },
+    {
+      "libelle": "Bronzier / Bronzière d'art",
+      "libelle_court": "Bronzier / Bronzière d'art",
+      "code_ogr": 11604
+    },
+    {
+      "libelle": "Chaudronnier / Chaudronnière d'art",
+      "libelle_court": "Chaudronnier / Chaudronnière d'art",
+      "code_ogr": 11973
+    },
+    {
+      "libelle": "Dinandier / Dinandière",
+      "libelle_court": "Dinandier / Dinandière",
+      "code_ogr": 14173
+    },
+    {
+      "libelle": "Estampeur / Estampeuse d'art",
+      "libelle_court": "Estampeur / Estampeuse d'art",
+      "code_ogr": 14889
+    },
+    {
+      "libelle": "Etainier / Etainière",
+      "libelle_court": "Etainier / Etainière",
+      "code_ogr": 14895
+    },
+    {
+      "libelle": "Ferronnier / Ferronnière d'art",
+      "libelle_court": "Ferronnier / Ferronnière d'art",
+      "code_ogr": 15075
+    },
+    {
+      "libelle": "Ferronnier / Ferronnière feuillagiste",
+      "libelle_court": "Ferronnier / Ferronnière feuillagiste",
+      "code_ogr": 15076
+    },
+    {
+      "libelle": "Fondeur / Fondeuse de bronze",
+      "libelle_court": "Fondeur / Fondeuse de bronze",
+      "code_ogr": 15100
+    },
+    {
+      "libelle": "Fondeur / Fondeuse de cloches",
+      "libelle_court": "Fondeur / Fondeuse de cloches",
+      "code_ogr": 15101
+    },
+    {
+      "libelle": "Forgeron / Forgeronne d'art",
+      "libelle_court": "Forgeron / Forgeronne d'art",
+      "code_ogr": 15120
+    },
+    {
+      "libelle": "Monteur / Monteuse en bronze",
+      "libelle_court": "Monteur / Monteuse en bronze",
+      "code_ogr": 16807
+    },
+    {
+      "libelle": "Serrurier / Serrurière d'art",
+      "libelle_court": "Serrurier / Serrurière d'art",
+      "code_ogr": 19415
+    }
+  ],
+  "definition": "Le métallier d'art crée des œuvres à l'unité ou en petite série, répare des pièces décoratives et utilitaires de grande taille (statuaire monumentale, rampes d'escaliers, grilles ornementales, etc.) ou de petite dimension (statues, pièces d'orfèvrerie, couteaux, armes, clés, serrures anciennes, etc.) ; il utilise pour ce faire différents métaux (acier, cuivre, laiton, bronze, étain, etc.), et divers procédés artisanaux de travail des métaux (usinage, formage, moulage etc.), selon les règles d'hygiène et de sécurité. Peut effectuer la restauration d'objets anciens en métal Peut transmettre son savoir-faire et participer à des actions de sensibilisation de sa profession Peut diriger une structure",
+  "acces_metier": "Ce métier est accessible avec un CAP/BEP, un Brevet Professionnel, un Brevet des Métiers d'Arts (BMA) en façonnage du bronze, ferronnerie d'art, serrurerie métallerie par exemple. Il est également accessible avec une expérience professionnelle en métallerie sans diplôme particulier.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Dessiner de nouveaux motifs",
+              "code_ogr": 120133,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Concevoir des ouvrages métalliques et dérivés",
+              "code_ogr": 520204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et réaliser des œuvres graphiques originales",
+              "code_ogr": 504975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des gravures",
+              "code_ogr": 125288,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une sculpture",
+              "code_ogr": 125540,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Concevoir et faire évoluer un modèle, un prototype",
+              "code_ogr": 300073,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Réaliser un croquis, un dessin de pièce",
+              "code_ogr": 125586,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)",
+              "code_ogr": 105978,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer une couche de métal",
+              "code_ogr": 100659,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer une couche de métal par l'argenture",
+              "code_ogr": 100658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dimensionner un support, un produit",
+              "code_ogr": 121602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Découper du métal",
+              "code_ogr": 121961,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Découper, tailler des matières premières",
+              "code_ogr": 300230,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir les étapes d'intervention pour le façonnage ou la décoration d'un objet",
+              "code_ogr": 125156,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Façonner des pièces d'art",
+              "code_ogr": 100558,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Façonner des éléments manquants ou défectueux",
+              "code_ogr": 125572,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Façonner ou modifier un objet d'art ou d'artisanat",
+              "code_ogr": 300098,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relever et reporter des cotes",
+              "code_ogr": 106160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relever les mesures de pièces ou de leur implantation",
+              "code_ogr": 125832,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Restaurer des éléments décoratifs sur des instruments",
+              "code_ogr": 499576,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des ciselures",
+              "code_ogr": 125342,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des cliquetages",
+              "code_ogr": 100888,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des décors",
+              "code_ogr": 101286,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des effets décoratifs et des ornementations",
+              "code_ogr": 123419,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des grilles ornementales",
+              "code_ogr": 100859,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des instruments tranchants",
+              "code_ogr": 120131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des luminaires",
+              "code_ogr": 100861,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de planage",
+              "code_ogr": 105994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de pliage, roulage",
+              "code_ogr": 300519,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de traitement thermique",
+              "code_ogr": 105762,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des statuaires monumentales",
+              "code_ogr": 100864,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des éléments de serrurerie, quincaillerie d'art",
+              "code_ogr": 100857,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la finition d'un produit, d'un article, d'un ouvrage",
+              "code_ogr": 300226,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les travaux de montage, d'assemblage",
+              "code_ogr": 300233,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un travail de précision nécessitant le sens de la minutie",
+              "code_ogr": 405118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une opération d'estampage ou d'extrusion (presse, etc.)",
+              "code_ogr": 106064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tracer des décors sur des objets d'art ou artisanaux",
+              "code_ogr": 125811,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Poser des ouvrages de métallerie sur un chantier",
+              "code_ogr": 125592,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des escaliers, rambardes, mezzanines, pergola, vitrines",
+              "code_ogr": 100858,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations de maintenance à caractère préventif, systématique ou conditionnel",
+              "code_ogr": 402264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Constituer un stock",
+              "code_ogr": 117572,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller dans le cadre d'une relation commerciale",
+              "code_ogr": 300367,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Elaborer, adapter une proposition commerciale",
+              "code_ogr": 300377,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outils électroportatifs (scie électrique, ponceuse, etc.)",
+              "code_ogr": 100507,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des pierres fines",
+              "code_ogr": 126153,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de pistolet de projection",
+              "code_ogr": 100662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines à façonner les clés",
+              "code_ogr": 100865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des céramiques",
+              "code_ogr": 123139,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des métaux ferreux (acier, fonte, ...)",
+              "code_ogr": 106489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des fibres inorganiques ou minérales (carbone, verre, ...)",
+              "code_ogr": 105339,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques de matières d'origine végétale (ambre, jais)",
+              "code_ogr": 100983,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériel de levage",
+              "code_ogr": 100213,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés des métaux",
+              "code_ogr": 100665,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des métaux précieux",
+              "code_ogr": 100871,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques et propriétés du verre",
+              "code_ogr": 100905,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP bronzier option A : monteur en bronze",
+              "code_ogr": 514916,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BMA spécialité ferronnier d'art",
+              "code_ogr": 514939,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel métallier",
+              "code_ogr": 491174,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro ouvrages du bâtiment : métallerie",
+              "code_ogr": 513998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BP métallier",
+              "code_ogr": 521973,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme de fin d'études secondaires des métiers d'art (DFESMA)",
+              "code_ogr": 522437,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Travail de l'acier",
+              "code_ogr": 124759,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Histoire de l'art",
+              "code_ogr": 119191,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Chimie",
+              "code_ogr": 101065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travail de l'aluminium",
+              "code_ogr": 124758,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Arts de la table",
+              "code_ogr": 116606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire des arts décoratifs",
+              "code_ogr": 100681,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travail de matériaux d'origine animale (corne, écaille, nacre, os)",
+              "code_ogr": 124750,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité et entretien des outils de sculpture",
+              "code_ogr": 100678,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travail des métaux (laiton, cuivre, étain, bronze)",
+              "code_ogr": 124913,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Traitement thermique de recuit",
+              "code_ogr": 106538,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonte à la cire perdue",
+              "code_ogr": 124757,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de brasage",
+              "code_ogr": 103517,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Laminage circulaire (lamineuse circulaire)",
+              "code_ogr": 106069,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitement thermique de trempe",
+              "code_ogr": 113983,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de conservation préventive",
+              "code_ogr": 100597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitement thermique de revenu",
+              "code_ogr": 106539,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Laminage à froid (laminoir, train de laminage)",
+              "code_ogr": 106068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Laminage à chaud (laminoir, train de laminage)",
+              "code_ogr": 106067,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de clavetage",
+              "code_ogr": 125363,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pliage",
+              "code_ogr": 100746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'affûtage",
+              "code_ogr": 100029,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de planage",
+              "code_ogr": 300757,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soudure à l'argon",
+              "code_ogr": 125367,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dessin",
+              "code_ogr": 100610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'usinage",
+              "code_ogr": 100822,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de cambrage",
+              "code_ogr": 105991,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de forgeage",
+              "code_ogr": 125128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dorure",
+              "code_ogr": 101161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'électrolyse",
+              "code_ogr": 100666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'étirage",
+              "code_ogr": 105285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage et de sculpture",
+              "code_ogr": 100517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tournage",
+              "code_ogr": 106046,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de ciselure",
+              "code_ogr": 125600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de patine",
+              "code_ogr": 105102,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de fonderie",
+              "code_ogr": 100825,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de martelage",
+              "code_ogr": 125130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de bijouterie",
+              "code_ogr": 101271,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de guillochage",
+              "code_ogr": 100890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soudure à l'arc",
+              "code_ogr": 125366,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de mesure et traçage",
+              "code_ogr": 100854,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de soudure",
+              "code_ogr": 100286,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de restauration",
+              "code_ogr": 101898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de repoussage",
+              "code_ogr": 106065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de cintrage",
+              "code_ogr": 100737,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En grande hauteur",
+          "code_ogr": 300782
+        },
+        {
+          "libelle": "Exposition à de hautes températures",
+          "code_ogr": 300789
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "87",
+      "libelle": "Artisanat d'art, audiovisuel et spectacle",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1603 - Opérateur / Opératrice en bijouterie",
+      "code_org_rome_cible": 46,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1603 - Plombier / Plombière sanitaire",
+      "code_org_rome_cible": 163,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1614 - Poseur / Poseuse en fermetures de bâtiment",
+      "code_org_rome_cible": 403073,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2902 - Chaudronnier / Chaudronnière",
+      "code_org_rome_cible": 279,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1202 - Animateur / Animatrice d'atelier artistique ou ludique",
+      "code_org_rome_cible": 183,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "B1604 - Horloger / Horlogère",
+      "code_org_rome_cible": 47,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "B1101 - Artiste Plasticien / Plasticienne",
+      "code_org_rome_cible": 36,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "B1303 - Graveur / Graveuse d'art",
+      "code_org_rome_cible": 40,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "B1302 - Décorateur / Décoratrice d'objets d'art",
+      "code_org_rome_cible": 39,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H2913 - Soudeur / Soudeuse",
+      "code_org_rome_cible": 290,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "H2901 - Ajusteur-monteur / Ajusteuse-monteuse",
+      "code_org_rome_cible": 278,
+      "ordre_mobilite": 11
+    },
+    {
+      "rome_cible": "H2911 - Métallier / Métallière",
+      "code_org_rome_cible": 288,
+      "ordre_mobilite": 12
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 13
+    }
+  ]
+}

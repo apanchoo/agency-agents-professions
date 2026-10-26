@@ -1,0 +1,276 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488343,
+    "code_rome": "H1517",
+    "libelle": "Responsable de laboratoire de contrôle en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1501"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.669,
+      "matched_terms": [
+        "chimi",
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [
+        "laboratoire"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.IND.07",
+          "title": "Physique appliquée à l’industrie chimique",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=395",
+          "selection_score": 62.6312,
+          "shared_terms": [
+            "chimique",
+            "industrie",
+            "physique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.14",
+          "title": "Risques chimiques et BPL - BPF",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=82",
+          "selection_score": 51.6601,
+          "shared_terms": [
+            "bpl",
+            "chimique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.07",
+          "title": "Physique appliquée à l’analyse chimique",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=167",
+          "selection_score": 39.205,
+          "shared_terms": [
+            "chimique",
+            "physique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle *",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=117",
+          "selection_score": 43.2943,
+          "shared_terms": [
+            "laboratoire",
+            "mise",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=143",
+          "selection_score": 42.7146,
+          "shared_terms": [
+            "laboratoire",
+            "mise",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.203,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [
+        "controle"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 58.4464,
+          "shared_terms": [
+            "chimique",
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 48.8251,
+          "shared_terms": [
+            "environnementale",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 44.8348,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "physique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mettre en œuvre des analyses chimiques (acides-bases, complexation, précipitation) en appliquant les bonnes pratiques de laboratoire (BPL)",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=50",
+          "selection_score": 72.8501,
+          "shared_terms": [
+            "bonne",
+            "bpl",
+            "chimique",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.02",
+          "title": "Concrétiser un projet en mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 208,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=208",
+          "selection_score": 62.1775,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "mesure",
+            "physico"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.975,
+      "matched_terms": [
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 49.7859,
+          "shared_terms": [
+            "conformite",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 45.0374,
+          "shared_terms": [
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Documentation et notions d’audit",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=94",
+          "selection_score": 44.1656,
+          "shared_terms": [
+            "documentation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MTD.02",
+          "title": "Reconfiguration d’un système de production : mise en œuvre",
+          "page": 439,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=439",
+          "selection_score": 26.1631,
+          "shared_terms": [
+            "mise",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Organisation d’une situation de production",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=58",
+          "selection_score": 23.8541,
+          "shared_terms": [
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

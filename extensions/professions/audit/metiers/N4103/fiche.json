@@ -1,0 +1,587 @@
+{
+  "numero": 568,
+  "rome": {
+    "code_rome": "N4103",
+    "intitule": "Conducteur / Conductrice de bus",
+    "code_ogr": 525
+  },
+  "appellations": [
+    {
+      "libelle": "Chauffeur / Chauffeuse de bus",
+      "libelle_court": "Chauffeur / Chauffeuse de bus",
+      "code_ogr": 38796
+    },
+    {
+      "libelle": "Chauffeur / Chauffeuse de ligne transport de personnes",
+      "libelle_court": "Chauffeur / Chauffeuse de ligne transport de personnes",
+      "code_ogr": 11986
+    },
+    {
+      "libelle": "Chauffeur / Chauffeuse de ramassage de personnes",
+      "libelle_court": "Chauffeur / Chauffeuse de ramassage de personnes",
+      "code_ogr": 11990
+    },
+    {
+      "libelle": "Conducteur / Conductrice d'autobus",
+      "libelle_court": "Conducteur / Conductrice d'autobus",
+      "code_ogr": 12874
+    },
+    {
+      "libelle": "Conducteur / Conductrice de bus sur piste aéroport",
+      "libelle_court": "Conducteur / Conductrice de bus sur piste aéroport",
+      "code_ogr": 12897
+    },
+    {
+      "libelle": "Conducteur / Conductrice de bus urbain et interurbain",
+      "libelle_court": "Conducteur / Conductrice de bus urbain et interurbain",
+      "code_ogr": 12898
+    },
+    {
+      "libelle": "Conducteur / Conductrice de mini bus de plus de 9 personnes",
+      "libelle_court": "Conducteur / Conductrice de mini bus de plus de 9 personnes",
+      "code_ogr": 13110
+    },
+    {
+      "libelle": "Conducteur / Conductrice de Petit Train touristique",
+      "libelle_court": "Conducteur / Conductrice de Petit Train touristique",
+      "code_ogr": 13125
+    },
+    {
+      "libelle": "Conducteur / Conductrice machiniste",
+      "libelle_court": "Conducteur / Conductrice machiniste",
+      "code_ogr": 13307
+    },
+    {
+      "libelle": "Conducteur-receveur / Conductrice-receveuse",
+      "libelle_court": "Conducteur-receveur / Conductrice-receveuse",
+      "code_ogr": 13338
+    },
+    {
+      "libelle": "Machiniste-receveur / Machiniste-receveuse",
+      "libelle_court": "Machiniste-receveur / Machiniste-receveuse",
+      "code_ogr": 16249
+    }
+  ],
+  "definition": "Le Conducteur de bus assure un transport sûr et confortable des passagers à travers la ville et les zones interurbaines. Conduit des bus sur des itinéraires prédéfinis tout en respectant les horaires établis Assure la sécurité des passagers durant le trajet Vérifie l'état technique du véhicule avant le départ et signale toute anomalie Vend et contrôle les titres de transport Informe les passagers sur les itinéraires et les arrêts Gère les situations d'urgence et les comportements difficiles des passagers Accueille les passagers Communique avec la régulation sur l'état du trafic",
+  "acces_metier": "Cet emploi est accessible avec un Permis D, obligatoire pour conduire un bus. Des formations complémentaires comme le CAP ou le BEP peuvent être utiles mais ne sont pas obligatoires. La Formation Initiale Minimum Obligatoire (FIMO) puis la Formation Continue Obligatoire (FCO) sont également requises et obligatoires pour exercer ce métier. La FCO doit être renouvelée tous les 5 ans.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Utiliser des équipements spécifiques pour l'accessibilité des personnes à mobilité réduite (PMR)",
+              "code_ogr": 484193,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'état de fonctionnement du véhicule",
+              "code_ogr": 110527,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter les comportements suspects",
+              "code_ogr": 140956,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les périodes de forte affluence avec calme",
+              "code_ogr": 484201,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre les procédures d'alerte des secours et les autres mesures prédéfinies en cas d'incident",
+              "code_ogr": 400635,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Assurer le respect des horaires de départ, d'arrivée et de desserte des arrêts",
+              "code_ogr": 512850,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conduire un véhicule routier",
+              "code_ogr": 300270,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le véhicule, repérer le parcours et prévoir les aléas",
+              "code_ogr": 110523,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transporter des passagers",
+              "code_ogr": 300275,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des systèmes de billetterie électronique et gérer les transactions",
+              "code_ogr": 486887,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les principes d'écoconduite",
+              "code_ogr": 400117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réguler le flux de passagers à l'entrée et à la sortie",
+              "code_ogr": 484189,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fournir un service de qualité",
+              "code_ogr": 403285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les passagers en cas de déviation de l'itinéraire",
+              "code_ogr": 484190,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communique avec les régulateurs pour connaitre l'état du trafic",
+              "code_ogr": 512873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer avec la centrale en cas de problèmes techniques",
+              "code_ogr": 484200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer efficacement les informations de trajet",
+              "code_ogr": 484187,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les interactions avec les passagers de manière professionnelle",
+              "code_ogr": 484195,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter sa conduite en fonction des conditions météorologiques",
+              "code_ogr": 484192,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documenter les retards et les causes de ces retards",
+              "code_ogr": 484202,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager le respect des règles de conduite à bord",
+              "code_ogr": 484204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les réglementations locales en matière de transport",
+              "code_ogr": 484197,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Signaler toute anomalie ou incident durant le trajet",
+              "code_ogr": 483843,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre les itinéraires prédéfinis tout en restant flexible aux changements",
+              "code_ogr": 484196,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Participer à des formations continues pour améliorer ses compétences",
+              "code_ogr": 483483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'engin et matériel incendie",
+              "code_ogr": 108233,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Formation Initiale Minimum Obligatoire (FIMO)",
+              "code_ogr": 120409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Formation Continue Obligatoire (FCO)",
+              "code_ogr": 123723,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitation pour la conduite de certains véhicules routiers affectés aux transports de voyageurs",
+              "code_ogr": 512503,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel conducteur de transport en commun sur route",
+              "code_ogr": 491655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie D",
+              "code_ogr": 123457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP conducteur agent d'accueil en autobus et autocar",
+              "code_ogr": 491463,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Systèmes d'Aide à l'Exploitation et à l'Information Voyageurs (SAEIV)",
+              "code_ogr": 140958,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Caractéristiques du chronotachygraphe",
+              "code_ogr": 119055,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'urgence et d'évacuation",
+              "code_ogr": 105142,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titres de transports",
+              "code_ogr": 115663,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de circulation et de stationnement en agglomération",
+              "code_ogr": 110550,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réglementation intérieure du réseau de transport",
+              "code_ogr": 512657,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de conduite et de sécurité routière",
+              "code_ogr": 108568,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documents de bord d'un véhicule",
+              "code_ogr": 120031,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du transport de personnes",
+              "code_ogr": 104085,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion de conflits avec les passagers",
+              "code_ogr": 512724,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôle de l'état du véhicule",
+              "code_ogr": 478913,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Spécificités des interventions sur véhicules électriques, hybrides, GPL, GNV",
+              "code_ogr": 489707,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion du stress en situation de trafic dense",
+              "code_ogr": 478908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Itinéraires urbains",
+              "code_ogr": 478907,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de manœuvre avec un grand véhicule",
+              "code_ogr": 478133,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N4129 - Conducteur / Conductrice de corbillard",
+      "code_org_rome_cible": 489225,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4101 - Conducteur / Conductrice de poids lourd",
+      "code_org_rome_cible": 523,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4302 - Agent / Agente de contrôle du réseau ferré",
+      "code_org_rome_cible": 533,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4204 - Agent / Agente d'exploitation transport routier de personnes",
+      "code_org_rome_cible": 531,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4301 - Conducteur / Conductrice de train",
+      "code_org_rome_cible": 532,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1114 - Conducteur / Conductrice d'engins lourds de manutention",
+      "code_org_rome_cible": 489077,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "I1615 - Dépanneur-remorqueur / Dépanneuse-remorqueuse de véhicules",
+      "code_org_rome_cible": 488742,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1617 - Contrôleur / Contrôleuse technique de véhicules",
+      "code_org_rome_cible": 488791,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1302 - Conducteur / Conductrice d'engins de chantier",
+      "code_org_rome_cible": 155,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N2207 - Agent / Agente d'accompagnement du transport",
+      "code_org_rome_cible": 489211,
+      "ordre_mobilite": 10
+    }
+  ]
+}

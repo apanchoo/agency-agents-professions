@@ -1,0 +1,534 @@
+{
+  "numero": 524,
+  "rome": {
+    "code_rome": "M1604",
+    "intitule": "Assistant / Assistante de direction",
+    "code_ogr": 477
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante de direction bilingue",
+      "libelle_court": "Assistant / Assistante de direction bilingue",
+      "code_ogr": 11228
+    },
+    {
+      "libelle": "Assistant / Assistante de direction trilingue",
+      "libelle_court": "Assistant / Assistante de direction trilingue",
+      "code_ogr": 11229
+    },
+    {
+      "libelle": "Assistant / Assistante de manager",
+      "libelle_court": "Assistant / Assistante de manager",
+      "code_ogr": 38398
+    },
+    {
+      "libelle": "Attaché / Attachée de direction",
+      "libelle_court": "Attaché / Attachée de direction",
+      "code_ogr": 11395
+    },
+    {
+      "libelle": "Secrétaire de direction",
+      "libelle_court": "Secrétaire de direction",
+      "code_ogr": 19374
+    },
+    {
+      "libelle": "Secrétaire de direction bilingue",
+      "libelle_court": "Secrétaire de direction bilingue",
+      "code_ogr": 19375
+    },
+    {
+      "libelle": "Secrétaire de direction trilingue",
+      "libelle_court": "Secrétaire de direction trilingue",
+      "code_ogr": 19376
+    }
+  ],
+  "definition": "L'Assistant de direction joue un rôle essentiel dans la gestion et l'organisation administrative d'un service ou d'une entreprise. Assiste le ou les dirigeants dans leurs tâches quotidiennes, prépare des dossiers, des rapports et des présentations Représente le point de contact entre la direction et les autres services de l'entreprise, ainsi qu'avec les partenaires externes Organise et coordonne les informations internes et externes, parfois confidentielles, liées au fonctionnement du service ou de la structure Peut prendre en charge le suivi complet de dossiers ou d'évènements spécifiques (organisation de séminaires, salons, etc.) Gère l'agenda, organise les déplacements et prépare les réunions de la direction ainsi que les compte-rendus",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac+2 à Bac+3 en assistanat de direction, secrétariat trilingue, assistanat de gestion. La pratique d'une langue étrangère peut être demandée.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les activités entre différents départements",
+              "code_ogr": 500795,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Assurer la coordination des voyages d'affaires",
+              "code_ogr": 518326,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer, organiser ou coordonner un évènement",
+              "code_ogr": 300123,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir une stratégie de communication",
+              "code_ogr": 300111,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la communication interne et externe",
+              "code_ogr": 483373,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des procédures internes",
+              "code_ogr": 506125,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Analyser les besoins en fournitures de bureau et gérer les approvisionnements",
+              "code_ogr": 483574,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Maintenir à jour les dossiers administratifs",
+              "code_ogr": 484384,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les dossiers pour les réunions de direction",
+              "code_ogr": 518354,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réalise le traitement administratif de dossiers (frappe de courriers, mise en forme de documents, etc.)",
+              "code_ogr": 520435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un compte rendu de réunion",
+              "code_ogr": 121219,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un écrit professionnel",
+              "code_ogr": 122236,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Tenir à jour des agendas personnels et partagés",
+              "code_ogr": 124876,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser une messagerie sécurisée",
+              "code_ogr": 522406,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre un contrat, vérifier le respect des clauses contractuelles",
+              "code_ogr": 300348,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Gérer les appels téléphoniques entrants et sortants",
+              "code_ogr": 400557,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Représenter et mettre en valeur l'image de l'entreprise",
+              "code_ogr": 400734,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Planifier et organiser des réunions",
+              "code_ogr": 506391,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des échanges et informations",
+              "code_ogr": 486580,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Classer des documents",
+              "code_ogr": 121718,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collecter et analyser des données, des informations",
+              "code_ogr": 300452,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une veille documentaire",
+              "code_ogr": 300119,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "DUT gestion des entreprises et des administrations option gestion des ressources humaines",
+              "code_ogr": 491467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DUT gestion des entreprises et des administrations option gestion et management des organisations",
+              "code_ogr": 491468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DUT gestion administrative et commerciale des organisations",
+              "code_ogr": 491485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistant de gestion et d'administration d'entreprise",
+              "code_ogr": 404715,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention management et gestion des organisations",
+              "code_ogr": 490836,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel assistant de direction",
+              "code_ogr": 522556,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistant de gestion",
+              "code_ogr": 522018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS support à l'action managériale",
+              "code_ogr": 491477,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de présentation",
+              "code_ogr": 499165,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de filtrage d'appels",
+              "code_ogr": 518334,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de base en comptabilité",
+              "code_ogr": 518335,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bureautique et outils collaboratifs",
+              "code_ogr": 404550,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de gestion de base de données",
+              "code_ogr": 100113,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Planification des tâches et gestion des priorités",
+              "code_ogr": 121796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthode de classement et d'archivage",
+              "code_ogr": 121411,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit du travail",
+              "code_ogr": 101489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation sociale",
+              "code_ogr": 100343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes rédactionnelles",
+              "code_ogr": 102226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'accueil",
+              "code_ogr": 126265,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des réservations de salles de réunion",
+              "code_ogr": 518333,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de gestion administrative",
+              "code_ogr": 498131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des urgences et des imprévus",
+              "code_ogr": 476881,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de numérisation",
+              "code_ogr": 109659,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication interne",
+              "code_ogr": 476833,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Association",
+          "code_ogr": 300849
+        },
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "103",
+      "libelle": "Gestion administrative et ressources humaines",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "M1605 - Secrétaire technique",
+      "code_org_rome_cible": 478,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1701 - Responsable de l'administration des ventes",
+      "code_org_rome_cible": 483,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "M1501 - Assistant / Assistante Ressources Humaines (RH)",
+      "code_org_rome_cible": 471,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1404 - Chargé / Chargée de mission développement territorial",
+      "code_org_rome_cible": 382,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "E1103 - Chargé / Chargée des relations publiques",
+      "code_org_rome_cible": 121,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1102 - Chargé / Chargée de promotion touristique",
+      "code_org_rome_cible": 181,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1802 - Chargé / Chargée de développement économique et local",
+      "code_org_rome_cible": 399,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "C1109 - Gestionnaire en assurances",
+      "code_org_rome_cible": 63,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1704 - Responsable service clients",
+      "code_org_rome_cible": 486,
+      "ordre_mobilite": 10
+    }
+  ]
+}

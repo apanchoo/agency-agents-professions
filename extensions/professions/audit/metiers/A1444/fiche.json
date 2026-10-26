@@ -1,0 +1,528 @@
+{
+  "numero": 33345,
+  "rome": {
+    "code_rome": "A1444",
+    "intitule": "Aide agricole en production fruitière",
+    "code_ogr": 510021
+  },
+  "appellations": [
+    {
+      "libelle": "Aide agricole en arboriculture",
+      "libelle_court": "Aide agricole en arboriculture",
+      "code_ogr": 10806
+    },
+    {
+      "libelle": "Aide agricole en viticulture",
+      "libelle_court": "Aide agricole en viticulture",
+      "code_ogr": 10814
+    },
+    {
+      "libelle": "Aide arboricole",
+      "libelle_court": "Aide arboricole",
+      "code_ogr": 10815
+    },
+    {
+      "libelle": "Aide familial / Aide familiale d'exploitant agricole en viticulture",
+      "libelle_court": "Aide familial(e) d'exploitant agricole en viticulture",
+      "code_ogr": 510090
+    },
+    {
+      "libelle": "Aide viticole",
+      "libelle_court": "Aide viticole",
+      "code_ogr": 10862
+    },
+    {
+      "libelle": "Aide-arboriculteur / Aide-arboricultrice",
+      "libelle_court": "Aide-arboriculteur / Aide-arboricultrice",
+      "code_ogr": 10864
+    },
+    {
+      "libelle": "Aide-pépiniériste",
+      "libelle_court": "Aide-pépiniériste",
+      "code_ogr": 10886
+    },
+    {
+      "libelle": "Aide-viticulteur / Aide-viticultrice",
+      "libelle_court": "Aide-viticulteur / Aide-viticultrice",
+      "code_ogr": 10900
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière arboricole",
+      "libelle_court": "Ouvrier / Ouvrière arboricole",
+      "code_ogr": 17403
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière en arboriculture",
+      "libelle_court": "Ouvrier / Ouvrière en arboriculture",
+      "code_ogr": 17490
+    },
+    {
+      "libelle": "Tailleur / Tailleuse de fruitiers",
+      "libelle_court": "Tailleur / Tailleuse de fruitiers",
+      "code_ogr": 38078
+    }
+  ],
+  "definition": "L'Aide agricole en production fruitière contribue à la culture et à l'entretien des arbres fruitiers d'une exploitation. Effectue la taille et l'entretien des arbres fruitiers et de la plantation Contribue à la préparation des sols et à l'irrigation des vergers Aide à la sélection et à la cueillette des fruits mûrs pour la vente ou la transformation Peut participer à la vente directe des produits sur les marchés locaux",
+  "acces_metier": "Cet emploi est accessible sans qualification. Une formation de niveau CAP dans le domaine agricole peut cependant en faciliter l'accès. Des certificats d'aptitude à la conduite en sécurité (CACES) peuvent être nécessaires pour l'utilisation d'engins agricoles ou de manutention.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Calibrer un produit",
+              "code_ogr": 123057,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un arbre, une plantation",
+              "code_ogr": 122825,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier une maladie, un parasite ou une carence sur un végétal, un arbre",
+              "code_ogr": 122576,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer un tuteur de croissance",
+              "code_ogr": 122724,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planter un arbre, une plante, un végétal",
+              "code_ogr": 122843,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Récolter un produit à maturité et selon les consignes de calibrage",
+              "code_ogr": 122853,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régler un équipement d'irrigation et d'arrosage",
+              "code_ogr": 122833,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner des fruits pour la vente directe",
+              "code_ogr": 510980,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner les accessoires, produits, outils",
+              "code_ogr": 119928,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tailler les arbres",
+              "code_ogr": 100063,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Installer des clôtures, barrières ou portails",
+              "code_ogr": 489533,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Installer du matériel de plantation",
+              "code_ogr": 122725,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir les éléments de structure d'un bâtiment (clôtures, zones de stockage, ...)",
+              "code_ogr": 125255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer et entretenir les équipements et machines utilisés",
+              "code_ogr": 119691,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conditionner les produits dans des caisses ou des conteneurs pour faciliter leur transport sans les abimer",
+              "code_ogr": 510979,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stocker un produit",
+              "code_ogr": 117548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier, ranger des produits, des matières premières",
+              "code_ogr": 300262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Optimiser l'utilisation des ressources en eau",
+              "code_ogr": 404877,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les écogestes dans sa pratique",
+              "code_ogr": 489753,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les arbres et les plantes pour détecter les signes de maladies ou de parasites et informer les responsables agricoles si nécessaire",
+              "code_ogr": 510978,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Vendre des produits sur le marché ou en vente directe sur l'exploitation",
+              "code_ogr": 511171,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de produits phytosanitaires",
+              "code_ogr": 121998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils agricoles",
+              "code_ogr": 123060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnement des engins agricoles",
+              "code_ogr": 100003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Variétés de fruits et légumes",
+              "code_ogr": 101850,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils de taille",
+              "code_ogr": 120676,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPA option travaux des productions horticoles spécialité horticulture ornementale et légumière",
+              "code_ogr": 490656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux des productions horticoles spécialité arboriculture fruitière",
+              "code_ogr": 490707,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Techniques d'effeuillage",
+              "code_ogr": 122828,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques culturales",
+              "code_ogr": 100011,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'ébourgeonnage",
+              "code_ogr": 122827,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'éclaircissage",
+              "code_ogr": 100170,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de palissage",
+              "code_ogr": 122841,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Prévention des risques liés aux pesticides",
+              "code_ogr": 496860,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation phytosanitaire",
+              "code_ogr": 101869,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de taille de végétaux",
+              "code_ogr": 100032,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de taille de fructification",
+              "code_ogr": 122826,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de fertilisation",
+              "code_ogr": 498102,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1401 - Cueilleur / Cueilleuse de fruits",
+      "code_org_rome_cible": 15,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1203 - Agent / Agente d'entretien des espaces verts",
+      "code_org_rome_cible": 9,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1419 - Ouvrier agricole polyvalent / Ouvrière agricole polyvalente",
+      "code_org_rome_cible": 403955,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "A1420 - Chef / Cheffe de culture responsable d'unité de production agricole",
+      "code_org_rome_cible": 403956,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1210 - Ouvrier forestier / Ouvrière forestière",
+      "code_org_rome_cible": 488859,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2105 - Agent / Agente de production en industrie alimentaire",
+      "code_org_rome_cible": 509557,
+      "ordre_mobilite": 9
+    }
+  ]
+}

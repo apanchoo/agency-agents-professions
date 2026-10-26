@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518781,
+    "code_rome": "A1324",
+    "libelle": "Ingénieur / Ingénieure biogaz",
+    "transition_eco": "Emploi Vert",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1303"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.144,
+      "matched_terms": [
+        "agricol",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SEE.11",
+          "title": "Filières de gestion de déchets ménagers et assimilés",
+          "page": 674,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=674",
+          "selection_score": 66.5219,
+          "shared_terms": [
+            "dechet",
+            "menager"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Chimie générale et organique",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=81",
+          "selection_score": 62.5178,
+          "shared_terms": [
+            "chimie",
+            "organique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 56.3787,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 634,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=634",
+          "selection_score": 51.849,
+          "shared_terms": [
+            "impact",
+            "procede",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.AGRO.03",
+          "title": "Caractérisation pédoclimatique d’une exploitation agricole",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=78",
+          "selection_score": 44.1078,
+          "shared_terms": [
+            "agricole",
+            "exploitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

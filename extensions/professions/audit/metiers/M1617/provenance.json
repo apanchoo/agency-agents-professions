@@ -1,0 +1,179 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489184,
+    "code_rome": "M1617",
+    "libelle": "Médecin responsable de la Documentation et de l'Information Médicale (Médecin responsable DIM)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1609"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.447,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1609",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.GPRH.12",
+          "title": "Ressources humaines : Responsabilité sociale, santé au travail et QVCT",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=377",
+          "selection_score": 34.7499,
+          "shared_terms": [
+            "sante",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Traitement numérique des données",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=151",
+          "selection_score": 23.7518,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.11",
+          "title": "Ressources humaines : Politiques de rémunération",
+          "page": 397,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=397",
+          "selection_score": 22.3726,
+          "shared_terms": [
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 74.7336,
+          "shared_terms": [
+            "administratif",
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.03",
+          "title": "Optimiser une politique de développement des compétences",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=384",
+          "selection_score": 66.4136,
+          "shared_terms": [
+            "optimiser",
+            "politique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.302,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1609",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MRPE.10",
+          "title": "Nouvelles approches de l’entreprise",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=113",
+          "selection_score": 41.5527,
+          "shared_terms": [
+            "nouvelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MRPE.04",
+          "title": "Veille et pilotage dans une approche éco-responsable",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=167",
+          "selection_score": 40.0634,
+          "shared_terms": [
+            "responsable",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie de l’information et de la communication",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=67",
+          "selection_score": 38.094,
+          "shared_terms": [
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Identifier les compétences professionnelles",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=58",
+          "selection_score": 47.3934,
+          "shared_terms": [
+            "identifier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.02",
+          "title": "Réaliser une étude/conseil dans le cadre d’un projet eco ou socialement responsable",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=96",
+          "selection_score": 44.1838,
+          "shared_terms": [
+            "conseil",
+            "responsable"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

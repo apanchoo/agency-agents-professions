@@ -1,0 +1,585 @@
+{
+  "numero": 33007,
+  "rome": {
+    "code_rome": "G1236",
+    "intitule": "Animateur / Animatrice de club de vacances",
+    "code_ogr": 509387
+  },
+  "appellations": [
+    {
+      "libelle": "Animateur / Animatrice d'activités spécialisées en hôtellerie de plein air",
+      "libelle_court": "Animateur(trice) d'activités spé. hôtellerie de plein air",
+      "code_ogr": 518923
+    },
+    {
+      "libelle": "Animateur / Animatrice de village de vacances",
+      "libelle_court": "Animateur / Animatrice de village de vacances",
+      "code_ogr": 11036
+    },
+    {
+      "libelle": "Animateur / Animatrice en camping",
+      "libelle_court": "Animateur / Animatrice en camping",
+      "code_ogr": 519351
+    },
+    {
+      "libelle": "Animateur / Animatrice en hôtellerie de plein air",
+      "libelle_court": "Animateur / Animatrice en hôtellerie de plein air",
+      "code_ogr": 518922
+    }
+  ],
+  "definition": "L'animateur de club de vacances crée une ambiance festive et conviviale pour les vacanciers. Organise et anime des activités récréatives et ludiques adaptées à différents publics Veille à la sécurité et au bien-être des participants durant les activités Favorise l'interaction et la cohésion entre les vacanciers Adapte les animations en fonction des tranches d'âge et des intérêts des participants Peut se spécialiser dans un type d'activité (artistique, sportive) ou pour un public spécifique (enfants) Peut participer à la promotion des activités du club auprès des vacanciers",
+  "acces_metier": "Cet emploi est accessible sans qualification, mais des formations telles que le Brevet d'Aptitude aux Fonctions d'Animateur (BAFA), le BPJEPS ou le DEJEPS peuvent être un atout. Le BAFA n'est pas obligatoire mais est souvent recommandé pour travailler dans des clubs de vacances.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Accompagner des groupes lors de visites guidées ou sorties en extérieur",
+              "code_ogr": 113876,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer des activités culturelles et artistiques",
+              "code_ogr": 115181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer une soirée musicale",
+              "code_ogr": 509086,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et animer des activités de détente ou de loisirs",
+              "code_ogr": 300030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et animer des activités sportives",
+              "code_ogr": 300032,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir le programme des activités selon les spécificités du public",
+              "code_ogr": 103888,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir une animation événementielle",
+              "code_ogr": 103890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interagir avec le public pour dynamiser l'événement",
+              "code_ogr": 509087,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des activités éducatives adaptées à l'âge des enfants",
+              "code_ogr": 502238,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer l'espace et le matériel nécessaires à la séance d'activité",
+              "code_ogr": 403342,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Promouvoir l'interactivité et la collaboration",
+              "code_ogr": 501974,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Faire preuve de pédagogie pour faciliter la compréhension",
+              "code_ogr": 400407,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Prodiguer les gestes de premiers secours en cas d'urgence",
+              "code_ogr": 300045,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Créer, organiser ou coordonner un évènement",
+              "code_ogr": 300123,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer la logistique d'un évènement",
+              "code_ogr": 405062,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Encourager la créativité et l'expression personnelle",
+              "code_ogr": 508282,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Interpréter une oeuvre, un spectacle ou un numéro",
+              "code_ogr": 300104,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Vérifier la qualité et la propreté d'équipements ou de matériels",
+              "code_ogr": 124976,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des participants durant les activités",
+              "code_ogr": 482285,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Partager les règles de sécurité individuelle et collective afin de prévenir les incidents",
+              "code_ogr": 403344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser un équipement, un périmètre",
+              "code_ogr": 100240,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Gérer les ressources matérielles nécessaires aux activités, projets",
+              "code_ogr": 500169,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Documenter les activités réalisées et les participants présents",
+              "code_ogr": 500167,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les inscriptions aux différentes activités",
+              "code_ogr": 500160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les rendez-vous et le planning des sessions",
+              "code_ogr": 506383,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Intégrer des pratiques écologiques dans les activités quotidiennes",
+              "code_ogr": 504193,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les pratiques durables",
+              "code_ogr": 485816,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer une ambiance accueillante et conviviale",
+              "code_ogr": 486044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les attentes du public, l'informer sur la ou les activités d'animation et les modalités d'organisation",
+              "code_ogr": 103889,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Evaluer la satisfaction des participants après chaque session",
+              "code_ogr": 486917,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Réaliser le bilan du projet éducatif ou d'animation sportive et proposer des évolutions",
+              "code_ogr": 103931,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Favoriser l'intégration de tous les participants dans les activités",
+              "code_ogr": 500159,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser l'anglais dans un contexte professionnel",
+              "code_ogr": 513457,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des tâches multiples et s'adapter aux changements rapides",
+              "code_ogr": 510998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "DEJEPS spécialité animation socio-éducative ou culturelle mention coordination de projets",
+              "code_ogr": 514270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DEJEPS spécialité animation socio-éducative ou culturelle mention animation sociale",
+              "code_ogr": 404985,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention basket-ball",
+              "code_ogr": 514028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention rugby à XV",
+              "code_ogr": 514029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention volley-ball et disciplines associées",
+              "code_ogr": 514030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DEJEPS spécialité animation socio-éducative ou culturelle mention développement de projets, territoires et réseaux",
+              "code_ogr": 490989,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des attractions touristiques locales",
+              "code_ogr": 477903,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques socio-culturelles des publics",
+              "code_ogr": 107774,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des destinations touristiques",
+              "code_ogr": 479395,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de motivation de groupe",
+              "code_ogr": 498350,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'animation de groupes",
+              "code_ogr": 102344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation d'événements thématiques",
+              "code_ogr": 120617,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'expression corporelle",
+              "code_ogr": 103919,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'animation de groupes sportifs",
+              "code_ogr": 476971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'animation en plein air",
+              "code_ogr": 497836,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail durant les vacances scolaires",
+          "code_ogr": 403826
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        },
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1209 - Animateur / Animatrice de loisirs sportifs",
+      "code_org_rome_cible": 403078,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1202 - Educateur / Educatrice de jeunes enfants",
+      "code_org_rome_cible": 369,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1216 - Responsable de structure multi accueil petite enfance",
+      "code_org_rome_cible": 509415,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1237 - Directeur / Directrice d'accueil de loisirs sans hébergement",
+      "code_org_rome_cible": 509666,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1239 - Responsable d'animation",
+      "code_org_rome_cible": 509764,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1217 - Moniteur / Monitrice en salle de sport",
+      "code_org_rome_cible": 404971,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1217 - Animateur socioéducatif / Animatrice socioéducative",
+      "code_org_rome_cible": 509503,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2146 - Responsable d'internat",
+      "code_org_rome_cible": 510193,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1506 - Manager de proximité",
+      "code_org_rome_cible": 488608,
+      "ordre_mobilite": 9
+    }
+  ]
+}

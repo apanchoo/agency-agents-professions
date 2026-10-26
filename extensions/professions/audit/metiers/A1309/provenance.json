@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509754,
+    "code_rome": "A1309",
+    "libelle": "Technicien / Technicienne d'élevage équin",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1301"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.287,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        17
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.BMB.15",
+          "title": "Biologie animale",
+          "page": 217,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=217",
+          "selection_score": 64.3193,
+          "shared_terms": [
+            "animale",
+            "biologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Génétique et biologie moléculaire",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=131",
+          "selection_score": 62.3961,
+          "shared_terms": [
+            "biologie",
+            "genetique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.10",
+          "title": "Productions animales 1",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=140",
+          "selection_score": 52.65,
+          "shared_terms": [
+            "animale",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.04",
+          "title": "Préparer et mettre en œuvre une production alimentaire ou de bioproduit",
+          "page": 465,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=465",
+          "selection_score": 65.0075,
+          "shared_terms": [
+            "alimentaire",
+            "preparer",
+            "production",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 50.9893,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

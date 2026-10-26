@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488727,
+    "code_rome": "K1605",
+    "libelle": "Commissaire d'exposition",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1602"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.482,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1602",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.JOU.13",
+          "title": "Connaissance des institutions",
+          "page": 337,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=337",
+          "selection_score": 61.6412,
+          "shared_terms": [
+            "institution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MLP.08",
+          "title": "Littérature, arts et sciences : perspective contemporaine",
+          "page": 531,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=531",
+          "selection_score": 59.1833,
+          "shared_terms": [
+            "arts",
+            "contemporaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.MLP.12",
+          "title": "Littérature et histoire culturelle",
+          "page": 494,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=494",
+          "selection_score": 56.8132,
+          "shared_terms": [
+            "culturelle",
+            "histoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.MLP.03",
+          "title": "Concevoir un évènement ou une médiation",
+          "page": 479,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=479",
+          "selection_score": 69.5663,
+          "shared_terms": [
+            "evenement",
+            "mediation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MLP.01",
+          "title": "Réaliser un évènement ou une médiation",
+          "page": 500,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=500",
+          "selection_score": 68.3958,
+          "shared_terms": [
+            "evenement",
+            "mediation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,180 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520473,
+    "code_rome": "D1515",
+    "libelle": "Agent / Agente de billetterie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "D1505"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.71,
+      "matched_terms": [
+        "client",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Fondamentaux de la vente",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=71",
+          "selection_score": 43.7327,
+          "shared_terms": [
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BI.16",
+          "title": "Marketing et vente à l’international",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=379",
+          "selection_score": 30.9099,
+          "shared_terms": [
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.02",
+          "title": "Entretien de vente",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=120",
+          "selection_score": 30.5978,
+          "shared_terms": [
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SME.03",
+          "title": "Organisation d’un évènement comme outil de branding",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=142",
+          "selection_score": 36.3173,
+          "shared_terms": [
+            "evenement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Vente : démarche de prospection",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=67",
+          "selection_score": 31.0325,
+          "shared_terms": [
+            "vente"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.073,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1505",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.08",
+          "title": "Outils de communication et de gestion culturels, artistiques, sportifs ou de tourisme",
+          "page": 364,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=364",
+          "selection_score": 43.9425,
+          "shared_terms": [
+            "culturel",
+            "sportif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MACAST.10",
+          "title": "Environnement professionnel culturel, artistique, sportif ou de tourisme",
+          "page": 341,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=341",
+          "selection_score": 42.9161,
+          "shared_terms": [
+            "culturel",
+            "sportif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MACAST.09",
+          "title": "Cadre légal culturel, artistique, sportif ou de tourisme",
+          "page": 340,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=340",
+          "selection_score": 38.5058,
+          "shared_terms": [
+            "culturel",
+            "sportif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MACAST.01",
+          "title": "Piloter un projet aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 369,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=369",
+          "selection_score": 36.4899,
+          "shared_terms": [
+            "culturel",
+            "sportif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MACAST.01",
+          "title": "Piloter et rendre compte d’un projet aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 387,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=387",
+          "selection_score": 33.5953,
+          "shared_terms": [
+            "culturel",
+            "sportif"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

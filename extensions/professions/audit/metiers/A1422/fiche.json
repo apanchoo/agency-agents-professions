@@ -1,0 +1,622 @@
+{
+  "numero": 32450,
+  "rome": {
+    "code_rome": "A1422",
+    "intitule": "Caviste de chai",
+    "code_ogr": 488334
+  },
+  "appellations": [
+    {
+      "libelle": "Aide caviste",
+      "libelle_court": "Aide caviste",
+      "code_ogr": 38571
+    },
+    {
+      "libelle": "Caviste",
+      "libelle_court": "Caviste",
+      "code_ogr": 11717
+    },
+    {
+      "libelle": "Caviste affineur / Affineuse",
+      "libelle_court": "Caviste affineur / Affineuse",
+      "code_ogr": 489987
+    },
+    {
+      "libelle": "Cuviste",
+      "libelle_court": "Cuviste",
+      "code_ogr": 140927
+    },
+    {
+      "libelle": "Employé / Employée de chai",
+      "libelle_court": "Employé / Employée de chai",
+      "code_ogr": 14761
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière caviste",
+      "libelle_court": "Ouvrier / Ouvrière caviste",
+      "code_ogr": 510764
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de chai",
+      "libelle_court": "Ouvrier / Ouvrière de chai",
+      "code_ogr": 17423
+    }
+  ],
+  "definition": "Le Caviste de chai participe à toutes les étapes de fabrication, de conservation et de conditionnement du vin, sous la responsabilité du maître de chai et en collaboration avec l'œnologue. Prépare les cuves et réceptionne les raisins lors des vendanges Effectue toutes les opérations d'élaboration du vin tout au long du processus de fabrication Procède à la mise en bouteilles dans le respect des règles d'hygiène et de sécurité alimentaire Peut participer à l'assemblage des vins pour élaborer les cuvées",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac+2 dans le domaine agricole, viticulture.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés aux procédures et aux méthodes de travail du chai",
+              "code_ogr": 482901,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Développer des stratégies pour améliorer la qualité du vin",
+              "code_ogr": 482902,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des analyses chimiques et microbiologiques des raisins, des moûts et des vins",
+              "code_ogr": 405365,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des tests de contrôle chimique au cours du processus de fermentation et émettre des préconisations (ajouts d'ingrédients)",
+              "code_ogr": 113933,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner un échantillon en cours de fabrication",
+              "code_ogr": 123111,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser un document de production",
+              "code_ogr": 120260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Gérer le planning de production",
+              "code_ogr": 482897,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Ajuster le dosage des ingrédients d'un alcool",
+              "code_ogr": 123122,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduire et contrôler un procédé de fermentation",
+              "code_ogr": 300137,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer et suivre les étapes d'élaboration d'un alcool",
+              "code_ogr": 123117,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer un assemblage ou une cuvée",
+              "code_ogr": 123112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la température des cuves de fermentation",
+              "code_ogr": 506777,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Porter une appréciation gustative, olfactive ou visuelle",
+              "code_ogr": 104188,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les chais, nettoyer et désinfecter les cuves",
+              "code_ogr": 489303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relever, contrôler, ajuster des mesures et dosages",
+              "code_ogr": 300130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de vinification (assemblage, mesure du taux d'alcool, filtration, ...)",
+              "code_ogr": 113906,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Soutirer un produit après fermentation",
+              "code_ogr": 123113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser l'élevage des vins en cuves ou en barriques, en contrôlant les conditions de température, d'humidité et d'aération",
+              "code_ogr": 483008,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser et régler des machines ou équipements agroalimentaires",
+              "code_ogr": 300161,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de problème technique",
+              "code_ogr": 482906,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler le fonctionnement des équipements de vinification et assurer le suivi de la maintenance",
+              "code_ogr": 483013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer et entretenir les équipements et machines utilisés",
+              "code_ogr": 119691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les espaces de stockage",
+              "code_ogr": 505694,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les conditions de conservation des vins",
+              "code_ogr": 484588,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Organiser ou surveiller des phases de fabrication",
+              "code_ogr": 300173,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité des raisins ou des moûts",
+              "code_ogr": 482895,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la clarté et la limpidité des vins",
+              "code_ogr": 482898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler les conditions de stockage des produits",
+              "code_ogr": 117585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au respect des normes d'hygiène et de sécurité",
+              "code_ogr": 402094,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des niveaux de stock de vin",
+              "code_ogr": 482899,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la mise en fûts ou en bouteilles, le bouchage, l'étiquetage",
+              "code_ogr": 100347,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réceptionner et expédier des commandes",
+              "code_ogr": 115630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner les raisins et les transporter dans les cuves",
+              "code_ogr": 489304,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le conditionnement du vin en bouteilles",
+              "code_ogr": 483014,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Renseigner le support de suivi de traçabilité des marchandises",
+              "code_ogr": 300504,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les fournisseurs",
+              "code_ogr": 482837,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Organiser des événements de dégustation de vins",
+              "code_ogr": 114541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Argumenter sur les choix de production lors de réunions",
+              "code_ogr": 482905,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec d'autres départements",
+              "code_ogr": 507866,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les pratiques de développement durable dans la production",
+              "code_ogr": 403320,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les normes d'hygiène et de sécurité sanitaire",
+              "code_ogr": 484745,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Développer ses compétences en œnologie",
+              "code_ogr": 482907,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des vins et spiritueux",
+              "code_ogr": 101853,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de cuves de fermentation",
+              "code_ogr": 122546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de cépages (ampélographie)",
+              "code_ogr": 100354,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel vinicole",
+              "code_ogr": 122547,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vignobles et appellations",
+              "code_ogr": 100369,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CQP caviste en cave coopérative",
+              "code_ogr": 490693,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro conduite et gestion de l'entreprise vitivinicole",
+              "code_ogr": 490692,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Vins biologiques et biodynamiques",
+              "code_ogr": 479360,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de distillation",
+              "code_ogr": 300755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dégustation",
+              "code_ogr": 104354,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de clarification",
+              "code_ogr": 123115,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vinification",
+              "code_ogr": 122542,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fermentation alcoolique",
+              "code_ogr": 122537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Viticulture",
+              "code_ogr": 119896,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Spécificités de stockage des vins",
+              "code_ogr": 100232,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Oenologie",
+              "code_ogr": 100356,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques d'assemblages de vins, de jus",
+              "code_ogr": 100373,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation sur la production vinicole",
+              "code_ogr": 100357,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de nettoyage des équipements",
+              "code_ogr": 477516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de filtrage",
+              "code_ogr": 123114,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques d'embouteillage",
+              "code_ogr": 100234,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiques de vinification durable",
+              "code_ogr": 477632,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": false
+    },
+    {
+      "code": "83",
+      "libelle": "Industrie - Alimentaire",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1413 - Brasseur / Brasseuse de bière",
+      "code_org_rome_cible": 27,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1304 - Conseiller / Conseillère technique agricole",
+      "code_org_rome_cible": 403951,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1804 - Sommelier / Sommelière",
+      "code_org_rome_cible": 209,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1301 - Gérant / Gérante de magasin d'alimentation générale",
+      "code_org_rome_cible": 101,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1801 - Barman / Barmaid",
+      "code_org_rome_cible": 206,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1501 - Animateur / Animatrice de vente",
+      "code_org_rome_cible": 110,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1410 - Attaché commercial / Attachée commerciale",
+      "code_org_rome_cible": 403086,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1418 - Viticulteur / Viticultrice",
+      "code_org_rome_cible": 403953,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1446 - Maître / Maîtresse de chai",
+      "code_org_rome_cible": 510192,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1423 - Œnologue",
+      "code_org_rome_cible": 488346,
+      "ordre_mobilite": 10
+    }
+  ]
+}

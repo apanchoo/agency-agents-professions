@@ -1,0 +1,192 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509778,
+    "code_rome": "K2320",
+    "libelle": "Chargé / Chargée du traitement des déchets",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "K2306"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.129,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        7
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.04",
+          "title": "Impact environnemental des activités anthropiques",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=118",
+          "selection_score": 64.451,
+          "shared_terms": [
+            "environnemental",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.09",
+          "title": "Analyse et maîtrise des impacts environnementaux",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=85",
+          "selection_score": 57.4157,
+          "shared_terms": [
+            "environnementaux",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 52.3471,
+          "shared_terms": [
+            "equipement",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Analyse des risques environnementaux dans une perspective de transition environnementale",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=48",
+          "selection_score": 55.1144,
+          "shared_terms": [
+            "environnementale",
+            "environnementaux",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.03",
+          "title": "Conseiller un organisateur d’événement en matière de sécurité du public et d’impact environnemental",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=74",
+          "selection_score": 50.6211,
+          "shared_terms": [
+            "environnemental",
+            "impact",
+            "securite"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.089,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.10",
+          "title": "Mise en oeuvre de l’économie circulaire",
+          "page": 689,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=689",
+          "selection_score": 60.411,
+          "shared_terms": [
+            "circulaire",
+            "economie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 57.2855,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SAB.11",
+          "title": "Technologies innovantes de bioproduction",
+          "page": 567,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=567",
+          "selection_score": 56.5578,
+          "shared_terms": [
+            "innovante",
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DN.01",
+          "title": "Innovation et amélioration de l’organisation d’une structure de restauration collective et de l’offre alimentaire proposée, dans le cadre d’un appel d’offres.",
+          "page": 429,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=429",
+          "selection_score": 52.2281,
+          "shared_terms": [
+            "amelioration",
+            "appel",
+            "offre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SEE.02",
+          "title": "Suivi d’un procédé de traitement et de son impact sur le milieu",
+          "page": 658,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=658",
+          "selection_score": 49.7747,
+          "shared_terms": [
+            "impact",
+            "procede",
+            "traitement"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

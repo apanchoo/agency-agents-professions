@@ -1,0 +1,278 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510069,
+    "code_rome": "H1530",
+    "libelle": "Technicien / Technicienne de la qualité de l'eau",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1503"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.773,
+      "matched_terms": [
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [
+        "qualite"
+      ],
+      "specific_title_terms": [
+        "qualite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.OSC.10",
+          "title": "Prévision et planification de la distribution",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=231",
+          "selection_score": 54.1063,
+          "shared_terms": [
+            "distribution",
+            "planification"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 48.8605,
+          "shared_terms": [
+            "conformite",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Bases du contrôle de gestion industriel",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=137",
+          "selection_score": 22.5401,
+          "shared_terms": [
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 94.74,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.QMI.03",
+          "title": "Projet QSE en tant que technicien",
+          "page": 278,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=278",
+          "selection_score": 27.8092,
+          "shared_terms": [
+            "technicien"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 19.692,
+      "matched_terms": [
+        "biologi",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        18,
+        21,
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SEE.07",
+          "title": "Traitement des eaux",
+          "page": 686,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=686",
+          "selection_score": 67.4843,
+          "shared_terms": [
+            "eaux",
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.SEE.17",
+          "title": "Pollutions chimiques",
+          "page": 604,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=604",
+          "selection_score": 62.0723,
+          "shared_terms": [
+            "chimique",
+            "pollution"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 55.6803,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.03",
+          "title": "Contrôler les paramètres microbiologiques et physico-chimiques des aliments et des bioproduits",
+          "page": 489,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=489",
+          "selection_score": 87.4323,
+          "shared_terms": [
+            "chimique",
+            "microbiologique",
+            "parametre",
+            "physico"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mesurer un paramètre biologique",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=102",
+          "selection_score": 66.2022,
+          "shared_terms": [
+            "mesurer",
+            "parametre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.394,
+      "matched_terms": [
+        "controle",
+        "mesure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 63.6768,
+          "shared_terms": [
+            "controle",
+            "expertise",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 58.8745,
+          "shared_terms": [
+            "chimique",
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 49.4091,
+          "shared_terms": [
+            "environnementale",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mettre en œuvre des analyses chimiques (acides-bases, complexation, précipitation) en appliquant les bonnes pratiques de laboratoire (BPL)",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=50",
+          "selection_score": 72.7212,
+          "shared_terms": [
+            "bonne",
+            "bpl",
+            "chimique",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCPC.04",
+          "title": "Construire un projet dans le domaine des mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 185,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=185",
+          "selection_score": 61.6716,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "mesure",
+            "physico"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

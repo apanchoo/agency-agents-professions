@@ -1,0 +1,542 @@
+{
+  "numero": 33351,
+  "rome": {
+    "code_rome": "A1510",
+    "intitule": "Préparateur / Préparatrice d'équidés",
+    "code_ogr": 510027
+  },
+  "appellations": [
+    {
+      "libelle": "Garçon / Fille de cour d'entraînement de chevaux",
+      "libelle_court": "Garçon / Fille de cour d'entraînement de chevaux",
+      "code_ogr": 38730
+    },
+    {
+      "libelle": "Groom chevaux",
+      "libelle_court": "Groom chevaux",
+      "code_ogr": 140928
+    },
+    {
+      "libelle": "Soigneur / Soigneuse de chevaux",
+      "libelle_court": "Soigneur / Soigneuse de chevaux",
+      "code_ogr": 19442
+    },
+    {
+      "libelle": "Soigneur / Soigneuse d'équidés",
+      "libelle_court": "Soigneur / Soigneuse d'équidés",
+      "code_ogr": 19447
+    }
+  ],
+  "definition": "Le Préparateur d'équidés assure les soins quotidiens essentiels pour le bien-être et la performance des chevaux. Distribue les rations alimentaires et dispense les soins d'hygiène Veille à la condition physique des chevaux et les prépare pour les entraînements et les compétitions Surveille la santé des équidés et administre les traitements de base sous supervision vétérinaire Gère l'entretien et la maintenance des équipements équestres Contribue à l'entraînement des jeunes chevaux et à leur acclimatation à différents environnements Apporte une soutien logistique lors des entraînements et des compétitions",
+  "acces_metier": "Cet emploi est accessible avec un Brevet Professionnel (BP) ou un Diplôme d'État (DE) dans le domaine des activités équestres. Un Certificat de transport d'animaux vivants peut être un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Organiser des séances d'entraînement pour chevaux",
+              "code_ogr": 500286,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Favoriser la collaboration entre les membres de l'équipe équestre",
+              "code_ogr": 505168,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les équipements nécessaires pour l'entraînement des équidés",
+              "code_ogr": 505159,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Accompagner les équidés lors des sorties extérieures",
+              "code_ogr": 505162,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Administrer des produits vétérinaires",
+              "code_ogr": 119894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Eduquer des équidés en vue de la réalisation d'activités équestres",
+              "code_ogr": 404010,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le comportement et l'état de santé d'un animal",
+              "code_ogr": 119351,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre des actions d'éducation ou de dressage des animaux lors des activités quotidiennes",
+              "code_ogr": 489509,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le matériel et apporter une aide technique au vétérinaire, à l'éleveur, ...",
+              "code_ogr": 100410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les chevaux pour l'entraînement",
+              "code_ogr": 500282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les équidés pour la compétition ou pour des évènements",
+              "code_ogr": 404018,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser l'opération de débourrage d'un jeune cheval",
+              "code_ogr": 122602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'alimentation des équidés pour garantir leur bien-être et leur santé",
+              "code_ogr": 505161,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Identifier un animal malade et informer les acteurs concernés (propriétaire, vétérinaire, ...)",
+              "code_ogr": 123087,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Organiser les espaces de repos des équidés",
+              "code_ogr": 505163,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer et entretenir le matériel d'équitation",
+              "code_ogr": 505160,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de nourriture et distribuer les aliments",
+              "code_ogr": 100295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger du matériel",
+              "code_ogr": 126444,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité et le bien-être des animaux lors du transport",
+              "code_ogr": 404022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner le matériel ou les équipements selon la compétition et les contraintes",
+              "code_ogr": 109180,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Procéder au transport ou au transfert d'un animal",
+              "code_ogr": 489510,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer l'agenda des activités équestres",
+              "code_ogr": 505165,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Informer le public sur la pratique de la discipline sportive et les modalités d'organisation des séances",
+              "code_ogr": 103925,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre une stratégie, un plan d'actions",
+              "code_ogr": 300484,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les propriétaires des équidés",
+              "code_ogr": 505166,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer les règles de sécurité",
+              "code_ogr": 402053,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les informations sur l'animal (troubles, comportement, antécédents, traitements en cours, etc.) auprès de son accompagnant ou dans le dossier médical",
+              "code_ogr": 100457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations relatives aux performances des équidés",
+              "code_ogr": 505170,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Animaux de compétition",
+              "code_ogr": 100472,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option C : équitation d'extérieur",
+              "code_ogr": 403977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option A : initiation poney, cheval",
+              "code_ogr": 403975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPJEPS spécialité éducateur sportif mention activités équestres option B : approfondissement technique",
+              "code_ogr": 403976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de spécialisation éducation et travail des jeunes équidés",
+              "code_ogr": 514182,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agricole lad-cavalier d'entraînement",
+              "code_ogr": 514093,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Nutrition animale",
+              "code_ogr": 118972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie animale",
+              "code_ogr": 100132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques d'entraînement sportif",
+              "code_ogr": 103933,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anatomie, physiologie et comportement des équidés",
+              "code_ogr": 100415,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédure d'entretien de matériel",
+              "code_ogr": 116658,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Planification des entraînements équestres",
+              "code_ogr": 496557,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation physique des chevaux",
+              "code_ogr": 496810,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        },
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        },
+        {
+          "libelle": "Structure sportive",
+          "code_ogr": 403961
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1421 - Palefrenier soigneur / Palefrenière soigneuse",
+      "code_org_rome_cible": 403957,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4117 - Conducteur / Conductrice d'attelage",
+      "code_org_rome_cible": 489210,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1439 - Eleveur / Eleveuse d'équidés",
+      "code_org_rome_cible": 509679,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1309 - Technicien / Technicienne d'élevage équin",
+      "code_org_rome_cible": 509754,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "L1403 - Cavalier / Cavalière d'entraînement",
+      "code_org_rome_cible": 509395,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1230 - Guide de tourisme équestre",
+      "code_org_rome_cible": 488860,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1204 - Garde nature",
+      "code_org_rome_cible": 10,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1210 - Ouvrier forestier / Ouvrière forestière",
+      "code_org_rome_cible": 488859,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N4125 - Conducteur / Conductrice de transport routier d'animaux vivants",
+      "code_org_rome_cible": 488935,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1210 - Enseignant / Enseignante d'équitation",
+      "code_org_rome_cible": 403958,
+      "ordre_mobilite": 10
+    }
+  ]
+}

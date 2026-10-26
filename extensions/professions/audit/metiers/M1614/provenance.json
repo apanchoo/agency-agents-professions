@@ -1,0 +1,154 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488927,
+    "code_rome": "M1614",
+    "libelle": "Standardiste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1601"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.763,
+      "matched_terms": [
+        "entrepris",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1601",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 1",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=190",
+          "selection_score": 41.8799,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 2",
+          "page": 213,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=213",
+          "selection_score": 41.3058,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 39.3043,
+          "shared_terms": [
+            "crm"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 18.0966,
+          "shared_terms": [
+            "client"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.853,
+      "matched_terms": [
+        "administrat",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1601",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 33.7959,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 29.3575,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Outils numériques de gestion",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=71",
+          "selection_score": 23.1353,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Transformation numérique de l’organisation",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=144",
+          "selection_score": 16.469,
+          "shared_terms": [
+            "numerique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

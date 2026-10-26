@@ -1,0 +1,178 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 476,
+    "code_rome": "M1603",
+    "libelle": "Facteur / Factrice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1603"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 19.151,
+      "matched_terms": [
+        "commercial",
+        "gestion",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1603",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.06",
+          "title": "Règlementation spécifique culturelle, artistique, sportive ou de tourisme",
+          "page": 398,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=398",
+          "selection_score": 36.2496,
+          "shared_terms": [
+            "reglementation",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Traitement de l’information",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=88",
+          "selection_score": 32.898,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Traitement des données",
+          "page": 166,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=166",
+          "selection_score": 32.4266,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MRPE.02",
+          "title": "Construire un plan d’affaires",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=119",
+          "selection_score": 21.713,
+          "shared_terms": [
+            "plan"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 19.13,
+          "shared_terms": [
+            "client"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.087,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1603",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GEMA.12",
+          "title": "Management d’activités : Management des relations commerciales",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=315",
+          "selection_score": 38.8062,
+          "shared_terms": [
+            "commerciale",
+            "relation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.13",
+          "title": "Environnement juridique : Droit de la fonction publique",
+          "page": 352,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=352",
+          "selection_score": 25.2413,
+          "shared_terms": [
+            "publique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Traitement numérique des données",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=113",
+          "selection_score": 23.5348,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Construire une posture professionnelle",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=61",
+          "selection_score": 36.8946,
+          "shared_terms": [
+            "posture"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GEMA.02",
+          "title": "Construire un business plan pour vérifier la faisabilité d’une nouvelle activité",
+          "page": 280,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=280",
+          "selection_score": 14.8217,
+          "shared_terms": [
+            "plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

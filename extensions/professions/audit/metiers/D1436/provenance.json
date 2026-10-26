@@ -1,0 +1,89 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510165,
+    "code_rome": "D1436",
+    "libelle": "Assistant / Assistante de régulation médicale (ARM)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1408"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.984,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1408",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.05",
+          "title": "Logistique",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=151",
+          "selection_score": 32.3739,
+          "shared_terms": [
+            "logistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.06",
+          "title": "Règlementation spécifique culturelle, artistique, sportive ou de tourisme",
+          "page": 398,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=398",
+          "selection_score": 14.7896,
+          "shared_terms": [
+            "specifique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.10",
+          "title": "Sources de financement spécifiques culturelles, artistiques, sportives ou de tourisme",
+          "page": 366,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=366",
+          "selection_score": 13.9819,
+          "shared_terms": [
+            "specifique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Identifier les compétences professionnelles",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=58",
+          "selection_score": 46.3903,
+          "shared_terms": [
+            "identifier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

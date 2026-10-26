@@ -1,0 +1,580 @@
+{
+  "numero": 391,
+  "rome": {
+    "code_rome": "H2908",
+    "intitule": "Modeleur / Modeleuse",
+    "code_ogr": 285
+  },
+  "appellations": [
+    {
+      "libelle": "Chef / Cheffe d'atelier de modelage",
+      "libelle_court": "Chef / Cheffe d'atelier de modelage",
+      "code_ogr": 12043
+    },
+    {
+      "libelle": "Maquettiste modeleur / Maquettiste modeleuse",
+      "libelle_court": "Maquettiste modeleur / Maquettiste modeleuse",
+      "code_ogr": 16376
+    },
+    {
+      "libelle": "Modeleur / Modeleuse bois",
+      "libelle_court": "Modeleur / Modeleuse bois",
+      "code_ogr": 16691
+    },
+    {
+      "libelle": "Modeleur / Modeleuse en fonderie",
+      "libelle_court": "Modeleur / Modeleuse en fonderie",
+      "code_ogr": 16694
+    },
+    {
+      "libelle": "Modeleur / Modeleuse matières plastiques",
+      "libelle_court": "Modeleur / Modeleuse matières plastiques",
+      "code_ogr": 16696
+    },
+    {
+      "libelle": "Modeleur / Modeleuse mouliste",
+      "libelle_court": "Modeleur / Modeleuse mouliste",
+      "code_ogr": 16697
+    },
+    {
+      "libelle": "Modeleur / Modeleuse résine",
+      "libelle_court": "Modeleur / Modeleuse résine",
+      "code_ogr": 16699
+    },
+    {
+      "libelle": "Modeleur / Modeleuse sur matériaux non métalliques",
+      "libelle_court": "Modeleur / Modeleuse sur matériaux non métalliques",
+      "code_ogr": 16703
+    },
+    {
+      "libelle": "Modeleur / Modeleuse technique",
+      "libelle_court": "Modeleur / Modeleuse technique",
+      "code_ogr": 16705
+    },
+    {
+      "libelle": "Modeleur traditionnel / Modeleuse traditionnelle",
+      "libelle_court": "Modeleur traditionnel / Modeleuse traditionnelle",
+      "code_ogr": 16706
+    },
+    {
+      "libelle": "Mouliste en matériaux composites",
+      "libelle_court": "Mouliste en matériaux composites",
+      "code_ogr": 16929
+    },
+    {
+      "libelle": "Mouliste en matériaux non métalliques",
+      "libelle_court": "Mouliste en matériaux non métalliques",
+      "code_ogr": 16930
+    },
+    {
+      "libelle": "Noyauteur / Noyauteuse main sur matériaux non métalliques",
+      "libelle_court": "Noyauteur / Noyauteuse main sur matériaux non métalliques",
+      "code_ogr": 17002
+    },
+    {
+      "libelle": "Technicien modeleur / Technicienne modeleuse",
+      "libelle_court": "Technicien modeleur / Technicienne modeleuse",
+      "code_ogr": 20204
+    }
+  ],
+  "definition": "Le Modeleur conçoit des modèles ou des moules pour la production d'objets en divers matériaux en utilisant des techniques manuelles et numériques pour créer des prototypes et des séries. Utilise des machines comme les imprimantes 3D ou les fraiseuses pour fabriquer les pièces Respecte les procédures de sécurité et d'hygiène ainsi qu'au bon fonctionnement de son équipement Assure la finition des objets en collaborant avec les ingénieurs et les designers pour affiner les conceptions Participe à l'amélioration des processus de moulage et de modelage pour optimiser la production",
+  "acces_metier": "Ce métier est accessible avec un Bac Pro Technicien modeleur ou un Titre Professionnel BIM modeleur du bâtiment. Des formations complémentaires en design industriel, CAO, matériaux composites ou résine et plasturgie seraient un plus.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Concevoir des maquettes et pré-maquettes",
+              "code_ogr": 300070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et faire évoluer un modèle, un prototype",
+              "code_ogr": 300073,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à des tests, expérimentations",
+              "code_ogr": 300080,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un premier moule à partir d'un modèle par enterrage, coffrage, coulage de plâtre",
+              "code_ogr": 106163,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Créer une documentation technique",
+              "code_ogr": 300126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des plans d'outillages non métalliques",
+              "code_ogr": 117366,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Concevoir des coulages et moulages des matières premières",
+              "code_ogr": 300192,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer des produits de protection ou de démoulage sur des parties de moule, des matrices",
+              "code_ogr": 114810,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer les finitions nécessaires sur le produit fini",
+              "code_ogr": 106164,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fabriquer, façonner des produits",
+              "code_ogr": 300232,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre les processus et les modes opératoires techniques",
+              "code_ogr": 300129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Monter et régler une installation, une machine",
+              "code_ogr": 300135,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relever et reporter des cotes",
+              "code_ogr": 106160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des moules",
+              "code_ogr": 114811,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une opération de ponçage, polissage, lissage",
+              "code_ogr": 105962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transformer une matière première",
+              "code_ogr": 300210,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations de montage, d'assemblage et démontage",
+              "code_ogr": 300138,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer, modifier ou transformer des outillages non métalliques (modèles, moule, matrice, ...)",
+              "code_ogr": 114814,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité des process",
+              "code_ogr": 300258,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter une démarche qualité, un processus d'amélioration continue",
+              "code_ogr": 300245,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Recycler et valoriser des déchets ou produits",
+              "code_ogr": 404528,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réduire l'empreinte environnementale de son activité",
+              "code_ogr": 402008,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec l'équipe pour assurer la cohérence du travail",
+              "code_ogr": 486771,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de machines-outils à commandes numériques",
+              "code_ogr": 104936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils électroportatifs (scie électrique, ponceuse, etc.)",
+              "code_ogr": 100507,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaissance des matériaux composites et de leur comportement sous contrainte",
+              "code_ogr": 492992,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de banc de coulage",
+              "code_ogr": 106180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des résines",
+              "code_ogr": 106572,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des plâtres de moulage",
+              "code_ogr": 106174,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques techniques des moules",
+              "code_ogr": 106171,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des matériaux en cire",
+              "code_ogr": 106179,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de centres d'usinage",
+              "code_ogr": 104932,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Fabrication Assistée par Ordinateur (FAO)",
+              "code_ogr": 119426,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification de la production",
+              "code_ogr": 476797,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dessin industriel",
+              "code_ogr": 100594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dosage de matériau (plâtre, résine, ...)",
+              "code_ogr": 106166,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans techniques",
+              "code_ogr": 479690,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédés de stratification",
+              "code_ogr": 123432,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité",
+              "code_ogr": 103130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Usinage, modelage, découpage, formage, sculpture, ...",
+              "code_ogr": 106161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Critères de démoulage (dépouilles, rayons, ...)",
+              "code_ogr": 106168,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des stocks de matières premières",
+              "code_ogr": 476801,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage",
+              "code_ogr": 106202,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'estampage",
+              "code_ogr": 106170,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de finition et de polissage",
+              "code_ogr": 100819,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de collage",
+              "code_ogr": 100800,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de coulage",
+              "code_ogr": 106181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de résines pour moulage",
+              "code_ogr": 510940,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "106",
+      "libelle": "Industrie - Chimie",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2909 - Assembleur monteur / Assembleuse monteuse",
+      "code_org_rome_cible": 286,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H2504 - Chef / Cheffe d'équipe en industrie",
+      "code_org_rome_cible": 265,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2513 - Chef / Cheffe d'équipe et d'atelier cuir et peaux",
+      "code_org_rome_cible": 519158,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2516 - Technicien / Technicienne de production du travail des métaux",
+      "code_org_rome_cible": 520128,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1333 - Chef / Cheffe d'équipe d'installation industrielle",
+      "code_org_rome_cible": 509918,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "E1301 - Conducteur / Conductrice de machines d'impression",
+      "code_org_rome_cible": 132,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2114 - Formateur / Formatrice qualité",
+      "code_org_rome_cible": 488317,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H2426 - Chef / Cheffe d'équipe en atelier de coupe",
+      "code_org_rome_cible": 488932,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "E1302 - Conducteur / Conductrice de machines de façonnage routage",
+      "code_org_rome_cible": 133,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "E1315 - Conducteur / Conductrice de machines de reliure automatique",
+      "code_org_rome_cible": 510313,
+      "ordre_mobilite": 10
+    }
+  ]
+}

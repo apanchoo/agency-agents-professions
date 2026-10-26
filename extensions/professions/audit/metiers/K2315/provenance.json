@@ -1,0 +1,112 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509398,
+    "code_rome": "K2315",
+    "libelle": "Inspecteur / Inspectrice de salubrité publique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K2302"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.071,
+      "matched_terms": [
+        "hygiene",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 64.9969,
+          "shared_terms": [
+            "equipement",
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.07",
+          "title": "Hygiène et salubrité des locaux et des produits alimentaires",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=83",
+          "selection_score": 52.6953,
+          "shared_terms": [
+            "hygiene",
+            "salubrite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.03",
+          "title": "Droit de la santé et de la sécurité au travail",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=78",
+          "selection_score": 45.8012,
+          "shared_terms": [
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Maîtriser les risques pour les populations et les installations dans un établissement recevant du public (ERP)",
+          "page": 26,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=26",
+          "selection_score": 56.3203,
+          "shared_terms": [
+            "etablissement",
+            "installation",
+            "public",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Analyse des risques environnementaux dans une perspective de transition environnementale",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=48",
+          "selection_score": 54.7238,
+          "shared_terms": [
+            "environnementale",
+            "environnementaux",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

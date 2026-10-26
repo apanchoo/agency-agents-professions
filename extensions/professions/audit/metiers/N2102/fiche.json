@@ -1,0 +1,569 @@
+{
+  "numero": 542,
+  "rome": {
+    "code_rome": "N2102",
+    "intitule": "Pilote de ligne",
+    "code_ogr": 511
+  },
+  "appellations": [
+    {
+      "libelle": "Aviateur / Aviatrice",
+      "libelle_court": "Aviateur / Aviatrice",
+      "code_ogr": 510825
+    },
+    {
+      "libelle": "Chef / Cheffe Personnel Navigant Technique (PNT)",
+      "libelle_court": "Chef / Cheffe Personnel Navigant Technique (PNT)",
+      "code_ogr": 12596
+    },
+    {
+      "libelle": "Chef / Cheffe pilote aéronautique",
+      "libelle_court": "Chef / Cheffe pilote aéronautique",
+      "code_ogr": 12597
+    },
+    {
+      "libelle": "Commandant / Commandante de bord avion",
+      "libelle_court": "Commandant / Commandante de bord avion",
+      "code_ogr": 12728
+    },
+    {
+      "libelle": "Commandant / Commandante de bord hélicoptère",
+      "libelle_court": "Commandant / Commandante de bord hélicoptère",
+      "code_ogr": 12729
+    },
+    {
+      "libelle": "Commandant de bord / Commandante de bord",
+      "libelle_court": "Commandant de bord / Commandante de bord",
+      "code_ogr": 517934
+    },
+    {
+      "libelle": "Copilote d'aéronef",
+      "libelle_court": "Copilote d'aéronef",
+      "code_ogr": 13723
+    },
+    {
+      "libelle": "Instructeur pilote d'avion ou d'hélicoptère / Instructrice pilote d'avion ou d'hélicoptère",
+      "libelle_court": "Instructeur(trice) pilote avion ou hélicoptère",
+      "code_ogr": 517930
+    },
+    {
+      "libelle": "Officier / Officière pilote de ligne -OPL-",
+      "libelle_court": "Officier / Officière pilote de ligne -OPL-",
+      "code_ogr": 17035
+    },
+    {
+      "libelle": "Pilote d'avion",
+      "libelle_court": "Pilote d'avion",
+      "code_ogr": 17742
+    },
+    {
+      "libelle": "Pilote d'avion privé",
+      "libelle_court": "Pilote d'avion privé",
+      "code_ogr": 517931
+    },
+    {
+      "libelle": "Pilote de ligne aérienne",
+      "libelle_court": "Pilote de ligne aérienne",
+      "code_ogr": 17747
+    },
+    {
+      "libelle": "Pilote de ligne de l'aviation civile",
+      "libelle_court": "Pilote de ligne de l'aviation civile",
+      "code_ogr": 517933
+    },
+    {
+      "libelle": "Pilote d'essai (avion de ligne)",
+      "libelle_court": "Pilote d'essai (avion de ligne)",
+      "code_ogr": 517932
+    },
+    {
+      "libelle": "Pilote d'essais aéronautiques",
+      "libelle_court": "Pilote d'essais aéronautiques",
+      "code_ogr": 17759
+    },
+    {
+      "libelle": "Pilote d'hélicoptère",
+      "libelle_court": "Pilote d'hélicoptère",
+      "code_ogr": 17762
+    },
+    {
+      "libelle": "Pilote professionnel / Pilote professionnelle aéronautique",
+      "libelle_court": "Pilote professionnel / Pilote professionnelle aéronautique",
+      "code_ogr": 17784
+    }
+  ],
+  "definition": "Le pilote de ligne assure la sécurité et le confort des passagers à travers les continents. Assure le pilotage de l'avion pour des vols commerciaux selon les règles de l'aviation civile Contrôle les instruments de bord et maintient la communication avec les contrôleurs aériens Vérifie les conditions météorologiques et adapte le plan de vol en conséquence Supervise l'équipage de cabine pour garantir le respect des procédures de sécurité Effectue des contrôles pré-vol pour s'assurer que l'avion est en état de voler Peut former et évaluer d'autres pilotes ou participer à des missions de sauvetage",
+  "acces_metier": "Pour devenir pilote de ligne, il est nécessaire de posséder une licence de pilote de ligne (Air transport pilot licence - ATPL) ou une licence de pilote en équipage multiple (Multi-crew pilot licence - MPL). Ces qualifications sont obligatoires et correspondent à un niveau Bac +5. Des qualifications supplémentaires comme pilote professionnel hélicoptère peuvent également être requises.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer les vérifications de l'appareil avant décollage",
+              "code_ogr": 110153,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller l'état technique de l'avion",
+              "code_ogr": 517503,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Développer des stratégies pour des vols économiques et sécurisés",
+              "code_ogr": 517502,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les situations de stress en cabine",
+              "code_ogr": 517505,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Organiser ou superviser les opérations à bord (chargement, accueil passagers, ...) et mettre en place des mesures d'urgence en cas d'aléas",
+              "code_ogr": 110169,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter un avion nécessitant une qualification homologuée Flight Crew Licencing (FCL)",
+              "code_ogr": 120482,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter un aéronef",
+              "code_ogr": 300273,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter un hélicoptère nécessitant une qualification homologuée Flight Crew Licencing (FCL)",
+              "code_ogr": 120488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations d'évacuation sanitaire par transport aérien",
+              "code_ogr": 110209,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de fret par transport aérien",
+              "code_ogr": 110210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de « Travail Aérien »",
+              "code_ogr": 110212,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Analyser les conditions météorologiques pour la planification de vol",
+              "code_ogr": 517754,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Se coordonner avec l'équipe au sol pour les opérations de décollage et d'atterrissage",
+              "code_ogr": 517501,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre et échanger les informations de vol avec le personnel de bord et le personnel technique au sol",
+              "code_ogr": 110168,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations de navigation pour optimiser les itinéraires",
+              "code_ogr": 483698,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Analyse météorologique pour le vol",
+              "code_ogr": 516249,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion aéroportuaire",
+              "code_ogr": 516117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques techniques des aéronefs",
+              "code_ogr": 106997,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Communication en situation de crise",
+              "code_ogr": 476774,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels aéronautiques",
+              "code_ogr": 119044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des équipages",
+              "code_ogr": 495150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais technique",
+              "code_ogr": 110150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Météorologie",
+              "code_ogr": 126117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de survie en vol",
+              "code_ogr": 516252,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modes de calcul du chargement carburant",
+              "code_ogr": 110181,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pilotage d'un hélicoptère",
+              "code_ogr": 124342,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de communication radio aéronautique",
+              "code_ogr": 110180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Terminologie aéronautique (IATA, alphabet aéronautique, ...)",
+              "code_ogr": 110177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pilotage d'un avion",
+              "code_ogr": 124350,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vol aux instruments Avion (IFR, IR)",
+              "code_ogr": 120487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travail en Equipage Avion (FTE, MCC)",
+              "code_ogr": 120485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'avitaillement en carburant",
+              "code_ogr": 107019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes mécaniques du vol et de la navigation aérienne",
+              "code_ogr": 110179,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réduction du bruit aérien",
+              "code_ogr": 498629,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de sécurité en zone aéroportuaire",
+              "code_ogr": 515508,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Code de l'aviation civile",
+              "code_ogr": 109964,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion de la sécurité des vols",
+              "code_ogr": 126402,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travail en Equipage Hélicoptère (MCC -H-)",
+              "code_ogr": 120491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vol aux instruments Hélicoptère (PPH/IFR, IR -H-)",
+              "code_ogr": 120492,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des situations d'urgence aérienne",
+              "code_ogr": 495449,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de positionnement par satellite",
+              "code_ogr": 493630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vol à basse altitude",
+              "code_ogr": 498899,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vol en formation",
+              "code_ogr": 480932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de rapport d'incident",
+              "code_ogr": 478754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des passagers en situation d'urgence",
+              "code_ogr": 516250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des conflits",
+              "code_ogr": 510923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des procédures de dégivrage d'avions",
+              "code_ogr": 515514,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'économie de carburant",
+              "code_ogr": 481673,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En altitude",
+          "code_ogr": 23377
+        },
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Mobilisable en urgence",
+          "code_ogr": 511474
+        },
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N2103 - Pilote instructeur / Pilote instructrice aéronautique",
+      "code_org_rome_cible": 515463,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N2202 - Contrôleur aérien / Contrôleuse aérienne",
+      "code_org_rome_cible": 513,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N2206 - Pilote de drone",
+      "code_org_rome_cible": 489039,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N2210 - Superviseur / Superviseuse d'exploitation aéroportuaire",
+      "code_org_rome_cible": 509657,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1715 - Pilote d'hélicoptère des forces armées",
+      "code_org_rome_cible": 488906,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N2208 - Contrôleur / Contrôleuse de la circulation et de la défense aérienne",
+      "code_org_rome_cible": 510602,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1731 - Responsable des opérations militaires en milieu aéroterrestre",
+      "code_org_rome_cible": 510475,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1112 - Ingénieur / Ingénieure calcul et structure",
+      "code_org_rome_cible": 403090,
+      "ordre_mobilite": 9
+    }
+  ]
+}

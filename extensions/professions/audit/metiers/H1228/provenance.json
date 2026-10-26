@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510276,
+    "code_rome": "H1228",
+    "libelle": "Chef de groupe projeteur / Cheffe de groupe projeteuse en électricité-électronique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1202"
+  },
+  "but": [
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 169.138,
+      "matched_terms": [
+        "electri",
+        "electron"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [
+        "electri",
+        "electron"
+      ],
+      "specific_title_terms": [
+        "electri",
+        "electron"
+      ],
+      "parent_rome_pages": [
+        10
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.09",
+          "title": "Electronique spécialisée",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=152",
+          "selection_score": 61.4266,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ESE.14",
+          "title": "Informatique spécialisée",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=113",
+          "selection_score": 46.4072,
+          "shared_terms": [
+            "informatique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Electronique",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=59",
+          "selection_score": 45.5635,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ESE.01",
+          "title": "Implantation d’une chaîne d’acquisition ou de restitution sur un système électronique",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=89",
+          "selection_score": 81.5093,
+          "shared_terms": [
+            "electronique",
+            "implantation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ESE.01",
+          "title": "Mettre en œuvre un système électronique et/ou embarqué spécifique",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=136",
+          "selection_score": 45.9341,
+          "shared_terms": [
+            "electronique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,662 @@
+{
+  "numero": 241,
+  "rome": {
+    "code_rome": "I1203",
+    "intitule": "Agent / Agente d'entretien du bâtiment",
+    "code_ogr": 309
+  },
+  "appellations": [
+    {
+      "libelle": "Adjoint / Adjointe technique (maintenance des bâtiments)",
+      "libelle_court": "Adjoint / Adjointe technique (maintenance des bâtiments)",
+      "code_ogr": 510850
+    },
+    {
+      "libelle": "Agent / Agente de maintenance des bâtiments",
+      "libelle_court": "Agent / Agente de maintenance des bâtiments",
+      "code_ogr": 10489
+    },
+    {
+      "libelle": "Agent / Agente d'entretien de casernement",
+      "libelle_court": "Agent / Agente d'entretien de casernement",
+      "code_ogr": 10663
+    },
+    {
+      "libelle": "Agent / Agente d'entretien des bâtiments et espaces collectifs",
+      "libelle_court": "Agent(e) d'entretien des bâtiments et espaces collectifs",
+      "code_ogr": 10671
+    },
+    {
+      "libelle": "Agent / Agente d'entretien des collectivités",
+      "libelle_court": "Agent / Agente d'entretien des collectivités",
+      "code_ogr": 10672
+    },
+    {
+      "libelle": "Agent / Agente d'entretien des installations d'infrastructures",
+      "libelle_court": "Agent(e) d'entretien des installations d'infrastructures",
+      "code_ogr": 10674
+    },
+    {
+      "libelle": "Agent / Agente d'entretien et de maintenance des bâtiments",
+      "libelle_court": "Agent / Agente d'entretien et de maintenance des bâtiments",
+      "code_ogr": 488938
+    },
+    {
+      "libelle": "Agent / Agente d'entretien travaux à domicile",
+      "libelle_court": "Agent / Agente d'entretien travaux à domicile",
+      "code_ogr": 38086
+    },
+    {
+      "libelle": "Agent d'entretien maintenance polyvalent / Agente d'entretien maintenance polyvalente en collectivité",
+      "libelle_court": "Agent(e) entretien maintenance polyvalent(e) en collectivité",
+      "code_ogr": 10684
+    },
+    {
+      "libelle": "Chargé / Chargée d'entretien et maintenance",
+      "libelle_court": "Chargé / Chargée d'entretien et maintenance",
+      "code_ogr": 489992
+    },
+    {
+      "libelle": "Factotum",
+      "libelle_court": "Factotum",
+      "code_ogr": 15058
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'entretien et de maintenance des bâtiments",
+      "libelle_court": "Ouvrier(ère) d'entretien et de maintenance des bâtiments",
+      "code_ogr": 488939
+    },
+    {
+      "libelle": "Ouvrier polyvalent / Ouvrière polyvalente d'entretien des bâtiments",
+      "libelle_court": "Ouvrier(ère) polyvalent(e) d'entretien des bâtiments",
+      "code_ogr": 17477
+    },
+    {
+      "libelle": "Personnel de l'entretien des installations du bâtiment",
+      "libelle_court": "Personnel de l'entretien des installations du bâtiment",
+      "code_ogr": 17671
+    },
+    {
+      "libelle": "Technicien / Technicienne d'entretien et de maintenance du bâtiment",
+      "libelle_court": "Technicien(ne) d'entretien et de maintenance du bâtiment",
+      "code_ogr": 19937
+    },
+    {
+      "libelle": "Technicien polyvalent / Technicienne polyvalente du bâtiment",
+      "libelle_court": "Technicien polyvalent / Technicienne polyvalente du bâtiment",
+      "code_ogr": 20217
+    }
+  ],
+  "definition": "L'Agent d'entretien du bâtiment, professionnel polyvalent, assure la maintenance préventive et corrective des bâtiments et installations dont il a la charge. Contrôle régulièrement l'état des équipements et leur fonctionnement Réalise des travaux de réparation de maçonnerie, peinture, plomberie et électricité selon les besoins Veille à la propreté des espaces intérieurs et extérieurs Gère le stock de matériel et de fournitures nécessaires à l'entretien des bâtiments Peut réaliser des aménagements ou travaux neufs afin d'améliorer la qualité des bâtiments et installations",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac dans le secteur du bâtiment ou la maintenance de bâtiments de collectivités. Une expérience professionnelle dans un domaine du second œuvre est souvent demandée. Des habilitations peuvent être nécessaires pour la manipulation sécurisée des installations électriques.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer des méthodes de lutte intégrée contre les nuisibles",
+              "code_ogr": 126432,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Démonter des éléments mobiliers, équipements sportifs, cloisons ou faux-plafonds",
+              "code_ogr": 122121,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déposer un revêtement de sol ou mural",
+              "code_ogr": 122132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mesurer des caractéristiques électriques",
+              "code_ogr": 400333,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Entretenir un espace vert",
+              "code_ogr": 403003,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Fixer, poser, installer des éléments, des ouvrages",
+              "code_ogr": 300228,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Monter des cloisons ou faux plafonds",
+              "code_ogr": 122945,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Monter du mobilier",
+              "code_ogr": 104888,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser le montage et la mise en place de protections collectives (écran, sas, paroi, ...)",
+              "code_ogr": 114960,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser, poser des revêtements",
+              "code_ogr": 300224,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance préventive de premier niveau des équipements",
+              "code_ogr": 485420,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Constater une panne sur une installation (éclairage, chauffage, sanitaires)",
+              "code_ogr": 106659,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer des travaux de réparation courante en plomberie, peinture, électricité",
+              "code_ogr": 484995,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir des stades, équipements sportifs",
+              "code_ogr": 106671,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir l'installation sanitaire, de chauffage et de production d'eau chaude",
+              "code_ogr": 106662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un logement",
+              "code_ogr": 106670,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nettoyer les surfaces et les espaces communs",
+              "code_ogr": 484992,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des travaux de bricolage courants (changer un joint, une ampoule...)",
+              "code_ogr": 116215,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réparer ou modifier des éléments maçonnés",
+              "code_ogr": 103668,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer ou remplacer les poignées, vitres, rails de portes ou de fenêtres",
+              "code_ogr": 106661,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des zones de travail et signaler les dangers potentiels",
+              "code_ogr": 484994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité des installations électriques",
+              "code_ogr": 106811,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter les dysfonctionnements nécessitant l'intervention d'un intervenant extérieur",
+              "code_ogr": 489512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Implanter des éléments de sécurité ou de signalisation",
+              "code_ogr": 122772,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les systèmes de chauffage et de refroidissement pour garantir leur fonctionnement",
+              "code_ogr": 484996,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Inspecter régulièrement les structures du bâtiment pour identifier les besoins de réparation",
+              "code_ogr": 484991,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de matériel de nettoyage et de maintenance",
+              "code_ogr": 484993,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Veiller au respect des normes de sécurité",
+              "code_ogr": 404243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Encourager les écogestes et la réduction de l'empreinte environnementale",
+              "code_ogr": 489291,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les déchets et le recyclage de manière écologique",
+              "code_ogr": 125495,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Argumenter pour obtenir des ressources supplémentaires pour des projets de maintenance",
+              "code_ogr": 484997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'urgence pour minimiser les dommages",
+              "code_ogr": 484998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Alerter le service de maintenance",
+              "code_ogr": 123312,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de produits écologiques",
+              "code_ogr": 479874,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conditionnement d'air",
+              "code_ogr": 125049,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'engins de tonte (autotractés et autoportés)",
+              "code_ogr": 100064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériaux durables",
+              "code_ogr": 479880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Menuiserie aluminium",
+              "code_ogr": 103597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnement des installations énergétiques",
+              "code_ogr": 124049,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des revêtements muraux",
+              "code_ogr": 114889,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Menuiserie PVC",
+              "code_ogr": 103598,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Chargé de maintenance technique polyvalent",
+              "code_ogr": 515236,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP interventions en maintenance technique des bâtiments",
+              "code_ogr": 491200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP ouvrier qualifié de maintenance en hôtellerie de plein air",
+              "code_ogr": 514943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel agent de maintenance des bâtiments",
+              "code_ogr": 515058,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent de maintenance des bâtiments [Polynésie Française]",
+              "code_ogr": 515172,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Menuiserie bois",
+              "code_ogr": 103596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité",
+              "code_ogr": 102717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretien des espaces verts",
+              "code_ogr": 123463,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plomberie",
+              "code_ogr": 106747,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources en eau",
+              "code_ogr": 479040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réglementation sécurité incendie",
+              "code_ogr": 101449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de surface",
+              "code_ogr": 123285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'entretien de bâtiments",
+              "code_ogr": 116660,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de maçonnerie",
+              "code_ogr": 100596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de base en plomberie",
+              "code_ogr": 102173,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance des équipements de ventilation",
+              "code_ogr": 479875,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets",
+              "code_ogr": 476962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pose des revêtements souples",
+              "code_ogr": 103635,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1204 - Agent / Agente d'entretien des piscines",
+      "code_org_rome_cible": 488571,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1203 - Agent / Agente d'entretien des espaces verts",
+      "code_org_rome_cible": 9,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1707 - Maçon / Maçonne du paysage",
+      "code_org_rome_cible": 403952,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1603 - Plombier / Plombière sanitaire",
+      "code_org_rome_cible": 163,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1301 - Ascensoriste",
+      "code_org_rome_cible": 310,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1402 - Technicien / Technicienne de maintenance en appareils électroménagers",
+      "code_org_rome_cible": 321,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2203 - Responsable de secteur en propreté de locaux",
+      "code_org_rome_cible": 418,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1212 - Vendeur / Vendeuse en équipement de la maison",
+      "code_org_rome_cible": 98,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1606 - Peintre en bâtiment",
+      "code_org_rome_cible": 166,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 219,
+    "code_rome": "H1208",
+    "libelle": "Automaticien / Automaticienne en bureau d'études",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1208"
+  },
+  "but": [
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 99.778,
+      "matched_terms": [
+        "automati",
+        "electron"
+      ],
+      "direct_rome_pages": [
+        10
+      ],
+      "parent_rome": "H1208",
+      "title_terms": [
+        "automati"
+      ],
+      "specific_title_terms": [
+        "automati"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AII.08",
+          "title": "Robotique",
+          "page": 298,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=298",
+          "selection_score": 140.9847,
+          "shared_terms": [
+            "robotique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.AII.03",
+          "title": "Sécurité machine",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=336",
+          "selection_score": 114.578,
+          "shared_terms": [
+            "machine",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AII.15",
+          "title": "Supervision / Télégestion",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=277",
+          "selection_score": 72.5665,
+          "shared_terms": [
+            "supervision"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.AII.01",
+          "title": "Intégration d’outils communicants et numériques dans un système automatisé industriel",
+          "page": 328,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=328",
+          "selection_score": 84.6644,
+          "shared_terms": [
+            "automatise",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AII.01",
+          "title": "Intégration et programmation d’un système automatisé dans le mode de fonctionnement normal",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=252",
+          "selection_score": 75.9169,
+          "shared_terms": [
+            "automatise",
+            "programmation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.919,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1208",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Informatique d’instrumentation",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=94",
+          "selection_score": 52.7143,
+          "shared_terms": [
+            "informatique",
+            "instrumentation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 45.6568,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Systèmes électroniques",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=93",
+          "selection_score": 43.6792,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Dessiner et concevoir un élément nécessaire à une campagne de mesure à l’aide d’un logiciel spécifique (DAO/CAO)",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=46",
+          "selection_score": 66.5461,
+          "shared_terms": [
+            "cao",
+            "dao",
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Mettre en œuvre un capteur grâce à des systèmes électroniques",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=74",
+          "selection_score": 52.1459,
+          "shared_terms": [
+            "capteur",
+            "electronique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.342,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1208",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.11",
+          "title": "Supervision de la sécurité",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=179",
+          "selection_score": 54.9954,
+          "shared_terms": [
+            "securite",
+            "supervision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Fondamentaux des systèmes électroniques",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=77",
+          "selection_score": 44.0791,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 39.7873,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.IOM.01",
+          "title": "Mettre en place un réseau IoT répondant à un cahier des charges",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=335",
+          "selection_score": 46.1819,
+          "shared_terms": [
+            "cahier",
+            "charge"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CYBER.03",
+          "title": "Assurer la sécurisation et la supervision avancées d’un système d’information",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=164",
+          "selection_score": 29.1484,
+          "shared_terms": [
+            "supervision"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

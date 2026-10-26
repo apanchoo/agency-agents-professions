@@ -1,0 +1,183 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488746,
+    "code_rome": "M1611",
+    "libelle": "Secrétaire Facturier / Facturière",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1608"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 26.005,
+      "matched_terms": [
+        "administrat",
+        "comptab",
+        "financ",
+        "gestion",
+        "paie"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1608",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.12",
+          "title": "Ressources humaines : Pratique de la paie",
+          "page": 351,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=351",
+          "selection_score": 48.0012,
+          "shared_terms": [
+            "paie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.12",
+          "title": "Comptabilité : Techniques de base de comptabilité approfondie et de révision comptable",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=121",
+          "selection_score": 41.0772,
+          "shared_terms": [
+            "comptabilite",
+            "comptable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Comptabilité",
+          "page": 69,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=69",
+          "selection_score": 40.8187,
+          "shared_terms": [
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 34.9695,
+          "shared_terms": [
+            "administratif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Mettre en œuvre une organisation comptable et fiscale",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=60",
+          "selection_score": 26.0493,
+          "shared_terms": [
+            "comptable"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.252,
+      "matched_terms": [
+        "entrepris",
+        "gestion",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1608",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Pilotage comptable et financier - Niveau 1",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=86",
+          "selection_score": 51.05,
+          "shared_terms": [
+            "comptable",
+            "financier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MDFS.09",
+          "title": "Pilotage comptable et financier - Niveau 2",
+          "page": 189,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=189",
+          "selection_score": 50.7927,
+          "shared_terms": [
+            "comptable",
+            "financier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 1",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=190",
+          "selection_score": 42.6857,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.02",
+          "title": "Produire les éléments de gestion RH",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=173",
+          "selection_score": 34.5061,
+          "shared_terms": [
+            "element"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MDFS.02",
+          "title": "Produire les éléments de gestion à des fins d’analyse",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=195",
+          "selection_score": 28.7161,
+          "shared_terms": [
+            "element"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

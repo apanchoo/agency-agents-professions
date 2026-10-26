@@ -1,0 +1,272 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488873,
+    "code_rome": "M1716",
+    "libelle": "Directeur / Directrice marketing digital",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1705"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.376,
+      "matched_terms": [
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [
+        "marketing"
+      ],
+      "specific_title_terms": [
+        "marketing"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MDEE.15",
+          "title": "Stratégie de marketing digital",
+          "page": 296,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=296",
+          "selection_score": 62.7238,
+          "shared_terms": [
+            "digital",
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDEE.10",
+          "title": "Ressources et culture numériques appliquées au marketing digital, à l’e-business et à l’entrepreneuriat",
+          "page": 337,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=337",
+          "selection_score": 56.9848,
+          "shared_terms": [
+            "busines",
+            "digital",
+            "marketing",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDEE.15",
+          "title": "Stratégie de contenu et rédaction web",
+          "page": 342,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=342",
+          "selection_score": 56.2147,
+          "shared_terms": [
+            "contenu",
+            "strategie",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Communication commerciale : création d’un support \"print\"",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=68",
+          "selection_score": 67.4702,
+          "shared_terms": [
+            "commerciale",
+            "creation",
+            "print"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDEE.02",
+          "title": "Démarche de création d’entreprise en contexte digital",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=275",
+          "selection_score": 61.1001,
+          "shared_terms": [
+            "creation",
+            "digital"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.849,
+      "matched_terms": [
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.06",
+          "title": "Webmarketing",
+          "page": 212,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=212",
+          "selection_score": 106.3901,
+          "shared_terms": [
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.STRAT-UX.05",
+          "title": "Stratégie de Com / Webmarketing",
+          "page": 198,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=198",
+          "selection_score": 93.3371,
+          "shared_terms": [
+            "strategie",
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=173",
+          "selection_score": 73.4084,
+          "shared_terms": [
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.03",
+          "title": "Concevoir des visualisations de données pour le web et dans un contexte d’une communication print et/ou sur les réseaux sociaux",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=167",
+          "selection_score": 147.7709,
+          "shared_terms": [
+            "print",
+            "reseaux",
+            "sociaux",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.02",
+          "title": "Développer une communication sur les médias sociaux",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=191",
+          "selection_score": 79.6247,
+          "shared_terms": [
+            "sociaux"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.949,
+      "matched_terms": [
+        "publicite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.COMOR.10",
+          "title": "Marketing / Webmarketing",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=143",
+          "selection_score": 64.0668,
+          "shared_terms": [
+            "marketing",
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PUB.07",
+          "title": "Publicité internationale / Campagnes spécifiques",
+          "page": 677,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=677",
+          "selection_score": 62.1331,
+          "shared_terms": [
+            "campagne",
+            "publicite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PUB.09",
+          "title": "Marketing opérationnel / Webmarketing",
+          "page": 636,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=636",
+          "selection_score": 54.2982,
+          "shared_terms": [
+            "marketing",
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.PUB.03",
+          "title": "Réaliser une analyse de marché",
+          "page": 568,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=568",
+          "selection_score": 42.7589,
+          "shared_terms": [
+            "marche"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.JOU.01",
+          "title": "Produire un magazine (print, web, radio, télévision)",
+          "page": 437,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=437",
+          "selection_score": 40.1066,
+          "shared_terms": [
+            "print",
+            "web"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

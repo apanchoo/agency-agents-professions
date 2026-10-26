@@ -1,0 +1,182 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489213,
+    "code_rome": "M1414",
+    "libelle": "Ingénieur statisticien / Ingénieure statisticienne",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.848,
+      "matched_terms": [
+        "data",
+        "donnee",
+        "statisti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [
+        "statisti"
+      ],
+      "specific_title_terms": [
+        "statisti"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 74.3563,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.EMS.05",
+          "title": "Apprentissage statistique pour l’IA",
+          "page": 194,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=194",
+          "selection_score": 59.483,
+          "shared_terms": [
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Probabilités 1",
+          "page": 44,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=44",
+          "selection_score": 56.7074,
+          "shared_terms": [
+            "probabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.EMS.01",
+          "title": "Expliquer ou prédire une variable quantitative à partir de plusieurs facteurs",
+          "page": 156,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=156",
+          "selection_score": 103.175,
+          "shared_terms": [
+            "expliquer",
+            "predire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EMS.01",
+          "title": "Modélisation statistique pour les données complexes et le Big Data",
+          "page": 186,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=186",
+          "selection_score": 63.4277,
+          "shared_terms": [
+            "data",
+            "statistique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.265,
+      "matched_terms": [
+        "projet"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Traitement de l’information",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=88",
+          "selection_score": 34.5867,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Traitement des données",
+          "page": 166,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=166",
+          "selection_score": 32.8389,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Marketing stratégique et opérationnel",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=108",
+          "selection_score": 27.6285,
+          "shared_terms": [
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Etablir le diagnostic marketing d’une organisation - Recueil de données",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=57",
+          "selection_score": 27.6499,
+          "shared_terms": [
+            "etablir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 25.4129,
+          "shared_terms": [
+            "strategique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

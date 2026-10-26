@@ -1,0 +1,101 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488342,
+    "code_rome": "M1713",
+    "libelle": "Responsable d'associations de patients en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1704"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.966,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1704",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 27.2431,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=85",
+          "selection_score": 19.7066,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.STRAT-UX.03",
+          "title": "Stratégie de communication pluri-média",
+          "page": 220,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=220",
+          "selection_score": 16.5691,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.01",
+          "title": "Développer des parcours utilisateur au sein d’un système d’information",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=223",
+          "selection_score": 35.9418,
+          "shared_terms": [
+            "sein"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.01",
+          "title": "Mettre en place une solution ecommerce et la stratégie associée",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=190",
+          "selection_score": 34.1305,
+          "shared_terms": [
+            "place",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

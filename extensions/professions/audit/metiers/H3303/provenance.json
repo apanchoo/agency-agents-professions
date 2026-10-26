@@ -1,0 +1,90 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 299,
+    "code_rome": "H3303",
+    "libelle": "Cuisinier / Cuisinière en industrie chimique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H3303"
+  },
+  "but": [
+    {
+      "programme_id": "pec",
+      "title": "Packaging, emballage et conditionnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.087,
+      "matched_terms": [
+        "conditionnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H3303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf",
+      "programme_sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Moyen de production 1",
+          "page": 41,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=41",
+          "selection_score": 51.3928,
+          "shared_terms": [
+            "moyen",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Process packaging",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=63",
+          "selection_score": 45.6457,
+          "shared_terms": [
+            "proces"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Conception graphique et impression",
+          "page": 62,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=62",
+          "selection_score": 42.3956,
+          "shared_terms": [
+            "impression"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Assurer la qualité d’un emballage en production",
+          "page": 56,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=56",
+          "selection_score": 17.6515,
+          "shared_terms": [
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

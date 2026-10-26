@@ -1,0 +1,199 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 162,
+    "code_rome": "F1602",
+    "libelle": "Electricien / Electricienne du bâtiment",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1602"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.936,
+      "matched_terms": [
+        "batiment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1602",
+      "title_terms": [
+        "batiment"
+      ],
+      "specific_title_terms": [
+        "batiment"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 63.9767,
+          "shared_terms": [
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 62.9392,
+          "shared_terms": [
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.13",
+          "title": "Evaluation environnementale des matériaux et des équipements",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=111",
+          "selection_score": 43.1468,
+          "shared_terms": [
+            "equipement",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.BAT.06",
+          "title": "Diagnostic d’un bâtiment",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=121",
+          "selection_score": 49.5649,
+          "shared_terms": [
+            "batiment",
+            "diagnostic"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BEC.04",
+          "title": "Dimensionnement de systèmes de chauffage et de ventilation pour assurer le confort dans un bâtiment",
+          "page": 378,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=378",
+          "selection_score": 42.5669,
+          "shared_terms": [
+            "batiment",
+            "chauffage"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.822,
+      "matched_terms": [
+        "energe",
+        "renouvelable"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1602",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 78.2223,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.OPTIM.03",
+          "title": "Solaire thermique et photovoltaïque",
+          "page": 403,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=403",
+          "selection_score": 70.6314,
+          "shared_terms": [
+            "photovoltaique",
+            "solaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MANÉ.03",
+          "title": "Amélioration de la performance énergétique",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=315",
+          "selection_score": 65.5034,
+          "shared_terms": [
+            "amelioration",
+            "energetique",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.EXPLOIT.02",
+          "title": "Pilotage et maintenance d’installations dont les systèmes EnR – mise en œuvre de plans de mesurage et de comptage à des fins d’optimisation",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=162",
+          "selection_score": 74.5666,
+          "shared_terms": [
+            "enr",
+            "installation",
+            "maintenance",
+            "mise",
+            "optimisation",
+            "plans",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 462,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=462",
+          "selection_score": 65.1033,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "energetique",
+            "installation",
+            "optimisation",
+            "performance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,189 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509526,
+    "code_rome": "H1524",
+    "libelle": "Chef / Cheffe de projet contrôle qualité",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.823,
+      "matched_terms": [
+        "amelioration",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "qualite"
+      ],
+      "specific_title_terms": [
+        "qualite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Recherche Opérationnelle pour les systèmes de production",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=180",
+          "selection_score": 55.4604,
+          "shared_terms": [
+            "operationnelle",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Fondamentaux de la Recherche Opérationnelle",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=157",
+          "selection_score": 54.5312,
+          "shared_terms": [
+            "operationnelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.07",
+          "title": "Amélioration de la performance",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=141",
+          "selection_score": 53.1372,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 45.4533,
+          "shared_terms": [
+            "probleme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.QMI.02",
+          "title": "Inventaire des exigences d’un SMI",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=277",
+          "selection_score": 43.7649,
+          "shared_terms": [
+            "exigence"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 29.137,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "controle"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 79.9497,
+          "shared_terms": [
+            "controle",
+            "expertise",
+            "industriel",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 26.0442,
+          "shared_terms": [
+            "controle",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Métrologie, qualité et statistiques",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=118",
+          "selection_score": 25.1232,
+          "shared_terms": [
+            "statistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MCPC.01",
+          "title": "Concevoir des méthodologies spécifiques d’analyse et de caractérisation pour la réalisation d’expertises et de contrôles",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=243",
+          "selection_score": 40.4845,
+          "shared_terms": [
+            "controle",
+            "expertise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Mettre en œuvre les techniques de l’informatique d’instrumentation pour le suivi de mesures",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=75",
+          "selection_score": 28.1475,
+          "shared_terms": [
+            "suivi",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,443 @@
+{
+  "numero": 297,
+  "rome": {
+    "code_rome": "J1102",
+    "intitule": "Médecin généraliste",
+    "code_ogr": 333
+  },
+  "appellations": [
+    {
+      "libelle": "Médecin acupuncteur",
+      "libelle_court": "Médecin acupuncteur",
+      "code_ogr": 16562
+    },
+    {
+      "libelle": "Médecin en pharmacovigilance",
+      "libelle_court": "Médecin en pharmacovigilance",
+      "code_ogr": 16581
+    },
+    {
+      "libelle": "Médecin homéopathe",
+      "libelle_court": "Médecin homéopathe",
+      "code_ogr": 16583
+    },
+    {
+      "libelle": "Médecin immunologue",
+      "libelle_court": "Médecin immunologue",
+      "code_ogr": 16584
+    },
+    {
+      "libelle": "Médecin ostéopathe",
+      "libelle_court": "Médecin ostéopathe",
+      "code_ogr": 16590
+    },
+    {
+      "libelle": "Médecin praticien",
+      "libelle_court": "Médecin praticien",
+      "code_ogr": 16591
+    },
+    {
+      "libelle": "Médecin praticien hospitalier",
+      "libelle_court": "Médecin praticien hospitalier",
+      "code_ogr": 16592
+    },
+    {
+      "libelle": "Médecin spécialiste",
+      "libelle_court": "Médecin spécialiste",
+      "code_ogr": 16596
+    },
+    {
+      "libelle": "Médecin thermal",
+      "libelle_court": "Médecin thermal",
+      "code_ogr": 16597
+    },
+    {
+      "libelle": "Omnipraticien / Omnipraticienne",
+      "libelle_court": "Omnipraticien / Omnipraticienne",
+      "code_ogr": 17045
+    }
+  ],
+  "definition": "Le médecin généraliste assure un suivi médical personnalisé pour chaque patient. Diagnostique et traite les maladies courantes et les pathologies diverses Assure le suivi médical des patients de tous âges, de la naissance à la vieillesse Oriente les patients vers des spécialistes lorsque nécessaire Réalise des actes de prévention et de dépistage pour maintenir la santé publique Peut pratiquer des soins spécifiques Gère les urgences médicales et assure une continuité des soins",
+  "acces_metier": "Cet emploi est accessible avec un Diplôme d'État de docteur en médecine ou un Doctorat en médecine.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Analyser des résultats d'examen médicaux",
+              "code_ogr": 300053,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conseiller le patient sur des pratiques de santé préventive",
+              "code_ogr": 506491,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déterminer les besoins thérapeutiques et réaliser les soins médicaux",
+              "code_ogr": 107198,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les urgences médicales",
+              "code_ogr": 506492,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le suivi post-traitement",
+              "code_ogr": 506493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique",
+              "code_ogr": 107197,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie",
+              "code_ogr": 107199,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un diagnostic médical",
+              "code_ogr": 300054,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Représenter sa structure ou son service lors d'un événement ou auprès d'instances de décision",
+              "code_ogr": 404536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Conduire des travaux d'études et de recherche",
+              "code_ogr": 300085,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer des procédures de recueil d'informations médicales",
+              "code_ogr": 121629,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Actualiser le dossier médical du patient",
+              "code_ogr": 107201,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner, mettre à jour une documentation technique",
+              "code_ogr": 300125,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
+              "code_ogr": 107449,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer la relation avec les fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300316,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Gérer les bases de données médicales",
+              "code_ogr": 124391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Collaborer avec d'autres professionnels de santé",
+              "code_ogr": 122255,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat de docteur en médecine",
+              "code_ogr": 404125,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Méthodes de contraception",
+              "code_ogr": 493033,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation d'analyses médicales",
+              "code_ogr": 481158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion du stress en situation d'urgence",
+              "code_ogr": 477049,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies courantes",
+              "code_ogr": 476858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Education à la santé",
+              "code_ogr": 477570,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interactions médicamenteuses",
+              "code_ogr": 477225,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Classification Commune des Actes Médicaux (CCAM)",
+              "code_ogr": 123502,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des dossiers médicaux",
+              "code_ogr": 476923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ethique médicale",
+              "code_ogr": 476835,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Classification Internationale des Maladies (CIM)",
+              "code_ogr": 123505,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Profession libérale",
+          "code_ogr": 403102
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Cabinet libéral",
+          "code_ogr": 300809
+        },
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "M1617 - Médecin responsable de la Documentation et de l'Information Médicale (Médecin responsable DIM)",
+      "code_org_rome_cible": 489184,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2108 - Professeur / Professeure des universités",
+      "code_org_rome_cible": 411,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1101 - Médecin du travail et de prévention",
+      "code_org_rome_cible": 332,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1105 - Chef de projets santé / Cheffe de projets santé",
+      "code_org_rome_cible": 488339,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1880 - Spécialiste e-santé",
+      "code_org_rome_cible": 510247,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1220 - Médiateur / Médiatrice en santé",
+      "code_org_rome_cible": 509756,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1415 - Directeur / Directrice d'établissement privé de santé",
+      "code_org_rome_cible": 509933,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1403 - Directeur / Directrice d'établissement pour personnes âgées",
+      "code_org_rome_cible": 381,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1411 - Inspecteur / Inspectrice vétérinaire",
+      "code_org_rome_cible": 509782,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1402 - Médecin conseil",
+      "code_org_rome_cible": 380,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "numero": 32595,
+  "rome": {
+    "code_rome": "I1610",
+    "intitule": "Responsable atelier carrosserie",
+    "code_ogr": 488613
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de maîtrise en tôlerie-carrosserie",
+      "libelle_court": "Agent / Agente de maîtrise en tôlerie-carrosserie",
+      "code_ogr": 10518
+    },
+    {
+      "libelle": "Chef / Cheffe d'atelier de carrosserie",
+      "libelle_court": "Chef / Cheffe d'atelier de carrosserie",
+      "code_ogr": 12033
+    },
+    {
+      "libelle": "Responsable technique d'atelier carrosserie",
+      "libelle_court": "Responsable technique d'atelier carrosserie",
+      "code_ogr": 510907
+    }
+  ],
+  "definition": "Le Responsable atelier carrosserie, supervise et coordonne les activités de l'atelier de carrosserie pour garantir la qualité et l'efficacité des services de réparation automobile. Assure la gestion des commandes de pièces et le suivi des stocks Contrôle la qualité des réparations et veille au respect des délais Forme et encadre les équipes de carrossiers et peintres automobiles Optimise les processus pour améliorer la productivité de l'atelier Maintient une communication efficace avec les clients pour assurer leur satisfaction",
+  "acces_metier": "Cet emploi est accessible avec un CAP, un Bac Pro, un Brevet Professionnel ou un CQP. Les niveaux d'études requis varient de CAP (niveau 3) à Bac (niveau 4).",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Accompagner des équipes au niveau technique et méthodologique",
+              "code_ogr": 400121,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Communiquer efficacement avec les équipes et la direction",
+              "code_ogr": 117605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Constituer des équipes de production en vérifiant les disponibilités, en organisant les horaires et la durée de travail",
+              "code_ogr": 403491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les activités avec d'autres équipes techniques",
+              "code_ogr": 484182,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les performances des équipes",
+              "code_ogr": 487168,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les clients sur les bonnes pratiques de maintenance de véhicule",
+              "code_ogr": 486493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler l'activité d'équipes selon les priorités et les aléas",
+              "code_ogr": 110573,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répartir la charge de travail et les tâches à effectuer entre les membres de l'équipe",
+              "code_ogr": 489488,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Assurer l'intégration des nouvelles recrues (présentation aux équipes, formation à la sécurité...)",
+              "code_ogr": 403455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former et développer les compétences des équipes",
+              "code_ogr": 403774,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer la formation continue des équipes sur les nouvelles normes ou procédures",
+              "code_ogr": 485044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former les équipes aux nouveaux produits",
+              "code_ogr": 482144,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Planifier les opérations de production selon les commandes",
+              "code_ogr": 126104,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance, gérer une structure",
+              "code_ogr": 402007,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir les plans de charge et planifier les actions à effectuer : coordination des interventions, supervision des actions de maintenance et des approvisionnements...",
+              "code_ogr": 403479,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser les opérations de maintenance",
+              "code_ogr": 508873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les réceptions de véhicules",
+              "code_ogr": 116707,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et suivre l'exécution des réparations",
+              "code_ogr": 400806,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de carrosserie ou de peinture",
+              "code_ogr": 114987,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assister les équipes lors de la réalisation de tâches complexes ou en cas de problèmes majeurs",
+              "code_ogr": 403430,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec les équipes pour renforcer la culture de sécurité",
+              "code_ogr": 486341,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer clairement les consignes de sécurité",
+              "code_ogr": 485952,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'application des consignes de sécurité",
+              "code_ogr": 402012,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier des interventions de maintenance",
+              "code_ogr": 122329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser des opérations, des actions",
+              "code_ogr": 300486,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des réparations effectuées sur les véhicules",
+              "code_ogr": 484287,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Former les équipes aux normes de qualité et de sécurité",
+              "code_ogr": 483118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former les équipes aux normes environnementales en vigueur",
+              "code_ogr": 485687,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les commandes de fournitures et les stocks de matières premières",
+              "code_ogr": 403496,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les stocks de peintures et consommables",
+              "code_ogr": 487055,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de pièces de rechange",
+              "code_ogr": 483226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la gestion des stocks",
+              "code_ogr": 117561,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Assurer la relation client : suivi commercial, gestion des incidents (échanges, retours, avoirs), relance pour recouvrement",
+              "code_ogr": 403611,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Collaborer avec les équipes RH pour la mise à jour des dossiers",
+              "code_ogr": 484664,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des rapports quotidiens d'activité",
+              "code_ogr": 485565,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les agendas et planifier des rendez-vous",
+              "code_ogr": 120722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les horaires du personnel pour assurer une couverture complète",
+              "code_ogr": 487015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer le client sur les conditions de réalisation d'une commande",
+              "code_ogr": 119272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les horaires de travail en fonction des pics d'activité",
+              "code_ogr": 483750,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la gestion administrative du personnel",
+              "code_ogr": 105672,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Développer des stratégies pour réduire les déchets et optimiser le recyclage",
+              "code_ogr": 483713,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Estimer les coûts et les délais d'une activité ou d'une prestation",
+              "code_ogr": 300308,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs et sous-traitants",
+              "code_ogr": 486087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Gérer le budget de son unité",
+              "code_ogr": 400252,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des pratiques avec les réglementations en vigueur",
+              "code_ogr": 505591,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'application des normes environnementales",
+              "code_ogr": 482263,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au respect des normes de sécurité",
+              "code_ogr": 404243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Proposer des solutions pour réduire les déchets industriels",
+              "code_ogr": 482264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Collaborer avec des équipes pour résoudre les problèmes techniques",
+              "code_ogr": 485648,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner des documents clients",
+              "code_ogr": 121408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les retours clients pour améliorer les produits ou services",
+              "code_ogr": 484314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduire des négociations commerciales",
+              "code_ogr": 499826,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter les coûts et délais de livraison à un client",
+              "code_ogr": 122159,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Analyser les performances de l'atelier et proposer des améliorations",
+              "code_ogr": 483711,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la réalisation des activités dans le respect des objectifs de qualité, de coût et de délais",
+              "code_ogr": 400181,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déterminer des objectifs de performance, suivre les réalisations et identifier les actions correctives",
+              "code_ogr": 403853,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies pour la gestion des pics d'activité",
+              "code_ogr": 486298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir des rapports de performance",
+              "code_ogr": 484930,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'utilisation des équipements de carrosserie",
+              "code_ogr": 483709,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les coûts de fonctionnement",
+              "code_ogr": 486862,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les coûts opérationnels",
+              "code_ogr": 486927,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec l'équipe et les clients",
+              "code_ogr": 403448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convaincre en argumentant avec un ou plusieurs interlocuteurs",
+              "code_ogr": 404185,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager la collaboration entre les membres de l'équipe",
+              "code_ogr": 483646,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fédérer et stimuler les équipes",
+              "code_ogr": 403620,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener des réunions techniques avec les équipes",
+              "code_ogr": 486630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser et former les personnels aux consignes de sécurité et de prévention",
+              "code_ogr": 402299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser les équipes aux enjeux de la Responsabilité Sociétale et Environnementale (RSE)",
+              "code_ogr": 482278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Documenter les procédures techniques pour les équipes",
+              "code_ogr": 486631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les conflits internes",
+              "code_ogr": 482977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les urgences et les imprévus en production",
+              "code_ogr": 402171,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'assurer du respect des procédures par l'ensemble des collaborateurs",
+              "code_ogr": 403552,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des matériaux de carrosserie",
+              "code_ogr": 118291,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des enduits",
+              "code_ogr": 103571,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux de synthèse",
+              "code_ogr": 107123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux en plastiques et composites",
+              "code_ogr": 105976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des colles",
+              "code_ogr": 103612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Equipements de contrôle de géométrie (marbre, pont de mesure, ...)",
+              "code_ogr": 119051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appareils de mesure et de réglage d'optique",
+              "code_ogr": 119053,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux en aluminium et ses alliages",
+              "code_ogr": 104892,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des peintures",
+              "code_ogr": 103572,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP réparation des carrosseries",
+              "code_ogr": 491289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP peinture en carrosserie",
+              "code_ogr": 491190,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro construction des carrosseries",
+              "code_ogr": 491285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro réparation des carrosseries",
+              "code_ogr": 491188,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP construction des carrosseries",
+              "code_ogr": 491287,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro carrossier peintre automobile",
+              "code_ogr": 491187,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP peintre en carrosserie",
+              "code_ogr": 491192,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP carrossier automobile",
+              "code_ogr": 491286,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Entretien de véhicules",
+              "code_ogr": 121002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparation de carrosserie",
+              "code_ogr": 107135,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification de la production",
+              "code_ogr": 476797,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion d'atelier",
+              "code_ogr": 478345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mécanique automobile",
+              "code_ogr": 107028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mise en place de promotions et offres spéciales",
+              "code_ogr": 478357,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des tendances du marché de la carrosserie",
+              "code_ogr": 478358,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des opérations de maintenance préventive",
+              "code_ogr": 478360,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité automobile",
+              "code_ogr": 119047,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Santé et sécurité au travail",
+              "code_ogr": 124654,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion d'équipe en atelier",
+              "code_ogr": 478351,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation liée aux véhicules",
+              "code_ogr": 101959,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des garanties des fournisseurs",
+              "code_ogr": 478356,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Communication avec les clients",
+              "code_ogr": 478067,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication interne",
+              "code_ogr": 476833,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation avec les fournisseurs",
+              "code_ogr": 477068,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Polyactivité",
+          "code_ogr": 403024
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "95",
+      "libelle": "Automobile",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2502 - Responsable d'unité de production industrielle",
+      "code_org_rome_cible": 263,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H1301 - Inspecteur / Inspectrice de conformité",
+      "code_org_rome_cible": 222,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1407 - Technico-commercial / Technico-commerciale",
+      "code_org_rome_cible": 108,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4401 - Aiguilleur / Aiguilleure du rail",
+      "code_org_rome_cible": 534,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H2705 - Pilote de ligne de production de composants et de cellules pour batteries de véhicules électriques",
+      "code_org_rome_cible": 489071,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1521 - Technicien / Technicienne de validation-qualification",
+      "code_org_rome_cible": 488565,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1103 - Chef / Cheffe d'atelier après-vente des véhicules (auto, moto, VTR)",
+      "code_org_rome_cible": 306,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1404 - Vendeur / Vendeuse automobile",
+      "code_org_rome_cible": 105,
+      "ordre_mobilite": 10
+    }
+  ]
+}

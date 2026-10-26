@@ -1,0 +1,187 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 483,
+    "code_rome": "M1701",
+    "libelle": "Responsable de l'administration des ventes",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1701"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.068,
+      "matched_terms": [
+        "client",
+        "commercial",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1701",
+      "title_terms": [
+        "vente"
+      ],
+      "specific_title_terms": [
+        "vente"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.BDMRC.03",
+          "title": "Management des comptes-clés (KAM)",
+          "page": 508,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=508",
+          "selection_score": 57.1138,
+          "shared_terms": [
+            "cles",
+            "management"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.BDMRC.04",
+          "title": "Nouveaux comportements des clients",
+          "page": 509,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=509",
+          "selection_score": 56.2071,
+          "shared_terms": [
+            "client",
+            "nouveaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BI.11",
+          "title": "Approvisionnements",
+          "page": 419,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=419",
+          "selection_score": 55.0255,
+          "shared_terms": [
+            "approvisionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.BDMRC.01",
+          "title": "Mise en œuvre et pilotage de la stratégie client d’une entreprise",
+          "page": 484,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=484",
+          "selection_score": 56.283,
+          "shared_terms": [
+            "client",
+            "mise",
+            "strategie",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BI.03",
+          "title": "Développement de l’offre à l’international",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=384",
+          "selection_score": 49.6428,
+          "shared_terms": [
+            "offre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.287,
+      "matched_terms": [
+        "information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.COMOR.11",
+          "title": "Communication interne",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=144",
+          "selection_score": 53.3711,
+          "shared_terms": [
+            "interne"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.COMOR.06",
+          "title": "Management et stratégie des organisations",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=175",
+          "selection_score": 38.2962,
+          "shared_terms": [
+            "management",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.JOU.14",
+          "title": "Gestion des flux d’information numérique",
+          "page": 420,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=420",
+          "selection_score": 38.1971,
+          "shared_terms": [
+            "flux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MLP.01",
+          "title": "Répondre à une commande",
+          "page": 551,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=551",
+          "selection_score": 41.2223,
+          "shared_terms": [
+            "commande"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.INFONUM.01",
+          "title": "Mettre en place une stratégie de communication numérique",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=284",
+          "selection_score": 39.178,
+          "shared_terms": [
+            "place",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

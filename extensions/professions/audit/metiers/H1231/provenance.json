@@ -1,0 +1,244 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509413,
+    "code_rome": "H1231",
+    "libelle": "Patronnier / Patronnière en chaussures",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1205"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.894,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MIMP.05",
+          "title": "Industrialisation d’un produit",
+          "page": 193,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=193",
+          "selection_score": 56.0571,
+          "shared_terms": [
+            "industrialisation",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Dessin technique 2",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=84",
+          "selection_score": 54.3642,
+          "shared_terms": [
+            "dessin"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin technique 1",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=58",
+          "selection_score": 53.7804,
+          "shared_terms": [
+            "dessin"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MIMP.03",
+          "title": "Conception et industrialisation d’un prototype eco-responsable",
+          "page": 184,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=184",
+          "selection_score": 52.5663,
+          "shared_terms": [
+            "industrialisation",
+            "prototype"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Conception, réalisation et validation d’un produit simple",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=72",
+          "selection_score": 41.708,
+          "shared_terms": [
+            "produit",
+            "validation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.597,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Equilibres et transferts de matière dans les opérations unitaires",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=105",
+          "selection_score": 42.0645,
+          "shared_terms": [
+            "matiere",
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CPIT.03",
+          "title": "Industrialisation des procédés",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=164",
+          "selection_score": 35.1727,
+          "shared_terms": [
+            "industrialisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CQESP.10",
+          "title": "Techniques analytiques : performances et validation",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=226",
+          "selection_score": 34.9297,
+          "shared_terms": [
+            "validation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Choix et mise en œuvre d’analyses physico-chimiques simples afin de caractériser un produit.",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=50",
+          "selection_score": 27.4057,
+          "shared_terms": [
+            "choix",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 26.4515,
+          "shared_terms": [
+            "choix",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.542,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Production - Méthodes",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=175",
+          "selection_score": 25.4314,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Science des matériaux",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=73",
+          "selection_score": 17.5496,
+          "shared_terms": [
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.SNRV.02",
+          "title": "Créer et utiliser un modèle numérique en vue de sa confrontation au réel",
+          "page": 150,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=150",
+          "selection_score": 44.0449,
+          "shared_terms": [
+            "modele",
+            "vue"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 43.3228,
+          "shared_terms": [
+            "specification"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,768 @@
+{
+  "numero": 287,
+  "rome": {
+    "code_rome": "I1607",
+    "intitule": "Mécanicien / Mécanicienne motocycles",
+    "code_ogr": 331
+  },
+  "appellations": [
+    {
+      "libelle": "Mécanicien / Mécanicienne moto",
+      "libelle_court": "Mécanicien / Mécanicienne moto",
+      "code_ogr": 490085
+    },
+    {
+      "libelle": "Mécanicien / Mécanicienne moto-scooter",
+      "libelle_court": "Mécanicien / Mécanicienne moto-scooter",
+      "code_ogr": 16515
+    },
+    {
+      "libelle": "Mécanicien réparateur / Mécanicienne réparatrice de motocycles",
+      "libelle_court": "Mécanicien réparateur / Mécanicienne réparatrice motocycle",
+      "code_ogr": 490572
+    },
+    {
+      "libelle": "Mécanicien-vendeur / Mécanicienne-vendeuse moto",
+      "libelle_court": "Mécanicien-vendeur / Mécanicienne-vendeuse moto",
+      "code_ogr": 16558
+    },
+    {
+      "libelle": "Motociste",
+      "libelle_court": "Motociste",
+      "code_ogr": 16905
+    }
+  ],
+  "definition": "Le mécanicien motocycles réalise l'ensemble des interventions de maintenance préventive et corrective sur tous types de motocycles (thermiques, électriques). Réalise le contrôle et la remise en état sur les systèmes mécaniques des motocycles Réalise l'entretien courant et périodique des motocycles Met en œuvre une méthode de diagnostic de premier niveau sur les systèmes mécaniques Travaille dans le respect des règles d'hygiène, de sécurité et de l'environnement",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP / BEP à Bac. Un CQP existe également. Une formation à la prévention des risques électriques peut être nécessaire. Le permis de conduire moto catégorie A peut être nécessaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner l'appropriation d'un outil par ses utilisateurs",
+              "code_ogr": 300019,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Assurer la mise à jour des logiciels embarqués dans les véhicules",
+              "code_ogr": 483705,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Installer des équipements et accessoires de confort et de sécurité sur les motocycles",
+              "code_ogr": 490104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et assembler des motocycles neufs et d'occasion",
+              "code_ogr": 490105,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance des outils et équipements de l'atelier",
+              "code_ogr": 483963,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Changer ou réparer les moteurs, boîtes de vitesse, embrayages, suspensions, démarreurs",
+              "code_ogr": 107046,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler l'état d'une batterie de servitude (<60 volts cc)",
+              "code_ogr": 490093,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'état de charge et de vieillissement d'une batterie de traction d'un véhicule",
+              "code_ogr": 489785,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la conformité technique d'un véhicule",
+              "code_ogr": 107047,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler visuellement les éléments de charge d'un véhicule électrique et/ou hybride",
+              "code_ogr": 489787,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir et contrôler les embrayages et transmissions",
+              "code_ogr": 489527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir les mécanismes d'un engin motorisé",
+              "code_ogr": 107141,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remettre en conformité les faisceaux électriques",
+              "code_ogr": 490095,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remplacer et réparer les pneumatiques",
+              "code_ogr": 489865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remplacer une batterie de démarrage et de servitude (<60 volts cc)",
+              "code_ogr": 489867,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'entretien de la partie cycle du motocycle (fourches, paralever, suspensions et amortisseurs)",
+              "code_ogr": 490087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic des systèmes de freinage",
+              "code_ogr": 489846,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic des transmissions",
+              "code_ogr": 489849,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic et la maintenance de la partie cycle du motocycles (fourches, paralever, suspensions et amortisseurs)",
+              "code_ogr": 490100,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic et la maintenance des moteurs thermiques et de leurs circuits électriques",
+              "code_ogr": 490102,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le diagnostic et la remise en conformité des moteurs thermiques et de leurs circuits périphériques",
+              "code_ogr": 490614,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien des circuits d'allumage, air, carburant, échappement du moteur",
+              "code_ogr": 489853,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien des circuits de lubrification",
+              "code_ogr": 489854,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien des pneumatiques, amortisseurs et suspensions",
+              "code_ogr": 489856,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien des éléments électriques, de sécurité, de confort d'un véhicules anciens et historiques",
+              "code_ogr": 513313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien du système de freinage hydraulique et mécanique",
+              "code_ogr": 490089,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations d'entretien du système de transmission (embrayage, boite de vitesse, chaine de transmission)",
+              "code_ogr": 490090,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les opérations de maintenance courante (vidange, remplacement des filtres, etc.)",
+              "code_ogr": 489553,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer et remplacer les pièces défectueuses",
+              "code_ogr": 489555,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer la liaison au sol et la direction des cyclomoteurs, des scooters et des motocycles",
+              "code_ogr": 489550,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer la motorisation thermique ou électrique des cyclomoteurs, des scooters et des motocycles",
+              "code_ogr": 489548,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réparer la transmission des cyclomoteurs, des scooters et des motocycles",
+              "code_ogr": 489549,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réparer le freinage des cyclomoteurs, des scooters et des motocycles",
+              "code_ogr": 489551,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réparer les équipements de sécurité des cyclomoteurs, des scooters et des motocycles",
+              "code_ogr": 489552,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des outils de diagnostic pour identifier les problèmes des motocycles",
+              "code_ogr": 489556,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier et remplacer des systèmes de freinage et de fluides",
+              "code_ogr": 121023,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Appliquer les normes relatives à la prévention des risques électriques",
+              "code_ogr": 489756,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Maintenir un stock suffisant pour les opérations courantes",
+              "code_ogr": 489563,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Gérer les commandes de pièces détachées",
+              "code_ogr": 489562,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Effectuer des essais routiers pour vérifier le bon fonctionnement des véhicules après intervention",
+              "code_ogr": 489558,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Estimer les coûts et les délais d'une activité ou d'une prestation",
+              "code_ogr": 300308,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer et trier des déchets, des produits",
+              "code_ogr": 300298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au respect des réglementations techniques et environnementales",
+              "code_ogr": 489565,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir et conseiller les clients sur les interventions nécessaires",
+              "code_ogr": 489559,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conseiller les clients sur l'entretien nécessaire et les options de réparation",
+              "code_ogr": 104357,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Conclure une transaction",
+              "code_ogr": 300369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer, adapter une proposition commerciale",
+              "code_ogr": 300377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer les diagnostics et les réparations réalisées",
+              "code_ogr": 489560,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fournir des devis détaillés et des explications sur les coûts",
+              "code_ogr": 489561,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Expliquer de manière claire et pédagogique",
+              "code_ogr": 489566,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Renseigner un ordre de réparation afin d'assurer la traçabilité des travaux réalisés",
+              "code_ogr": 489871,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité lors des interventions",
+              "code_ogr": 483891,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Analyseur de gaz d'échappement",
+              "code_ogr": 119052,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériel de levage",
+              "code_ogr": 100213,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyseur de niveau sonore",
+              "code_ogr": 107050,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciel de diagnostic",
+              "code_ogr": 512701,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'appareils de contrôle et de mesure (analyseur de gaz, pyromètre optique, voltmètre, ...)",
+              "code_ogr": 105846,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Scooter électrique",
+              "code_ogr": 107150,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CQP mécanicien de maintenance motocycles",
+              "code_ogr": 491696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro maintenance des véhicules option C motocycles",
+              "code_ogr": 491272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Permis de conduire catégorie A",
+              "code_ogr": 123455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP maintenance des véhicules option motocycles",
+              "code_ogr": 491297,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Architectures de la partie cycle du motocycle (fourches, paralever, suspensions et amortisseurs)",
+              "code_ogr": 491697,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnement des circuits d'injection essence",
+              "code_ogr": 490116,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Technologie des équipements électroniques",
+              "code_ogr": 107030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques et rôle des batteries de servitude",
+              "code_ogr": 491678,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des carburants et biocarburants",
+              "code_ogr": 491676,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnement du circuit d'air",
+              "code_ogr": 491743,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Technologies associées aux systèmes de freinage",
+              "code_ogr": 107054,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Technologie des équipements électriques",
+              "code_ogr": 122982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Technologie des systèmes de freinage sur motocycles et scooters thermiques, électriques",
+              "code_ogr": 491781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fonctionnement des embrayages, boîtes de vitesse",
+              "code_ogr": 490634,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principe de fonctionnement du circuit de lubrification d'un moteur",
+              "code_ogr": 106474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principe de fonctionnement des systèmes de dépollution",
+              "code_ogr": 489682,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pneumatique",
+              "code_ogr": 104547,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principe du système de freinage et de son assistance (classique, ABS/ESP)",
+              "code_ogr": 489688,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principe de fonctionnement des circuits d'allumage",
+              "code_ogr": 489676,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principe de fonctionnement des systèmes de suralimentation essence et diesel",
+              "code_ogr": 489683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de fonctionnement d'un moteur",
+              "code_ogr": 106827,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes de qualité des motocycles",
+              "code_ogr": 491700,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principales règles du contrôle technique d'un véhicule motorisé à 2 ou 3 roues et quadricycle à moteur (véhicule de catégorie L)",
+              "code_ogr": 490574,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures de métrologie",
+              "code_ogr": 489691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'entretien de cycles, motocycles",
+              "code_ogr": 116687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation liée aux véhicules",
+              "code_ogr": 101959,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de soudure",
+              "code_ogr": 100286,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diagnostic de pannes",
+              "code_ogr": 480222,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de changement de pneus",
+              "code_ogr": 478619,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation rapide",
+              "code_ogr": 116797,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "95",
+      "libelle": "Automobile",
+      "principal": true
+    },
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": false
+    },
+    {
+      "code": "112",
+      "libelle": "Enseignement et formation",
+      "principal": false
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": false
+    },
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1608 - Démonteur / Démonteuse de véhicules hors d'usage",
+      "code_org_rome_cible": 488607,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "I1605 - Mécanicien / Mécanicienne en mécanique marine ou navale",
+      "code_org_rome_cible": 329,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "I1603 - Mécanicien-réparateur / Mécanicienne-réparatrice en matériels agricoles",
+      "code_org_rome_cible": 327,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "I1606 - Carrossier-peintre / Carrossière-peintre",
+      "code_org_rome_cible": 330,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1604 - Mécanicien / Mécanicienne automobile",
+      "code_org_rome_cible": 328,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1402 - Technicien / Technicienne de maintenance en appareils électroménagers",
+      "code_org_rome_cible": 321,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1618 - Mécanicien / Mécanicienne en matériels motorisés de parcs et jardins",
+      "code_org_rome_cible": 488866,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1619 - Mécanicien / Mécanicienne cycles",
+      "code_org_rome_cible": 488870,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1404 - Vendeur / Vendeuse automobile",
+      "code_org_rome_cible": 105,
+      "ordre_mobilite": 10
+    }
+  ]
+}

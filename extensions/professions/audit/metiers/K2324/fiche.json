@@ -1,0 +1,441 @@
+{
+  "numero": 33850,
+  "rome": {
+    "code_rome": "K2324",
+    "intitule": "Ferrailleur / Ferrailleuse de métal",
+    "code_ogr": 518555
+  },
+  "appellations": [
+    {
+      "libelle": "Ferrailleur / Ferrailleuse",
+      "libelle_court": "Ferrailleur / Ferrailleuse",
+      "code_ogr": 518538
+    },
+    {
+      "libelle": "Ferrailleur-récupérateur de métaux / Ferrailleuse-récupératrice de métaux",
+      "libelle_court": "Ferrailleur(euse) récupérateur(trice) de métaux",
+      "code_ogr": 518539
+    },
+    {
+      "libelle": "Récupérateur / Récupératrice de métaux",
+      "libelle_court": "Récupérateur / Récupératrice de métaux",
+      "code_ogr": 18342
+    }
+  ],
+  "definition": "Le Ferrailleur est spécialisé dans la collecte, le tri, le traitement et la revente de métaux ferreux et non ferreux (acier, aluminium, cuivre, etc.) et participe ainsi à la gestion des déchets industriels et domestiques et à la préservation de l'environnement. Récupère ou achète des métaux auprès de particuliers, entreprises, chantiers ou déchèteries Sépare les différents types de métaux pour faciliter leur recyclage Revend les métaux triés à des industriels ou des centres de recyclage Respecte les normes environnementales et les obligations légales liées à cette activité",
+  "acces_metier": "Ce métier est accessible sans qualification. Il est cependant important de connaitre les métaux et les règles de tri. Le permis de conduire est nécessaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Collecter des déchets ménagers ou industriels",
+              "code_ogr": 117475,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Découper du métal",
+              "code_ogr": 121961,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Séparer les différents types de métaux ferreux et non ferreux",
+              "code_ogr": 518567,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Aménager un espace physique de stockage",
+              "code_ogr": 300285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un outil ou un matériel",
+              "code_ogr": 124629,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Stocker un produit",
+              "code_ogr": 117548,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Organiser des tournées de collecte ou d'achat de lots de métaux",
+              "code_ogr": 518566,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer la tournée et le matériel nécessaire",
+              "code_ogr": 126269,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transporter des matériaux",
+              "code_ogr": 110504,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer les normes environnementales en vigueur",
+              "code_ogr": 487163,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les normes liées au recyclage de matériaux",
+              "code_ogr": 402040,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité des matériaux triés",
+              "code_ogr": 124562,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Favoriser le réemploi ou le recyclage des matériaux récupérés",
+              "code_ogr": 400851,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les métaux récupérés (découpe, compactage, broyage) pour faciliter leur recyclage",
+              "code_ogr": 518568,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recycler des produits et matériaux métalliques",
+              "code_ogr": 108744,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Récupérer des équipements ou produits en fin de vie",
+              "code_ogr": 123306,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier les produits, pièces, matériaux et les orienter vers les filières de valorisation ou d'élimination",
+              "code_ogr": 108740,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Négocier des conditions commerciales",
+              "code_ogr": 300370,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Négocier avec des partenaires locaux",
+              "code_ogr": 504159,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+              "code_ogr": 300147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de sécurité",
+              "code_ogr": 489283,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des métaux ferreux (acier, fonte, ...)",
+              "code_ogr": 106489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des métaux non ferreux",
+              "code_ogr": 123142,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Tronçonnage de ferrailles",
+              "code_ogr": 103800,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de stockage des déchets",
+              "code_ogr": 117478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Critères de tri sélectif",
+              "code_ogr": 108735,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de découpe de matériaux",
+              "code_ogr": 102180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation commerciale",
+              "code_ogr": 498401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tri manuel des déchets",
+              "code_ogr": 481245,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2303 - Equipier / Equipière de collecte de déchets",
+      "code_org_rome_cible": 422,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2308 - Opérateur / Opératrice de tri en récupération et revalorisation",
+      "code_org_rome_cible": 489068,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2304 - Agent / Agente de tri des déchets",
+      "code_org_rome_cible": 423,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1102 - Déménageur / Déménageuse",
+      "code_org_rome_cible": 501,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1704 - Manœuvre du Bâtiment et des Travaux Publics",
+      "code_org_rome_cible": 177,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1709 - Démolisseur / Démolisseuse",
+      "code_org_rome_cible": 404038,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1202 - Agent / Agente d'exploitation de la voirie",
+      "code_org_rome_cible": 308,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1203 - Agent / Agente d'entretien des espaces verts",
+      "code_org_rome_cible": 9,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1712 - Ferrailleur / Ferrailleuse du BTP",
+      "code_org_rome_cible": 518537,
+      "ordre_mobilite": 10
+    }
+  ]
+}

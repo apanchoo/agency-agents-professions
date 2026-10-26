@@ -1,0 +1,263 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515456,
+    "code_rome": "M1895",
+    "libelle": "Géomaticien / Géomaticienne",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1808"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.878,
+      "matched_terms": [
+        "communication",
+        "developpe",
+        "graph"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1808",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Référencement",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=114",
+          "selection_score": 60.0238,
+          "shared_terms": [
+            "referencement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Management et Assurance qualité",
+          "page": 148,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=148",
+          "selection_score": 48.5996,
+          "shared_terms": [
+            "assurance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intégration",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=64",
+          "selection_score": 39.1137,
+          "shared_terms": [
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 58.6182,
+          "shared_terms": [
+            "interface",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 50.7515,
+          "shared_terms": [
+            "support",
+            "visualisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.798,
+      "matched_terms": [
+        "developpe",
+        "donnees",
+        "systemes d'information geographique, assure et coordonne le developpement et la gestion du systeme d'information geographique. propose des outils d'aide a la decision et a l'action dans differents domaines d'activites (amenagement, biodiversite, telecommunications, transport et logistique, energie...) a travers la gestion et l'analyse des donnees spatiales organise l'acquisition, la structuration, le referencement de donnees spatiales et geographiques met en place, developpe et administre des bases de donnees thematiques (saisie, integration et exploitation des donnees) evalue la disponibilite, l'actualite et la qualite des donnees produit des supports cartographiques et des statistiques en reponse aux besoins a travers l'identification et l'evaluation des besoins cartographiques, l'integration les donnees et la gestion du systeme d'information geographique et le traitement (mise en forme) des donnees geographiques analyse, interprete des donnees geographiques pour supporter la prise de decision par superposition et combinaison des donnees concoit et gere des systemes d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1808",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ADMIN.06",
+          "title": "Méthodes d’optimisation pour l’aide à la décision",
+          "page": 313,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=313",
+          "selection_score": 49.9156,
+          "shared_terms": [
+            "aide",
+            "decision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Introduction à l’architecture des ordinateurs",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=71",
+          "selection_score": 48.3148,
+          "shared_terms": [
+            "ordinateur"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.INTEG.06",
+          "title": "Management du changement et de l’innovation numérique",
+          "page": 380,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=380",
+          "selection_score": 44.3672,
+          "shared_terms": [
+            "changement",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.INTEG.01",
+          "title": "Intégration d’une application et gestion de projet",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=336",
+          "selection_score": 55.728,
+          "shared_terms": [
+            "application",
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ADMIN.01",
+          "title": "Développement avec une base de données et visualisation",
+          "page": 268,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=268",
+          "selection_score": 51.8675,
+          "shared_terms": [
+            "visualisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.827,
+      "matched_terms": [
+        "systeme",
+        "telecom"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1808",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 54.7452,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Supports de transmission pour les réseaux",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=78",
+          "selection_score": 44.6522,
+          "shared_terms": [
+            "reseaux",
+            "support"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CYBER.04",
+          "title": "Réponse à incident",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "selection_score": 40.5529,
+          "shared_terms": [
+            "reponse"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.IOM.01",
+          "title": "Implémenter les réseaux et protocoles sans fil dédiés à l’IoT",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=295",
+          "selection_score": 67.2508,
+          "shared_terms": [
+            "implementer",
+            "protocole",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ROM.03",
+          "title": "Concevoir un réseau informatique adapté au multimédia",
+          "page": 425,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=425",
+          "selection_score": 45.522,
+          "shared_terms": [
+            "adapte",
+            "reseau"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

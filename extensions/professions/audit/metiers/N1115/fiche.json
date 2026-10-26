@@ -1,0 +1,722 @@
+{
+  "numero": 32875,
+  "rome": {
+    "code_rome": "N1115",
+    "intitule": "Opérateur / Opératrice logistique",
+    "code_ogr": 489164
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'archivage en entrepôt",
+      "libelle_court": "Agent / Agente d'archivage en entrepôt",
+      "code_ogr": 10386
+    },
+    {
+      "libelle": "Agent / Agente de service expédition marchandises",
+      "libelle_court": "Agent / Agente de service expédition marchandises",
+      "code_ogr": 10605
+    },
+    {
+      "libelle": "Agent / Agente de stockage",
+      "libelle_court": "Agent / Agente de stockage",
+      "code_ogr": 10612
+    },
+    {
+      "libelle": "Agent / Agente d'entreposage",
+      "libelle_court": "Agent / Agente d'entreposage",
+      "code_ogr": 10660
+    },
+    {
+      "libelle": "Agent / Agente d'entreposage et de messagerie",
+      "libelle_court": "Agent / Agente d'entreposage et de messagerie",
+      "code_ogr": 10661
+    },
+    {
+      "libelle": "Agent / Agente logistique",
+      "libelle_court": "Agent / Agente logistique",
+      "code_ogr": 520860
+    },
+    {
+      "libelle": "Contrôleur flasheur / Contrôleuse flasheuse en logistique",
+      "libelle_court": "Contrôleur flasheur / Contrôleuse flasheuse en logistique",
+      "code_ogr": 13639
+    },
+    {
+      "libelle": "Emballeur / Emballeuse",
+      "libelle_court": "Emballeur / Emballeuse",
+      "code_ogr": 14740
+    },
+    {
+      "libelle": "Employé / Employée de «picking»",
+      "libelle_court": "Employé / Employée de «picking»",
+      "code_ogr": 14755
+    },
+    {
+      "libelle": "Employé / Employée logistique d'expédition",
+      "libelle_court": "Employé / Employée logistique d'expédition",
+      "code_ogr": 14810
+    },
+    {
+      "libelle": "Equipier / Equipière logistique",
+      "libelle_court": "Equipier / Equipière logistique",
+      "code_ogr": 14874
+    },
+    {
+      "libelle": "Etiqueteur-pointeur / Etiqueteuse-pointeuse",
+      "libelle_court": "Etiqueteur-pointeur / Etiqueteuse-pointeuse",
+      "code_ogr": 14922
+    }
+  ],
+  "definition": "L'opérateur logistique contribue à l'efficacité et la performance de l'organisation des opérations logistiques et qui concernent les flux de marchandises, au sein de l'organisation qui l'emploie, en coordination avec plusieurs autres services, parfois non liés aux flux logistiques (ex. : chaîne de production). Réceptionne, stocke et prépare les produits destinés à être livrés à un service interne ou client donné, conformément aux procédures de l'entreprise Assure le chargement et le déchargement des marchandises Participe à la réalisation des inventaires pour garantir l'exactitude des stocks Maintient la propreté et l'organisation de la zone de stockage (entrepôt, magasin) pour assurer un environnement de travail sécurisé Peut utiliser des équipements de manutention tels que des chariots de manutention, automatisés ou manuels",
+  "acces_metier": "Cet emploi est accessible sans diplôme ou qualification. Un CAP ou titre professionnel est un plus pour faciliter l'insertion professionnelle et la maîtrise des spécificités techniques liées à l'activité. Le métier peut être contextualisé aux spécificités d'un secteur d'activité, moyennant l'obtention de l'un des CQP ou nécessiter une formation complémentaire (ex. : ADR pour la manipulation de produits dangereux). Des formations spécifiques telles que des Certificats d'Aptitude à la Conduite en Sécurité (CACES) peuvent être demandées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Traiter les informations de suivi des colis",
+              "code_ogr": 486653,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Aménager un espace physique de stockage",
+              "code_ogr": 300285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'espace de stockage pour faciliter l'accès et la circulation",
+              "code_ogr": 483144,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter les risques et alerter en cas d'incident, d'accident et d'anomalie",
+              "code_ogr": 519998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'assurer du bon état de fonctionnement des équipements",
+              "code_ogr": 100280,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en sécurité, pour soi-même et par rapport aux autres",
+              "code_ogr": 520227,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler une opération de manutention",
+              "code_ogr": 124039,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déplacer des produits volumineux, lourds et de grandes tailles",
+              "code_ogr": 106551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déplacer et stocker les produits, les matières selon les normes de qualité et de sécurité",
+              "code_ogr": 400640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à un inventaire",
+              "code_ogr": 300259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier et répartir les colis, marchandises selon les indications (codification, format, poids, nombre, ...)",
+              "code_ogr": 110069,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des équipements de manutention en toute sécurité",
+              "code_ogr": 125180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser ou renseigner les outils dédiés à la traçabilité de l'activité des équipes logistiques",
+              "code_ogr": 400608,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Traiter les commandes et préparer les expéditions",
+              "code_ogr": 484044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations relatives aux commandes et aux spécifications des clients",
+              "code_ogr": 485564,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des systèmes informatiques pour la gestion des commandes",
+              "code_ogr": 486189,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Renseigner le support de suivi de traçabilité des marchandises",
+              "code_ogr": 300504,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Limiter la consommation des emballages et conditionnements logistiques",
+              "code_ogr": 520527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de tri des emballages et protection retirés",
+              "code_ogr": 513379,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Organiser et gérer la prévention et le traitement des incidents et dysfonctionnements",
+              "code_ogr": 400826,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les transporteurs",
+              "code_ogr": 486650,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Donner les informations pertinentes en fonction du contexte (oralement, par écrit via de la documentation, la signalétique, etc.)",
+              "code_ogr": 403895,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'intégrer dans l'équipe et faire preuve de coopération",
+              "code_ogr": 402302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Se coordonner avec les autres départements pour les besoins logistiques",
+              "code_ogr": 517723,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rapporter les incidents et anomalies rencontrés",
+              "code_ogr": 121866,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité et réglementations en vigueur",
+              "code_ogr": 485413,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Systèmes RFID (ou autres systèmes de scan/détection d'informations)",
+              "code_ogr": 478672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariot équipé de porte-charges",
+              "code_ogr": 520564,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de gestion informatisée",
+              "code_ogr": 499297,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Appareils de lecture optique de codes-barres (pistolet, flasheur, etc.)",
+              "code_ogr": 126124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Engins de manutention non motorisés (transpalette, diable, etc.)",
+              "code_ogr": 101829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nature des marchandises en contexte de messagerie",
+              "code_ogr": 512680,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des stocks et des commandes",
+              "code_ogr": 480462,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transpalette électrique à conducteur porté",
+              "code_ogr": 121601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes d'information et de gestion",
+              "code_ogr": 520528,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériaux d'emballage",
+              "code_ogr": 478677,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel cariste d'entrepôt",
+              "code_ogr": 512481,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Opérateur logistique polyvalent",
+              "code_ogr": 514683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP préparateur de commandes en entrepôt",
+              "code_ogr": 491612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP opérateur/opératrice logistique",
+              "code_ogr": 490958,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP agent logistique (H/F) des industries chimiques",
+              "code_ogr": 512415,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP agent logistique du secteur alimentaire",
+              "code_ogr": 512417,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQPI agent logistique",
+              "code_ogr": 491597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel agent magasinier",
+              "code_ogr": 515262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel préparateur de commandes en entrepôt",
+              "code_ogr": 512496,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur logistique",
+              "code_ogr": 491610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien en logistique d'entreposage",
+              "code_ogr": 490959,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP agent logistique",
+              "code_ogr": 491594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur en préparation de commandes",
+              "code_ogr": 491609,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur logistique en commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet",
+              "code_ogr": 491611,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manutentionnaire d'aéronautique",
+              "code_ogr": 512455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro logistique",
+              "code_ogr": 490957,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informatique nomade (PDA, GPS...)",
+              "code_ogr": 115737,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appréciation de charge",
+              "code_ogr": 119350,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation de l'espace de travail",
+              "code_ogr": 480116,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Organisation d'un site d'entreposage (plan de circulation, ...)",
+              "code_ogr": 109996,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Règles de sécurité liées aux matières et produits dangereux",
+              "code_ogr": 110403,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité en logistique",
+              "code_ogr": 120773,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sur le stockage de produits spécifiques (dangereux, sous température dirigée, phytosanitaire, ...)",
+              "code_ogr": 106465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plan de stockage",
+              "code_ogr": 110040,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes environnementales relatives au tri des déchets",
+              "code_ogr": 490596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes d'équilibrage des charges",
+              "code_ogr": 109997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stockage optimisé",
+              "code_ogr": 100290,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de filmage",
+              "code_ogr": 106404,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication en logistique",
+              "code_ogr": 520531,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stockage en logistique",
+              "code_ogr": 477746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de cerclage",
+              "code_ogr": 106432,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de palettisation",
+              "code_ogr": 119863,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'inventaire",
+              "code_ogr": 477505,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En flux tendu",
+          "code_ogr": 300834
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1116 - Inventoriste",
+      "code_org_rome_cible": 489168,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1110 - Magasinier / Magasinière",
+      "code_org_rome_cible": 488771,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1101 - Cariste",
+      "code_org_rome_cible": 500,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1302 - Responsable entrepôt logistique",
+      "code_org_rome_cible": 508,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1419 - Ouvrier agricole polyvalent / Ouvrière agricole polyvalente",
+      "code_org_rome_cible": 403955,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489071,
+    "code_rome": "H2705",
+    "libelle": "Pilote de ligne de production de composants et de cellules pour batteries de véhicules électriques",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2701"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.616,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MANÉ.03",
+          "title": "Amélioration de la performance énergétique",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=315",
+          "selection_score": 63.6567,
+          "shared_terms": [
+            "amelioration",
+            "energetique",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.03",
+          "title": "Organisation et planification",
+          "page": 201,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=201",
+          "selection_score": 54.4568,
+          "shared_terms": [
+            "planification"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OPTIM.02",
+          "title": "Machines frigorifiques",
+          "page": 363,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=363",
+          "selection_score": 40.6514,
+          "shared_terms": [
+            "machine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Conception et réalisation d’un projet à l’aide de techniques de fabrication utilisées en énergétique",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=97",
+          "selection_score": 39.9647,
+          "shared_terms": [
+            "energetique",
+            "fabrication"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 36.4228,
+          "shared_terms": [
+            "energetique",
+            "optimisation",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.609,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.CQESP.04",
+          "title": "Gestion des risques et amélioration continue",
+          "page": 238,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=238",
+          "selection_score": 73.3858,
+          "shared_terms": [
+            "amelioration",
+            "continue",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Equilibres et transferts de matière dans les opérations unitaires",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=105",
+          "selection_score": 42.4052,
+          "shared_terms": [
+            "matiere",
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Technologie et dimensionnement des procédés",
+          "page": 147,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=147",
+          "selection_score": 39.3773,
+          "shared_terms": [
+            "procede",
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Choix d’équipements d’un réseau de transport de fluide",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=48",
+          "selection_score": 40.439,
+          "shared_terms": [
+            "equipement",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Conduite et analyse critique des performances d’une unité pilote de réaction ou séparation",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=120",
+          "selection_score": 39.0198,
+          "shared_terms": [
+            "performance",
+            "pilote"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

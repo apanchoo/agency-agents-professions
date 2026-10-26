@@ -1,0 +1,119 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488587,
+    "code_rome": "K1209",
+    "libelle": "Coordonnateur / Coordonnatrice de projet socioéducatif",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1207"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 94.124,
+      "matched_terms": [
+        "educat",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1207",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.13",
+          "title": "Techniques d’intervention en animation sociale et socioculturelle",
+          "page": 670,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=670",
+          "selection_score": 86.8908,
+          "shared_terms": [
+            "animation",
+            "intervention",
+            "sociale",
+            "socioculturelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.04",
+          "title": "Politiques publiques",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=130",
+          "selection_score": 62.594,
+          "shared_terms": [
+            "politique",
+            "publique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Publics spécifiques et enjeux de l’intervention sociale",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=153",
+          "selection_score": 60.8344,
+          "shared_terms": [
+            "intervention",
+            "public",
+            "sociale",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ASSC.03",
+          "title": "Concevoir et mettre en œuvre un projet d’animation socioéducative s’adressant à un public ciblé",
+          "page": 653,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=653",
+          "selection_score": 91.7408,
+          "shared_terms": [
+            "animation",
+            "cible",
+            "public",
+            "socioeducative",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.CGE3S.04",
+          "title": "Orienter et accompagner les publics après avoir évalué leurs besoins",
+          "page": 480,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=480",
+          "selection_score": 89.9797,
+          "shared_terms": [
+            "accompagner",
+            "evalue",
+            "orienter",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,191 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 124,
+    "code_rome": "E1106",
+    "libelle": "Journaliste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "E1106"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 94.013,
+      "matched_terms": [
+        "information",
+        "journal"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [
+        "journal"
+      ],
+      "specific_title_terms": [
+        "journal"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.JOU.13",
+          "title": "Écritures et techniques journalistiques (presse, web, radio, TV, Photo)",
+          "page": 419,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=419",
+          "selection_score": 94.2155,
+          "shared_terms": [
+            "ecriture",
+            "journalistique",
+            "presse",
+            "radio",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.JOU.18",
+          "title": "Techniques d’interview",
+          "page": 342,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=342",
+          "selection_score": 74.3317,
+          "shared_terms": [
+            "interview"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.PUB.14",
+          "title": "Image et web",
+          "page": 616,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=616",
+          "selection_score": 63.6382,
+          "shared_terms": [
+            "image",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.JOU.03",
+          "title": "Réaliser un reportage radio",
+          "page": 351,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=351",
+          "selection_score": 75.312,
+          "shared_terms": [
+            "radio",
+            "reportage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.JOU.05",
+          "title": "Réaliser un reportage pour la presse écrite",
+          "page": 322,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=322",
+          "selection_score": 70.1954,
+          "shared_terms": [
+            "presse",
+            "reportage"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.774,
+      "matched_terms": [
+        "graph",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Écriture multimédia et narration",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=116",
+          "selection_score": 54.7681,
+          "shared_terms": [
+            "ecriture",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Gestion de contenus",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=91",
+          "selection_score": 48.3825,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CREA.05",
+          "title": "Gestion de contenus spécialisée",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=138",
+          "selection_score": 35.1081,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 55.5954,
+          "shared_terms": [
+            "contenu",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.03",
+          "title": "Concevoir des visualisations de données pour le web et dans un contexte d’une communication print et/ou sur les réseaux sociaux",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=167",
+          "selection_score": 54.3121,
+          "shared_terms": [
+            "reseaux",
+            "sociaux",
+            "web"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

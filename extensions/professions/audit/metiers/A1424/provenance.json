@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488709,
+    "code_rome": "A1424",
+    "libelle": "Pisciculteur / Piscicultrice",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1404"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.33,
+      "matched_terms": [
+        "aliment",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.11",
+          "title": "Traitement des eaux",
+          "page": 649,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=649",
+          "selection_score": 67.056,
+          "shared_terms": [
+            "eaux",
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.11",
+          "title": "Biologie et Nutrition appliquées aux produits innovants",
+          "page": 550,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=550",
+          "selection_score": 65.0109,
+          "shared_terms": [
+            "biologie",
+            "nutrition",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.BMB.15",
+          "title": "Biologie animale",
+          "page": 217,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=217",
+          "selection_score": 64.0561,
+          "shared_terms": [
+            "animale",
+            "biologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.04",
+          "title": "Préparer et mettre en œuvre une production alimentaire ou de bioproduit",
+          "page": 465,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=465",
+          "selection_score": 53.4175,
+          "shared_terms": [
+            "alimentaire",
+            "preparer",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 50.174,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

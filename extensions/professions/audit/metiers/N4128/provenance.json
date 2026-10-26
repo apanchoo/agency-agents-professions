@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489043,
+    "code_rome": "N4128",
+    "libelle": "Conducteur / Conductrice de navettes moins de 10 places",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4102"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.073,
+      "matched_terms": [
+        "exploitation",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4102",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Mobilités et transports de personnes",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=65",
+          "selection_score": 66.6918,
+          "shared_terms": [
+            "mobilite",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Transports urbains et interurbains de personnes : exploitation",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=87",
+          "selection_score": 37.1832,
+          "shared_terms": [
+            "exploitation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 36.1935,
+          "shared_terms": [
+            "exploitation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MSCC.01",
+          "title": "Contribution à un projet de digitalisation de la logistique ou de la mobilité",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=160",
+          "selection_score": 28.8977,
+          "shared_terms": [
+            "mobilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Étude du fonctionnement d’une organisation de production de biens ou services",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=36",
+          "selection_score": 26.459,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

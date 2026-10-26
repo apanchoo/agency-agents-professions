@@ -1,0 +1,642 @@
+{
+  "numero": 491,
+  "rome": {
+    "code_rome": "K2301",
+    "intitule": "Agent / Agente d'exploitation des réseaux d'assainissement",
+    "code_ogr": 420
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'assainissement",
+      "libelle_court": "Agent / Agente d'assainissement",
+      "code_ogr": 10388
+    },
+    {
+      "libelle": "Agent / Agente de curage",
+      "libelle_court": "Agent / Agente de curage",
+      "code_ogr": 10428
+    },
+    {
+      "libelle": "Agent / Agente de réseau d'assainissement",
+      "libelle_court": "Agent / Agente de réseau d'assainissement",
+      "code_ogr": 10587
+    },
+    {
+      "libelle": "Agent / Agente de salubrité en assainissement",
+      "libelle_court": "Agent / Agente de salubrité en assainissement",
+      "code_ogr": 10597
+    },
+    {
+      "libelle": "Assistant / Assistante technique du traitement des eaux",
+      "libelle_court": "Assistant / Assistante technique du traitement des eaux",
+      "code_ogr": 509710
+    },
+    {
+      "libelle": "Conducteur opérateur / Conductrice opératrice d'hydrocureur",
+      "libelle_court": "Conducteur opérateur / Conductrice opératrice d'hydrocureur",
+      "code_ogr": 38635
+    },
+    {
+      "libelle": "Gestionnaire de réseaux d'assainissement",
+      "libelle_court": "Gestionnaire de réseaux d'assainissement",
+      "code_ogr": 15348
+    },
+    {
+      "libelle": "Gestionnaire de réseaux d'eau",
+      "libelle_court": "Gestionnaire de réseaux d'eau",
+      "code_ogr": 15349
+    },
+    {
+      "libelle": "Inspecteur / Inspectrice de réseau d'assainissement",
+      "libelle_court": "Inspecteur / Inspectrice de réseau d'assainissement",
+      "code_ogr": 15952
+    },
+    {
+      "libelle": "Nettoyeur / Nettoyeuse de réseau d'assainissement",
+      "libelle_court": "Nettoyeur / Nettoyeuse de réseau d'assainissement",
+      "code_ogr": 16976
+    },
+    {
+      "libelle": "Opérateur / Opératrice gestion réseaux",
+      "libelle_court": "Opérateur / Opératrice gestion réseaux",
+      "code_ogr": 17236
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'assainissement",
+      "libelle_court": "Ouvrier / Ouvrière d'assainissement",
+      "code_ogr": 17420
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'entretien des réseaux d'assainissement",
+      "libelle_court": "Ouvrier / Ouvrière d'entretien des réseaux d'assainissement",
+      "code_ogr": 17476
+    },
+    {
+      "libelle": "Vidangeur / Vidangeuse en assainissement",
+      "libelle_court": "Vidangeur / Vidangeuse en assainissement",
+      "code_ogr": 20685
+    }
+  ],
+  "definition": "L'agent d'exploitation des réseaux d'assainissement assure un rôle important dans l'entretien, la maintenance et le bon fonctionnement des réseaux d'eaux usées et pluviales, garantissant ainsi la collecte et l'acheminement efficaces des effluents vers les stations d'épuration. Surveille, entretient les réseaux d'assainissement selon les règles de salubrité et d'hygiène publique Réalise des interventions de maintenance préventive et curative sur le réseau Détecte et répare les dysfonctionnements (obstructions, fuites) Relève et met à jour les plans des réseaux Participe à des interventions d'urgence pour résoudre les problèmes critiques d'assainissement",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac, ou avec un Titre Professionnel dans le domaine du traitement de l'eau ou des travaux publics. Le permis de conduire est indispensable.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés aux procédures d'assainissement",
+              "code_ogr": 501702,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner des supports de suivi d'activité",
+              "code_ogr": 126019,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Analyser et interpréter les résultats de capteurs permanents posés sur les réseaux d'eau",
+              "code_ogr": 400689,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assembler des tuyaux par pointage, vissage, boulonnage",
+              "code_ogr": 400667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régler des équipements d'exploitation ou de prélèvement d'eau",
+              "code_ogr": 122786,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance préventive des réseaux",
+              "code_ogr": 486010,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer des équipements d'exploitation ou de prélèvement d'eau",
+              "code_ogr": 122785,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Poser les éléments d'assainissement",
+              "code_ogr": 400448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les joints sur une tuyauterie (téflon, filasse et pâte, graisse gaz)",
+              "code_ogr": 400541,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir des canalisations",
+              "code_ogr": 121307,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier et résoudre les dysfonctionnements du réseau",
+              "code_ogr": 511345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Opérer les travaux de maintenance",
+              "code_ogr": 400349,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Purger et contrôler les ventouses, entretenir les poteaux incendie et les postes de relèvement",
+              "code_ogr": 400845,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repérer les fuites et les obstructions d'un réseau d'assainissement",
+              "code_ogr": 400675,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des travaux de rénovation, réhabilitation ou réparation de réseaux vétustes",
+              "code_ogr": 115315,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la télésurveillance et la régulation d'équipements d'exploitation (automates, vannes, pompes, etc.) et d'écoulements des pluies, des crues, ... à distance",
+              "code_ogr": 115313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le curage manuel",
+              "code_ogr": 108714,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser le curage mécanisé, hydrodynamique, hydrocurage",
+              "code_ogr": 108713,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité sur les chantiers",
+              "code_ogr": 508688,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conduire les engins de chantier selon les prérogatives des habilitations de conduite en sécurité et en étant vigilant à l'environnement du chantier",
+              "code_ogr": 513125,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les dispositifs de pompage et de détection des dysfonctionnements",
+              "code_ogr": 511234,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler un réseau ou un équipement d'exploitation",
+              "code_ogr": 123568,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler une canalisation",
+              "code_ogr": 123557,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des tests de fonctionnement sur des équipements",
+              "code_ogr": 483511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les risques liés aux interventions sur les réseaux",
+              "code_ogr": 501706,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller le fonctionnement des systèmes d'assainissement et intervenir en cas d'anomalie",
+              "code_ogr": 501699,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier l'étanchéité d'une tuyauterie",
+              "code_ogr": 400488,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des opérations de maintenance",
+              "code_ogr": 121050,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer des prélèvements pour des tests de qualité",
+              "code_ogr": 482900,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec l'équipe de maintenance pour les réparations nécessaires",
+              "code_ogr": 522879,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer la réglementation spécifiant les normes d'assainissement",
+              "code_ogr": 400083,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les incidents et les urgences sur les sites d'assainissement",
+              "code_ogr": 501700,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les normes de sécurité en vigueur",
+              "code_ogr": 483624,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de pompage",
+              "code_ogr": 106943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation des équipements spécifiques au métier (clés, coupe-tubes, testeurs de pression, etc.)",
+              "code_ogr": 511347,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP agent d'assainissement et de collecte des déchets liquides spéciaux",
+              "code_ogr": 491387,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro gestion des pollutions et protection de l'environnement",
+              "code_ogr": 491390,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP constructeur de réseaux de canalisations de travaux publics",
+              "code_ogr": 490955,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agent de la qualité de l'eau",
+              "code_ogr": 514090,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien de traitement des eaux",
+              "code_ogr": 514746,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Installation de systèmes hydrauliques",
+              "code_ogr": 104425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité Basse Tension (BT)",
+              "code_ogr": 103561,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plomberie",
+              "code_ogr": 106747,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Qualité et traitement des eaux",
+              "code_ogr": 126112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et dispositifs de sécurité (harnais, masque, ...)",
+              "code_ogr": 115316,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources en eau",
+              "code_ogr": 479040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de salubrité et d'hygiène publique",
+              "code_ogr": 108710,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des déchets issus de l'assainissement",
+              "code_ogr": 495107,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des interventions d'urgence en assainissement",
+              "code_ogr": 495249,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de construction de réseaux gravitaires",
+              "code_ogr": 103812,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soudure",
+              "code_ogr": 100286,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des techniques de curage haute pression",
+              "code_ogr": 495976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de petits engins de chantier (mini-pelle, etc.)",
+              "code_ogr": 499235,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'assainissement",
+              "code_ogr": 108727,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de réseau d'assainissement",
+              "code_ogr": 522880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prélèvement et d'analyses",
+              "code_ogr": 103106,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En milieu exigu ou confiné",
+          "code_ogr": 23385
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": false
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": false
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2304 - Agent / Agente de tri des déchets",
+      "code_org_rome_cible": 423,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2307 - Agent / Agente de propreté urbaine",
+      "code_org_rome_cible": 488790,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2317 - Technicien / Technicienne d'exploitation d'eau potable",
+      "code_org_rome_cible": 509901,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K2322 - Technicien / Technicienne en traitement des eaux",
+      "code_org_rome_cible": 509680,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2313 - Technicien chargé / Technicienne chargée de la police des eaux",
+      "code_org_rome_cible": 510264,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1404 - Chargé / Chargée de mission développement territorial",
+      "code_org_rome_cible": 382,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 8
+    }
+  ]
+}

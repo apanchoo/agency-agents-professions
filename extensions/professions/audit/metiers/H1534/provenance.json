@@ -1,0 +1,263 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510637,
+    "code_rome": "H1534",
+    "libelle": "Ingénieur / Ingénieure d'analyse industrielle",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1501"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.249,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.04",
+          "title": "Impact environnemental des activités anthropiques",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=118",
+          "selection_score": 64.3137,
+          "shared_terms": [
+            "environnemental",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.09",
+          "title": "Analyse et maîtrise des impacts environnementaux",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=85",
+          "selection_score": 59.2833,
+          "shared_terms": [
+            "environnementaux",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Toxicologie industrielle et environnementale",
+          "page": 62,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=62",
+          "selection_score": 46.0233,
+          "shared_terms": [
+            "environnementale",
+            "industrielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 61.9873,
+          "shared_terms": [
+            "audit",
+            "qhsse",
+            "realisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Préparer et animer en groupe une séquence autour d’un risque dans le cadre d’une campagne de sensibilisation",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=51",
+          "selection_score": 60.0291,
+          "shared_terms": [
+            "animer",
+            "risque",
+            "sensibilisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.097,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.06",
+          "title": "Analyse et réduction de l’empreinte environnementale",
+          "page": 699,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=699",
+          "selection_score": 58.0693,
+          "shared_terms": [
+            "environnementale",
+            "reduction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.14",
+          "title": "Introduction à la gestion des déchets",
+          "page": 652,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=652",
+          "selection_score": 56.331,
+          "shared_terms": [
+            "dechet"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.SAB.17",
+          "title": "Physique Industrielle",
+          "page": 484,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=484",
+          "selection_score": 52.009,
+          "shared_terms": [
+            "industrielle",
+            "physique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SEE.04",
+          "title": "Identifier et caractériser les différents polluants dans un écosystème",
+          "page": 585,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=585",
+          "selection_score": 58.8103,
+          "shared_terms": [
+            "identifier",
+            "polluant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.03",
+          "title": "Organiser et mettre en place une procédure d’expérimentation animale dans le cadre de la règlementation en vigueur",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=199",
+          "selection_score": 51.7076,
+          "shared_terms": [
+            "reglementation",
+            "vigueur"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.801,
+      "matched_terms": [
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 65.1651,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 50.2669,
+          "shared_terms": [
+            "conformite",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.05",
+          "title": "Modélisation des systèmes d’information",
+          "page": 159,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=159",
+          "selection_score": 43.9248,
+          "shared_terms": [
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 54.862,
+          "shared_terms": [
+            "evolution",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.QMI.03",
+          "title": "Projet QSE en tant que technicien",
+          "page": 302,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=302",
+          "selection_score": 36.237,
+          "shared_terms": [
+            "qse"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

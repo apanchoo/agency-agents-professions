@@ -1,0 +1,194 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488904,
+    "code_rome": "M1837",
+    "libelle": "Développeur / Développeuse multimédia",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1805"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 118.99,
+      "matched_terms": [
+        "design",
+        "developpe",
+        "experience utilisateur",
+        "graph",
+        "multimedia"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [
+        "developpe",
+        "multimedia"
+      ],
+      "specific_title_terms": [
+        "multimedia"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.06",
+          "title": "Développement front",
+          "page": 260,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=260",
+          "selection_score": 116.1186,
+          "shared_terms": [
+            "front"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.DWEB-DI.13",
+          "title": "Développement Back",
+          "page": 241,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=241",
+          "selection_score": 114.5377,
+          "shared_terms": [
+            "back"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DWEB-DI.05",
+          "title": "Développement front avancé",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=272",
+          "selection_score": 82.1871,
+          "shared_terms": [
+            "front"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.03",
+          "title": "Concevoir des visualisations de données pour le web et une application interactive",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=227",
+          "selection_score": 127.9794,
+          "shared_terms": [
+            "application",
+            "interactive",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DWEB-DI.01",
+          "title": "Développer pour le web ou Concevoir un dispositif interactif",
+          "page": 265,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=265",
+          "selection_score": 84.0958,
+          "shared_terms": [
+            "dispositif",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 97.589,
+      "matched_terms": [
+        "application",
+        "developpe",
+        "logiciel"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [
+        "developpe"
+      ],
+      "specific_title_terms": [
+        "developpe"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.REAL.11",
+          "title": "Développement pour applications mobiles",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=144",
+          "selection_score": 142.8684,
+          "shared_terms": [
+            "application",
+            "mobile"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.04",
+          "title": "Qualité algorithmique",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=154",
+          "selection_score": 98.3003,
+          "shared_terms": [
+            "algorithmique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.06",
+          "title": "Sensibilisation à la programmation multimédia",
+          "page": 156,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=156",
+          "selection_score": 90.2913,
+          "shared_terms": [
+            "multimedia",
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.REAL.01",
+          "title": "Développement d’une application",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=108",
+          "selection_score": 72.3268,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.REAL.01",
+          "title": "Développement d’une application complexe",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=128",
+          "selection_score": 54.7815,
+          "shared_terms": [
+            "application"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

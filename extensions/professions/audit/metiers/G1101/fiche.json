@@ -1,0 +1,516 @@
+{
+  "numero": 160,
+  "rome": {
+    "code_rome": "G1101",
+    "intitule": "Agent / Agente d'accueil touristique",
+    "code_ogr": 180
+  },
+  "appellations": [
+    {
+      "libelle": "Chargé / Chargée d'accueil en réceptif local",
+      "libelle_court": "Chargé / Chargée d'accueil en réceptif local",
+      "code_ogr": 11745
+    },
+    {
+      "libelle": "Chargé / Chargée d'accueil touristique",
+      "libelle_court": "Chargé / Chargée d'accueil touristique",
+      "code_ogr": 11747
+    },
+    {
+      "libelle": "Conseiller / Conseillère en séjour touristique",
+      "libelle_court": "Conseiller / Conseillère en séjour touristique",
+      "code_ogr": 13453
+    },
+    {
+      "libelle": "Hôte / Hôtesse d'accueil tourisme",
+      "libelle_court": "Hôte / Hôtesse d'accueil tourisme",
+      "code_ogr": 15485
+    },
+    {
+      "libelle": "Permanent local / Permanente locale d'agence réceptive",
+      "libelle_court": "Permanent local / Permanente locale d'agence réceptive",
+      "code_ogr": 17663
+    },
+    {
+      "libelle": "Représentant local / Représentante locale d'agence réceptive",
+      "libelle_court": "Représentant local / Représentante locale d'agence réceptive",
+      "code_ogr": 18558
+    },
+    {
+      "libelle": "Technicien / Technicienne d'accueil touristique",
+      "libelle_court": "Technicien / Technicienne d'accueil touristique",
+      "code_ogr": 19707
+    }
+  ],
+  "definition": "L'Agent d'accueil touristique, premier contact des visiteurs, joue un rôle clé dans l'expérience touristique. Accueille, informe et oriente les touristes sur les activités et sites à visiter Gère les réservations pour diverses attractions ou événements Assure la promotion des offres touristiques locales Peut gérer des réclamations ou des demandes spécifiques des visiteurs Contribue à l'organisation d'événements ou d'animations locales Maintient à jour les informations touristiques disponibles",
+  "acces_metier": "Cet emploi est accessible sans condition de diplôme. Il existe néanmoins des formations de niveau Bac à Bac+3 appréciées pour exercer ce métier, dans le secteur de l'accueil ou du tourisme.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer la médiation culturelle lors de visites",
+              "code_ogr": 483686,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Planifier des événements touristiques",
+              "code_ogr": 110611,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir un évènement",
+              "code_ogr": 405064,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner des supports de suivi d'activité",
+              "code_ogr": 126019,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Organiser un espace d'accueil",
+              "code_ogr": 121449,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les réservations de visites ou d'activités",
+              "code_ogr": 483685,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des systèmes de billetterie électronique et gérer les transactions",
+              "code_ogr": 486887,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir les visiteurs et présenter les services disponibles",
+              "code_ogr": 483684,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer l'accueil des personnes en situation de handicap",
+              "code_ogr": 489760,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer l'accueil des visiteurs en toute sécurité",
+              "code_ogr": 489761,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité des visiteurs et du personnel",
+              "code_ogr": 125317,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fournir des informations touristiques et locales aux clients",
+              "code_ogr": 103841,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer le client sur l'environnement touristique et culturel",
+              "code_ogr": 400445,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Evaluer la satisfaction client",
+              "code_ogr": 120147,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser les conditions de séjour pour une clientèle",
+              "code_ogr": 123635,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Ecrire une ou plusieurs langues étrangères",
+              "code_ogr": 300406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser les visiteurs à la protection de l'environnement",
+              "code_ogr": 485833,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir à jour les informations touristiques disponibles",
+              "code_ogr": 483687,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat de spécialisation accueil-réception",
+              "code_ogr": 522543,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention tourisme et loisirs sportifs",
+              "code_ogr": 490963,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence tourisme",
+              "code_ogr": 490964,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme en management du tourisme",
+              "code_ogr": 490960,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du tourisme : communication et valorisation des territoires",
+              "code_ogr": 490962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel chargé d'accueil touristique et de loisirs",
+              "code_ogr": 489725,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du tourisme et des loisirs",
+              "code_ogr": 489655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro métiers de l'accueil",
+              "code_ogr": 489585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS tourisme",
+              "code_ogr": 405314,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Caractéristiques de l'offre touristique",
+              "code_ogr": 121522,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animations touristiques",
+              "code_ogr": 117216,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de réservation",
+              "code_ogr": 119527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de l'information touristique",
+              "code_ogr": 478322,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des options de transport local",
+              "code_ogr": 478329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des pratiques écologiques en tourisme",
+              "code_ogr": 478326,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Arts et traditions populaires",
+              "code_ogr": 108161,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Circuits d'hébergement d'urgence",
+              "code_ogr": 107778,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du tourisme",
+              "code_ogr": 104051,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité des visiteurs",
+              "code_ogr": 478323,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des feedbacks clients",
+              "code_ogr": 478328,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits",
+              "code_ogr": 477396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vente",
+              "code_ogr": 498870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification d'itinéraires touristiques",
+              "code_ogr": 478284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des réservations hôtelières",
+              "code_ogr": 478324,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Tous types de public",
+          "code_ogr": 513769
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "101",
+      "libelle": "Tourisme",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1502 - Employé / Employée d'hôtel",
+      "code_org_rome_cible": 196,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1703 - Réceptionniste",
+      "code_org_rome_cible": 205,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1303 - Conseiller / Conseillère en voyages",
+      "code_org_rome_cible": 190,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1201 - Guide-accompagnateur / Guide-accompagnatrice",
+      "code_org_rome_cible": 182,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1704 - Agent / Agente de réservation en hôtellerie",
+      "code_org_rome_cible": 488579,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N2201 - Agent / Agente d'Escale Commerciale aéroportuaire (AEC)",
+      "code_org_rome_cible": 512,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "C1201 - Chargé / Chargée d'accueil et de services clientèle bancaire",
+      "code_org_rome_cible": 65,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1211 - Vendeur / Vendeuse d'articles de sport et loisirs",
+      "code_org_rome_cible": 97,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 9
+    }
+  ]
+}

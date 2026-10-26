@@ -1,0 +1,196 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 153,
+    "code_rome": "F1204",
+    "libelle": "Animateur / Animatrice QSE - Qualité Sécurité Environnement BTP",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1204"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 194.17,
+      "matched_terms": [
+        "environnement",
+        "qse",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [
+        7
+      ],
+      "parent_rome": "F1204",
+      "title_terms": [
+        "environnement",
+        "qse",
+        "securite"
+      ],
+      "specific_title_terms": [
+        "qse",
+        "securite"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.04",
+          "title": "Introduction au système de management QHSSE",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=103",
+          "selection_score": 60.9074,
+          "shared_terms": [
+            "management",
+            "qhsse"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.02",
+          "title": "Risques liés au transport",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=134",
+          "selection_score": 52.2401,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.03",
+          "title": "Système de management intégré QHSSE",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=135",
+          "selection_score": 50.3061,
+          "shared_terms": [
+            "management",
+            "qhsse"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.02",
+          "title": "Concevoir un plan de gestion des risques liés aux coactivités",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=93",
+          "selection_score": 64.8529,
+          "shared_terms": [
+            "lies",
+            "plan",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Analyse des risques environnementaux dans une perspective de transition environnementale",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=48",
+          "selection_score": 55.5874,
+          "shared_terms": [
+            "environnementale",
+            "environnementaux",
+            "risque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.306,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.13",
+          "title": "Evaluation environnementale des matériaux et des équipements",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=111",
+          "selection_score": 37.4556,
+          "shared_terms": [
+            "environnementale",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Stabilité des constructions 1",
+          "page": 132,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=132",
+          "selection_score": 32.4876,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Stabilité des constructions 2",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=155",
+          "selection_score": 32.4876,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.BAT.05",
+          "title": "Réalisation d’une étude méthodes en phase préparation de chantier",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=120",
+          "selection_score": 54.7632,
+          "shared_terms": [
+            "chantier",
+            "phase"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.TP.05",
+          "title": "Réalisation d’une étude méthodes en phase préparation d’un chantier TP",
+          "page": 196,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=196",
+          "selection_score": 54.4175,
+          "shared_terms": [
+            "chantier",
+            "phase"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

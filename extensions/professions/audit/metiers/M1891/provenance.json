@@ -1,0 +1,226 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510447,
+    "code_rome": "M1891",
+    "libelle": "Ingénieur / Ingénieure prévisionniste météorologue",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1809"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.891,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 45.488,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 40.7442,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 27.6547,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.01",
+          "title": "Collecte automatisée de données web",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=76",
+          "selection_score": 36.0539,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.03",
+          "title": "Description et prévision de données temporelles",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=79",
+          "selection_score": 33.6873,
+          "shared_terms": [
+            "prevision"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.512,
+      "matched_terms": [
+        "donnees"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Méthodes d’optimisation",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=136",
+          "selection_score": 30.5349,
+          "shared_terms": [
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.12",
+          "title": "Modélisations mathématiques",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=162",
+          "selection_score": 29.4482,
+          "shared_terms": [
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.05",
+          "title": "Optimisation des services complexes",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=244",
+          "selection_score": 22.3273,
+          "shared_terms": [
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 47.2759,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.DEPLOI.01",
+          "title": "Optimisation des services",
+          "page": 236,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=236",
+          "selection_score": 31.6663,
+          "shared_terms": [
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.457,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1809",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.STRAT-UX.03",
+          "title": "Stratégie de communication pluri-média",
+          "page": 220,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=220",
+          "selection_score": 23.3318,
+          "shared_terms": [
+            "media"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Explorer les usages du numérique",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=74",
+          "selection_score": 42.8299,
+          "shared_terms": [
+            "explorer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.02",
+          "title": "Développer une communication sur les médias sociaux",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=191",
+          "selection_score": 28.7552,
+          "shared_terms": [
+            "media"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

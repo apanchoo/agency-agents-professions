@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515458,
+    "code_rome": "A1322",
+    "libelle": "Technicien / Technicienne de rivière",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1204"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.089,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.08",
+          "title": "Écologie et surveillance des milieux naturels",
+          "page": 646,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=646",
+          "selection_score": 117.3414,
+          "shared_terms": [
+            "ecologie",
+            "milieux",
+            "naturel",
+            "surveillance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.10",
+          "title": "Cartographie et SIG",
+          "page": 648,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=648",
+          "selection_score": 93.9889,
+          "shared_terms": [
+            "cartographie",
+            "sig"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.04",
+          "title": "Protection des milieux naturels",
+          "page": 697,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=697",
+          "selection_score": 67.3458,
+          "shared_terms": [
+            "milieux",
+            "naturel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.03",
+          "title": "Organiser et mettre en place une procédure d’expérimentation animale dans le cadre de la règlementation en vigueur",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=199",
+          "selection_score": 66.1542,
+          "shared_terms": [
+            "animale",
+            "procedure",
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DN.02",
+          "title": "Mise en place d’un projet d’information et d’éducation nutritionnelle et ses déclinaisons alimentaires pour un public ciblé.",
+          "page": 388,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=388",
+          "selection_score": 42.5987,
+          "shared_terms": [
+            "education",
+            "mise",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

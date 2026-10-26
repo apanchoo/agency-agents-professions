@@ -1,0 +1,100 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 321,
+    "code_rome": "I1402",
+    "libelle": "Technicien / Technicienne de maintenance en appareils électroménagers",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1402"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.077,
+      "matched_terms": [
+        "logiciel"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.10",
+          "title": "Nouveaux paradigmes de base de données",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=160",
+          "selection_score": 39.9331,
+          "shared_terms": [
+            "nouveaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Communication et fonctionnement bas niveau",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=94",
+          "selection_score": 34.1091,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Introduction aux systèmes d’exploitation et à leur fonctionnement",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=72",
+          "selection_score": 33.3763,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 47.4089,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.INTEG.01",
+          "title": "Adaptation d’un système d’information à des nouveaux besoins",
+          "page": 354,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=354",
+          "selection_score": 40.8381,
+          "shared_terms": [
+            "nouveaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

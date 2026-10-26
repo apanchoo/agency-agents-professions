@@ -1,0 +1,195 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510434,
+    "code_rome": "M1718",
+    "libelle": "Chargé / Chargée de marketing digital",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1705"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.773,
+      "matched_terms": [
+        "marketing",
+        "marque"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [
+        "marketing"
+      ],
+      "specific_title_terms": [
+        "marketing"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MDEE.15",
+          "title": "Stratégie de contenu et rédaction web",
+          "page": 342,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=342",
+          "selection_score": 86.5644,
+          "shared_terms": [
+            "contenu",
+            "redaction",
+            "strategie",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SME.12",
+          "title": "Marketing digital de la marque",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=178",
+          "selection_score": 72.9168,
+          "shared_terms": [
+            "digital",
+            "marketing",
+            "marque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MMPV.09",
+          "title": "Merchandising",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=239",
+          "selection_score": 68.0694,
+          "shared_terms": [
+            "merchandising"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDEE.02",
+          "title": "Démarche de création d’entreprise en contexte digital",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=275",
+          "selection_score": 60.7573,
+          "shared_terms": [
+            "creation",
+            "digital"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BDMRC.03",
+          "title": "Élaboration d’ un plan d’actions commercial et relationnel",
+          "page": 464,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=464",
+          "selection_score": 59.8628,
+          "shared_terms": [
+            "action",
+            "commercial",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 22.716,
+      "matched_terms": [
+        "design",
+        "developpe",
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1705",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.06",
+          "title": "Webmarketing",
+          "page": 212,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=212",
+          "selection_score": 108.2159,
+          "shared_terms": [
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.STRAT-UX.05",
+          "title": "Stratégie de Com / Webmarketing",
+          "page": 198,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=198",
+          "selection_score": 96.7304,
+          "shared_terms": [
+            "strategie",
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.09",
+          "title": "Création et design interactif (UI)",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=177",
+          "selection_score": 77.9099,
+          "shared_terms": [
+            "creation",
+            "design"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.03",
+          "title": "Concevoir des visualisations de données pour le web et dans un contexte d’une communication print et/ou sur les réseaux sociaux",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=167",
+          "selection_score": 99.0327,
+          "shared_terms": [
+            "reseaux",
+            "sociaux",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.01",
+          "title": "Mettre en place une solution ecommerce et la stratégie associée",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=190",
+          "selection_score": 96.8733,
+          "shared_terms": [
+            "place",
+            "solution",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

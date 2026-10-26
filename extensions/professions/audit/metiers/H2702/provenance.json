@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488305,
+    "code_rome": "H2702",
+    "libelle": "Conducteur / Conductrice de bloc nucléaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2701"
+  },
+  "but": [
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.678,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Thermodynamique Energétique",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=80",
+          "selection_score": 66.0504,
+          "shared_terms": [
+            "energetique",
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Initiation à la régulation",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=103",
+          "selection_score": 46.2247,
+          "shared_terms": [
+            "regulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPOP.08",
+          "title": "Régulation",
+          "page": 281,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=281",
+          "selection_score": 46.1081,
+          "shared_terms": [
+            "regulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 2).",
+          "page": 269,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=269",
+          "selection_score": 40.9982,
+          "shared_terms": [
+            "parametre",
+            "regulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 40.8053,
+          "shared_terms": [
+            "parametre",
+            "regulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

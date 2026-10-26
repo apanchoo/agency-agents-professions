@@ -1,0 +1,185 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521030,
+    "code_rome": "H2924",
+    "libelle": "Conducteur / Conductrice de ligne de production en industrie métallurgique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2905"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.629,
+      "matched_terms": [
+        "metallur"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2905",
+      "title_terms": [
+        "metallur"
+      ],
+      "specific_title_terms": [
+        "metallur"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Normes et réglementations",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=136",
+          "selection_score": 79.3095,
+          "shared_terms": [
+            "norme",
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Structure de la matière 1",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=60",
+          "selection_score": 38.4174,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Structure de la matière 2",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=88",
+          "selection_score": 37.9128,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Incidence d’un procédé de fabrication sur la qualité d’un produit",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=73",
+          "selection_score": 46.5479,
+          "shared_terms": [
+            "fabrication",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Suivi de protocole pour l’élaboration en sécurité",
+          "page": 44,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=44",
+          "selection_score": 34.0125,
+          "shared_terms": [
+            "securite",
+            "suivi"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 88.872,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2905",
+      "title_terms": [
+        "producti"
+      ],
+      "specific_title_terms": [
+        "producti"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Métrologie",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=118",
+          "selection_score": 45.2798,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 36.1131,
+          "shared_terms": [
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Production - Méthodes",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=139",
+          "selection_score": 25.2776,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 40.6862,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Fabrication d’une pièce unitaire",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=88",
+          "selection_score": 35.0609,
+          "shared_terms": [
+            "fabrication"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

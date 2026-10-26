@@ -1,0 +1,439 @@
+{
+  "numero": 33010,
+  "rome": {
+    "code_rome": "K2604",
+    "intitule": "Agent / Agente de crématorium",
+    "code_ogr": 509390
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de crémation",
+      "libelle_court": "Agent / Agente de crémation",
+      "code_ogr": 10425
+    },
+    {
+      "libelle": "Agent chargé / Agente chargée des crémations",
+      "libelle_court": "Agent chargé / Agente chargée des crémations",
+      "code_ogr": 10359
+    },
+    {
+      "libelle": "Conducteur / Conductrice de four de crémation",
+      "libelle_court": "Conducteur / Conductrice de four de crémation",
+      "code_ogr": 12943
+    },
+    {
+      "libelle": "Opérateur / Opératrice de crémation",
+      "libelle_court": "Opérateur / Opératrice de crémation",
+      "code_ogr": 17080
+    },
+    {
+      "libelle": "Opérateur / Opératrice de crématorium",
+      "libelle_court": "Opérateur / Opératrice de crématorium",
+      "code_ogr": 17081
+    },
+    {
+      "libelle": "Opérateur / Opératrice de four de crémation",
+      "libelle_court": "Opérateur / Opératrice de four de crémation",
+      "code_ogr": 17103
+    },
+    {
+      "libelle": "Technicien / Technicienne de crémation",
+      "libelle_court": "Technicien / Technicienne de crémation",
+      "code_ogr": 19742
+    }
+  ],
+  "definition": "L' agent de crématorium gère les cérémonies des derniers adieux au défunt, assurant dignité et respect. Opère et surveille les équipements de crémation pour garantir leur bon fonctionnement Accueille les familles en deuil et les assiste durant les cérémonies Maintient les installations du crématorium propres et sécurisées Respecte les normes de santé et de sécurité strictes pour prévenir tout risque sanitaire Gère les documents administratifs nécessaires à la crémation Peut conseiller les familles sur les différentes options de services funéraires disponibles",
+  "acces_metier": "Aucun diplôme spécifique n'est requis pour accéder à ce métier. En effet, vous pouvez exercer le métier d'agent de crématorium sans diplôme, avec un niveau de 3e ou un CAP. Toutefois, il faut suivre une formation de 40 heures dans les 6 mois qui suivent le recrutement. Cette formation est souvent prise en charge par l'entreprise qui recrute.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accueillir et accompagner les familles lors des cérémonies de crémation",
+              "code_ogr": 500203,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Planifier l'intervention et préparer les matériels et accessoires nécessaires à l'opération funéraire",
+              "code_ogr": 108857,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir les cendres du défunt et les placer dans une urne funéraire",
+              "code_ogr": 511325,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser l'acte de crémation en introduisant le cercueil dans le four crématoire",
+              "code_ogr": 511322,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Régler le four crématoire",
+              "code_ogr": 511323,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Nettoyer et entretenir les espaces de crémation",
+              "code_ogr": 500204,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Veiller au bon déroulement de la crémation et au respect des normes techniques",
+              "code_ogr": 511324,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller au respect des normes d'hygiène et de sécurité",
+              "code_ogr": 402094,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Réaliser les opérations funéraires pour l'inhumation, la crémation ou l'exhumation",
+              "code_ogr": 300656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Se charger de la disposition du cercueil dans la salle de cérémonie",
+              "code_ogr": 511320,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transférer le cercueil de la salle de cérémonie jusqu'au local technique dans lequel se trouve le four de crémation",
+              "code_ogr": 511321,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les documents administratifs liés à la crémation",
+              "code_ogr": 500205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le planning des crémations",
+              "code_ogr": 500200,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer la législation et la réglementation en vigueur",
+              "code_ogr": 489749,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir les opérateurs funéraires et les familles au crématorium",
+              "code_ogr": 511319,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de dysfonctionnement",
+              "code_ogr": 485035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la discrétion et le respect envers les familles endeuillées",
+              "code_ogr": 487217,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les protocoles de nettoyage et de désinfection",
+              "code_ogr": 404219,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter des informations sensibles",
+              "code_ogr": 482369,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Produits et services funéraires",
+              "code_ogr": 108882,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipement de crémation",
+              "code_ogr": 108869,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Habilitation funéraire",
+              "code_ogr": 515342,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Communication avec les familles endeuillées",
+              "code_ogr": 482085,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Portage de cercueil",
+              "code_ogr": 108870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bureautique et outils collaboratifs",
+              "code_ogr": 404550,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Respect des procédures administratives",
+              "code_ogr": 497344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des normes de santé et de sécurité",
+              "code_ogr": 497321,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques sanitaires",
+              "code_ogr": 476767,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation funéraire",
+              "code_ogr": 108862,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des registres de crémation",
+              "code_ogr": 495326,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Maintenance préventive des équipements de crémation",
+              "code_ogr": 495850,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques funéraires",
+              "code_ogr": 123445,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En chambre mortuaire ou funéraire",
+          "code_ogr": 300780
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "86",
+      "libelle": "Service à la personne",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2605 - Maître / Maîtresse de cérémonie funéraire",
+      "code_org_rome_cible": 510294,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2606 - Directeur / Directrice d'entreprise funéraire",
+      "code_org_rome_cible": 510017,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2602 - Conseiller / Conseillère funéraire",
+      "code_org_rome_cible": 432,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1801 - Conseiller / Conseillère en insertion professionnelle",
+      "code_org_rome_cible": 398,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1204 - Médiateur social / Médiatrice sociale",
+      "code_org_rome_cible": 371,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1602 - Secrétaire administratif / Secrétaire administrative de collectivité territoriale",
+      "code_org_rome_cible": 475,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1501 - Aide-soignant / Aide-soignante",
+      "code_org_rome_cible": 357,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1201 - Assistant social / Assistante sociale",
+      "code_org_rome_cible": 368,
+      "ordre_mobilite": 10
+    }
+  ]
+}

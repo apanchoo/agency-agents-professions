@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 31,
+    "code_rome": "A1417",
+    "libelle": "Saliculteur / Salicultrice",
+    "transition_eco": "Emploi Vert",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "A1417"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.043,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1417",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.DN.10",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 401,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=401",
+          "selection_score": 63.7764,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AGRO.05",
+          "title": "Préservation des sols",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=175",
+          "selection_score": 52.2399,
+          "shared_terms": [
+            "preservation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.DN.15",
+          "title": "Hygiène Qualité Sécurité Environnement",
+          "page": 380,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=380",
+          "selection_score": 51.247,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.04",
+          "title": "Préparer et mettre en œuvre une production alimentaire ou de bioproduit",
+          "page": 465,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=465",
+          "selection_score": 53.5763,
+          "shared_terms": [
+            "alimentaire",
+            "preparer",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 51.0526,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

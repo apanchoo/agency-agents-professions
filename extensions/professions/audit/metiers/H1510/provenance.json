@@ -1,0 +1,273 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488296,
+    "code_rome": "H1510",
+    "libelle": "Technicien / Technicienne de laboratoire de contrôle en industrie pharmaceutique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1501"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.883,
+      "matched_terms": [
+        "chimi",
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [
+        "laboratoire"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 71.6033,
+          "shared_terms": [
+            "echantillon",
+            "preparation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IND.04",
+          "title": "Procédés multiphasiques et réactifs",
+          "page": 393,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=393",
+          "selection_score": 60.3822,
+          "shared_terms": [
+            "procede",
+            "reactif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Chimie en solution : Titrages - Electrochimie",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=94",
+          "selection_score": 55.5724,
+          "shared_terms": [
+            "solution",
+            "titrage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.06",
+          "title": "Gestion HSE d’un laboratoire ou d’un atelier de production",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=92",
+          "selection_score": 37.4918,
+          "shared_terms": [
+            "laboratoire",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle *",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=117",
+          "selection_score": 32.4665,
+          "shared_terms": [
+            "laboratoire",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 29.814,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [
+        "controle"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 57.5635,
+          "shared_terms": [
+            "chimique",
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCPC.05",
+          "title": "Méthodologie et instrumentation pour l’analyse physico-chimique et la caractérisation des matériaux",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=237",
+          "selection_score": 44.498,
+          "shared_terms": [
+            "chimique",
+            "materiaux",
+            "physico"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 32.0189,
+          "shared_terms": [
+            "controle",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.02",
+          "title": "Concrétiser un projet en mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 208,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=208",
+          "selection_score": 58.7495,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "materiaux",
+            "physico"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCPC.04",
+          "title": "Construire un projet dans le domaine des mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 185,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=185",
+          "selection_score": 58.7095,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "materiaux",
+            "physico"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.447,
+      "matched_terms": [
+        "amelioration",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 44.9358,
+          "shared_terms": [
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Documentation et notions d’audit",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=94",
+          "selection_score": 42.5308,
+          "shared_terms": [
+            "documentation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Démarches d’amélioration",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=117",
+          "selection_score": 39.2961,
+          "shared_terms": [
+            "amelioration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MTD.03",
+          "title": "Projet transformation digitale en tant que technicien",
+          "page": 367,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=367",
+          "selection_score": 51.6813,
+          "shared_terms": [
+            "technicien",
+            "transformation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 43.6077,
+          "shared_terms": [
+            "probleme"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

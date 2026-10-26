@@ -1,0 +1,526 @@
+{
+  "numero": 165,
+  "rome": {
+    "code_rome": "F1109",
+    "intitule": "Assistant / Assistante géomètre",
+    "code_ogr": 403075
+  },
+  "appellations": [
+    {
+      "libelle": "Aide-géomètre-topographe",
+      "libelle_court": "Aide-géomètre-topographe",
+      "code_ogr": 10876
+    },
+    {
+      "libelle": "Arpenteur / Arpenteuse",
+      "libelle_court": "Arpenteur / Arpenteuse",
+      "code_ogr": 11145
+    },
+    {
+      "libelle": "Opérateur / Opératrice géomètre",
+      "libelle_court": "Opérateur / Opératrice géomètre",
+      "code_ogr": 17234
+    },
+    {
+      "libelle": "Opérateur / Opératrice géomètre-topographe",
+      "libelle_court": "Opérateur / Opératrice géomètre-topographe",
+      "code_ogr": 17235
+    },
+    {
+      "libelle": "Piqueteur / Piqueteuse",
+      "libelle_court": "Piqueteur / Piqueteuse",
+      "code_ogr": 140966
+    },
+    {
+      "libelle": "Technicien restituteur / Technicienne restitutrice photogrammètre",
+      "libelle_court": "Technicien(ne) restituteur(trice) photogrammètre",
+      "code_ogr": 20245
+    }
+  ],
+  "definition": "L'assistant géomètre seconde le géomètre ou le géomètre-expert dans les missions de mesure, de relevé et de traitement des données topographiques, participe aux opérations de terrain et contribue à la réalisation des plans et documents techniques. Prépare et utilise des instruments de mesure (théodolite, GPS, station totale, etc.) Effectue des relevés de données sur le terrain (bornage, nivellement, implantation) Saisit et traite ces données et participe à la rédaction de rapports et de plans",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac à Bac +2 de géomètre-topographe ou en construction et topographie.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Inventorier les contraintes de construction (réglementaires, techniques, environnementales)",
+              "code_ogr": 125994,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Cartographier des routes, quartiers d'habitation, rivières, plans d'eau",
+              "code_ogr": 114290,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer un dessin technique, un plan, ou une carte",
+              "code_ogr": 300069,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre à jour des plans d'infrastructures et de réseaux divers",
+              "code_ogr": 118771,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la cartographie numérique d'un plan cadastral et d'un Plan Local d'Urbanisme (PLU)",
+              "code_ogr": 114289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tracer des cartes topographiques et hydrographiques",
+              "code_ogr": 114291,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Inventorier les servitudes afférentes à un terrain",
+              "code_ogr": 123384,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Matérialiser le repérage en garantissant la précision requise, stipulée dans le cahier des charges",
+              "code_ogr": 400381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des levés topographiques de terrains",
+              "code_ogr": 118764,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des études ou documents fonciers et établir des plans d'architecture (morcellement parcellaire, aménagement foncier, etc.)",
+              "code_ogr": 103222,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un relevé d'intérieur et de façade d'un ouvrage existant et déterminer le périmètre et la surface",
+              "code_ogr": 103219,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser et régler des machines ou équipements de géologie, topographie",
+              "code_ogr": 300164,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer des relevés d'implantation de réseaux de distribution existants (électriques, télécommunications, ...)",
+              "code_ogr": 140970,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler et analyser l'anomalie relevée",
+              "code_ogr": 400262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la conformité d'implantation d'une réalisation",
+              "code_ogr": 123820,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité du produit à la commande",
+              "code_ogr": 400163,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Piloter un drone dans le cadre de captation de données, données topographiques, transport de charges, etc",
+              "code_ogr": 200090,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Estimer la valeur d'un bien, d'un produit",
+              "code_ogr": 300330,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'écrit de façon appropriée",
+              "code_ogr": 300405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à la réalisation d'une étude",
+              "code_ogr": 116869,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Numériser des données de terrain pour un système d'information géographique",
+              "code_ogr": 114288,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des matériels de prise de vues",
+              "code_ogr": 102644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "GPS et cartes topographiques",
+              "code_ogr": 103126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipement engin télécommandé de prise de vue",
+              "code_ogr": 117879,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel technicien géomètre en cabinet",
+              "code_ogr": 515113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro géomètre",
+              "code_ogr": 515206,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitation au pilotage de drone professionnel",
+              "code_ogr": 200093,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel opérateur en détection de réseaux",
+              "code_ogr": 522025,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DEUST sciences, technologies, santé spécialité géosciences appliquées mines, eau, environnement",
+              "code_ogr": 522091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro technicien géomètre-topographe",
+              "code_ogr": 514964,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS métiers du géomètre-topographe et de la modélisation numérique",
+              "code_ogr": 514069,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel géomètre topographe d'entreprise du bâtiment et des travaux publics",
+              "code_ogr": 515112,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Topométrie",
+              "code_ogr": 103226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Photogrammétrie",
+              "code_ogr": 121741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modélisation 3D",
+              "code_ogr": 119187,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système d'Information Géographique (SIG)",
+              "code_ogr": 119432,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informatique",
+              "code_ogr": 104548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Topographie",
+              "code_ogr": 103060,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Mesures topométriques",
+              "code_ogr": 118763,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de l'urbanisme et de la construction",
+              "code_ogr": 101640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de la construction",
+              "code_ogr": 103045,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plans d'infrastructures et de réseaux divers",
+              "code_ogr": 118770,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographie et SIG",
+              "code_ogr": 103059,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'arpentage",
+              "code_ogr": 103225,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques topographiques et topométriques (mesures de précision)",
+              "code_ogr": 121243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prise de vue",
+              "code_ogr": 102702,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": false
+    },
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1126 - Assistant / Assistante maîtrise d'œuvre en architecture",
+      "code_org_rome_cible": 489182,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1707 - Maçon / Maçonne du paysage",
+      "code_org_rome_cible": 403952,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1107 - Géomètre",
+      "code_org_rome_cible": 148,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1108 - Métreur / Métreuse de la construction",
+      "code_org_rome_cible": 149,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1103 - Diagnostiqueur / Diagnostiqueuse immobilier",
+      "code_org_rome_cible": 144,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1104 - Dessinateur-projeteur / Dessinatrice-projeteuse de la construction",
+      "code_org_rome_cible": 145,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "C1504 - Conseiller / Conseillère immobilier",
+      "code_org_rome_cible": 79,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1802 - Chargé / Chargée de développement économique et local",
+      "code_org_rome_cible": 399,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1204 - Garde nature",
+      "code_org_rome_cible": 10,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "C1502 - Chargé / Chargée de gestion locative en immobilier",
+      "code_org_rome_cible": 77,
+      "ordre_mobilite": 10
+    }
+  ]
+}

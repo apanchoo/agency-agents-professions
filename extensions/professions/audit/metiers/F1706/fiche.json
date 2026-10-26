@@ -1,0 +1,499 @@
+{
+  "numero": 231,
+  "rome": {
+    "code_rome": "F1706",
+    "intitule": "Agent / Agente de préfabrication de l'industrie du béton",
+    "code_ogr": 179
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de fabrication de l'industrie du béton",
+      "libelle_court": "Agent / Agente de fabrication de l'industrie du béton",
+      "code_ogr": 10446
+    },
+    {
+      "libelle": "Agent / Agente de précontrainte de l'industrie du béton",
+      "libelle_court": "Agent / Agente de précontrainte de l'industrie du béton",
+      "code_ogr": 10550
+    },
+    {
+      "libelle": "Armaturier / Armaturière de l'industrie du béton",
+      "libelle_court": "Armaturier / Armaturière de l'industrie du béton",
+      "code_ogr": 11140
+    },
+    {
+      "libelle": "Finisseur / Finisseuse de l'industrie du béton",
+      "libelle_court": "Finisseur / Finisseuse de l'industrie du béton",
+      "code_ogr": 15090
+    },
+    {
+      "libelle": "Mouleur / Mouleuse de l'industrie du béton",
+      "libelle_court": "Mouleur / Mouleuse de l'industrie du béton",
+      "code_ogr": 16919
+    },
+    {
+      "libelle": "Mouleur / Mouleuse d'éléments en béton précontraint",
+      "libelle_court": "Mouleur / Mouleuse d'éléments en béton précontraint",
+      "code_ogr": 519531
+    },
+    {
+      "libelle": "Préparateur monteur / Préparatrice monteuse de moules de l'industrie du béton",
+      "libelle_court": "Préparateur(trice) monteur(se) de moules de l'ind du béton",
+      "code_ogr": 18036
+    }
+  ],
+  "definition": "L'agent de préfabrication de l'industrie du béton réalise des produits en béton sur mesure (panneaux, dalles, escaliers, murs, pièces spéciales pour réseaux d'assainissement, etc.) qui seront ensuite installés sur les chantiers de construction. Prépare les moules pour couler le béton selon les spécifications techniques du client Surveille les paramètres de la machine de coulage pour garantir la qualité du béton Démoule les pièces fabriquées, vérifie leur conformité et effectue des finitions sur les pièces en béton Manutentionne et déplace les produits fabriqués Assure la maintenance de premier niveau des équipements de production pour prévenir les pannes",
+  "acces_metier": "Ce métier est accessible sans qualification, cependant un niveau CAP dans le secteur du Bâtiment ou de l'industrie peut en faciliter l'accès. Un Certificat d'Aptitude à la Conduite En Sécurité (CACES) peut être demandé pour la conduite d'engin de manutention ou de levage.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Collecter des échantillons pour analyse",
+              "code_ogr": 121703,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier la configuration et le dimensionnement d'un moule, le type d'armatures, le mode de coulage et de démoulage selon la pièce à fabriquer",
+              "code_ogr": 103816,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Repérer les différents éléments et armatures sur un plan de ferraillage afin d'adapter les armatures préfabriquées",
+              "code_ogr": 400592,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Couler le béton dans le moule ou le banc de précontrainte",
+              "code_ogr": 103820,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le matériel (coupe des fils et torons d'acier, ...) et la matière nécessaire à la réalisation du produit (précontraint, pièce béton)",
+              "code_ogr": 103817,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des armatures en acier",
+              "code_ogr": 114439,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des coulages et moulages des matières premières",
+              "code_ogr": 300229,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des pièces de précontrainte au moyen de banc de précontrainte (pré-dalles, poutrelles, dalles alvéolées, pré-linteaux)",
+              "code_ogr": 103832,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des pièces de précontrainte au moyen de moules",
+              "code_ogr": 103833,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des travaux de traitement des surfaces sur le moule (brossage, plissage, sablage, bouchardage, ragréage)",
+              "code_ogr": 114438,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la finition d'un produit, d'un article, d'un ouvrage",
+              "code_ogr": 300226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les éléments constitutifs d'un moule (sous ensemble métal, bois, pvc, armature) en vue du coulage du béton",
+              "code_ogr": 103819,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Décoffrer la pièce en béton et démonter le moule",
+              "code_ogr": 103821,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Monter les pièces d'une structure sur un chantier",
+              "code_ogr": 126009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Positionner dans le moule ou le banc de précontrainte les aciers, armatures, inserts, réservations, ...",
+              "code_ogr": 103818,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer une situation à risques",
+              "code_ogr": 300353,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler visuellement la qualité de la pièce fabriquée et réaliser les contrôles dimensionnels à l'aide de matériels adaptés",
+              "code_ogr": 519537,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier un produit",
+              "code_ogr": 125728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'étiquetage de produits",
+              "code_ogr": 102912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stocker un produit",
+              "code_ogr": 117548,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des éléments d'une commande",
+              "code_ogr": 116934,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+              "code_ogr": 300147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outils manuels de maçonnerie",
+              "code_ogr": 123421,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de dégauchisseuse",
+              "code_ogr": 103826,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de plieuse",
+              "code_ogr": 102848,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés du béton",
+              "code_ogr": 103624,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des armatures",
+              "code_ogr": 103480,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Process de fabrication par moulage",
+              "code_ogr": 519538,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'échantillonnage",
+              "code_ogr": 100362,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de ferraillage",
+              "code_ogr": 103777,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de précontrainte",
+              "code_ogr": 122383,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de coulage du béton",
+              "code_ogr": 103625,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        },
+        {
+          "libelle": "Utilisation d'escaliers",
+          "code_ogr": 403023
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1702 - Ouvrier / Ouvrière en voieries urbaines",
+      "code_org_rome_cible": 175,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1704 - Manœuvre du Bâtiment et des Travaux Publics",
+      "code_org_rome_cible": 177,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1506 - Ouvrier / Ouvrière de la construction modulaire hors-site",
+      "code_org_rome_cible": 518882,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2910 - Mouleur noyauteur / Mouleuse noyauteuse machine",
+      "code_org_rome_cible": 287,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H3402 - Opérateur / Opératrice de traitement de surface",
+      "code_org_rome_cible": 301,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H2802 - Opérateur / Opératrice de fabrication en matériaux de construction",
+      "code_org_rome_cible": 274,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1101 - Cariste",
+      "code_org_rome_cible": 500,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1104 - Pontier / Pontière",
+      "code_org_rome_cible": 503,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1701 - Coffreur / Coffreuse",
+      "code_org_rome_cible": 174,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1703 - Maçon / Maçonne",
+      "code_org_rome_cible": 176,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "H2205 - Opérateur / Opératrice de production en industrie du bois",
+      "code_org_rome_cible": 241,
+      "ordre_mobilite": 11
+    }
+  ]
+}

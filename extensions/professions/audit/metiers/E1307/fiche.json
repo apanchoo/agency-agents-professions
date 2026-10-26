@@ -1,0 +1,483 @@
+{
+  "numero": 143,
+  "rome": {
+    "code_rome": "E1307",
+    "intitule": "Opérateur / Opératrice en reprographie",
+    "code_ogr": 138
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'atelier en reprographie",
+      "libelle_court": "Agent / Agente d'atelier en reprographie",
+      "code_ogr": 10392
+    },
+    {
+      "libelle": "Coupeur-plieur / Coupeuse-plieuse de plans",
+      "libelle_court": "Coupeur-plieur / Coupeuse-plieuse de plans",
+      "code_ogr": 13792
+    },
+    {
+      "libelle": "Employé / Employée de reprographie",
+      "libelle_court": "Employé / Employée de reprographie",
+      "code_ogr": 14782
+    },
+    {
+      "libelle": "Façonneur / Façonneuse de plans",
+      "libelle_court": "Façonneur / Façonneuse de plans",
+      "code_ogr": 15035
+    },
+    {
+      "libelle": "Opérateur / Opératrice sur machines numériques de reprographie",
+      "libelle_court": "Opérateur(trice) sur machines numériques de reprographie",
+      "code_ogr": 17325
+    },
+    {
+      "libelle": "Opérateur / Opératrice sur photocopie",
+      "libelle_court": "Opérateur / Opératrice sur photocopie",
+      "code_ogr": 17328
+    },
+    {
+      "libelle": "Opérateur / Opératrice sur photocopieurs",
+      "libelle_court": "Opérateur / Opératrice sur photocopieurs",
+      "code_ogr": 17329
+    },
+    {
+      "libelle": "Opérateur polyvalent / Opératrice polyvalente en reprographie",
+      "libelle_court": "Opérateur(trice) polyvalent(e) en reprographie",
+      "code_ogr": 17251
+    },
+    {
+      "libelle": "Polycopiste",
+      "libelle_court": "Polycopiste",
+      "code_ogr": 17874
+    },
+    {
+      "libelle": "Reprographe",
+      "libelle_court": "Reprographe",
+      "code_ogr": 18560
+    },
+    {
+      "libelle": "Technicien / Technicienne en reprographie",
+      "libelle_court": "Technicien / Technicienne en reprographie",
+      "code_ogr": 20116
+    },
+    {
+      "libelle": "Technicien / Technicienne en reprographie numérique",
+      "libelle_court": "Technicien / Technicienne en reprographie numérique",
+      "code_ogr": 20117
+    },
+    {
+      "libelle": "Tireur / Tireuse de plans",
+      "libelle_court": "Tireur / Tireuse de plans",
+      "code_ogr": 20333
+    }
+  ],
+  "definition": "Un opérateur en reprographie est un professionnel chargé de la reproduction, de l'impression et de la finition de documents. Réalise tout ou partie des opérations de reproduction de documents (prises de commande, conseil, duplication, façonnage), à partir des indications données par le client selon les règles de sécurité et les impératifs de production Peut réaliser ou modifier la mise en forme de documents, conditionner les produits dupliqués pour la livraison, établir un devis et effectuer des encaissements en règlement de commandes Paramètre et pilote les équipements de reprographie en fonction des travaux à réaliser Contrôle la qualité des documents produits et effectue les ajustements nécessaires Réalise les opérations de finition telles que le façonnage, l'assemblage, la reliure ou la plastification",
+  "acces_metier": "Ce métier est accessible sans diplôme ni expérience professionnelle. Cependant, un diplôme de niveau CAP/BEP complété par une expérience professionnelle en reprographie peut en faciliter l'accès.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Etablir le Bon à Tirer",
+              "code_ogr": 300564,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Façonner les documents dupliqués manuellement ou à l'aide d'une machine",
+              "code_ogr": 102983,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les documents à reproduire, sélectionner les machines d'impression et les paramétrer",
+              "code_ogr": 102980,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des travaux de reprographie",
+              "code_ogr": 113818,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un diagnostic technique",
+              "code_ogr": 300185,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer un équipement, une machine, une installation",
+              "code_ogr": 300182,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Surveiller le fonctionnement de la machine d'impression (arrivée papier, bourrage, impression, ...)",
+              "code_ogr": 102981,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité du produit à la commande",
+              "code_ogr": 400163,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Conclure une transaction",
+              "code_ogr": 300369,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etablir un devis",
+              "code_ogr": 117243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Corriger et mettre en forme un document",
+              "code_ogr": 300407,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Fonctionnement des matériels de reprographie",
+              "code_ogr": 102985,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Typographie",
+              "code_ogr": 122238,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Publication Assistée par Ordinateur (PAO)",
+              "code_ogr": 119226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Colorimétrie",
+              "code_ogr": 102646,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes d'adressage",
+              "code_ogr": 102876,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédure d'entretien de matériel",
+              "code_ogr": 116658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stockage optimisé",
+              "code_ogr": 100290,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de finition de surface",
+              "code_ogr": 102825,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des inventaires",
+              "code_ogr": 477880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tirage de plan",
+              "code_ogr": 102989,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de reprographie analogique",
+              "code_ogr": 102987,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "89",
+      "libelle": "Industrie - Papier et imprimerie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "E1306 - Opérateur / Opératrice de prépresse",
+      "code_org_rome_cible": 137,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "E1304 - Agent / Agente de façonnage et routage",
+      "code_org_rome_cible": 135,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "E1301 - Conducteur / Conductrice de machines d'impression",
+      "code_org_rome_cible": 132,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1302 - Technicien / Technicienne de maintenance d'installations automatisées",
+      "code_org_rome_cible": 311,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1602 - Secrétaire administratif / Secrétaire administrative de collectivité territoriale",
+      "code_org_rome_cible": 475,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1606 - Opérateur / Opératrice de saisie",
+      "code_org_rome_cible": 479,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "E1302 - Conducteur / Conductrice de machines de façonnage routage",
+      "code_org_rome_cible": 133,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "E1311 - Régleur / Régleuse de machines de façonnage routage",
+      "code_org_rome_cible": 510174,
+      "ordre_mobilite": 10
+    }
+  ]
+}

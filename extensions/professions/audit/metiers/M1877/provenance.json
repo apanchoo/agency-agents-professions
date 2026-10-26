@@ -1,0 +1,262 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510055,
+    "code_rome": "M1877",
+    "libelle": "Développeur / Développeuse blockchain",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1802"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.668,
+      "matched_terms": [
+        "application",
+        "developpe",
+        "donnees"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "developpe"
+      ],
+      "specific_title_terms": [
+        "developpe"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Cryptographie et sécurité",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=119",
+          "selection_score": 61.0808,
+          "shared_terms": [
+            "cryptographie",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.12",
+          "title": "Modélisations mathématiques",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=162",
+          "selection_score": 53.9103,
+          "shared_terms": [
+            "modelisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.05",
+          "title": "Programmation avancée",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=155",
+          "selection_score": 51.0735,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.REAL.01",
+          "title": "Évolution d’une application existante",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=167",
+          "selection_score": 98.4452,
+          "shared_terms": [
+            "application",
+            "evolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.REAL.01",
+          "title": "Développement d’une application",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=108",
+          "selection_score": 71.6146,
+          "shared_terms": [
+            "application"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.446,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "developpe"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.06",
+          "title": "Développement front",
+          "page": 260,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=260",
+          "selection_score": 113.523,
+          "shared_terms": [
+            "front"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DWEB-DI.05",
+          "title": "Développement front avancé",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=272",
+          "selection_score": 79.9582,
+          "shared_terms": [
+            "front"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Développement Front et intégration",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=120",
+          "selection_score": 71.7978,
+          "shared_terms": [
+            "front",
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.03",
+          "title": "Concevoir des visualisations de données pour le web et une application interactive",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=227",
+          "selection_score": 35.617,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 10.8789,
+          "shared_terms": [
+            "integrer"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.416,
+      "matched_terms": [
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.09",
+          "title": "Architectures sécurisées",
+          "page": 177,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=177",
+          "selection_score": 79.2112,
+          "shared_terms": [
+            "architecture",
+            "securisee"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IOM.09",
+          "title": "Architectures IoT sécurisées",
+          "page": 330,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=330",
+          "selection_score": 65.7348,
+          "shared_terms": [
+            "architecture",
+            "securisee"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.IOM.10",
+          "title": "Cryptographie",
+          "page": 309,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=309",
+          "selection_score": 57.0321,
+          "shared_terms": [
+            "cryptographie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.IOM.01",
+          "title": "Implémenter les réseaux et protocoles sans fil dédiés à l’IoT",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=295",
+          "selection_score": 55.2971,
+          "shared_terms": [
+            "implementer",
+            "protocole"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Mettre en oeuvre un système de transmission",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=117",
+          "selection_score": 51.2847,
+          "shared_terms": [
+            "transmission"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

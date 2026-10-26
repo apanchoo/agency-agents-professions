@@ -1,0 +1,684 @@
+{
+  "numero": 309,
+  "rome": {
+    "code_rome": "J1202",
+    "intitule": "Pharmacien / Pharmacienne",
+    "code_ogr": 337
+  },
+  "appellations": [
+    {
+      "libelle": "Pharmacien / Pharmacienne biologiste",
+      "libelle_court": "Pharmacien / Pharmacienne biologiste",
+      "code_ogr": 17679
+    },
+    {
+      "libelle": "Pharmacien / Pharmacienne de l'industrie pharmaceutique",
+      "libelle_court": "Pharmacien / Pharmacienne de l'industrie pharmaceutique",
+      "code_ogr": 488692
+    },
+    {
+      "libelle": "Pharmacien / Pharmacienne en officine",
+      "libelle_court": "Pharmacien / Pharmacienne en officine",
+      "code_ogr": 17686
+    },
+    {
+      "libelle": "Pharmacien / Pharmacienne responsable BPDO - bonnes pratiques de dispensation de l'oxygène",
+      "libelle_court": "Pharmacien(ne) responsable BPDO",
+      "code_ogr": 140907
+    },
+    {
+      "libelle": "Pharmacien chercheur / Pharmacienne chercheuse",
+      "libelle_court": "Pharmacien chercheur / Pharmacienne chercheuse",
+      "code_ogr": 513490
+    },
+    {
+      "libelle": "Pharmacien distributeur en gros / Pharmacienne distributrice en gros",
+      "libelle_court": "Pharmacien distributeur en gros / Pharmacienne distributrice",
+      "code_ogr": 513491
+    },
+    {
+      "libelle": "Pharmacien hospitalier / Pharmacienne hospitalière",
+      "libelle_court": "Pharmacien hospitalier / Pharmacienne hospitalière",
+      "code_ogr": 17687
+    }
+  ],
+  "definition": "Le pharmacien est un acteur essentiel du système de soins, exerçant en officine, à l'hôpital, en industrie, en recherche ou en biologie médicale. Assure la délivrance et la préparation des médicaments tout en accompagnant les patients dans leur traitement Participe à la prévention et veille à la sécurisation de la prise en charge médicamenteuse Garantit la qualité et la sécurité des médicaments, de leur conception à leur commercialisation dans l'industrie Développe de nouveaux traitements en recherche pharmaceutique Analyse des prélèvements pour le diagnostic et le suivi des patients en biologie médicale",
+  "acces_metier": "Cet emploi est accessible avec un Diplôme d'État de Docteur en Pharmacie. Un DES de pharmacie hospitalière ou de biologie médicale est exigé en parallèle, en cas de spécialisation.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Adapter la prise en charge pharmaceutique aux besoins spécifiques de chaque patient",
+              "code_ogr": 513638,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la dispensation sécurisée des médicaments (dont oxygène) et dispositifs médicaux aux patients",
+              "code_ogr": 513637,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Collaborer avec d'autres professionnels de santé pour une prise en charge globale",
+              "code_ogr": 507315,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de pédagogie et de conseil avec les patients pour favoriser le bon usage des traitements",
+              "code_ogr": 513670,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer et conseiller les patients sur le bon usage des médicaments, leurs posologies et les effets secondaires",
+              "code_ogr": 513641,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des préparations magistrales et hospitalières",
+              "code_ogr": 513640,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bon usage de tous les médicaments et à l'automédication responsable",
+              "code_ogr": 513642,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vacciner et dépister",
+              "code_ogr": 513639,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Sensibiliser le grand public aux enjeux de santé publique à travers des campagnes",
+              "code_ogr": 513671,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les données de santé pour suivre l'évolution des prescriptions et anticiper les tendances médicales",
+              "code_ogr": 513662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anticiper les variations saisonnières et les besoins spécifiques des patients",
+              "code_ogr": 513653,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Se former aux innovations technologiques (IA, e-santé)",
+              "code_ogr": 513663,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des médicaments aux réglementations en vigueur",
+              "code_ogr": 513644,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer de nouvelles formulations galéniques et solutions thérapeutiques innovantes",
+              "code_ogr": 513645,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à la conception, à la fabrication et au contrôle qualité des médicaments en industrie pharmaceutique",
+              "code_ogr": 513643,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la maintenance des dispositifs médicaux et du matériel de préparation",
+              "code_ogr": 513660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des contrôles réguliers pour éviter les pannes et garantir la conformité des équipements",
+              "code_ogr": 513661,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au bon fonctionnement des équipements de production pharmaceutique en industrie et distribution en gros",
+              "code_ogr": 513659,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la pharmacovigilance, le bon usage et l'information produite",
+              "code_ogr": 513648,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la traçabilité des médicaments pour éviter les falsifications",
+              "code_ogr": 502778,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier et prévenir les erreurs médicamenteuses (interactions, contre-indications)",
+              "code_ogr": 483422,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller au respect des protocoles de sécurité sanitaire",
+              "code_ogr": 501474,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Mettre en place et suivre des procédures d'assurance qualité",
+              "code_ogr": 513647,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger et appliquer les protocoles internes pour garantir la sécurité des soins",
+              "code_ogr": 513651,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Valider et contrôler la bonne conservation, la mise à disposition et la sécurité des médicaments tout au long de la chaîne pharmaceutique",
+              "code_ogr": 513650,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Valider les résultats et garantir la qualité des examens de biologie médicale",
+              "code_ogr": 513652,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la conformité des médicaments aux normes de fabrication, de distribution et de dispensation",
+              "code_ogr": 513649,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Contrôler la gestion des stocks de médicaments et de matériel médical",
+              "code_ogr": 483166,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer et former le personnel, répartir et superviser les tâches, pour assurer la fluidité des opérations",
+              "code_ogr": 513668,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier et coordonner les activités d'une officine, d'un service hospitalier ou d'un site de production",
+              "code_ogr": 513667,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Eviter le gaspillage en surveillant les stocks et les prescriptions",
+              "code_ogr": 513657,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les achats et la gestion budgétaire",
+              "code_ogr": 513655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les organisations, les équipements et la gestion des déchets dans le respect de la réglementation et de l'environnement",
+              "code_ogr": 513658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rechercher des fournisseurs et négocier les achats des médicaments et dispositifs médicaux",
+              "code_ogr": 513656,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer la législation et la réglementation en vigueur",
+              "code_ogr": 489749,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le respect des règles éthiques et légales dans la relation avec les autres acteurs et professionnels de santé",
+              "code_ogr": 513666,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer des stratégies marketing adaptées aux besoins des patients et aux évolutions du marché",
+              "code_ogr": 513674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des services complémentaires (tests de dépistage, conseils personnalisés)",
+              "code_ogr": 513673,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Développer des partenariats entre la distribution en gros, l'industrie et les dispensateurs officinaux et hospitaliers",
+              "code_ogr": 513675,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "S'assurer d'une communication exhaustive et fluide entre les différentes parties prenantes de la chaîne pharmaceutique",
+              "code_ogr": 513672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en équipe avec les médecins, infirmiers et autres professionnels de santé",
+              "code_ogr": 513689,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter l'organisation en fonction des pics d'activité pour en assurer la continuité",
+              "code_ogr": 513669,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Actualiser ses connaissances en suivant des formations continues (nouvelles molécules, nouvelles réglementations, nouvelles technologies)",
+              "code_ogr": 513664,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Connaissance des différentes classes de médicaments et dispositifs médicaux",
+              "code_ogr": 513682,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des équipements de production pharmaceutique et de diagnostic biologique",
+              "code_ogr": 513683,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat de docteur en pharmacie",
+              "code_ogr": 405047,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de la santé",
+              "code_ogr": 404637,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Toxicologie",
+              "code_ogr": 100161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels spécialisés pour le suivi du flux de médicaments",
+              "code_ogr": 513654,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie médicale",
+              "code_ogr": 513686,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion et économie de la santé appliquée à la pharmacie",
+              "code_ogr": 513677,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pharmacologie",
+              "code_ogr": 116639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pharmacovigilance",
+              "code_ogr": 102296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chimie pharmaceutique",
+              "code_ogr": 513687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logistique et transport spécialisé",
+              "code_ogr": 513688,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Qualité et sécurité des médicaments",
+              "code_ogr": 513676,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementations nationales et internationales sur le médicament",
+              "code_ogr": 513679,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des protocoles hospitaliers",
+              "code_ogr": 497354,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accréditation des laboratoires de biologie médicale",
+              "code_ogr": 513680,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bonnes pratiques de fabrication (BPF), de distribution (BDP), de dispensation, de préparation (BPP) et d'hygiène (BPH)",
+              "code_ogr": 513678,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Audits et inspections des établissements pharmaceutiques",
+              "code_ogr": 513681,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Interprétation des analyses médicales",
+              "code_ogr": 479941,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veille scientifique et participation à la recherche et développement pharmaceutique",
+              "code_ogr": 513685,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparations magistrales et hospitalières",
+              "code_ogr": 513684,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Patients",
+          "code_ogr": 300838
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        },
+        {
+          "libelle": "Profession libérale",
+          "code_ogr": 403102
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de distribution en gros",
+          "code_ogr": 513696
+        },
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        },
+        {
+          "libelle": "Industries de santé",
+          "code_ogr": 490147
+        },
+        {
+          "libelle": "Instances de santé",
+          "code_ogr": 513695
+        },
+        {
+          "libelle": "Laboratoire de biologie médicale",
+          "code_ogr": 513694
+        },
+        {
+          "libelle": "Officine",
+          "code_ogr": 405329
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1201 - Biologiste médical / Biologiste médicale",
+      "code_org_rome_cible": 336,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H1509 - Responsable des affaires règlementaires en industrie pharmaceutique",
+      "code_org_rome_cible": 488284,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H1507 - Chargé / Chargée des affaires réglementaires",
+      "code_org_rome_cible": 404542,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1105 - Chef de projets santé / Cheffe de projets santé",
+      "code_org_rome_cible": 488339,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H1104 - Directeur / Directrice des affaires médicales pharmaceutiques",
+      "code_org_rome_cible": 488321,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1215 - Bioinformaticien / Bioinformaticienne en études, recherche et développement",
+      "code_org_rome_cible": 488303,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2405 - Attaché / Attachée de recherche clinique en milieu hospitalier",
+      "code_org_rome_cible": 488279,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1513 - Responsable de pharmacovigilance en industrie pharmaceutique",
+      "code_org_rome_cible": 488314,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H1514 - Chargé / Chargée de pharmacovigilance en industrie pharmaceutique",
+      "code_org_rome_cible": 488330,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1617 - Médecin responsable de la Documentation et de l'Information Médicale (Médecin responsable DIM)",
+      "code_org_rome_cible": 489184,
+      "ordre_mobilite": 10
+    }
+  ]
+}

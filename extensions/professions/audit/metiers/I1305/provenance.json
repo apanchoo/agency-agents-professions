@@ -1,0 +1,274 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 314,
+    "code_rome": "I1305",
+    "libelle": "Technicien / Technicienne installation et maintenance électronique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1305"
+  },
+  "but": [
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 96.571,
+      "matched_terms": [
+        "electron"
+      ],
+      "direct_rome_pages": [
+        11
+      ],
+      "parent_rome": "I1305",
+      "title_terms": [
+        "electron"
+      ],
+      "specific_title_terms": [
+        "electron"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.10",
+          "title": "Systèmes embarqués",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "selection_score": 109.8942,
+          "shared_terms": [
+            "embarque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.09",
+          "title": "Electronique spécialisée",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=152",
+          "selection_score": 61.9934,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Informatique Industrielle",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=104",
+          "selection_score": 56.8627,
+          "shared_terms": [
+            "industrielle",
+            "informatique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ESE.02",
+          "title": "Vérification et maintenance d’un système électronique et systèmes embarqués",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=91",
+          "selection_score": 125.7458,
+          "shared_terms": [
+            "electronique",
+            "embarque",
+            "maintenance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ESE.01",
+          "title": "Mettre en œuvre un système électronique et/ou embarqué spécifique",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=136",
+          "selection_score": 101.388,
+          "shared_terms": [
+            "electronique",
+            "embarque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 33.773,
+      "matched_terms": [
+        "equipement",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1305",
+      "title_terms": [
+        "maintenance"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 82.3885,
+          "shared_terms": [
+            "automatisme",
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 82.0043,
+          "shared_terms": [
+            "automatisme",
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Automatismes Industriels 3",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=98",
+          "selection_score": 56.0562,
+          "shared_terms": [
+            "automatisme",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ISP.02",
+          "title": "Installer un système en équipe",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=211",
+          "selection_score": 64.473,
+          "shared_terms": [
+            "installer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Réaliser et vérifier le raccordement d’un équipement",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=61",
+          "selection_score": 63.2704,
+          "shared_terms": [
+            "equipement",
+            "verifier"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.891,
+      "matched_terms": [
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1305",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Electromagnétisme",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=120",
+          "selection_score": 67.6034,
+          "shared_terms": [
+            "electromagnetisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 48.2879,
+          "shared_terms": [
+            "environnementale",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 45.7003,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 49.6293,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Mettre en œuvre les techniques de l’informatique d’instrumentation pour le suivi de mesures",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=75",
+          "selection_score": 47.0127,
+          "shared_terms": [
+            "informatique",
+            "mesure",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

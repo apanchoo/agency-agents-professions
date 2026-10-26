@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489080,
+    "code_rome": "K1607",
+    "libelle": "Conservateur / Conservatrice des antiquités et objets d'art",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1602"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.462,
+      "matched_terms": [
+        "patrimoine"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1602",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.MLP.13",
+          "title": "Initiation à la socio-économie du livre et du patrimoine",
+          "page": 469,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=469",
+          "selection_score": 59.5449,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.MLP.11",
+          "title": "Socio-économie du livre et du patrimoine",
+          "page": 493,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=493",
+          "selection_score": 59.5449,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MLP.09",
+          "title": "Littérature, arts et sciences : perspective historique",
+          "page": 512,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=512",
+          "selection_score": 59.4492,
+          "shared_terms": [
+            "arts",
+            "historique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.MLP.03",
+          "title": "Suivre l’actualité du livre et du patrimoine",
+          "page": 453,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=453",
+          "selection_score": 69.1162,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MLP.01",
+          "title": "Créer un guide de lecteur ou catalogue de collection",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=535",
+          "selection_score": 65.7897,
+          "shared_terms": [
+            "catalogue",
+            "collection"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

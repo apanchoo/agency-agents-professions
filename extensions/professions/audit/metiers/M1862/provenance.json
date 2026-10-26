@@ -1,0 +1,253 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489217,
+    "code_rome": "M1862",
+    "libelle": "Responsable d'exploitation fibre optique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1803"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.927,
+      "matched_terms": [
+        "communication",
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.08",
+          "title": "Déploiement de services",
+          "page": 262,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=262",
+          "selection_score": 56.3032,
+          "shared_terms": [
+            "deploiement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 26.9204,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CREA.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=113",
+          "selection_score": 19.1649,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.STRAT-UX.01",
+          "title": "Concevoir et déployer une stratégie de communication et une expérience utilisateur",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=203",
+          "selection_score": 14.7772,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.01",
+          "title": "Mettre en place une solution ecommerce et la stratégie associée",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=190",
+          "selection_score": 14.6442,
+          "shared_terms": [
+            "strategie"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.627,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.INTEG.04",
+          "title": "Développement pour progiciels",
+          "page": 360,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=360",
+          "selection_score": 66.0618,
+          "shared_terms": [
+            "progiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.12",
+          "title": "Sécurité système et réseaux",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=216",
+          "selection_score": 41.756,
+          "shared_terms": [
+            "reseaux",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.06",
+          "title": "Exploitation de la base de données",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=295",
+          "selection_score": 34.1524,
+          "shared_terms": [
+            "exploitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Installation de services réseau",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=86",
+          "selection_score": 47.6199,
+          "shared_terms": [
+            "installation",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 46.4897,
+          "shared_terms": [
+            "logiciel"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.614,
+      "matched_terms": [
+        "reseau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Fibres optiques et propagation",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=128",
+          "selection_score": 74.1537,
+          "shared_terms": [
+            "fibre",
+            "optique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 55.1207,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.13",
+          "title": "Mathématiques du signal",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=88",
+          "selection_score": 39.7246,
+          "shared_terms": [
+            "signal"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mesurer et caractériser un signal ou un système",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=94",
+          "selection_score": 34.0389,
+          "shared_terms": [
+            "signal"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ROM.01",
+          "title": "Réaliser une veille technologique",
+          "page": 487,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=487",
+          "selection_score": 32.0019,
+          "shared_terms": [
+            "veille"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

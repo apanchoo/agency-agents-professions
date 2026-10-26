@@ -1,0 +1,252 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488341,
+    "code_rome": "H1516",
+    "libelle": "Expert / Experte métrologue",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 98.23,
+      "matched_terms": [
+        "controle",
+        "instrument",
+        "mesure",
+        "metrolog"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [
+        "metrolog"
+      ],
+      "specific_title_terms": [
+        "metrolog"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Métrologie et qualité 2",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=176",
+          "selection_score": 46.3866,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.06",
+          "title": "Métrologie et qualité 1",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=158",
+          "selection_score": 46.0301,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.10",
+          "title": "Conditionnement de signaux et pilotage d’instruments",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=121",
+          "selection_score": 34.2723,
+          "shared_terms": [
+            "instrument"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Mettre en œuvre le conditionnement de signal et le pilotage d’instrument",
+          "page": 181,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=181",
+          "selection_score": 41.7265,
+          "shared_terms": [
+            "instrument",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 37.7583,
+          "shared_terms": [
+            "controle",
+            "mesure",
+            "uvre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.873,
+      "matched_terms": [
+        "amelioration",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Documentation et notions d’audit",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=94",
+          "selection_score": 67.631,
+          "shared_terms": [
+            "audit",
+            "documentation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.07",
+          "title": "Amélioration de la performance",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=141",
+          "selection_score": 51.8431,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Connaissance technologique de l’entreprise",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=89",
+          "selection_score": 50.8868,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 54.4338,
+          "shared_terms": [
+            "evolution",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Audit d’un poste de travail",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=80",
+          "selection_score": 31.9203,
+          "shared_terms": [
+            "audit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.327,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Métrologie",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=118",
+          "selection_score": 45.2973,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Production - Méthodes",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=139",
+          "selection_score": 25.2272,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SNRV.02",
+          "title": "Utiliser la réalité virtuelle et/ou augmentée pour anticiper et corriger des problèmes en situation réelle",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=130",
+          "selection_score": 28.1301,
+          "shared_terms": [
+            "anticiper"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MPI.02",
+          "title": "Optimisation d’un processus industriel",
+          "page": 224,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=224",
+          "selection_score": 22.3775,
+          "shared_terms": [
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

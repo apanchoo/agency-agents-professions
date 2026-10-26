@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 422,
+    "code_rome": "K2303",
+    "libelle": "Equipier / Equipière de collecte de déchets",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K2303"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.138,
+      "matched_terms": [
+        "hygiene",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Physique appliquée à la prévention des risques professionnels",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=58",
+          "selection_score": 59.2185,
+          "shared_terms": [
+            "physique",
+            "prevention",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.07",
+          "title": "Hygiène et salubrité des locaux et des produits alimentaires",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=83",
+          "selection_score": 53.9178,
+          "shared_terms": [
+            "hygiene",
+            "salubrite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 51.6722,
+          "shared_terms": [
+            "equipement",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 68.0788,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.02",
+          "title": "Proposer un plan de gestion des déchets, rejets et/ou ressources",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=73",
+          "selection_score": 47.9368,
+          "shared_terms": [
+            "dechet",
+            "plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

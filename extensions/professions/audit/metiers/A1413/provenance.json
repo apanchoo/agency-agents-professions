@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 27,
+    "code_rome": "A1413",
+    "libelle": "Brasseur / Brasseuse de bière",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1413"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.185,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1413",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.DN.10",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 401,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=401",
+          "selection_score": 64.3816,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 64.212,
+          "shared_terms": [
+            "produit",
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.06",
+          "title": "Productions végétales 2",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=160",
+          "selection_score": 58.8327,
+          "shared_terms": [
+            "production",
+            "vegetale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 50.9425,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SAB.02",
+          "title": "Produire des aliments ou bioproduits en contrôlant la qualité et en respectant les procédures d’hygiène et de sécurité",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=535",
+          "selection_score": 46.9427,
+          "shared_terms": [
+            "hygiene",
+            "procedure",
+            "securite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

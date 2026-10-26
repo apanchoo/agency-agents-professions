@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509798,
+    "code_rome": "M1219",
+    "libelle": "Conseiller / Conseillère en fusion et acquisition",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1201"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.824,
+      "matched_terms": [
+        "financ"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.09",
+          "title": "Management d’activités : Management des opérations approfondies 2",
+          "page": 234,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=234",
+          "selection_score": 61.9013,
+          "shared_terms": [
+            "approfondie",
+            "management",
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.13",
+          "title": "Contrôle de gestion : Comptabilité de gestion approfondie 2",
+          "page": 238,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=238",
+          "selection_score": 48.8657,
+          "shared_terms": [
+            "approfondie",
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CG2P.11",
+          "title": "Contrôle de gestion : Comptabilité de gestion approfondie",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=195",
+          "selection_score": 48.771,
+          "shared_terms": [
+            "approfondie",
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 46.7037,
+          "shared_terms": [
+            "conformite",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Identifier l’impact des décisions de gestion sur la performance de l’organisation",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=83",
+          "selection_score": 46.1894,
+          "shared_terms": [
+            "decision",
+            "impact"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,653 @@
+{
+  "numero": 61,
+  "rome": {
+    "code_rome": "A1406",
+    "intitule": "Capitaine de pêche",
+    "code_ogr": 20
+  },
+  "appellations": [
+    {
+      "libelle": "Commandant / Commandante de pêche",
+      "libelle_court": "Commandant / Commandante de pêche",
+      "code_ogr": 12733
+    },
+    {
+      "libelle": "Encadrant / Encadrante de pêche",
+      "libelle_court": "Encadrant / Encadrante de pêche",
+      "code_ogr": 404949
+    },
+    {
+      "libelle": "Lieutenant / Lieutenante de pêche",
+      "libelle_court": "Lieutenant / Lieutenante de pêche",
+      "code_ogr": 16187
+    },
+    {
+      "libelle": "Patron / Patronne à la pêche",
+      "libelle_court": "Patron / Patronne à la pêche",
+      "code_ogr": 17582
+    },
+    {
+      "libelle": "Patron / Patronne de pêche",
+      "libelle_court": "Patron / Patronne de pêche",
+      "code_ogr": 17583
+    },
+    {
+      "libelle": "Second / Seconde de pêche",
+      "libelle_court": "Second / Seconde de pêche",
+      "code_ogr": 19355
+    }
+  ],
+  "definition": "Le Capitaine de pêche dirige et contrôle la navigation en mer et les opérations de pêche selon les objectifs d'exploitation, les règles de sécurité et la règlementation maritime sur l'environnement et la gestion des captures. Contrôle la manipulation, le traitement et la conservation des produits de la pêche jusqu'à leur commercialisation Peut diriger un armement et assurer la gestion d'un équipage.",
+  "acces_metier": "Cet emploi est accessible avec une qualification et une expérience confirmée de la pêche et de la navigation. Les certifications maritimes complémentaires permettent l'accès à des bateaux de tailles et de tonnages différents. Ces qualifications peuvent être acquises tout au long de la carrière et permettre une évolution professionnelle ou une navigation sur différentes zones (pêche côtière, pêche au large ou grande pêche). La pratique d'une langue étrangère, en particulier l'anglais, peut être requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le travail d'une équipe",
+              "code_ogr": 300436,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Recruter et intégrer une personne",
+              "code_ogr": 300004,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former aux évolutions techniques et règlementaires",
+              "code_ogr": 122109,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Prodiguer les gestes de premiers secours en cas d'urgence",
+              "code_ogr": 300045,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Collecter et enregistrer des données de capture de pêche",
+              "code_ogr": 200115,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir et qualifier les données, signaux, mesures, images, transmis ou émis",
+              "code_ogr": 109908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les données techniques et élaborer la feuille de route de la traversée (horaires, distances, météo, etc.)",
+              "code_ogr": 110312,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter une information météorologique recueillie",
+              "code_ogr": 123176,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Planifier les pêches selon la saison et les conditions météorologiques",
+              "code_ogr": 122613,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Identifier des lieux de pêche envisageables",
+              "code_ogr": 122604,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller un espace naturel pour la prévention des risques d'accidents, de pollution, d'incendie",
+              "code_ogr": 100069,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un bateau",
+              "code_ogr": 124550,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir l'équipement de pêche en bon état",
+              "code_ogr": 123102,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer une situation à risques",
+              "code_ogr": 300353,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier des interventions de maintenance",
+              "code_ogr": 122329,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Manœuvrer les engins de pêche (chaluts, filets, ...) et participer à la préparation et au stockage des captures",
+              "code_ogr": 114981,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser le stockage des produits",
+              "code_ogr": 117488,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller la route d'un bateau",
+              "code_ogr": 100238,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Définir la route du navire et les paramètres sur les instruments de pilotage et de contrôle",
+              "code_ogr": 100236,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer les manoeuvres d'accostage ou d'appareillage du bateau",
+              "code_ogr": 100388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et actionner les équipements du navire (ancres, câbles, cordages et gréement...) lors des manoeuvres d'appareillage ou d'accostage",
+              "code_ogr": 110360,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser ou contrôler les manoeuvres du navire et les opérations de pêche",
+              "code_ogr": 100239,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les documents de bord et les formalités administratives",
+              "code_ogr": 484697,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Promouvoir les pratiques de pêche durable",
+              "code_ogr": 486616,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Promouvoir les produits auprès des clients",
+              "code_ogr": 121771,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Commander un navire",
+              "code_ogr": 120466,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les activités à bord du navire",
+              "code_ogr": 115604,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec les autorités portuaires",
+              "code_ogr": 400602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre une décision et l'expliquer",
+              "code_ogr": 300459,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser à l'environnement et promouvoir le développement durable",
+              "code_ogr": 400415,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre les évolutions réglementaires",
+              "code_ogr": 126037,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Mise en place de signalisations de sécurité",
+              "code_ogr": 100251,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipement de secours et de sauvetage",
+              "code_ogr": 100243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Typologie des navires",
+              "code_ogr": 100244,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Brevet de patron de pêche",
+              "code_ogr": 400981,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet d'officier chef de quart de navire de mer",
+              "code_ogr": 404677,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet de capitaine 200 pêche",
+              "code_ogr": 404674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTSM pêche et gestion de l'environnement marin",
+              "code_ogr": 404678,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet de lieutenant de pêche",
+              "code_ogr": 400982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Brevet de capitaine de pêche",
+              "code_ogr": 404673,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude au commandement à la petite pêche",
+              "code_ogr": 404672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro conduite et gestion des entreprises maritimes - pêche",
+              "code_ogr": 404676,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Technologie des équipements électroniques",
+              "code_ogr": 107030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation de signaux",
+              "code_ogr": 110397,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informatique des systèmes embarqués",
+              "code_ogr": 118821,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais maritime",
+              "code_ogr": 100253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la relation client (CRM)",
+              "code_ogr": 116414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Météorologie maritime",
+              "code_ogr": 123169,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Economie des pêches",
+              "code_ogr": 100249,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Langage Morse",
+              "code_ogr": 100252,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Pratiques de pêche responsable",
+              "code_ogr": 515537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation de la pêche",
+              "code_ogr": 100078,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Exploitation d'un navire de pêche",
+              "code_ogr": 124378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité à bord des navires (personnes et marchandises)",
+              "code_ogr": 110319,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité maritime",
+              "code_ogr": 100246,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de carte marine",
+              "code_ogr": 100205,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Droit maritime",
+              "code_ogr": 100248,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de sauvetage et secourisme",
+              "code_ogr": 121831,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des inventaires",
+              "code_ogr": 477880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En grande hauteur",
+          "code_ogr": 300782
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1105 - Poissonnier / Poissonnière",
+      "code_org_rome_cible": 84,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1417 - Saliculteur / Salicultrice",
+      "code_org_rome_cible": 31,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1404 - Aquaculteur / Aquacultrice",
+      "code_org_rome_cible": 18,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1103 - Chef / Cheffe d'atelier après-vente des véhicules (auto, moto, VTR)",
+      "code_org_rome_cible": 306,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1504 - Directeur / Directrice de magasin de grande distribution",
+      "code_org_rome_cible": 113,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1502 - Chef / Cheffe de rayon produits alimentaires",
+      "code_org_rome_cible": 111,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1202 - Agent / Agente de transit",
+      "code_org_rome_cible": 506,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1605 - Mécanicien / Mécanicienne en mécanique marine ou navale",
+      "code_org_rome_cible": 329,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N1302 - Responsable entrepôt logistique",
+      "code_org_rome_cible": 508,
+      "ordre_mobilite": 10
+    }
+  ]
+}

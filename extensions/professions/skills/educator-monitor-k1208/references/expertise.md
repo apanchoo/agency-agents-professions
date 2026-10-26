@@ -1,0 +1,103 @@
+# Educator monitor
+
+## Scope
+
+The educational instructor is a social worker who participates in educational action, in the animation and organization of the daily life of people in situations of social vulnerability, dependence or disability, for the development of their capacity for socialization, autonomy, integration and insertion. Welcomes and supports the person in a vulnerable situation Organizes and implements individual or collective socio-educational actions (support, learning and leisure activities) in the daily life of the people supported Collaborates within a multi-professional team in supporting and monitoring people in relation with partners and stakeholders in the area Contributes to the personalized project of the person being supported Contributes to the establishment or service project Carry out administrative monitoring, drafts activity reports and ensures traceability of actions carried out
+
+## Related Job Titles
+
+
+
+## Activities and Skills
+
+- Support and develop autonomy in the use of digital tools and digital services
+- Support the implementation of a personalized socio-educational project
+- Supporting the development of a person’s autonomy
+- Co-construct and adapt the socio-educational intervention mode with the supported person
+- Design and carry out educational activities for an individual or group
+- Contribute to the evaluation of educational activities
+- Encourage independence in daily activities
+- Guide a person through the steps to be taken
+- Maintain and promote the person's social connection
+- Participate in the evaluation of the personalized project with the person, their entourage and the team
+- Send the person information relating to their personalized project
+- Ensure a presence and a safe environment for those accompanied
+- Participate in educational and institutional team meetings
+- Use digital tools (communication, applications, connected objects)
+- Write professional writing
+- Participate in the management of the budget of its activities
+- Respect the rules of ethics and professional conduct
+- Identify a potential partnership
+- Communicate with those close to the person being supported
+- Communicate as part of teamwork
+- Understand the emotional intentions of others and be able to respond appropriately or adjust behavior accordingly
+- Understanding the emotional intentions of those supported
+- Being able to react appropriately by adapting your behavior
+- Alert, request support or arbitration
+- Enforce the rules of hygiene, safety, accessibility and environmental protection
+- Manage crisis or emergency situations
+- Managing a conflict situation
+- Promote values of respect and tolerance
+- Respect rules, instructions, standards and operational procedures
+- Respect ethical and confidentiality standards
+- Respect the rules of Quality, Hygiene, Safety, Health and Environment (QHSSE)
+- Transmit and explain to people the social and civic rules during daily life activities
+
+## Professional Approach
+
+- Be proactive
+- Listen, show empathy
+- Demonstrate rigor and precision
+
+## Areas of expertise
+
+- Emergency and first aid procedures
+- Knowledge of the health, medico-social and social ecosystem
+- Knowledge of New Information and Communication Technologies (NICT)
+- Basic knowledge of pathologies, disability and aging
+- Knowledge of the principles of good treatment
+
+## Standards and processes
+
+- Risk prevention for accompanied people
+- Rules for preventing professional risks
+- Environmental standards relating to waste sorting
+- Social action law
+- Home Safety Rules
+
+## Professional techniques
+
+- Active listening and mediation techniques
+- Non-verbal communication techniques
+- Group facilitation techniques
+- Techniques for handling the elderly or accompanied person
+- Emotional support techniques
+- Stress management techniques
+- Welcoming techniques for the accompanied person
+- Techniques for identifying the needs of the person being supported
+- Conflict management techniques
+- Interpersonal communication techniques
+- Knowledge transmission techniques
+- Teaching techniques
+
+## Working Conditions
+
+- Adults
+- Young people in integration
+- People with disabilities
+- Persons under the jurisdiction of justice
+- Civil servant
+- Private sector employee (CDI, CDD)
+- Public sector employee
+- Business travel
+- In contact with the public
+- Night work
+- Daytime work
+- Work weekends and public holidays
+- Association
+- Social or medico-social establishment (EHPAD, senior residence, etc.)
+- Structures of the Social and Solidarity Economy
+
+## Sectors
+
+- Social

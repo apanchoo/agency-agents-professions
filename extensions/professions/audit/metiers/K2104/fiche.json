@@ -1,0 +1,477 @@
+{
+  "numero": 478,
+  "rome": {
+    "code_rome": "K2104",
+    "intitule": "Surveillant / Surveillante en milieu scolaire",
+    "code_ogr": 407
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante d'éducation",
+      "libelle_court": "Assistant / Assistante d'éducation",
+      "code_ogr": 11263
+    },
+    {
+      "libelle": "Cadre éducatif / Cadre éducative de l'enseignement privé",
+      "libelle_court": "Cadre éducatif / Cadre éducative de l'enseignement privé",
+      "code_ogr": 11633
+    },
+    {
+      "libelle": "Maître / Maîtresse d'internat",
+      "libelle_court": "Maître / Maîtresse d'internat",
+      "code_ogr": 16315
+    },
+    {
+      "libelle": "Surveillant / Surveillante d'examens",
+      "libelle_court": "Surveillant / Surveillante d'examens",
+      "code_ogr": 19595
+    },
+    {
+      "libelle": "Surveillant / Surveillante d'externat",
+      "libelle_court": "Surveillant / Surveillante d'externat",
+      "code_ogr": 19596
+    },
+    {
+      "libelle": "Surveillant / Surveillante d'internat",
+      "libelle_court": "Surveillant / Surveillante d'internat",
+      "code_ogr": 19599
+    }
+  ],
+  "definition": "Le Surveillant en milieu scolaire a pour mission de maintenir l'ordre et la sécurité des élèves. Il assure la surveillance pendant les heures de cours et les récréations Il veille au respect du règlement intérieur Il intervient en cas de conflit ou de problème entre élèves Il organise et surveille les activités périscolaires Il participe à l'organisation des examens et des concours Il contribue à l'encadrement des élèves lors des sorties scolaires",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+3. Il est également accessible sans diplôme particulier pour les surveillants en établissement scolaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Accompagner et veiller à la sécurité des élèves lors des activités périscolaires",
+              "code_ogr": 511164,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assister le CPE (Conseiller Principal d'Education)",
+              "code_ogr": 511170,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité des élèves lors des interclasses",
+              "code_ogr": 502246,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller les élèves dans les espaces communs, en permanence, lors des épreuves d'examen et des sorties",
+              "code_ogr": 511169,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Encourager la participation des élèves aux activités scolaires",
+              "code_ogr": 502252,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faciliter et créer les conditions de la coopération",
+              "code_ogr": 300442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner des élèves handicapés",
+              "code_ogr": 108406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une médiation",
+              "code_ogr": 300036,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ecouter activement et diagnostiquer pour construire une réponse adaptée et personnalisée de manière réactive",
+              "code_ogr": 404867,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
+              "code_ogr": 107371,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assister le personnel éducatif lors des urgences",
+              "code_ogr": 502253,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Analyser, résoudre un problème courant ou complexe",
+              "code_ogr": 300082,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser des événements de sensibilisation à la sécurité",
+              "code_ogr": 502250,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Documenter les incidents et rédiger des rapports",
+              "code_ogr": 502251,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Contrôler l'accès aux installations scolaires",
+              "code_ogr": 502248,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Préparer et animer une réunion, un groupe de travail, un atelier",
+              "code_ogr": 300469,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Comprendre et respecter les règles de vie collective",
+              "code_ogr": 300421,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les conflits entre élèves",
+              "code_ogr": 485144,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Promouvoir le respect des règles de l'établissement",
+              "code_ogr": 502249,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller la ponctualité, l'assiduité des élèves aux cours, contrôler les justificatifs",
+              "code_ogr": 108394,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller à l'application des procédures d'évacuation",
+              "code_ogr": 502254,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de gestion scolaire",
+              "code_ogr": 499150,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence mention sciences de l'éducation",
+              "code_ogr": 404681,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention sciences de l'éducation et de la formation",
+              "code_ogr": 405267,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Relation à l'enfant ou l'adolescent",
+              "code_ogr": 107939,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de motivation scolaire",
+              "code_ogr": 479997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ecoute active",
+              "code_ogr": 494086,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Connaissance des normes de sécurité en établissement scolaire",
+              "code_ogr": 493096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Application des procédures disciplinaires",
+              "code_ogr": 492217,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Accompagnement des élèves en difficulté",
+              "code_ogr": 491850,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Premiers secours en cas d'accident",
+              "code_ogr": 496733,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de médiation scolaire",
+              "code_ogr": 498297,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication avec les parents d'élèves",
+              "code_ogr": 492461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation des salles d'examen",
+              "code_ogr": 496793,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention du harcèlement scolaire",
+              "code_ogr": 496865,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Adolescents",
+          "code_ogr": 300818
+        },
+        {
+          "libelle": "Enfants",
+          "code_ogr": 300825
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement scolaire",
+          "code_ogr": 405244
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "112",
+      "libelle": "Enseignement et formation",
+      "principal": true
+    },
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2137 - Assistant / Assistante pédagogique en milieu scolaire",
+      "code_org_rome_cible": 510044,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1801 - Conseiller / Conseillère en insertion professionnelle",
+      "code_org_rome_cible": 398,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2504 - Agent / Agente de sécurité événementielle",
+      "code_org_rome_cible": 404548,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K2503 - Agent / Agente de prévention et de sécurité",
+      "code_org_rome_cible": 430,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1307 - Animateur / Animatrice petite enfance",
+      "code_org_rome_cible": 404045,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1213 - Médiateur culturel / Médiatrice culturelle",
+      "code_org_rome_cible": 509376,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1607 - Assistant administratif / Assistante administrative",
+      "code_org_rome_cible": 480,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1408 - Conseiller / Conseillère clientèle à distance",
+      "code_org_rome_cible": 109,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1206 - Animateur coordinateur socioculturel / Animatrice coordinatrice socioculturelle",
+      "code_org_rome_cible": 373,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2115 - Conseiller principal / Conseillère principale d'éducation",
+      "code_org_rome_cible": 488886,
+      "ordre_mobilite": 10
+    }
+  ]
+}

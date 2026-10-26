@@ -1,0 +1,200 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488282,
+    "code_rome": "D1411",
+    "libelle": "Responsable Efficacité Commerciale (SFE) en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1707"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.501,
+      "matched_terms": [
+        "client",
+        "commercial",
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1707",
+      "title_terms": [
+        "commercial"
+      ],
+      "specific_title_terms": [
+        "commercial"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Prospection et négociation",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=96",
+          "selection_score": 81.3293,
+          "shared_terms": [
+            "negociation",
+            "prospection"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BI.16",
+          "title": "Marketing et vente à l’international",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=379",
+          "selection_score": 52.2891,
+          "shared_terms": [
+            "marketing",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BDMRC.16",
+          "title": "Fondamentaux de la relation client",
+          "page": 459,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=459",
+          "selection_score": 50.3797,
+          "shared_terms": [
+            "client",
+            "relation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Vente : démarche de prospection",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=67",
+          "selection_score": 78.9718,
+          "shared_terms": [
+            "prospection",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.BDMRC.01",
+          "title": "Mise en œuvre et pilotage de la stratégie client d’une entreprise",
+          "page": 484,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=484",
+          "selection_score": 54.6883,
+          "shared_terms": [
+            "client",
+            "mise",
+            "strategie",
+            "uvre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 33.598,
+      "matched_terms": [
+        "commercial",
+        "entrepris"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1707",
+      "title_terms": [
+        "commercial"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 62.1345,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 61.7592,
+          "shared_terms": [
+            "indicateur",
+            "marketing",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MCMO.07",
+          "title": "Négociation commerciale",
+          "page": 288,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=288",
+          "selection_score": 58.9037,
+          "shared_terms": [
+            "commerciale",
+            "negociation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCMO.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux commerciaux",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=248",
+          "selection_score": 77.0111,
+          "shared_terms": [
+            "ameliorer",
+            "commerciaux",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 68.3668,
+          "shared_terms": [
+            "ameliorer",
+            "performance",
+            "strategique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

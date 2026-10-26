@@ -1,0 +1,241 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488707,
+    "code_rome": "M1819",
+    "libelle": "Technicien / Technicienne en cybersécurité",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1802"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 98.313,
+      "matched_terms": [
+        "cyber",
+        "reseau",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "cyber"
+      ],
+      "specific_title_terms": [
+        "cyber"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.CYBER.11",
+          "title": "Sécurisation de services réseaux",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=157",
+          "selection_score": 113.4109,
+          "shared_terms": [
+            "reseaux",
+            "securisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 99.194,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CYBER.04",
+          "title": "Réponse à incident",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "selection_score": 97.0077,
+          "shared_terms": [
+            "incident"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.CYBER.01",
+          "title": "Réagir face à une cyber-attaque",
+          "page": 183,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=183",
+          "selection_score": 192.7352,
+          "shared_terms": [
+            "attaque",
+            "face",
+            "reagir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Se sensibiliser à l’hygiène informatique et à la cybersécurité",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=68",
+          "selection_score": 82.7505,
+          "shared_terms": [
+            "cybersecurite",
+            "informatique",
+            "sensibiliser"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.776,
+      "matched_terms": [
+        "donnees",
+        "systemes d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.09",
+          "title": "Cybersecurité",
+          "page": 230,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=230",
+          "selection_score": 57.5124,
+          "shared_terms": [
+            "cybersecurite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Communication interne",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=138",
+          "selection_score": 51.9635,
+          "shared_terms": [
+            "interne"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.12",
+          "title": "Sécurité système et réseaux",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=216",
+          "selection_score": 43.8244,
+          "shared_terms": [
+            "reseaux",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 55.0149,
+          "shared_terms": [
+            "protection"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.REAL.01",
+          "title": "Développement d’une application",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=108",
+          "selection_score": 39.9933,
+          "shared_terms": [
+            "application"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.552,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Automatisation et test en programmation",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=101",
+          "selection_score": 36.1114,
+          "shared_terms": [
+            "test"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EMS.01",
+          "title": "Mener une étude statistique dans un domaine d’application",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=173",
+          "selection_score": 55.056,
+          "shared_terms": [
+            "application",
+            "mener"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.VCOD.01",
+          "title": "Développement et test d’un outil décisionnel",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=126",
+          "selection_score": 46.8907,
+          "shared_terms": [
+            "test"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

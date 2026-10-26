@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515445,
+    "code_rome": "A1320",
+    "libelle": "Technicien en foncier rural / Technicienne en foncier rural",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1301"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.696,
+      "matched_terms": [
+        "agricol"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        17
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SEE.10",
+          "title": "Cartographie et SIG",
+          "page": 648,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=648",
+          "selection_score": 94.0412,
+          "shared_terms": [
+            "cartographie",
+            "sig"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AGRO.08",
+          "title": "Aménagement rural et territorial 2",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=178",
+          "selection_score": 63.2347,
+          "shared_terms": [
+            "amenagement",
+            "rural"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.08",
+          "title": "Aménagement rural et territorial 1",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=162",
+          "selection_score": 63.0594,
+          "shared_terms": [
+            "amenagement",
+            "rural"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SEE.03",
+          "title": "Déployer le développement durable à l’échelle d’une collectivité territoriale",
+          "page": 659,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=659",
+          "selection_score": 65.4608,
+          "shared_terms": [
+            "collectivite",
+            "durable",
+            "territoriale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SEE.04",
+          "title": "Identifier et caractériser les différents polluants dans un écosystème",
+          "page": 585,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=585",
+          "selection_score": 53.5114,
+          "shared_terms": [
+            "ecosysteme",
+            "identifier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,559 @@
+{
+  "numero": 19,
+  "rome": {
+    "code_rome": "A1201",
+    "intitule": "Bûcheron / Bûcheronne",
+    "code_ogr": 7
+  },
+  "appellations": [
+    {
+      "libelle": "Bûcheron élagueur / Bûcheronne élagueuse",
+      "libelle_court": "Bûcheron élagueur / Bûcheronne élagueuse",
+      "code_ogr": 11607
+    },
+    {
+      "libelle": "Commis / Commise de coupe",
+      "libelle_court": "Commis / Commise de coupe",
+      "code_ogr": 12755
+    },
+    {
+      "libelle": "Homme / Femme de pied",
+      "libelle_court": "Homme / Femme de pied",
+      "code_ogr": 38435
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'exploitation forestière",
+      "libelle_court": "Ouvrier / Ouvrière d'exploitation forestière",
+      "code_ogr": 17483
+    }
+  ],
+  "definition": "Le bûcheron, acteur indispensable de la gestion forestière, participe à la gestion durable des forêts et à la préservation de la biodiversité. Sélectionne et prépare les sites de coupe selon les plans de gestion Abat, écorce et débite les arbres en respectant les normes de sécurité Utilise et entretient les équipements tels que tronçonneuses et débusqueuses Effectue des opérations de reboisement et d'entretien de de la forêt Collabore avec d'autres professionnels de la forêt pour optimiser la production de bois",
+  "acces_metier": "Cet emploi est accessible avec une formation de niveau CAP à Bac en travaux forestiers. Des Certificats d'aptitude à la conduite en sécurité (CACES) peuvent être demandés pour la conduite d'engins.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Promouvoir les pratiques de gestion durable auprès des propriétaires forestiers",
+              "code_ogr": 506249,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner les supports qualité et de suivi de production",
+              "code_ogr": 126336,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des outils GPS et de cartographie numérique pour se repérer en forêt",
+              "code_ogr": 511219,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les logiciels de pilotage de drones",
+              "code_ogr": 400813,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Planifier les opérations de coupe en fonction du planning de production",
+              "code_ogr": 119290,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Abattre un arbre",
+              "code_ogr": 100023,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Choisir les outils adaptés pour l'abattage",
+              "code_ogr": 499947,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Débiter un arbre selon son usage",
+              "code_ogr": 122579,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Monter les accessoires d'engins forestiers",
+              "code_ogr": 125144,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Positionner et régler une machine d'abattage",
+              "code_ogr": 122728,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Tailler les arbres",
+              "code_ogr": 100063,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser une tronçonneuse",
+              "code_ogr": 484509,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Aménager, entretenir un espace naturel, une forêt",
+              "code_ogr": 300297,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Débroussailler une plantation et ses chemins d'accès",
+              "code_ogr": 122567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer l'abattage ou l'élagage selon la trajectoire de chute des arbres en prenant en compte l'environnement et les conditions climatiques",
+              "code_ogr": 122575,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les déchets forestiers de manière écologique",
+              "code_ogr": 499949,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recenser les arbres à abattre ou à élaguer",
+              "code_ogr": 122698,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les opérations à réaliser à partir des diagnostics et des données fournies par un drone",
+              "code_ogr": 400207,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité de la zone de travail",
+              "code_ogr": 499948,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un dispositif de sécurité",
+              "code_ogr": 104016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Implanter des éléments de sécurité ou de signalisation",
+              "code_ogr": 122772,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Classer des troncs selon l'usage du bois",
+              "code_ogr": 122565,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Débarder une grume",
+              "code_ogr": 117489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lever des grumes",
+              "code_ogr": 110058,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Vérifier la conformité d'une réalisation avec un cahier des charges",
+              "code_ogr": 121931,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Optimiser le rendement de la coupe",
+              "code_ogr": 499950,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des tronçonneuses",
+              "code_ogr": 123072,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils de taille",
+              "code_ogr": 120676,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicules agricoles, forestiers",
+              "code_ogr": 107058,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPA option travaux forestiers spécialité travaux de bûcheronnage",
+              "code_ogr": 490669,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de spécialisation pilote de machines de bûcheronnage",
+              "code_ogr": 403985,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de spécialisation arboriste élagueur",
+              "code_ogr": 489620,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux forestiers spécialité travaux de sylviculture",
+              "code_ogr": 490670,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux forestiers spécialité conduite de machines forestières",
+              "code_ogr": 490668,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agricole travaux forestiers",
+              "code_ogr": 404351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro forêt",
+              "code_ogr": 404314,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Physiologie végétale",
+              "code_ogr": 100030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coupe et d'abattage",
+              "code_ogr": 100033,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'ébranchage",
+              "code_ogr": 122578,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identification des espèces d'arbres",
+              "code_ogr": 479278,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Système de rétention d'un arbre",
+              "code_ogr": 125314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes environnementales",
+              "code_ogr": 493146,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des incendies forestiers",
+              "code_ogr": 479725,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de taille de végétaux",
+              "code_ogr": 100032,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'affûtage",
+              "code_ogr": 100029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'élagage",
+              "code_ogr": 100100,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de navigation en forêt",
+              "code_ogr": 498373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de cubage",
+              "code_ogr": 100102,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'haubanage",
+              "code_ogr": 100035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de reboisement",
+              "code_ogr": 498585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'écorçage",
+              "code_ogr": 104954,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1102 - Conducteur / Conductrice d'engins d'exploitation forestière",
+      "code_org_rome_cible": 403950,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2205 - Opérateur / Opératrice de production en industrie du bois",
+      "code_org_rome_cible": 241,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2202 - Conducteur / Conductrice de ligne de production en industrie du bois",
+      "code_org_rome_cible": 238,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "A1205 - Sylviculteur / Sylvicultrice",
+      "code_org_rome_cible": 11,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1207 - Chef / Cheffe d'équipe de travaux de milieux naturels",
+      "code_org_rome_cible": 488640,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1212 - Chef / Cheffe d'équipe de travaux forestiers",
+      "code_org_rome_cible": 489058,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1213 - Conducteur / Conductrice de travaux forestiers",
+      "code_org_rome_cible": 489160,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1418 - Technico-commercial / Technico-commerciale produits bois",
+      "code_org_rome_cible": 488926,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1232 - Opérateur / Opératrice de parcours acrobatique dans les arbres",
+      "code_org_rome_cible": 489046,
+      "ordre_mobilite": 10
+    }
+  ]
+}

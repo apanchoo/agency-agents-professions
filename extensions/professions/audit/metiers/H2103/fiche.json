@@ -1,0 +1,590 @@
+{
+  "numero": 30056,
+  "rome": {
+    "code_rome": "H2103",
+    "intitule": "Opérateur / Opératrice de transformation des viandes",
+    "code_ogr": 403959
+  },
+  "appellations": [
+    {
+      "libelle": "Boucher industriel / Bouchère industrielle",
+      "libelle_court": "Boucher industriel / Bouchère industrielle",
+      "code_ogr": 11568
+    },
+    {
+      "libelle": "Désosseur / Désosseuse",
+      "libelle_court": "Désosseur / Désosseuse",
+      "code_ogr": 14011
+    },
+    {
+      "libelle": "Désosseur-pareur / Désosseuse-pareuse",
+      "libelle_court": "Désosseur-pareur / Désosseuse-pareuse",
+      "code_ogr": 14012
+    },
+    {
+      "libelle": "Opérateur / Opératrice de fabrication en transformation de la viande",
+      "libelle_court": "Opérateur(trice) fabrication en transformation de viande",
+      "code_ogr": 17094
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de découpe de viandes",
+      "libelle_court": "Ouvrier / Ouvrière de découpe de viandes",
+      "code_ogr": 17429
+    },
+    {
+      "libelle": "Préparateur / Préparatrice de viandes en industrie",
+      "libelle_court": "Préparateur / Préparatrice de viandes en industrie",
+      "code_ogr": 18018
+    }
+  ],
+  "definition": "Réalise les différentes opérations de transformation des viandes (bovine, ovine, porcine). Désosse et découpe les viandes jusqu'à la préparation et au conditionnement en pièces et morceaux. Contrôle sa production en suivant les consignes et les règles QHSE.",
+  "acces_metier": "Cet emploi est accessible sans diplôme ou expérience professionnelle. Dans certains cas, il peut être demandé une certification de niveau CAP ou BEP en boucherie ou dans le domaine de la production agroalimentaire. L'acquisition en cours d'expérience d'un CQP en transformation des viandes peut permettre à un salarié en poste de développer et valoriser ses compétences.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'anesthésie ou à l'euthanasie d'un animal",
+              "code_ogr": 113958,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter le bien-être animal",
+              "code_ogr": 404019,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Abattre et nettoyer des animaux",
+              "code_ogr": 404532,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Affûter un outil, un équipement",
+              "code_ogr": 106035,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Débarrasser les peaux des chairs, vaisseaux et impuretés de surface",
+              "code_ogr": 114708,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Découper, désosser, parer de la viande",
+              "code_ogr": 118018,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Dépouiller un animal",
+              "code_ogr": 124298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les types et morceaux de viande",
+              "code_ogr": 121948,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la salaison d'une viande",
+              "code_ogr": 125063,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le calibrage d'une carcasse",
+              "code_ogr": 122795,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le fumage d'une viande",
+              "code_ogr": 125062,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une pesée",
+              "code_ogr": 122794,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transformer des matières premières d'origine animale",
+              "code_ogr": 300212,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vider et nettoyer des bêtes",
+              "code_ogr": 114110,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier la cause d'une anomalie",
+              "code_ogr": 123043,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Analyser et prévenir les risques",
+              "code_ogr": 121638,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer des mesures correctives",
+              "code_ogr": 300242,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité et la conformité des matières premières",
+              "code_ogr": 300247,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Garantir la traçabilité des réactifs, produits, milieux et matériels vivants",
+              "code_ogr": 120965,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'emballage de produits frais",
+              "code_ogr": 300541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'opération de tri des abats",
+              "code_ogr": 122792,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier des pièces de viande",
+              "code_ogr": 123013,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Vérifier la conformité d'une réalisation avec un cahier des charges",
+              "code_ogr": 121931,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de machines à désosser",
+              "code_ogr": 121949,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de spécialités bouchères",
+              "code_ogr": 119441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de viande",
+              "code_ogr": 119438,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation d'outils tranchants (couteaux, hachoirs, ...)",
+              "code_ogr": 104213,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Machine de découpe de viande",
+              "code_ogr": 121950,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des carcasses de viande",
+              "code_ogr": 121945,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CQP opérateur en 2ème transformation des viandes - Bétail et viande",
+              "code_ogr": 403983,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur en 1ère transformation des viandes - Bétail et viande",
+              "code_ogr": 403982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP boucher",
+              "code_ogr": 403981,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Dégraissage de viande",
+              "code_ogr": 121947,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tranchage",
+              "code_ogr": 123024,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coupe et d'abattage",
+              "code_ogr": 100033,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de conservation des produits alimentaires",
+              "code_ogr": 490281,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chaîne du froid",
+              "code_ogr": 101716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traçabilité des produits",
+              "code_ogr": 100143,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Classification de carcasses",
+              "code_ogr": 122695,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de stockage de produits alimentaires",
+              "code_ogr": 122410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de fabrication des produits à base de viandes",
+              "code_ogr": 120013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Abattage d'un animal",
+              "code_ogr": 300754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de découpage",
+              "code_ogr": 106252,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de parage des viandes",
+              "code_ogr": 101719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'accrochage manuel",
+              "code_ogr": 105400,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dépouillement d'un animal",
+              "code_ogr": 122696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'éviscération animale",
+              "code_ogr": 122693,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En ligne ou ilot de production",
+          "code_ogr": 23382
+        },
+        {
+          "libelle": "En zone frigorifique",
+          "code_ogr": 300787
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail posté (2x8, 3x8, 5x8, etc.)",
+          "code_ogr": 126450
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "83",
+      "libelle": "Industrie - Alimentaire",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2101 - Ouvrier / Ouvrière d'abattoir",
+      "code_org_rome_cible": 235,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1106 - Vendeur / Vendeuse en épicerie",
+      "code_org_rome_cible": 85,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1605 - Plongeur officier / Plongeuse officière de cuisine",
+      "code_org_rome_cible": 202,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1103 - Charcutier-traiteur / Charcutière-traiteuse",
+      "code_org_rome_cible": 82,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1101 - Boucher / Bouchère",
+      "code_org_rome_cible": 80,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 10
+    }
+  ]
+}

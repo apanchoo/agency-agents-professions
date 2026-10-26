@@ -1,0 +1,196 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 110,
+    "code_rome": "D1501",
+    "libelle": "Animateur / Animatrice de vente",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1501"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.539,
+      "matched_terms": [
+        "achat",
+        "client",
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1501",
+      "title_terms": [
+        "vente"
+      ],
+      "specific_title_terms": [
+        "vente"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MMPV.16",
+          "title": "Marketing du point de vente",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=218",
+          "selection_score": 70.1177,
+          "shared_terms": [
+            "marketing",
+            "point",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Marketing mix - 1",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=95",
+          "selection_score": 64.9434,
+          "shared_terms": [
+            "marketing",
+            "mix"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Marketing Mix - 2",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=119",
+          "selection_score": 64.9034,
+          "shared_terms": [
+            "marketing",
+            "mix"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Marketing : marketing mix",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=88",
+          "selection_score": 65.1975,
+          "shared_terms": [
+            "marketing",
+            "mix"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MMPV.02",
+          "title": "Démarche d’ouverture d’un point de vente",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=195",
+          "selection_score": 56.505,
+          "shared_terms": [
+            "point",
+            "vente"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.528,
+      "matched_terms": [
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MDFS.05",
+          "title": "Fiscalité du chiffre d’affaires",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=244",
+          "selection_score": 62.6671,
+          "shared_terms": [
+            "affaire",
+            "chiffre"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 62.5913,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 62.2414,
+          "shared_terms": [
+            "indicateur",
+            "marketing",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCMO.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux commerciaux",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=248",
+          "selection_score": 78.004,
+          "shared_terms": [
+            "ameliorer",
+            "commerciaux",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 55.0379,
+          "shared_terms": [
+            "affaire",
+            "client",
+            "negociation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

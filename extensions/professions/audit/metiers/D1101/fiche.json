@@ -1,0 +1,562 @@
+{
+  "numero": 82,
+  "rome": {
+    "code_rome": "D1101",
+    "intitule": "Boucher / Bouchère",
+    "code_ogr": 80
+  },
+  "appellations": [
+    {
+      "libelle": "Aide-boucher / Aide-bouchère",
+      "libelle_court": "Aide-boucher / Aide-bouchère",
+      "code_ogr": 10867
+    },
+    {
+      "libelle": "Boucher / Bouchère chevalin",
+      "libelle_court": "Boucher / Bouchère chevalin",
+      "code_ogr": 11565
+    },
+    {
+      "libelle": "Boucher / Bouchère hippophagique",
+      "libelle_court": "Boucher / Bouchère hippophagique",
+      "code_ogr": 11567
+    },
+    {
+      "libelle": "Boucher désosseur / Bouchère désosseuse",
+      "libelle_court": "Boucher désosseur / Bouchère désosseuse",
+      "code_ogr": 11566
+    },
+    {
+      "libelle": "Boucher-charcutier / Bouchère-charcutière",
+      "libelle_court": "Boucher-charcutier / Bouchère-charcutière",
+      "code_ogr": 11569
+    },
+    {
+      "libelle": "Boucher-traiteur / Bouchère-traiteuse",
+      "libelle_court": "Boucher-traiteur / Bouchère-traiteuse",
+      "code_ogr": 11570
+    },
+    {
+      "libelle": "Boucher-tripier / Bouchère-tripière",
+      "libelle_court": "Boucher-tripier / Bouchère-tripière",
+      "code_ogr": 11571
+    },
+    {
+      "libelle": "Boucher-volailler / Bouchère-volaillère",
+      "libelle_court": "Boucher-volailler / Bouchère-volaillère",
+      "code_ogr": 11572
+    },
+    {
+      "libelle": "Ouvrier boucher / Ouvrière bouchère",
+      "libelle_court": "Ouvrier boucher / Ouvrière bouchère",
+      "code_ogr": 17406
+    },
+    {
+      "libelle": "Second boucher / Seconde bouchère",
+      "libelle_court": "Second boucher / Seconde bouchère",
+      "code_ogr": 19351
+    }
+  ],
+  "definition": "Doté(e) d'un sens aigu du détail, cet artisan de la viande garantit des produits de qualité. Sélectionne et achète les carcasses de viande chez les grossistes ou les abattoirs Découpe, désosse et prépare les pièces de viande Présente et vend la viande en respectant les normes d'hygiène et de sécurité alimentaires Conseille les clients sur le choix des produits et leur préparation Peut préparer des plats cuisinés ou des spécialités bouchères Gère les stocks et l'approvisionnement de son commerce",
+  "acces_metier": "Cet emploi est accessible avec un CAP Boucher, un Brevet Professionnel Boucher ou un Bac Professionnel Boucher Charcutier Traiteur.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Découper, désosser, parer de la viande",
+              "code_ogr": 118018,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les types et morceaux de viande",
+              "code_ogr": 121948,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer des produits bouchers selon les commandes",
+              "code_ogr": 485490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la salaison d'une viande",
+              "code_ogr": 125063,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le fumage d'une viande",
+              "code_ogr": 125062,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vider et nettoyer des bêtes",
+              "code_ogr": 114110,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la propreté et l'ordre dans l'espace de travail",
+              "code_ogr": 482398,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la qualité et la propreté d'équipements ou de matériels",
+              "code_ogr": 124976,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité de la viande et des produits carnés",
+              "code_ogr": 485488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller au respect des normes d'hygiène et de sécurité",
+              "code_ogr": 402094,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les commandes et l'inventaire de viandes",
+              "code_ogr": 486776,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les stocks de viandes et de produits associés",
+              "code_ogr": 485491,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier des pièces de viande",
+              "code_ogr": 123013,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, informer et orienter les clients",
+              "code_ogr": 490153,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conseiller les clients sur les choix de viandes",
+              "code_ogr": 486777,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre une commande client",
+              "code_ogr": 104324,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Promouvoir les produits auprès des clients",
+              "code_ogr": 121771,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 489877,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Connaître les différentes races de bétail (bovins, ovins, caprins, etc)",
+              "code_ogr": 511027,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de machines à désosser",
+              "code_ogr": 121949,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de spécialités bouchères",
+              "code_ogr": 119441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Machine de découpe de viande",
+              "code_ogr": 121950,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des carcasses de viande",
+              "code_ogr": 121945,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BP boucher",
+              "code_ogr": 405318,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro boucher charcutier traiteur",
+              "code_ogr": 405317,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Boucher charcutier traiteur : option productions charcutières et traiteurs (BM)",
+              "code_ogr": 490764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Boucher charcutier traiteur : option productions bouchères (BM)",
+              "code_ogr": 490710,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP boucher",
+              "code_ogr": 403981,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des produits carnés exotiques",
+              "code_ogr": 480312,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementations d'importation de viande",
+              "code_ogr": 480316,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes sanitaires",
+              "code_ogr": 478822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chaîne du froid",
+              "code_ogr": 101716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de gestion des déchets en boucherie",
+              "code_ogr": 117546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de stockage de produits alimentaires",
+              "code_ogr": 122410,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de parage des viandes",
+              "code_ogr": 101719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de découpe de viande",
+              "code_ogr": 477779,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vente de produits carnés",
+              "code_ogr": 480311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'embossage de viande",
+              "code_ogr": 101720,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de marinade",
+              "code_ogr": 498265,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de présentation de produits en boucherie",
+              "code_ogr": 480313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de fumage des viandes",
+              "code_ogr": 498129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de conservation de la viande",
+              "code_ogr": 480309,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désossage",
+              "code_ogr": 101718,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de ficelage des viandes",
+              "code_ogr": 101715,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation avec les fournisseurs",
+              "code_ogr": 477068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'affûtage des couteaux",
+              "code_ogr": 480315,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Exposition à de hautes températures",
+          "code_ogr": 300789
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        },
+        {
+          "libelle": "Etablissement de restauration collective",
+          "code_ogr": 300811
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1106 - Vendeur / Vendeuse en épicerie",
+      "code_org_rome_cible": 85,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1102 - Boulanger / Boulangère",
+      "code_org_rome_cible": 81,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1103 - Charcutier-traiteur / Charcutière-traiteuse",
+      "code_org_rome_cible": 82,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1109 - Chef boucher / Cheffe bouchère",
+      "code_org_rome_cible": 489178,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "D1502 - Chef / Cheffe de rayon produits alimentaires",
+      "code_org_rome_cible": 111,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1507 - Employé / Employée de rayon libre-service",
+      "code_org_rome_cible": 116,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H2101 - Ouvrier / Ouvrière d'abattoir",
+      "code_org_rome_cible": 235,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1606 - Cuisinier / Cuisinière de collectivité",
+      "code_org_rome_cible": 404039,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2103 - Opérateur / Opératrice de transformation des viandes",
+      "code_org_rome_cible": 403959,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1607 - Employé / Employée de restauration collective",
+      "code_org_rome_cible": 404040,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "D1107 - Vendeur / Vendeuse grossiste en produits frais",
+      "code_org_rome_cible": 86,
+      "ordre_mobilite": 11
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 12
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 375,
+    "code_rome": "K1301",
+    "libelle": "Educateur / Educatrice en locomotion",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1301"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.838,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1301",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.AS.10",
+          "title": "Techniques d’entretien / Psychologie de la communication verbale et non verbale",
+          "page": 242,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=242",
+          "selection_score": 90.2163,
+          "shared_terms": [
+            "non",
+            "psychologie",
+            "verbale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.CGE3S.09",
+          "title": "Modalités d’accompagnement des personnes dans le champ social, médico-social et de la santé",
+          "page": 515,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=515",
+          "selection_score": 74.9747,
+          "shared_terms": [
+            "accompagnement",
+            "modalite",
+            "sante",
+            "social"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AS.07",
+          "title": "Psychologie",
+          "page": 307,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=307",
+          "selection_score": 44.4847,
+          "shared_terms": [
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.CGE3S.04",
+          "title": "Orienter et accompagner les publics après avoir évalué leurs besoins",
+          "page": 502,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=502",
+          "selection_score": 76.918,
+          "shared_terms": [
+            "accompagner",
+            "evalue",
+            "orienter"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CGE3S.04",
+          "title": "Etudier la situation d’une personne ou d’une famille afin de les informer sur les aides sociales mobilisables",
+          "page": 526,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=526",
+          "selection_score": 69.3484,
+          "shared_terms": [
+            "aides",
+            "famille",
+            "sociale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

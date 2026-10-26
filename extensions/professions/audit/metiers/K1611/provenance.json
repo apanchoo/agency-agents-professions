@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520208,
+    "code_rome": "K1611",
+    "libelle": "Iconographe",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "K1601"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.54,
+      "matched_terms": [
+        "communication",
+        "editorial"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1601",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.INFONUM.10",
+          "title": "Politique d’archivage et de conservation",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=297",
+          "selection_score": 107.3372,
+          "shared_terms": [
+            "archivage",
+            "conservation",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.MLP.15",
+          "title": "Paysage culturel et éditorial",
+          "page": 471,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=471",
+          "selection_score": 63.0849,
+          "shared_terms": [
+            "culturel",
+            "editorial"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.INFONUM.13",
+          "title": "Bases de données documentaires",
+          "page": 241,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=241",
+          "selection_score": 62.9001,
+          "shared_terms": [
+            "documentaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.JOU.02",
+          "title": "Produire un reportage multimédia et proposer une stratégie de diffusion",
+          "page": 403,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=403",
+          "selection_score": 45.2244,
+          "shared_terms": [
+            "diffusion",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MLP.02",
+          "title": "Concevoir un projet culturel",
+          "page": 536,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=536",
+          "selection_score": 43.2845,
+          "shared_terms": [
+            "culturel"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488288,
+    "code_rome": "G1220",
+    "libelle": "Educateur sportif / Educatrice sportive spécialisé(e) en activités physiques et sportives adaptées",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1204"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 97.493,
+      "matched_terms": [
+        "educat",
+        "handicap",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1204",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.ES.04",
+          "title": "Analyse des problématiques éducatives",
+          "page": 470,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=470",
+          "selection_score": 105.1717,
+          "shared_terms": [
+            "educative",
+            "problematique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.ES.13",
+          "title": "Les dynamiques du travail en équipe",
+          "page": 378,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=378",
+          "selection_score": 87.7284,
+          "shared_terms": [
+            "dynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.ES.13",
+          "title": "Dynamiques du travail en équipe",
+          "page": 352,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=352",
+          "selection_score": 87.2326,
+          "shared_terms": [
+            "dynamique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ES.06",
+          "title": "Transmettre des informations adaptées au contexte institutionnel",
+          "page": 388,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=388",
+          "selection_score": 109.556,
+          "shared_terms": [
+            "adaptee",
+            "institutionnel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ES.06",
+          "title": "Formaliser un écrit professionnel adapté au destinataire",
+          "page": 412,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=412",
+          "selection_score": 54.3521,
+          "shared_terms": [
+            "adapte"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

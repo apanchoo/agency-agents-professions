@@ -1,0 +1,177 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509351,
+    "code_rome": "D1422",
+    "libelle": "Chargé / Chargée de recouvrement de créances",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1403"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.526,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 60.6413,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Fondamentaux de la comptabilité",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=65",
+          "selection_score": 40.3285,
+          "shared_terms": [
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.06",
+          "title": "Reporting et audit",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=152",
+          "selection_score": 36.8228,
+          "shared_terms": [
+            "reporting"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Identifier les compétences professionnelles",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=58",
+          "selection_score": 46.6275,
+          "shared_terms": [
+            "identifier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 43.6861,
+          "shared_terms": [
+            "client",
+            "collaborer"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.356,
+      "matched_terms": [
+        "client"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.BDMRC.16",
+          "title": "Fondamentaux de la relation client",
+          "page": 459,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=459",
+          "selection_score": 51.0474,
+          "shared_terms": [
+            "client",
+            "relation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Négocier dans des contextes spécifiques - 1",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=167",
+          "selection_score": 47.9264,
+          "shared_terms": [
+            "negocier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Négocier dans des contextes spécifiques - 2",
+          "page": 188,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=188",
+          "selection_score": 47.7544,
+          "shared_terms": [
+            "negocier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.02",
+          "title": "Pilotage commercial d’une organisation",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=141",
+          "selection_score": 38.2595,
+          "shared_terms": [
+            "commercial"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Vente : initiation au jeu de rôle de négociation",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=89",
+          "selection_score": 30.2739,
+          "shared_terms": [
+            "role"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

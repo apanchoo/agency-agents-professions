@@ -1,0 +1,26 @@
+{
+  "name": "agency-professions-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "catalog": "node scripts/generate-catalog.mjs",
+    "start": "npm run catalog && docusaurus start --host 127.0.0.1",
+    "build": "npm run catalog && docusaurus build",
+    "serve": "docusaurus serve --host 127.0.0.1 --port 4173",
+    "test": "npm run catalog && node --test tests/catalog.test.mjs",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "3.37.0",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@emotion/react": "11.14.0",
+    "@mdx-js/react": "3.1.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-markdown": "10.1.0"
+  },
+  "devDependencies": {"@playwright/test": "1.64.1"},
+  "engines": {"node": ">=22"},
+  "overrides": {"tinypool": "2.2.0", "serialize-javascript": "7.1.4"}
+}

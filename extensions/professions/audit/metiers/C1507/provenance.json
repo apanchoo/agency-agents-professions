@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519689,
+    "code_rome": "C1507",
+    "libelle": "Chargé / Chargée de recouvrement immobilier",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "C1502"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.321,
+      "matched_terms": [
+        "jurid"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.EA.06",
+          "title": "Droit des contentieux et du recouvrement",
+          "page": 192,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=192",
+          "selection_score": 88.1367,
+          "shared_terms": [
+            "contentieux",
+            "droit",
+            "recouvrement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.EA.01",
+          "title": "Obligations juridiques et comptables",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=203",
+          "selection_score": 82.7665,
+          "shared_terms": [
+            "comptable",
+            "juridique",
+            "obligation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 68.2288,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PF.01",
+          "title": "Conseils juridiques dans un contexte amiable ou dans une situation contentieuse",
+          "page": 230,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=230",
+          "selection_score": 92.3428,
+          "shared_terms": [
+            "amiable",
+            "contentieuse",
+            "juridique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.AJ.01",
+          "title": "Gestion de dossiers contentieux ou non contentieux au sein d’une organisation",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=108",
+          "selection_score": 87.5225,
+          "shared_terms": [
+            "contentieux",
+            "dossier",
+            "non"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

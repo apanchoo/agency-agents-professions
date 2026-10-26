@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509358,
+    "code_rome": "H1227",
+    "libelle": "Maquettiste en électronique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1202"
+  },
+  "but": [
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 91.65,
+      "matched_terms": [
+        "electron"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [
+        "electron"
+      ],
+      "specific_title_terms": [
+        "electron"
+      ],
+      "parent_rome_pages": [
+        10
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.09",
+          "title": "Electronique spécialisée",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=152",
+          "selection_score": 63.5924,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Electronique",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=59",
+          "selection_score": 46.7211,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Automatisme",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=79",
+          "selection_score": 46.721,
+          "shared_terms": [
+            "automatisme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Conception et vérification d’un prototype à partir d’un cahier des charges complet",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=67",
+          "selection_score": 96.3152,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "conception",
+            "partir",
+            "prototype"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ESE.01",
+          "title": "Mettre en œuvre un système électronique et/ou embarqué spécifique",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=136",
+          "selection_score": 80.7337,
+          "shared_terms": [
+            "electronique",
+            "specifique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.943,
+      "matched_terms": [
+        "fabrication",
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Métrologie",
+          "page": 99,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=99",
+          "selection_score": 46.6484,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SNRV.12",
+          "title": "Simulation",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=146",
+          "selection_score": 44.0083,
+          "shared_terms": [
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Production - Méthodes",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=77",
+          "selection_score": 27.2996,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 76.1218,
+          "shared_terms": [
+            "piece",
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Fabrication d’une pièce unitaire",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=88",
+          "selection_score": 68.8089,
+          "shared_terms": [
+            "fabrication",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.476,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1202",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Conception des procédés 2 : schéma de procédés",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=129",
+          "selection_score": 59.1351,
+          "shared_terms": [
+            "conception",
+            "schema"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPIT.09",
+          "title": "Modélisation et simulation des procédés 1",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=134",
+          "selection_score": 50.5234,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CPIT.08",
+          "title": "Modélisation et simulation des procédés 2",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=151",
+          "selection_score": 50.45,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Prise en main d’un pilote de réaction ou de séparation et mise en œuvre d’essais.",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=72",
+          "selection_score": 32.8395,
+          "shared_terms": [
+            "essai",
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Proposition technique d’un réseau d’utilité",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=74",
+          "selection_score": 31.3139,
+          "shared_terms": [
+            "proposition"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

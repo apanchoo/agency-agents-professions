@@ -1,0 +1,257 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510247,
+    "code_rome": "M1880",
+    "libelle": "Spécialiste e-santé",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1806"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.081,
+      "matched_terms": [
+        "application",
+        "developpe",
+        "donnees"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.INTEG.08",
+          "title": "Cybersecurité",
+          "page": 364,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=364",
+          "selection_score": 55.8796,
+          "shared_terms": [
+            "cybersecurite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.INTEG.06",
+          "title": "Management du changement et de l’innovation numérique",
+          "page": 380,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=380",
+          "selection_score": 44.4428,
+          "shared_terms": [
+            "changement",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Développement d’applications avec IHM",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=92",
+          "selection_score": 27.8129,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.REAL.01",
+          "title": "Développement d’une application",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=108",
+          "selection_score": 39.2199,
+          "shared_terms": [
+            "application"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.REAL.01",
+          "title": "Développement d’une application complexe",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=128",
+          "selection_score": 28.603,
+          "shared_terms": [
+            "application"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.985,
+      "matched_terms": [
+        "developpe",
+        "numerique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DWEB-DI.08",
+          "title": "Hébergement et cybersécurité",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=275",
+          "selection_score": 39.9139,
+          "shared_terms": [
+            "cybersecurite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.19",
+          "title": "Projet Personnel et Professionnel",
+          "page": 99,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=99",
+          "selection_score": 18.5222,
+          "shared_terms": [
+            "personnel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Culture numérique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=57",
+          "selection_score": 17.5621,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.01",
+          "title": "Intégrer des interfaces utilisateurs au sein d’un système d’information",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=103",
+          "selection_score": 56.8047,
+          "shared_terms": [
+            "integrer",
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.01",
+          "title": "Intégrer une expérience utilisateur au sein d’un système d’information",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=163",
+          "selection_score": 56.8047,
+          "shared_terms": [
+            "integrer",
+            "utilisateur"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.855,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Anglais pour la coopération internationale et enjeux internationaux des données",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=119",
+          "selection_score": 54.2761,
+          "shared_terms": [
+            "enjeux",
+            "internationaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Communication des données, éthique et responsabilité",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=120",
+          "selection_score": 40.4164,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 27.9444,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EMS.04",
+          "title": "Conformité réglementaire pour analyser des données",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=140",
+          "selection_score": 72.7323,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.04",
+          "title": "Conformité réglementaire pour traiter des données",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=80",
+          "selection_score": 59.7533,
+          "shared_terms": [
+            "conformite",
+            "reglementaire"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

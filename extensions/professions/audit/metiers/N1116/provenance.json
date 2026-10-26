@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489168,
+    "code_rome": "N1116",
+    "libelle": "Inventoriste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1103"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.547,
+      "matched_terms": [
+        "approvisionnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.OSC.09",
+          "title": "Reverse Supply Chain",
+          "page": 273,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=273",
+          "selection_score": 49.9321,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.13",
+          "title": "Achats dans la Supply Chain",
+          "page": 255,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=255",
+          "selection_score": 48.5662,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.14",
+          "title": "Distribution, transport et Supply Chain",
+          "page": 256,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=256",
+          "selection_score": 43.0242,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.03",
+          "title": "Projet Supply Chain en tant que technicien",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=191",
+          "selection_score": 44.4164,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OSC.03",
+          "title": "Projet Supply Chain en tant que cadre intermédiaire",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=237",
+          "selection_score": 43.7637,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,195 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510269,
+    "code_rome": "D1438",
+    "libelle": "Assistant / Assistante e-commerce",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1401"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.31,
+      "matched_terms": [
+        "client",
+        "commerce",
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1401",
+      "title_terms": [
+        "commerce"
+      ],
+      "specific_title_terms": [
+        "commerce"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MMPV.11",
+          "title": "Parcours expérience client",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=258",
+          "selection_score": 64.2692,
+          "shared_terms": [
+            "client",
+            "experience"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MDEE.15",
+          "title": "Stratégie de marketing digital",
+          "page": 296,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=296",
+          "selection_score": 62.6178,
+          "shared_terms": [
+            "digital",
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDEE.12",
+          "title": "Référencement",
+          "page": 339,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=339",
+          "selection_score": 61.8805,
+          "shared_terms": [
+            "referencement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Marketing : positionnement d’une offre simple sur un marché",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=66",
+          "selection_score": 54.7513,
+          "shared_terms": [
+            "marche",
+            "marketing",
+            "offre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MDEE.01",
+          "title": "Développement d’un projet digital",
+          "page": 323,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=323",
+          "selection_score": 54.1519,
+          "shared_terms": [
+            "digital"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.689,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 79.7076,
+          "shared_terms": [
+            "digital",
+            "indicateur",
+            "marketing",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 62.9036,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MDFS.05",
+          "title": "Fiscalité du chiffre d’affaires",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=244",
+          "selection_score": 62.8307,
+          "shared_terms": [
+            "affaire",
+            "chiffre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.02",
+          "title": "Collaborer au développement des affaires, du e-commerce à la négociation client",
+          "page": 272,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=272",
+          "selection_score": 79.4824,
+          "shared_terms": [
+            "affaire",
+            "client",
+            "collaborer",
+            "commerce"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Participer au pilotage d’une organisation - Etude concurrentielle",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=75",
+          "selection_score": 53.547,
+          "shared_terms": [
+            "concurrentielle"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488304,
+    "code_rome": "M1610",
+    "libelle": "Intendant / Intendante du sport",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "M1604"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.919,
+      "matched_terms": [
+        "administrat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1604",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 52.9201,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 46.0941,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Ressources humaines",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=65",
+          "selection_score": 33.3324,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 75.8066,
+          "shared_terms": [
+            "administratif",
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GC2F.01",
+          "title": "Accompagner le développement de l’entreprise",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=163",
+          "selection_score": 52.5786,
+          "shared_terms": [
+            "accompagner"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

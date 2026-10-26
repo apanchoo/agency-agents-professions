@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488935,
+    "code_rome": "N4125",
+    "libelle": "Conducteur / Conductrice de transport routier d'animaux vivants",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4102"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.637,
+      "matched_terms": [
+        "exploitation",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4102",
+      "title_terms": [
+        "transport"
+      ],
+      "specific_title_terms": [
+        "transport"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 63.7533,
+          "shared_terms": [
+            "exploitation",
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Transport routier de marchandises : contexte et techniques",
+          "page": 39,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=39",
+          "selection_score": 54.3593,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Transport routier de marchandises : approfondissement",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=91",
+          "selection_score": 54.0016,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel d’offre",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=34",
+          "selection_score": 33.5467,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MSCD.01",
+          "title": "Création de services pour les voyageurs en adoptant une démarche durable",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=172",
+          "selection_score": 31.1942,
+          "shared_terms": [
+            "adoptant"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,189 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509930,
+    "code_rome": "M1303",
+    "libelle": "Directeur / Directrice de filiale",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1301"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.949,
+      "matched_terms": [
+        "financ",
+        "gestion",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.15",
+          "title": "Ressources humaines : Pratique du recrutement",
+          "page": 354,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=354",
+          "selection_score": 69.8593,
+          "shared_terms": [
+            "humaine",
+            "recrutement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.15",
+          "title": "Ressources humaines : Gestion du recrutement approfondie",
+          "page": 401,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=401",
+          "selection_score": 57.7181,
+          "shared_terms": [
+            "humaine",
+            "recrutement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.10",
+          "title": "Contrôle de gestion : Gestion budgétaire",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=140",
+          "selection_score": 57.654,
+          "shared_terms": [
+            "budgetaire",
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Identifier l’impact des décisions de gestion sur la performance de l’organisation",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=83",
+          "selection_score": 42.646,
+          "shared_terms": [
+            "identifier",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Participer, dans le respect des contraintes réglementaires et dans une démarche de gouvernance durable à la création ou au développement d’une organisation",
+          "page": 125,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=125",
+          "selection_score": 35.5544,
+          "shared_terms": [
+            "gouvernance"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.844,
+      "matched_terms": [
+        "commercial",
+        "entrepris",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.05",
+          "title": "Management de la performance de l’équipe commerciale",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=319",
+          "selection_score": 55.5353,
+          "shared_terms": [
+            "commerciale",
+            "management",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MRPE.08",
+          "title": "Responsabilité sociale et environnementale de l’organisation",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=136",
+          "selection_score": 41.842,
+          "shared_terms": [
+            "responsabilite",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Droit des affaires",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=131",
+          "selection_score": 40.7323,
+          "shared_terms": [
+            "affaire",
+            "droit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 66.5779,
+          "shared_terms": [
+            "financiere",
+            "performance",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MCMO.01",
+          "title": "Piloter et rendre compte d’un projet aux enjeux commerciaux",
+          "page": 309,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=309",
+          "selection_score": 49.4968,
+          "shared_terms": [
+            "piloter",
+            "rendre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

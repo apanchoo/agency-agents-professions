@@ -1,0 +1,267 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489026,
+    "code_rome": "M1846",
+    "libelle": "Ingénieur / Ingénieure Cybersécurité Datacenter",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1802"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 100.412,
+      "matched_terms": [
+        "cyber",
+        "informatique",
+        "reseau",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "cyber"
+      ],
+      "specific_title_terms": [
+        "cyber"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.CYBER.11",
+          "title": "Sécurisation de services réseaux",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=157",
+          "selection_score": 112.3677,
+          "shared_terms": [
+            "reseaux",
+            "securisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 98.8275,
+          "shared_terms": [
+            "norme",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CYBER.04",
+          "title": "Réponse à incident",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "selection_score": 95.9906,
+          "shared_terms": [
+            "incident"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CYBER.03",
+          "title": "Assurer la sécurisation et la supervision avancées d’un système d’information",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=164",
+          "selection_score": 64.9659,
+          "shared_terms": [
+            "securisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre en place une solution informatique pour l’entreprise",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=95",
+          "selection_score": 59.8745,
+          "shared_terms": [
+            "informatique",
+            "place",
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.16,
+      "matched_terms": [
+        "data",
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [
+        "data"
+      ],
+      "specific_title_terms": [
+        "data"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 46.2114,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.EMS.08",
+          "title": "Modèle linéaire",
+          "page": 170,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=170",
+          "selection_score": 40.2828,
+          "shared_terms": [
+            "modele"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Automatisation et test en programmation",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=101",
+          "selection_score": 36.4992,
+          "shared_terms": [
+            "test"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.VCOD.01",
+          "title": "Développement et test d’un outil décisionnel",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=126",
+          "selection_score": 45.4926,
+          "shared_terms": [
+            "test"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Reporting à partir de données stockées dans un SGBD relationnel",
+          "page": 33,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=33",
+          "selection_score": 32.865,
+          "shared_terms": [
+            "stockee"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 19.011,
+      "matched_terms": [
+        "donnees",
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1802",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.08",
+          "title": "Techniques d’intelligence artificielle",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=297",
+          "selection_score": 171.7293,
+          "shared_terms": [
+            "artificielle",
+            "intelligence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.ADMIN.08",
+          "title": "Cryptographie et sécurité",
+          "page": 281,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=281",
+          "selection_score": 40.4991,
+          "shared_terms": [
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.01",
+          "title": "Initiation au management d’une équipe de projet informatique",
+          "page": 150,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=150",
+          "selection_score": 37.5311,
+          "shared_terms": [
+            "informatique",
+            "management"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 99.9301,
+          "shared_terms": [
+            "protection"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Implémentation d’un besoin client",
+          "page": 62,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=62",
+          "selection_score": 27.6705,
+          "shared_terms": [
+            "client"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

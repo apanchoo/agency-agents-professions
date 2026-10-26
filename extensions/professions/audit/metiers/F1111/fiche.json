@@ -1,0 +1,792 @@
+{
+  "numero": 30041,
+  "rome": {
+    "code_rome": "F1111",
+    "intitule": "Ingénieur / Ingénieure génie civil",
+    "code_ogr": 403089
+  },
+  "appellations": [
+    {
+      "libelle": "Ingénieur / Ingénieure d'études génie civil",
+      "libelle_court": "Ingénieur / Ingénieure d'études génie civil",
+      "code_ogr": 490505
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure génie civil bâtiment industriel",
+      "libelle_court": "Ingénieur / Ingénieure génie civil bâtiment industriel",
+      "code_ogr": 403692
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure génie civil en ouvrage d'art",
+      "libelle_court": "Ingénieur / Ingénieure génie civil en ouvrage d'art",
+      "code_ogr": 403693
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure génie civil en ouvrage d'hydraulique",
+      "libelle_court": "Ingénieur / Ingénieure génie civil en ouvrage d'hydraulique",
+      "code_ogr": 403691
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure travaux génie civil",
+      "libelle_court": "Ingénieur / Ingénieure travaux génie civil",
+      "code_ogr": 403694
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure VRD",
+      "libelle_court": "Ingénieur / Ingénieure VRD",
+      "code_ogr": 403695
+    },
+    {
+      "libelle": "Ingénieur de l'industrie et des mines (IIM) / Ingénieure de l'industrie et des mines (IIM)",
+      "libelle_court": "Ingénieur(e) de l'industrie et des mines",
+      "code_ogr": 517992
+    },
+    {
+      "libelle": "Ingénieur des mines / Ingénieure des mines",
+      "libelle_court": "Ingénieur des mines / Ingénieure des mines",
+      "code_ogr": 517991
+    }
+  ],
+  "definition": "Supervise l'élaboration, la construction et la maintenance d'infrastructures. Prend en compte les plans, les dessins et les spécifications techniques des projets. S'assure de la conformité des projets avec les normes en vigueur. Gère la planification, l'estimation des coûts, la coordination des équipes de travail, les ressources, les budgets et les délais. ",
+  "acces_metier": "Cet emploi est accessible avec un diplôme d'une école d'ingénieurs ou un master spécialisé en génie civil.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les équipes projet pour atteindre les objectifs",
+              "code_ogr": 300600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la succession et la synchronisation des entreprises sur le chantier",
+              "code_ogr": 403580,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les effectifs, l'adéquation et l'allocation des ressources",
+              "code_ogr": 300435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier l'intervention optimale des différentes entreprises (construction la plus rapide et la moins onéreuse possible)",
+              "code_ogr": 403313,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assister la maîtrise d'ouvrage",
+              "code_ogr": 400160,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Rédiger un cahier des charges, des spécifications techniques",
+              "code_ogr": 300188,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Coordonner les études avec les autres bureaux d'études techniques",
+              "code_ogr": 403463,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Inventorier les contraintes de construction (réglementaires, techniques, environnementales)",
+              "code_ogr": 125994,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Constituer le dossier des ouvrages exécutés (DOE) nécessaires à leur exploitation",
+              "code_ogr": 403406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir les plans détaillés (coupe, élévation) du projet",
+              "code_ogr": 403407,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer un schéma directeur technique, définir des besoins en équipement",
+              "code_ogr": 300197,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Participer à la conception et réalisation de la modélisation des informations du bâtiment (BIM)",
+              "code_ogr": 403381,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le dossier d'exécution des travaux (procédés techniques, méthodes, plans, etc.)",
+              "code_ogr": 126053,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "S'assurer que les documents d'exécution ainsi que les ouvrages réalisés respectent les dispositions des études effectuées",
+              "code_ogr": 403594,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Concevoir un projet architectural ou d'aménagement",
+              "code_ogr": 300293,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Analyser les tâches élémentaires portant sur les études d'exécution et les travaux",
+              "code_ogr": 403480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le suivi des réserves formulées lors de la réception des travaux jusqu'à leur levée",
+              "code_ogr": 403458,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer le choix et la nature des matériaux ainsi que les conditions de mise en œuvre",
+              "code_ogr": 403462,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer le suivi des travaux (animation des réunions de suivi hebdomadaires, rédaction des comptes rendus, gestion qualité, coût, délai, planification, gestion des aléas, constat contradictoire)",
+              "code_ogr": 403378,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etablir le calendrier prévisionnel d'exécution des travaux par lot ou corps d'état",
+              "code_ogr": 403498,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre les ouvrages en conformité avec les systèmes de protection des usagers",
+              "code_ogr": 403434,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et conduire des travaux, un chantier",
+              "code_ogr": 300238,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser les opérations préalables à la réception des travaux",
+              "code_ogr": 403457,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Réaliser des diagnostics sur l'état de dégradation d'ouvrages anciens et élaborer des recommandations d'entretien ou de mise en conformité",
+              "code_ogr": 403439,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter en permanence les règles de sécurité établies",
+              "code_ogr": 114888,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un bâtiment, d'une infrastructure",
+              "code_ogr": 300257,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la mise en cohérence technique des documents fournis",
+              "code_ogr": 403358,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à l'examen des désordres signalés par le maître de l'ouvrage durant la période de garantie de parfait achèvement",
+              "code_ogr": 403585,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger le rapport d'analyse et proposer le classement en faisant ressortir la solution préconisée",
+              "code_ogr": 403382,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Analyser les offres reçues et les variantes éventuelles",
+              "code_ogr": 403529,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer le délai global de réalisation de l'ouvrage",
+              "code_ogr": 403564,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Estimer la durée des travaux",
+              "code_ogr": 403563,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir un Dossier de Consultation des Entreprises (DCE)",
+              "code_ogr": 122842,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Examiner et coter les offres techniques obtenues dans le cadre d'un appel d'offres",
+              "code_ogr": 403298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lancer et gérer un appel d'offres",
+              "code_ogr": 300314,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Analyser et gérer les risques financiers",
+              "code_ogr": 300334,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir un coût prévisionnel global",
+              "code_ogr": 403392,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier les projets de décomptes mensuels et finaux, établir les états d'acomptes et le décompte général",
+              "code_ogr": 403308,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Analyser les besoins techniques d'un projet",
+              "code_ogr": 403453,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Arrêter le coût prévisionnel des travaux",
+              "code_ogr": 403578,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des solutions techniques ou financières avec un client",
+              "code_ogr": 121657,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des cahiers de charges pour chaque projet",
+              "code_ogr": 403606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dimensionner le projet",
+              "code_ogr": 403605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter et analyser des études de sols pour déterminer les modes opératoires nécessaires au chiffrage",
+              "code_ogr": 400321,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la performance et la rentabilité d'une activité ou d'un projet",
+              "code_ogr": 300311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser et contrôler l'exécution d'études, de documents et de plans de détails confiés aux bureaux d'études",
+              "code_ogr": 103199,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Développer l'esprit d'équipe",
+              "code_ogr": 402123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir une communication claire et professionnelle",
+              "code_ogr": 484953,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Faire appliquer les règles d'hygiène, de sécurité, d'accessibilité et de protection de l'environnement",
+              "code_ogr": 491801,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Structurer, synthétiser des informations",
+              "code_ogr": 300458,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des charpentes",
+              "code_ogr": 119935,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du béton armé",
+              "code_ogr": 103204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriété du bois-énergie",
+              "code_ogr": 120830,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "ROBOT",
+              "code_ogr": 403150,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'école d'ingénieurs avec une spécialisation en génie civil",
+              "code_ogr": 403266,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master en génie civil",
+              "code_ogr": 403221,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention génie civil",
+              "code_ogr": 490882,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école nationale d'ingénieurs de Saint-Etienne de l'école centrale de Lyon spécialité génie civil",
+              "code_ogr": 490880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école polytechnique universitaire de l'université d'Aix-Marseille spécialité génie civil",
+              "code_ogr": 514936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école polytechnique universitaire de l'université de Nantes spécialité génie civil",
+              "code_ogr": 514955,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école polytechnique universitaire de l'institut polytechnique de Grenoble spécialité géotechnique et génie civil (Université Grenoble Alpes)",
+              "code_ogr": 514460,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Menuiserie bois",
+              "code_ogr": 103596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construction de maisons à ossature bois",
+              "code_ogr": 126023,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construction durable (Ecoconstruction)",
+              "code_ogr": 121735,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Domotique",
+              "code_ogr": 103503,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Génie électrique",
+              "code_ogr": 103207,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Building Information Modeling (BIM)",
+              "code_ogr": 125142,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul technique",
+              "code_ogr": 119604,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installation de systèmes hydrauliques",
+              "code_ogr": 104425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Amélioration énergétique des bâtiments",
+              "code_ogr": 103046,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation énergétique des processus électriques",
+              "code_ogr": 119726,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Acoustique, thermique",
+              "code_ogr": 103203,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réalisation des plans de phasage, de plans métrés et de rédaction de cahiers de profils",
+              "code_ogr": 403148,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réhabilitation de l'habitat",
+              "code_ogr": 103212,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Routes, VRD",
+              "code_ogr": 103213,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais niveau avancé B2",
+              "code_ogr": 118471,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Economie de la construction",
+              "code_ogr": 101642,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Energies renouvelables",
+              "code_ogr": 125614,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Génie énergétique",
+              "code_ogr": 119721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Technologie du bâtiment",
+              "code_ogr": 118828,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Autocad",
+              "code_ogr": 116428,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travaux publics, génie civil",
+              "code_ogr": 103208,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Plans d'exécution",
+              "code_ogr": 400901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de l'urbanisme et de la construction",
+              "code_ogr": 101640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de projet",
+              "code_ogr": 120246,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règlements Eurocodes",
+              "code_ogr": 403839,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthode des déboursés",
+              "code_ogr": 121487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de la construction",
+              "code_ogr": 103045,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des calculs aux éléments finis, courants ou complexes",
+              "code_ogr": 403132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Code des marchés publics",
+              "code_ogr": 100129,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de métré",
+              "code_ogr": 103103,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Partenaires Publics et Privés",
+          "code_ogr": 511668
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1112 - Ingénieur / Ingénieure calcul et structure",
+      "code_org_rome_cible": 403090,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1106 - Ingénieur / Ingénieure d'études de prix BTP",
+      "code_org_rome_cible": 147,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1201 - Conducteur / Conductrice de travaux du bâtiment",
+      "code_org_rome_cible": 150,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1205 - Directeur / Directrice de travaux du bâtiment",
+      "code_org_rome_cible": 403076,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1204 - Animateur / Animatrice QSE - Qualité Sécurité Environnement BTP",
+      "code_org_rome_cible": 153,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1402 - Ingénieur / Ingénieure méthodes et process",
+      "code_org_rome_cible": 226,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H1102 - Ingénieur / Ingénieure d'affaires en industrie",
+      "code_org_rome_cible": 211,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1101 - Directeur / Directrice de la gestion technique des bâtiments",
+      "code_org_rome_cible": 304,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H1206 - Ingénieur / Ingénieure R&D en industrie",
+      "code_org_rome_cible": 217,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2402 - Ingénieur / Ingénieure de recherche scientifique",
+      "code_org_rome_cible": 427,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510427,
+    "code_rome": "F1142",
+    "libelle": "Océanographe",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1106"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.649,
+      "matched_terms": [
+        "climat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.REAL.06",
+          "title": "Utilisation avancée des tableurs",
+          "page": 530,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=530",
+          "selection_score": 29.08,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.02",
+          "title": "Suivi économique des travaux",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=199",
+          "selection_score": 25.0692,
+          "shared_terms": [
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.06",
+          "title": "Contrats d’exploitation",
+          "page": 207,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=207",
+          "selection_score": 24.3324,
+          "shared_terms": [
+            "exploitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.REAL.03",
+          "title": "Préparation, chiffrage et planification de la phase d’exécution de travaux à partir d’une maquette numérique préétablie",
+          "page": 515,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=515",
+          "selection_score": 28.2573,
+          "shared_terms": [
+            "partir",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EXPLOIT.01",
+          "title": "Accompagnement d’une entreprise à la mise en place d’un plan de maintenance de ses installations qui soit compatible avec leur exploitation",
+          "page": 194,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=194",
+          "selection_score": 12.9534,
+          "shared_terms": [
+            "exploitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

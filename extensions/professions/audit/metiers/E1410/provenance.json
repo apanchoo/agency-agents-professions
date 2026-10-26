@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510420,
+    "code_rome": "E1410",
+    "libelle": "Responsable programmatique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1402"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.411,
+      "matched_terms": [
+        "publicite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.COMOR.10",
+          "title": "Marketing / Webmarketing",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=143",
+          "selection_score": 62.8364,
+          "shared_terms": [
+            "marketing",
+            "webmarketing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PUB.07",
+          "title": "Publicité internationale / Campagnes spécifiques",
+          "page": 677,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=677",
+          "selection_score": 62.4276,
+          "shared_terms": [
+            "campagne",
+            "publicite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.INFONUM.10",
+          "title": "Référencement",
+          "page": 280,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=280",
+          "selection_score": 58.9282,
+          "shared_terms": [
+            "referencement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.JOU.05",
+          "title": "Documenter un cas réel d’influence ou d’ingérence dans les médias",
+          "page": 353,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=353",
+          "selection_score": 69.314,
+          "shared_terms": [
+            "cas",
+            "media",
+            "reel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.PUB.04",
+          "title": "Concevoir une stratégie de communication publicitaire",
+          "page": 625,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=625",
+          "selection_score": 54.5712,
+          "shared_terms": [
+            "publicitaire",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

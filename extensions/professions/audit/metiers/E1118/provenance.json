@@ -1,0 +1,185 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510053,
+    "code_rome": "E1118",
+    "libelle": "Présentateur / Présentatrice journaliste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1106"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.421,
+      "matched_terms": [
+        "information",
+        "journal"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [
+        "journal"
+      ],
+      "specific_title_terms": [
+        "journal"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.JOU.18",
+          "title": "Techniques d’interview",
+          "page": 342,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=342",
+          "selection_score": 74.6829,
+          "shared_terms": [
+            "interview"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.JOU.14",
+          "title": "Droit de la presse et des médias",
+          "page": 370,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=370",
+          "selection_score": 64.0014,
+          "shared_terms": [
+            "droit",
+            "media",
+            "presse"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.INFONUM.13",
+          "title": "Bases de données documentaires",
+          "page": 241,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=241",
+          "selection_score": 62.0903,
+          "shared_terms": [
+            "documentaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.JOU.03",
+          "title": "Réaliser une enquête sur l’évolution de la figure du journaliste dans la société",
+          "page": 320,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=320",
+          "selection_score": 56.3727,
+          "shared_terms": [
+            "enquete",
+            "journaliste"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.COMOR.01",
+          "title": "Concevoir et organiser un événement",
+          "page": 128,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=128",
+          "selection_score": 51.981,
+          "shared_terms": [
+            "evenement"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.006,
+      "matched_terms": [
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Écriture multimédia et narration",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=116",
+          "selection_score": 59.3634,
+          "shared_terms": [
+            "ecriture",
+            "narration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CREA.02",
+          "title": "Création numérique interactive",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=160",
+          "selection_score": 51.6635,
+          "shared_terms": [
+            "interactive",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Gestion de contenus",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=91",
+          "selection_score": 48.5562,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.02",
+          "title": "Développer une communication sur les médias sociaux",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=191",
+          "selection_score": 70.1096,
+          "shared_terms": [
+            "media",
+            "sociaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Construire sa présence en ligne",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=78",
+          "selection_score": 38.8378,
+          "shared_terms": [
+            "ligne"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

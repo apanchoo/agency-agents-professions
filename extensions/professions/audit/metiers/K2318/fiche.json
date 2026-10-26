@@ -1,0 +1,457 @@
+{
+  "numero": 33273,
+  "rome": {
+    "code_rome": "K2318",
+    "intitule": "Agent / Agente de déchèterie",
+    "code_ogr": 509889
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'accueil et de réception de déchèterie",
+      "libelle_court": "Agent / Agente d'accueil et de réception de déchèterie",
+      "code_ogr": 520997
+    },
+    {
+      "libelle": "Agent / Agente de contrôle des déchets",
+      "libelle_court": "Agent / Agente de contrôle des déchets",
+      "code_ogr": 520999
+    },
+    {
+      "libelle": "Agent / Agente technique de déchèterie",
+      "libelle_court": "Agent / Agente technique de déchèterie",
+      "code_ogr": 520998
+    },
+    {
+      "libelle": "Agent de gestion délégué / Agente de gestion déléguée des déchets",
+      "libelle_court": "Agent / Agente de gestion délégué(e) des déchets",
+      "code_ogr": 521000
+    },
+    {
+      "libelle": "Gardien / Gardienne de déchetterie",
+      "libelle_court": "Gardien / Gardienne de déchetterie",
+      "code_ogr": 15218
+    }
+  ],
+  "definition": "L'agent de déchèterie accueille, oriente les usagers sur les modalités de dépôts des déchets sur le site. Assure la surveillance, la gestion et le fonctionnement de la déchèterie Prépare l'ouverture et la fermeture du site Régule le flux d'entrée et de sortie des usagers du site Contrôle les déchargements Gère le suivi de la rotation des bennes Assure la sécurité du site",
+  "acces_metier": "Ce métier est accessible sans qualification, cependant, un CAP Agent de traitement des déchets et propreté urbaine serait un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Utiliser les outils digitaux (communication, applications, objets connectés)",
+              "code_ogr": 405260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Anticiper le planning de rotation des bennes et autres contenants",
+              "code_ogr": 521014,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Estimer les volumes apportés par les utilisateurs",
+              "code_ogr": 521012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le remplissage des bennes en optimisant leurs volumes afin d'éviter les débordements",
+              "code_ogr": 521013,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller à la bonne affectation des déchets et corriger les erreurs éventuelles",
+              "code_ogr": 511279,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'état général du site",
+              "code_ogr": 521009,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les ouvertures et les fermetures du site",
+              "code_ogr": 521010,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir l'état de propreté du site",
+              "code_ogr": 521005,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier la qualité et la propreté d'équipements ou de matériels",
+              "code_ogr": 124976,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler l'accès des usagers sur le site",
+              "code_ogr": 521011,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Garantir la qualité du tri pour éviter tout refus par les repreneurs",
+              "code_ogr": 521006,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les dépôts pouvant être destinés au réemploi",
+              "code_ogr": 511280,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser le remplissage et la rotation des bennes",
+              "code_ogr": 521007,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller la qualité du tri des déchets",
+              "code_ogr": 511278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Réceptionner, suivre les quantités et contrôler les déchets issus des végétaux et des collectes bio-déchets",
+              "code_ogr": 511290,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Coordonner les évacuations avec les différents prestataires",
+              "code_ogr": 521004,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer des rapports quotidiens d'activité",
+              "code_ogr": 485565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remplir l'ensemble des documents liés à l'activité et aux suivis des déchets",
+              "code_ogr": 521015,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Réceptionner les prestataires lors de l'enlèvement des bennes",
+              "code_ogr": 511289,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Promouvoir les initiatives de recyclage auprès des usagers",
+              "code_ogr": 503959,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier et orienter les déchets selon leur traitement ou leur valorisation futurs",
+              "code_ogr": 400528,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Sensibiliser un public",
+              "code_ogr": 300028,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les incidents et appliquer le règlement intérieur",
+              "code_ogr": 505423,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remonter l'ensemble des documents et informations relatives à l'activité et au fonctionnement de la déchèterie",
+              "code_ogr": 521016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Signaler tout incident, accident et anomalie à sa hiérarchie selon les procédures en vigueur",
+              "code_ogr": 521017,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de machines de compactage",
+              "code_ogr": 499207,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Identification des matières",
+              "code_ogr": 521002,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité liées aux déchets dangereux",
+              "code_ogr": 521001,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stockage et traçabilité des matières dangereuses",
+              "code_ogr": 521003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Typologie des risques environnementaux et sanitaires",
+              "code_ogr": 100119,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets dangereux",
+              "code_ogr": 476890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'évacuation des déchets",
+              "code_ogr": 106413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de stockage des déchets",
+              "code_ogr": 117478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Critères de tri sélectif",
+              "code_ogr": 108735,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des normes en vigueur",
+              "code_ogr": 497639,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de gestion administrative",
+              "code_ogr": 498131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2323 - Responsable propreté urbaine",
+      "code_org_rome_cible": 509682,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K2302 - Responsable de collecte de déchets",
+      "code_org_rome_cible": 421,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2311 - Responsable de site de traitement des déchets",
+      "code_org_rome_cible": 509354,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4118 - Conducteur / Conductrice de matériel de collecte",
+      "code_org_rome_cible": 488857,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1119 - Responsable de centre de démontage recyclage des Véhicules Hors d'Usage - VHU",
+      "code_org_rome_cible": 510469,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1113 - Chef / Cheffe d'équipe atelier en démontage recyclage de VHU (Véhicules hors d'usage)",
+      "code_org_rome_cible": 510409,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2309 - Technicien / Technicienne réutilisation recyclage",
+      "code_org_rome_cible": 489069,
+      "ordre_mobilite": 7
+    }
+  ]
+}

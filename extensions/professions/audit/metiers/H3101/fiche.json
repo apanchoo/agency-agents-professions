@@ -1,0 +1,551 @@
+{
+  "numero": 396,
+  "rome": {
+    "code_rome": "H3101",
+    "intitule": "Conducteur / Conductrice de machines à papier ou carton",
+    "code_ogr": 292
+  },
+  "appellations": [
+    {
+      "libelle": "Conducteur / Conductrice de machines à onduler",
+      "libelle_court": "Conducteur / Conductrice de machines à onduler",
+      "code_ogr": 13013
+    },
+    {
+      "libelle": "Conducteur / Conductrice de machines de fabrication de papier carton",
+      "libelle_court": "Conducteur(trice) machines de fabrication de papier carton",
+      "code_ogr": 13026
+    },
+    {
+      "libelle": "Conducteur / Conductrice de machines de transformation du papier carton",
+      "libelle_court": "Conducteur(trice) machines transformation du papier carton",
+      "code_ogr": 13042
+    }
+  ],
+  "definition": "Le Conducteur de machines à papier ou carton gère les phases de production de feuilles de papier ou de carton sur des machines automatisées selon les règles de sécurité, les normes environnementales et les impératifs de production. Règle la mise en marche, la maintenance et l'arrêt des machines Surveille le processus de production pour s'assurer que le produit fini répond aux normes de qualité Contrôle la conformité du papier ou du carton obtenu d'après la pâte à papier et applique les mesures correctives Documente les opérations réalisées et les résultats de production dans des rapports détaillés",
+  "acces_metier": "Ce métier est accessible avec un niveau CAP à Bac + 2 Conduite et Pilotage de systèmes automatisés, industrie des procédés. Un Certificat d'Aptitude à la Conduite En Sécurité -CACES- est fortement souhaité.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Coordonner des interventions de personnels sur des machines",
+              "code_ogr": 122262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Concevoir, améliorer un équipement, une machine, une installation",
+              "code_ogr": 300191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer des processus et des modes opératoires techniques",
+              "code_ogr": 300146,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Approvisionner une machine en matière première ou en produit",
+              "code_ogr": 300208,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Configurer et paramétrer une installation, une machine",
+              "code_ogr": 300139,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Démarrer ou arrêter une machine, une ligne",
+              "code_ogr": 300155,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fabriquer, façonner des produits",
+              "code_ogr": 300232,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Monter et régler une installation, une machine",
+              "code_ogr": 300135,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser ou surveiller le séchage lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter et régler des équipements de fabrication de pâte et papier",
+              "code_ogr": 400885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler le fonctionnement d'un dispositif de sécurité",
+              "code_ogr": 104016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer des mesures correctives",
+              "code_ogr": 300242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser ou surveiller l'enroulage lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser ou surveiller l'égouttage lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106294,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser ou surveiller le couchage lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106293,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser ou surveiller le lissage lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106297,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité des process",
+              "code_ogr": 300250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les anomalies ou les dysfonctionnements d'une production",
+              "code_ogr": 120790,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter une démarche qualité, un processus d'amélioration continue",
+              "code_ogr": 300245,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des rapports de production et d'incidents",
+              "code_ogr": 121378,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Réduire les coûts, les consommations, les rejets",
+              "code_ogr": 300310,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Définir un dispositif de suivi de production",
+              "code_ogr": 122607,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la gestion de la production, de l'exploitation",
+              "code_ogr": 300175,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des pâtes à papier recyclé",
+              "code_ogr": 106302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des colles",
+              "code_ogr": 103612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de production",
+              "code_ogr": 476804,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des pâtes à papier thermomécanique",
+              "code_ogr": 106303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des pâtes à papier",
+              "code_ogr": 106300,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro pilote de ligne de production",
+              "code_ogr": 491040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitations électriques de travaux hors tension",
+              "code_ogr": 124200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transpalettes à conducteur porté et préparateurs de commandes au sol (CACES R 389-1)",
+              "code_ogr": 123696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DSP pilote de lignes de production automatisées",
+              "code_ogr": 522029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots à mât rétractable (CACES R 489-5) - Depuis le 01/01/2020",
+              "code_ogr": 200074,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ponts roulants (CACES R 318)",
+              "code_ogr": 121308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitations électriques de travaux sous tension",
+              "code_ogr": 124201,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Chimie et physique du papier/carton",
+              "code_ogr": 106290,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installation de systèmes hydrauliques",
+              "code_ogr": 104425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Automatisme",
+              "code_ogr": 104415,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de fabrication du papier",
+              "code_ogr": 106291,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des stocks de matières premières",
+              "code_ogr": 476801,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pressage",
+              "code_ogr": 105545,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des délais de production",
+              "code_ogr": 476878,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'enduction",
+              "code_ogr": 124409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de calandrage",
+              "code_ogr": 125122,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des arrêts techniques",
+              "code_ogr": 496542,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En ligne ou ilot de production",
+          "code_ogr": 23382
+        },
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        },
+        {
+          "libelle": "Travail posté (2x8, 3x8, 5x8, etc.)",
+          "code_ogr": 126450
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        },
+        {
+          "libelle": "Industries chimiques",
+          "code_ogr": 490159
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "89",
+      "libelle": "Industrie - Papier et imprimerie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H3106 - Conducteur / Conductrice de ligne en industrie papetière",
+      "code_org_rome_cible": 518719,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H3102 - Conducteur / Conductrice d'installation de pâte à papier",
+      "code_org_rome_cible": 293,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H3202 - Monteur régleur / Monteuse régleuse en plasturgie",
+      "code_org_rome_cible": 295,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4116 - Conducteur / Conductrice de transport routier de marchandises dangereuses",
+      "code_org_rome_cible": 488777,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4122 - Convoyeur / Convoyeuse de véhicules ou matériels lourds",
+      "code_org_rome_cible": 488884,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1302 - Conducteur / Conductrice d'engins de chantier",
+      "code_org_rome_cible": 155,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2203 - Conducteur / Conductrice de machines de fabrication de panneaux à base de bois",
+      "code_org_rome_cible": 239,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "E1302 - Conducteur / Conductrice de machines de façonnage routage",
+      "code_org_rome_cible": 133,
+      "ordre_mobilite": 10
+    }
+  ]
+}

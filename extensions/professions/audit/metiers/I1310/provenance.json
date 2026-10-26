@@ -1,0 +1,197 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 319,
+    "code_rome": "I1310",
+    "libelle": "Mécanicien / Mécanicienne de maintenance industrielle",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "I1310"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 114.283,
+      "matched_terms": [
+        "equipement",
+        "industri",
+        "maintenance",
+        "mecanique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1310",
+      "title_terms": [
+        "industri",
+        "maintenance"
+      ],
+      "specific_title_terms": [
+        "maintenance industri"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.3MI.05",
+          "title": "Maintenance prévisionnelle 6",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=162",
+          "selection_score": 65.7829,
+          "shared_terms": [
+            "maintenance",
+            "previsionnelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 61.8728,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 61.1086,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Identifier et réaliser les opérations élémentaires de maintenance",
+          "page": 59,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=59",
+          "selection_score": 60.6651,
+          "shared_terms": [
+            "identifier",
+            "maintenance",
+            "operation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Préparer l’installation d’un équipement",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=36",
+          "selection_score": 45.5666,
+          "shared_terms": [
+            "equipement",
+            "installation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.889,
+      "matched_terms": [
+        "controle",
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1310",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Mécanique vibratoire et acoustique",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=140",
+          "selection_score": 61.5544,
+          "shared_terms": [
+            "mecanique",
+            "vibratoire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.05",
+          "title": "Chaîne de mesure, de régulation et de contrôle",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=139",
+          "selection_score": 54.0048,
+          "shared_terms": [
+            "controle",
+            "mesure",
+            "regulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Informatique d’instrumentation",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=94",
+          "selection_score": 51.8119,
+          "shared_terms": [
+            "informatique",
+            "instrumentation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Mettre en œuvre les techniques de l’informatique d’instrumentation pour le suivi de mesures",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=75",
+          "selection_score": 47.942,
+          "shared_terms": [
+            "informatique",
+            "instrumentation",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.TI.01",
+          "title": "Mettre en œuvre une chaîne d’instrumentation simple associant mesure, régulation et pilotage",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=126",
+          "selection_score": 42.7618,
+          "shared_terms": [
+            "instrumentation",
+            "mesure",
+            "regulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

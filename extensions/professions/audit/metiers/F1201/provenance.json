@@ -1,0 +1,202 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 150,
+    "code_rome": "F1201",
+    "libelle": "Conducteur / Conductrice de travaux du bâtiment",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1201"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 99.352,
+      "matched_terms": [
+        "batiment",
+        "construction"
+      ],
+      "direct_rome_pages": [
+        12
+      ],
+      "parent_rome": "F1201",
+      "title_terms": [
+        "batiment"
+      ],
+      "specific_title_terms": [
+        "batiment"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intervenants et Ouvrages dans leur environnement",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=79",
+          "selection_score": 80.53,
+          "shared_terms": [
+            "intervenant",
+            "ouvrage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.15",
+          "title": "Marchés de travaux",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=179",
+          "selection_score": 64.4219,
+          "shared_terms": [
+            "marche",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 60.2103,
+          "shared_terms": [
+            "dessin",
+            "plans"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.RAPEB.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) et phasage lors d’un chantier de réhabilitation",
+          "page": 300,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=300",
+          "selection_score": 110.1569,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "etablissement",
+            "materiel",
+            "plan",
+            "rehabilitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BAT.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine du bâtiment",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=145",
+          "selection_score": 108.1504,
+          "shared_terms": [
+            "batiment",
+            "budget",
+            "chantier",
+            "etablissement",
+            "materiel",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.013,
+      "matched_terms": [
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.06",
+          "title": "Cadre juridique des activités de l’administration et droit de la responsabilité",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=82",
+          "selection_score": 60.5708,
+          "shared_terms": [
+            "administration",
+            "droit",
+            "responsabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.03",
+          "title": "Droit de la santé et de la sécurité au travail",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=78",
+          "selection_score": 58.8042,
+          "shared_terms": [
+            "droit",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.09",
+          "title": "Analyse et maîtrise des impacts environnementaux",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=85",
+          "selection_score": 37.8042,
+          "shared_terms": [
+            "maitrise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Maîtriser les risques pour les populations et les installations dans un établissement recevant du public (ERP)",
+          "page": 26,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=26",
+          "selection_score": 60.863,
+          "shared_terms": [
+            "etablissement",
+            "public",
+            "recevant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 51.1123,
+          "shared_terms": [
+            "audit",
+            "realisation",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

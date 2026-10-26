@@ -1,0 +1,250 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510317,
+    "code_rome": "M1884",
+    "libelle": "Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1810"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 130.799,
+      "matched_terms": [
+        "cyber",
+        "informatique",
+        "reseau",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [
+        "informatique",
+        "reseau",
+        "systeme"
+      ],
+      "specific_title_terms": [
+        "reseau"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.12",
+          "title": "Normes, standards et analyse de risques",
+          "page": 180,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=180",
+          "selection_score": 174.6726,
+          "shared_terms": [
+            "norme",
+            "risque",
+            "standard"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CYBER.04",
+          "title": "Réponse à incident",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=190",
+          "selection_score": 96.3778,
+          "shared_terms": [
+            "incident"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.10",
+          "title": "Audits de sécurité",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=178",
+          "selection_score": 95.4931,
+          "shared_terms": [
+            "audit",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CYBER.03",
+          "title": "Concevoir un réseau informatique sécurisé multi-sites",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=119",
+          "selection_score": 64.3185,
+          "shared_terms": [
+            "informatique",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Mettre en place une solution informatique pour l’entreprise",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=95",
+          "selection_score": 61.3497,
+          "shared_terms": [
+            "informatique",
+            "place",
+            "solution"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 94.666,
+      "matched_terms": [
+        "donnees",
+        "systemes, reseaux et securite informatique l'ingenieur systemes, reseaux et securite informatique assure la protection et l'efficacite des infrastructures it (technologie de l'information). concoit et deploie des architectures reseaux et systemes d'information administre et optimise les performances des systemes et reseaux assure la securite des systemes d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [
+        "informati"
+      ],
+      "specific_title_terms": [
+        "informatique"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.06",
+          "title": "Installation & Configuration de services complexes",
+          "page": 227,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=227",
+          "selection_score": 107.8118,
+          "shared_terms": [
+            "configuration",
+            "installation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DEPLOI.09",
+          "title": "Cybersecurité",
+          "page": 230,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=230",
+          "selection_score": 105.8458,
+          "shared_terms": [
+            "cybersecurite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.12",
+          "title": "Sécurité système et réseaux",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=216",
+          "selection_score": 78.2391,
+          "shared_terms": [
+            "reseaux",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DEPLOI.01",
+          "title": "Évolution d’une infrastructure",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=219",
+          "selection_score": 130.6834,
+          "shared_terms": [
+            "evolution",
+            "infrastructure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Installation de services réseau",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=86",
+          "selection_score": 48.0801,
+          "shared_terms": [
+            "installation",
+            "reseau"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.399,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1810",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Technologies web",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=84",
+          "selection_score": 25.3731,
+          "shared_terms": [
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.03",
+          "title": "Mise en oeuvre d’un processus de Datamining",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=115",
+          "selection_score": 20.4338,
+          "shared_terms": [
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.VCOD.01",
+          "title": "Développement d’un composant d’une solution décisionnelle",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=96",
+          "selection_score": 20.0255,
+          "shared_terms": [
+            "solution"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

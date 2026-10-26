@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488711,
+    "code_rome": "H2104",
+    "libelle": "Fromager industriel / Fromagère industrielle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2102"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.709,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2102",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.06",
+          "title": "Qualité et hygiène en industrie alimentaire",
+          "page": 545,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=545",
+          "selection_score": 56.7948,
+          "shared_terms": [
+            "alimentaire",
+            "industrie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SAB.06",
+          "title": "Qualité et Sécurité sanitaire des aliments et des produits biotechnologiques",
+          "page": 562,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=562",
+          "selection_score": 49.5259,
+          "shared_terms": [
+            "produit",
+            "sanitaire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.DN.10",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 401,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=401",
+          "selection_score": 42.1073,
+          "shared_terms": [
+            "alimentaire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SAB.04",
+          "title": "Présenter un équipement de production alimentaire ou de bioproduits",
+          "page": 490,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=490",
+          "selection_score": 51.1122,
+          "shared_terms": [
+            "alimentaire",
+            "equipement",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.DN.03",
+          "title": "Préparation d’une enquête alimentaire",
+          "page": 334,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=334",
+          "selection_score": 43.1991,
+          "shared_terms": [
+            "alimentaire",
+            "preparation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515430,
+    "code_rome": "H2712",
+    "libelle": "Technicien / Technicienne d'exploitation en centrale hydroélectrique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2701"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.437,
+      "matched_terms": [
+        "renouvelable"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 76.7691,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.05",
+          "title": "Technologies et exploitation des centrales de production d’énergie",
+          "page": 205,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=205",
+          "selection_score": 76.2516,
+          "shared_terms": [
+            "centrale",
+            "energie",
+            "exploitation",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MANÉ.03",
+          "title": "Amélioration de la performance énergétique",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=315",
+          "selection_score": 63.7811,
+          "shared_terms": [
+            "amelioration",
+            "energetique",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 56.9165,
+          "shared_terms": [
+            "energetique",
+            "environnementale",
+            "installation",
+            "optimisation",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EXPLOIT.03",
+          "title": "Préparation à l’habilitation électrique sur des installations",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=129",
+          "selection_score": 37.0377,
+          "shared_terms": [
+            "electrique",
+            "installation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

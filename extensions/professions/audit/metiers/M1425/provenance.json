@@ -1,0 +1,101 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509903,
+    "code_rome": "M1425",
+    "libelle": "Agent recenseur / Agente recenseuse",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1401"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.438,
+      "matched_terms": [
+        "donnee",
+        "statisti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.EMS.05",
+          "title": "Apprentissage statistique pour l’IA",
+          "page": 194,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=194",
+          "selection_score": 31.9607,
+          "shared_terms": [
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.EMS.10",
+          "title": "Techniques de sondage et méthodologie d’enquête",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=151",
+          "selection_score": 29.6526,
+          "shared_terms": [
+            "enquete"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Programmation statistique",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=64",
+          "selection_score": 23.1375,
+          "shared_terms": [
+            "statistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.VCOD.01",
+          "title": "Collecte automatisée de données web",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=76",
+          "selection_score": 36.274,
+          "shared_terms": [
+            "collecte"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Ecriture et lecture de fichiers de données",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=34",
+          "selection_score": 36.1575,
+          "shared_terms": [
+            "lecture"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

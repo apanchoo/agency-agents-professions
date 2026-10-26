@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510016,
+    "code_rome": "E1211",
+    "libelle": "Dessinateur-illustrateur / Dessinatrice-illustratrice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1205"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.217,
+      "matched_terms": [
+        "communication",
+        "graph",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.05",
+          "title": "Définir une direction artistique",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=152",
+          "selection_score": 94.8781,
+          "shared_terms": [
+            "artistique",
+            "definir",
+            "direction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Production graphique",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=88",
+          "selection_score": 49.7117,
+          "shared_terms": [
+            "graphique",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.06",
+          "title": "Création numérique",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=153",
+          "selection_score": 41.1187,
+          "shared_terms": [
+            "creation",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Produire les éléments d’une communication visuelle",
+          "page": 49,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=49",
+          "selection_score": 59.275,
+          "shared_terms": [
+            "element",
+            "visuelle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 43.4478,
+          "shared_terms": [
+            "support",
+            "web"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

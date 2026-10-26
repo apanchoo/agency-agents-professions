@@ -1,0 +1,543 @@
+{
+  "numero": 30054,
+  "rome": {
+    "code_rome": "A1421",
+    "intitule": "Palefrenier soigneur / Palefrenière soigneuse",
+    "code_ogr": 403957
+  },
+  "appellations": [
+    {
+      "libelle": "Adjudant / Adjudante des haras",
+      "libelle_court": "Adjudant / Adjudante des haras",
+      "code_ogr": 510753
+    },
+    {
+      "libelle": "Chef palefrenier / Cheffe palefrenière",
+      "libelle_court": "Chef palefrenier / Cheffe palefrenière",
+      "code_ogr": 510752
+    },
+    {
+      "libelle": "Palefrenier / Palefrenière",
+      "libelle_court": "Palefrenier / Palefrenière",
+      "code_ogr": 17546
+    }
+  ],
+  "definition": "Assure les soins quotidiens aux chevaux et maintient une vigilance sur leur état de santé. Entretient au quotidien les boxes, les paddocks et les pistes de travail. Peut également gérer le transport des chevaux.",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau 3, comme les CAP Agricoles \"Palefrenier soigneur\" ou \"Métiers de l'agriculture\". Il est possible de devenir palefrenier-soigneur sans qualification particulière, auquel cas les activités de soins ne peuvent être réalisées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Administrer des produits vétérinaires",
+              "code_ogr": 119894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le suivi médical des équidés et adapter le protocole de soins",
+              "code_ogr": 404002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer les soins courants des équidés",
+              "code_ogr": 404003,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaître et évaluer les conditions d'accueil et l'environnement des animaux",
+              "code_ogr": 300595,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dispenser les soins préventifs ou curatifs aux animaux",
+              "code_ogr": 100256,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'alimentation quotidienne des animaux",
+              "code_ogr": 404009,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prodiguer des soins sur les animaux",
+              "code_ogr": 300064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer l'animal pour des soins médicaux",
+              "code_ogr": 404017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le matériel et apporter une aide technique au vétérinaire, à l'éleveur, ...",
+              "code_ogr": 100410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sortir l'animal dans un espace extérieur",
+              "code_ogr": 404021,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Identifier un animal malade et informer les acteurs concernés (propriétaire, vétérinaire, ...)",
+              "code_ogr": 123087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer un traitement, un produit",
+              "code_ogr": 300214,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un élevage animal",
+              "code_ogr": 300296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtriser les caractéristiques d'un produit ou d'un matériau",
+              "code_ogr": 300207,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le matériel, les produits selon les indications du praticien et la nature de l'intervention",
+              "code_ogr": 115009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Regrouper des animaux",
+              "code_ogr": 123075,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répartir les animaux dans des locaux d'élevage ou en plein air",
+              "code_ogr": 100300,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir les éléments de structure d'un bâtiment (clôtures, zones de stockage, ...)",
+              "code_ogr": 125255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler un engin mécanique ou thermique dédié à l'entretien des boxes et des litières",
+              "code_ogr": 513509,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler l'état de fonctionnement d'un appareil",
+              "code_ogr": 123814,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de nourriture et distribuer les aliments",
+              "code_ogr": 100295,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ranger du matériel",
+              "code_ogr": 126444,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stocker un produit",
+              "code_ogr": 117548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier, ranger des produits, des matières premières",
+              "code_ogr": 300262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité et le bien-être des animaux lors du transport",
+              "code_ogr": 404022,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Conduire un véhicule agricole",
+              "code_ogr": 404006,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer les animaux, les mettre en sécurité en cas d'accident, d'incendie et guider les secours",
+              "code_ogr": 404023,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repérer la présence de nuisibles et constater la nature et l'étendue des dégâts",
+              "code_ogr": 123028,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation d'urgence",
+              "code_ogr": 300481,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Fonctionnement des engins agricoles",
+              "code_ogr": 100003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de tonte animale",
+              "code_ogr": 122408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits animaliers",
+              "code_ogr": 100449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de contention animale",
+              "code_ogr": 119112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicules agricoles, forestiers",
+              "code_ogr": 107058,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP agricole métiers de l'agriculture",
+              "code_ogr": 403970,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agricole palefrenier soigneur",
+              "code_ogr": 403974,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de transport d'animaux vivants",
+              "code_ogr": 100263,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de contention animale",
+              "code_ogr": 100302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques physiques, physiologiques et comportementales de l'équidé",
+              "code_ogr": 403966,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes sanitaires",
+              "code_ogr": 478822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédure d'entretien de matériel",
+              "code_ogr": 116658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de sécurité",
+              "code_ogr": 100144,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de transport d'animaux",
+              "code_ogr": 100303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'accueil des animaux",
+              "code_ogr": 100455,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement allergène",
+          "code_ogr": 300781
+        },
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires fractionnés",
+          "code_ogr": 400005
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1407 - Eleveur / Eleveuse de bovins",
+      "code_org_rome_cible": 21,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "I1203 - Agent / Agente d'entretien du bâtiment",
+      "code_org_rome_cible": 309,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1502 - Maréchal-ferrant / Maréchale-ferrante",
+      "code_org_rome_cible": 33,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1705 - Secouriste",
+      "code_org_rome_cible": 395,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "B1802 - Maroquinier / Maroquinière",
+      "code_org_rome_cible": 50,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "G1210 - Enseignant / Enseignante d'équitation",
+      "code_org_rome_cible": 403958,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1701 - Combattant / Combattante en milieu terrestre",
+      "code_org_rome_cible": 391,
+      "ordre_mobilite": 10
+    }
+  ]
+}

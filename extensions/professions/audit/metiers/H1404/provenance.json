@@ -1,0 +1,259 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 228,
+    "code_rome": "H1404",
+    "libelle": "Technicien / Technicienne méthodes",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1404"
+  },
+  "but": [
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 34.987,
+      "matched_terms": [
+        "fabrication",
+        "methodes",
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1404",
+      "title_terms": [
+        "methodes"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Production - Méthodes",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=175",
+          "selection_score": 27.4155,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Science des matériaux",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=94",
+          "selection_score": 18.2249,
+          "shared_terms": [
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SNRV.02",
+          "title": "Confronter virtuel / réel pour optimiser le couple produit / process via un jumeau numérique",
+          "page": 169,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=169",
+          "selection_score": 53.8233,
+          "shared_terms": [
+            "numerique",
+            "optimiser",
+            "proces",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Modification d’un système mécanique",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=68",
+          "selection_score": 52.3669,
+          "shared_terms": [
+            "modification"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.309,
+      "matched_terms": [
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 64.5541,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 49.5966,
+          "shared_terms": [
+            "conformite",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Organisation d’un poste et d’un atelier",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=98",
+          "selection_score": 45.4244,
+          "shared_terms": [
+            "poste"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 94.929,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Audit d’un poste de travail",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=80",
+          "selection_score": 43.1382,
+          "shared_terms": [
+            "poste"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.077,
+      "matched_terms": [
+        "procede",
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Conception des procédés 2 : schéma de procédés",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=129",
+          "selection_score": 76.3818,
+          "shared_terms": [
+            "conception",
+            "procede",
+            "schema"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CPIT.03",
+          "title": "Industrialisation des procédés",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=164",
+          "selection_score": 55.4112,
+          "shared_terms": [
+            "industrialisation",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Conception des procédés 3 : Design et plans d’installations complexes",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=163",
+          "selection_score": 43.0571,
+          "shared_terms": [
+            "conception",
+            "plans",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 51.9822,
+          "shared_terms": [
+            "impact",
+            "operatoire",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CPIT.01",
+          "title": "Conception, optimisation et conduite d’un procédé.",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=141",
+          "selection_score": 48.2387,
+          "shared_terms": [
+            "conception",
+            "optimisation",
+            "procede"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

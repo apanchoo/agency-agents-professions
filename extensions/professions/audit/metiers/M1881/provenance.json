@@ -1,0 +1,185 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510260,
+    "code_rome": "M1881",
+    "libelle": "Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1806"
+  },
+  "but": [
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.731,
+      "matched_terms": [
+        "informatique",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systeme"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CYBER.10",
+          "title": "Audits de sécurité",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=178",
+          "selection_score": 51.7933,
+          "shared_terms": [
+            "audit",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Ingénierie de systèmes télécoms",
+          "page": 168,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=168",
+          "selection_score": 41.356,
+          "shared_terms": [
+            "telecom"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Physique des télécoms",
+          "page": 148,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=148",
+          "selection_score": 40.9259,
+          "shared_terms": [
+            "telecom"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PILPRO.01",
+          "title": "Piloter des solutions de sécurité pour les besoins du réseau informatique d’un client",
+          "page": 373,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=373",
+          "selection_score": 56.6502,
+          "shared_terms": [
+            "informatique",
+            "piloter",
+            "securite",
+            "solution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Piloter un projet informatique",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=162",
+          "selection_score": 53.8842,
+          "shared_terms": [
+            "informatique",
+            "piloter"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.953,
+      "matched_terms": [
+        "informati",
+        "systemes d'information (moa) le chef de projet maitrise d'ouvrage des systemes d'information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1806",
+      "title_terms": [
+        "systemes d'information"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Développement d’interfaces web",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "selection_score": 42.5436,
+          "shared_terms": [
+            "interface"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.05",
+          "title": "Optimisation des services complexes",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=244",
+          "selection_score": 40.4684,
+          "shared_terms": [
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DEPLOI.12",
+          "title": "Sécurité système et réseaux",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=216",
+          "selection_score": 38.9015,
+          "shared_terms": [
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.DEPLOI.01",
+          "title": "Optimisation des services",
+          "page": 236,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=236",
+          "selection_score": 56.264,
+          "shared_terms": [
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.INTEG.01",
+          "title": "Création d’outils pour l’aide à la décision",
+          "page": 371,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=371",
+          "selection_score": 9.3939,
+          "shared_terms": [
+            "decision"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

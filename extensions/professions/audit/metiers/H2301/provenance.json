@@ -1,0 +1,191 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 246,
+    "code_rome": "H2301",
+    "libelle": "Conducteur / Conductrice de ligne en industrie chimique",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2301"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.605,
+      "matched_terms": [
+        "chimi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2301",
+      "title_terms": [
+        "chimi"
+      ],
+      "specific_title_terms": [
+        "chimi"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MPF.01",
+          "title": "Génie des mélanges",
+          "page": 312,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=312",
+          "selection_score": 84.1379,
+          "shared_terms": [
+            "genie",
+            "melange"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.IND.01",
+          "title": "Etude de cas industriels",
+          "page": 410,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=410",
+          "selection_score": 72.8479,
+          "shared_terms": [
+            "cas",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.14",
+          "title": "Risques chimiques et BPL - BPF",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=82",
+          "selection_score": 69.9434,
+          "shared_terms": [
+            "bpf",
+            "chimique",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ANA.01",
+          "title": "Optimiser une méthode d’analyse",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=140",
+          "selection_score": 58.4526,
+          "shared_terms": [
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle *",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=117",
+          "selection_score": 43.581,
+          "shared_terms": [
+            "laboratoire",
+            "mise",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 29.723,
+      "matched_terms": [
+        "chimi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2301",
+      "title_terms": [
+        "chimi"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Travaux Pratiques Génie des Procédés",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=79",
+          "selection_score": 46.0252,
+          "shared_terms": [
+            "genie",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPOP.08",
+          "title": "Régulation",
+          "page": 281,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=281",
+          "selection_score": 45.9531,
+          "shared_terms": [
+            "regulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPOP.09",
+          "title": "TP Régulation",
+          "page": 282,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=282",
+          "selection_score": 45.8763,
+          "shared_terms": [
+            "regulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 53.0097,
+          "shared_terms": [
+            "optimisation",
+            "parametre",
+            "regulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 2).",
+          "page": 269,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=269",
+          "selection_score": 53.0097,
+          "shared_terms": [
+            "optimisation",
+            "parametre",
+            "regulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

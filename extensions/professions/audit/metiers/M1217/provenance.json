@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510284,
+    "code_rome": "M1217",
+    "libelle": "Intendant / Intendante d'établissement scolaire (lycée, collège...)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1203"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 18.537,
+      "matched_terms": [
+        "administrat",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.11",
+          "title": "Ressources humaines : Gestion administrative individuelle des contrats",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=350",
+          "selection_score": 69.9067,
+          "shared_terms": [
+            "administrative",
+            "contrat",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 52.8121,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Comptabilité",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=92",
+          "selection_score": 40.5124,
+          "shared_terms": [
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 36.183,
+          "shared_terms": [
+            "administratif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GEMA.02",
+          "title": "Piloter l’e-reputation d’une organisation",
+          "page": 320,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=320",
+          "selection_score": 29.5417,
+          "shared_terms": [
+            "piloter"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

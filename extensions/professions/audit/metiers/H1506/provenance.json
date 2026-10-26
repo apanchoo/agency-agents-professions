@@ -1,0 +1,273 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 234,
+    "code_rome": "H1506",
+    "libelle": "Contrôleur / Contrôleuse technique en métallurgie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1506"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.371,
+      "matched_terms": [
+        "metallur"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1506",
+      "title_terms": [
+        "metallur"
+      ],
+      "specific_title_terms": [
+        "metallur"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Structure de la matière 1",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=60",
+          "selection_score": 60.9043,
+          "shared_terms": [
+            "matiere",
+            "structure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Structure de la matière 2",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=88",
+          "selection_score": 60.5131,
+          "shared_terms": [
+            "matiere",
+            "structure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.09",
+          "title": "Résistance des matériaux",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=86",
+          "selection_score": 58.85,
+          "shared_terms": [
+            "materiaux",
+            "resistance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Adaptation du matériau pour un cahier des charges produit",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=127",
+          "selection_score": 63.5802,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Incidence d’un procédé de fabrication sur la qualité d’un produit",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=73",
+          "selection_score": 60.1007,
+          "shared_terms": [
+            "fabrication",
+            "procede",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.418,
+      "matched_terms": [
+        "controle"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1506",
+      "title_terms": [
+        "controle"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Electromagnétisme",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=120",
+          "selection_score": 67.6839,
+          "shared_terms": [
+            "electromagnetisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.11",
+          "title": "Matériaux et résistance des matériaux",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=122",
+          "selection_score": 59.0652,
+          "shared_terms": [
+            "materiaux",
+            "resistance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 49.8068,
+          "shared_terms": [
+            "controle",
+            "industriel",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Dessiner et concevoir un élément nécessaire à une campagne de mesure à l’aide d’un logiciel spécifique (DAO/CAO)",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=46",
+          "selection_score": 77.0808,
+          "shared_terms": [
+            "cao",
+            "dao",
+            "logiciel",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.02",
+          "title": "Concrétiser un projet en mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 208,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=208",
+          "selection_score": 55.204,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "materiaux",
+            "mesure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.536,
+      "matched_terms": [
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1506",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 88.9923,
+          "shared_terms": [
+            "conformite",
+            "mesure",
+            "surveillance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Connaissance technologique de l’entreprise",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=89",
+          "selection_score": 51.6447,
+          "shared_terms": [
+            "technologique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Bases du contrôle de gestion industriel",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=137",
+          "selection_score": 46.3605,
+          "shared_terms": [
+            "controle",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Organisation d’une situation de production",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=58",
+          "selection_score": 24.2545,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Evolution de l’organisation d’un système de production",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=82",
+          "selection_score": 17.6112,
+          "shared_terms": [
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

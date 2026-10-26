@@ -1,0 +1,269 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510271,
+    "code_rome": "H1531",
+    "libelle": "Opérateur / Opératrice de laboratoire d'analyse industrielle",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1503"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 33.039,
+      "matched_terms": [
+        "analyse industrielle l'operateur de laboratoire d'analyse industrielle realise des prelevements pour analyser des echantillons physico-chimiques, des materiau",
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [
+        "laboratoire"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 71.3352,
+          "shared_terms": [
+            "echantillon",
+            "preparation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.14",
+          "title": "Risques chimiques et BPL - BPF",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=82",
+          "selection_score": 51.4136,
+          "shared_terms": [
+            "bpl",
+            "chimique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IND.04",
+          "title": "Procédés multiphasiques et réactifs",
+          "page": 393,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=393",
+          "selection_score": 43.0716,
+          "shared_terms": [
+            "reactif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ANA.01",
+          "title": "Optimiser une méthode d’analyse",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=113",
+          "selection_score": 58.3672,
+          "shared_terms": [
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Vérification d’une caractéristique donnée d’un matériau ou d’un produit formulé",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=89",
+          "selection_score": 47.4066,
+          "shared_terms": [
+            "caracteristique",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.249,
+      "matched_terms": [
+        "controle",
+        "essai",
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 58.4435,
+          "shared_terms": [
+            "chimique",
+            "laboratoire",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 49.9367,
+          "shared_terms": [
+            "controle",
+            "industriel",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCPC.05",
+          "title": "Méthodologie et instrumentation pour l’analyse physico-chimique et la caractérisation des matériaux",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=237",
+          "selection_score": 45.0508,
+          "shared_terms": [
+            "chimique",
+            "materiaux",
+            "physico"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mettre en œuvre des analyses chimiques (acides-bases, complexation, précipitation) en appliquant les bonnes pratiques de laboratoire (BPL)",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=50",
+          "selection_score": 73.5938,
+          "shared_terms": [
+            "bonne",
+            "bpl",
+            "chimique",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.07",
+          "title": "Mettre en œuvre des réactions d’oxydo-réduction pour des dosages et des suivis cinétiques",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=78",
+          "selection_score": 64.5435,
+          "shared_terms": [
+            "dosage",
+            "reaction",
+            "suivi"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.134,
+      "matched_terms": [
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1503",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Bases du contrôle de gestion industriel",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=137",
+          "selection_score": 47.0695,
+          "shared_terms": [
+            "controle",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Documentation et notions d’audit",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=94",
+          "selection_score": 44.1078,
+          "shared_terms": [
+            "documentation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 37.4074,
+          "shared_terms": [
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Exécution de gestion de stocks",
+          "page": 56,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=56",
+          "selection_score": 40.2515,
+          "shared_terms": [
+            "stock"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.02",
+          "title": "Dimensionnement d’un site logistique",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=190",
+          "selection_score": 30.7038,
+          "shared_terms": [
+            "site"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

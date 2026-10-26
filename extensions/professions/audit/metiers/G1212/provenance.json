@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404962,
+    "code_rome": "G1212",
+    "libelle": "Animateur socio-sportif / Animatrice socio-sportive",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1204"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 22.25,
+      "matched_terms": [
+        "animation",
+        "insertion",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.10",
+          "title": "Travailler avec les publics de l’animation",
+          "page": 667,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=667",
+          "selection_score": 142.4369,
+          "shared_terms": [
+            "animation",
+            "public",
+            "travailler"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.ASSC.09",
+          "title": "Enjeux pédagogiques",
+          "page": 666,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=666",
+          "selection_score": 86.3567,
+          "shared_terms": [
+            "pedagogique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.ASSC.09",
+          "title": "Processus et dynamique de groupes",
+          "page": 643,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=643",
+          "selection_score": 65.0723,
+          "shared_terms": [
+            "groupe"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ASSC.03",
+          "title": "Concevoir et mettre en œuvre un projet d’animation socioéducative s’adressant à un public ciblé",
+          "page": 653,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=653",
+          "selection_score": 58.4903,
+          "shared_terms": [
+            "animation",
+            "public"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ASSC.03",
+          "title": "Coordonner un projet d’animation",
+          "page": 702,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=702",
+          "selection_score": 56.6777,
+          "shared_terms": [
+            "animation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

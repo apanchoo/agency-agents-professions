@@ -1,0 +1,493 @@
+{
+  "numero": 80,
+  "rome": {
+    "code_rome": "D1104",
+    "intitule": "Pâtissier / Pâtissière",
+    "code_ogr": 83
+  },
+  "appellations": [
+    {
+      "libelle": "Aide-pâtissier / Aide-pâtissière",
+      "libelle_court": "Aide-pâtissier / Aide-pâtissière",
+      "code_ogr": 10885
+    },
+    {
+      "libelle": "Biscuitier / Biscuitière",
+      "libelle_court": "Biscuitier / Biscuitière",
+      "code_ogr": 11529
+    },
+    {
+      "libelle": "Confiseur / Confiseuse",
+      "libelle_court": "Confiseur / Confiseuse",
+      "code_ogr": 13345
+    },
+    {
+      "libelle": "Confiturier / Confiturière",
+      "libelle_court": "Confiturier / Confiturière",
+      "code_ogr": 38380
+    },
+    {
+      "libelle": "Entremettier / Entremettière",
+      "libelle_court": "Entremettier / Entremettière",
+      "code_ogr": 14860
+    },
+    {
+      "libelle": "Ouvrier pâtissier / Ouvrière pâtissière",
+      "libelle_court": "Ouvrier pâtissier / Ouvrière pâtissière",
+      "code_ogr": 17514
+    },
+    {
+      "libelle": "Pâtissier tourier / Pâtissière tourière",
+      "libelle_court": "Pâtissier tourier / Pâtissière tourière",
+      "code_ogr": 17578
+    },
+    {
+      "libelle": "Pâtissier-confiseur / Pâtissière-confiseuse",
+      "libelle_court": "Pâtissier-confiseur / Pâtissière-confiseuse",
+      "code_ogr": 17580
+    },
+    {
+      "libelle": "Pâtissier-traiteur / Pâtissière-traiteuse",
+      "libelle_court": "Pâtissier-traiteur / Pâtissière-traiteuse",
+      "code_ogr": 17581
+    }
+  ],
+  "definition": "Le pâtissier, un artiste de la gourmandise, crée des douceurs qui ravissent les papilles. Conçoit et réalise des produits de pâtisserie, confiserie, chocolaterie et glacerie selon les règles d'hygiène et de sécurité alimentaires Décore les gâteaux et autres créations pour les rendre aussi beaux que savoureux Sélectionne et dose les ingrédients pour la confection de recettes, en suivant les fiches techniques Utilise et entretient les équipements de pâtisserie (fours, batteurs, etc.) Peut former et superviser un personnel moins expérimenté Peut gérer les stocks de matières premières et les commandes de fournitures",
+  "acces_metier": "Cet emploi est accessible avec un CAP Pâtissier, un Bac Professionnel Boulanger-Pâtissier, un Brevet Professionnel (BP) Pâtissier, ou une Mention Complémentaire (MC) Pâtisserie.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Innover dans la création de nouvelles recettes",
+              "code_ogr": 504909,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Planifier les opérations de production selon les commandes",
+              "code_ogr": 126104,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer des techniques de décoration de pâtisserie",
+              "code_ogr": 501234,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Confectionner des pâtisseries",
+              "code_ogr": 125029,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Doser des ingrédients culinaires",
+              "code_ogr": 124933,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer le montage et la décoration des produits pâtissiers",
+              "code_ogr": 126105,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les fruits secs ou frais (découpe, épluchage, rinçage, ...)",
+              "code_ogr": 114115,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer une pâte de pâtisserie",
+              "code_ogr": 125030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régler les paramètres des machines de cuisson",
+              "code_ogr": 486447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir la propreté des équipements et de l'espace de travail",
+              "code_ogr": 483143,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Organiser ou surveiller la cuisson lors d'une ou plusieurs phases de fabrication",
+              "code_ogr": 106314,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des commandes et des livraisons",
+              "code_ogr": 119859,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Collaborer avec des fournisseurs pour la sélection des matières premières",
+              "code_ogr": 486448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser, aménager un espace de vente",
+              "code_ogr": 300375,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 489877,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des farines levure, additifs",
+              "code_ogr": 101738,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des fruits confits",
+              "code_ogr": 119451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de pétrin mécanique",
+              "code_ogr": 101747,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du sirop de sucre (nappe, petit filé, ...)",
+              "code_ogr": 101801,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP pâtissier",
+              "code_ogr": 491020,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pâtissier confiseur glacier traiteur (BTM)",
+              "code_ogr": 514687,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro boulanger pâtissier",
+              "code_ogr": 405321,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Respect des recettes traditionnelles",
+              "code_ogr": 497358,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Epices pour desserts",
+              "code_ogr": 492858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tendances en pâtisserie",
+              "code_ogr": 493713,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de conservation des produits alimentaires",
+              "code_ogr": 490281,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fermentation des pâtes à pâtisserie",
+              "code_ogr": 101792,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modes de cuisson des aliments",
+              "code_ogr": 101782,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de macération des fruits",
+              "code_ogr": 120011,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Décoration de gâteaux",
+              "code_ogr": 493894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation de garnitures pour pâtisseries",
+              "code_ogr": 496755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de travail du sucre",
+              "code_ogr": 498858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de glaçage et de décoration",
+              "code_ogr": 498200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de mélange de pâtes",
+              "code_ogr": 498299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pétrissage manuel",
+              "code_ogr": 101746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation de crèmes pâtissières",
+              "code_ogr": 496750,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        },
+        {
+          "libelle": "Etablissement de restauration collective",
+          "code_ogr": 300811
+        },
+        {
+          "libelle": "Hôtellerie / Restauration",
+          "code_ogr": 489575
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": false
+    },
+    {
+      "code": "83",
+      "libelle": "Industrie - Alimentaire",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1117 - Chef pâtissier / Cheffe pâtissière",
+      "code_org_rome_cible": 510011,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1115 - Chocolatier / Chocolatière",
+      "code_org_rome_cible": 510138,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1102 - Boulanger / Boulangère",
+      "code_org_rome_cible": 81,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1503 - Chef / Cheffe de rayon de produits non alimentaires",
+      "code_org_rome_cible": 112,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1607 - Employé / Employée de restauration collective",
+      "code_org_rome_cible": 404040,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1409 - Manager en restauration rapide",
+      "code_org_rome_cible": 488899,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1602 - Commis / Commise de cuisine",
+      "code_org_rome_cible": 199,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "G1609 - Cuisinier / Cuisinière",
+      "code_org_rome_cible": 488568,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1118 - Glacier / Glacière",
+      "code_org_rome_cible": 510047,
+      "ordre_mobilite": 10
+    }
+  ]
+}

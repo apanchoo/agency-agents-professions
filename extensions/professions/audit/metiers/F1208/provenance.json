@@ -1,0 +1,199 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509797,
+    "code_rome": "F1208",
+    "libelle": "Conducteur / Conductrice de travaux publics",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1201"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 92.087,
+      "matched_terms": [
+        "travaux public"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1201",
+      "title_terms": [
+        "travaux public"
+      ],
+      "specific_title_terms": [
+        "travaux public"
+      ],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.11",
+          "title": "Intervenants et Ouvrages dans leur environnement",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=79",
+          "selection_score": 80.5056,
+          "shared_terms": [
+            "intervenant",
+            "ouvrage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.15",
+          "title": "Marchés de travaux",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=179",
+          "selection_score": 63.8155,
+          "shared_terms": [
+            "marche",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie des Travaux Publics 1",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=75",
+          "selection_score": 46.1944,
+          "shared_terms": [
+            "public",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.TP.02",
+          "title": "Contre-étude et suivi de travaux de l’OS à la levée des réserves en TP",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=243",
+          "selection_score": 100.3189,
+          "shared_terms": [
+            "levee",
+            "reserve",
+            "suivi",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.TP.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine des TP",
+          "page": 222,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=222",
+          "selection_score": 96.3876,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "installation",
+            "materiel",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.111,
+      "matched_terms": [
+        "environnement",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.03",
+          "title": "Droit de la santé et de la sécurité au travail",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=78",
+          "selection_score": 58.5548,
+          "shared_terms": [
+            "droit",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.SDMRPTE.02",
+          "title": "Risques liés au transport",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=134",
+          "selection_score": 51.8118,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.02",
+          "title": "Risques biologiques et risques liés aux rayonnements",
+          "page": 115,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=115",
+          "selection_score": 47.0484,
+          "shared_terms": [
+            "lies",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.02",
+          "title": "Concevoir un plan de gestion des risques liés aux coactivités",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=93",
+          "selection_score": 65.1385,
+          "shared_terms": [
+            "lies",
+            "plan",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.01",
+          "title": "Approfondissement : Analyse et maitrise d’un risque spécifique",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=127",
+          "selection_score": 55.7378,
+          "shared_terms": [
+            "maitrise",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,499 @@
+{
+  "numero": 341,
+  "rome": {
+    "code_rome": "J1405",
+    "intitule": "Opticien / Opticienne",
+    "code_ogr": 349
+  },
+  "appellations": [
+    {
+      "libelle": "Monteur-vendeur lunetier / Monteuse-vendeuse lunetière",
+      "libelle_court": "Monteur-vendeur lunetier / Monteuse-vendeuse lunetière",
+      "code_ogr": 16897
+    },
+    {
+      "libelle": "Monteur-vendeur opticien / Monteuse-vendeuse opticienne",
+      "libelle_court": "Monteur-vendeur opticien / Monteuse-vendeuse opticienne",
+      "code_ogr": 16898
+    },
+    {
+      "libelle": "Opticien / Opticienne responsable de magasin",
+      "libelle_court": "Opticien / Opticienne responsable de magasin",
+      "code_ogr": 17352
+    },
+    {
+      "libelle": "Opticien-lunetier / Opticienne-lunetière",
+      "libelle_court": "Opticien-lunetier / Opticienne-lunetière",
+      "code_ogr": 17353
+    },
+    {
+      "libelle": "Opticien-optométriste / Opticienne-optométriste",
+      "libelle_court": "Opticien-optométriste / Opticienne-optométriste",
+      "code_ogr": 17354
+    },
+    {
+      "libelle": "Responsable de magasin optique lunetterie",
+      "libelle_court": "Responsable de magasin optique lunetterie",
+      "code_ogr": 510106
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en optique lunetterie",
+      "libelle_court": "Vendeur / Vendeuse en optique lunetterie",
+      "code_ogr": 20605
+    }
+  ],
+  "definition": "L'opticien est un professionnel de la vision mettant à disposition des équipements de correction optique aux personnes atteintes de troubles visuels. Conseille les clients dans le choix de montures, de verres et de lentilles de contact adaptés à leurs besoins Mesure l'acuité visuelle et réalise l'ajustement, le montage des lunettes pour garantir un confort optimal Effectue des contrôles de la vue pour déterminer les corrections optiques nécessaires Gère les commandes de produits optiques et assure le suivi des stocks Supervise et forme le personnel moins expérimenté au sein du magasin",
+  "acces_metier": "Cet emploi est accessible avec un Bac + 2 BTS Opticien-lunetier ou un Diplôme d'État d'opticien-lunetier. Une Licence Professionnelle d'optique peut également être pertinente. Les diplômes d'État sont obligatoires pour exercer ce métier.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés sur les produits et services",
+              "code_ogr": 504238,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Exécuter des examens visuels pour détecter les anomalies de la vision",
+              "code_ogr": 511704,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interpréter les résultats des examens de la vue et les imageries médicales",
+              "code_ogr": 511691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à des examens visuels",
+              "code_ogr": 107567,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser la vision du client pour adapter les verres",
+              "code_ogr": 505583,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des logiciels de gestion de stock",
+              "code_ogr": 485267,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Ajuster les lunettes pour un confort optimal",
+              "code_ogr": 505585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Choisir les montures adaptées aux besoins esthétiques et pratiques",
+              "code_ogr": 505584,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guider le patient dans l'utilisation de dispositifs optiques spéciaux",
+              "code_ogr": 506218,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre les mesures pour la réalisation de l'équipement optique et établir la fiche d'exécution des travaux",
+              "code_ogr": 107520,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer les verres (centrage, axage, montage, ...), procéder à l'essayage sur le client et effectuer les ajustements",
+              "code_ogr": 107521,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Tailler, découper des matériaux",
+              "code_ogr": 300231,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner des documents médico-administratifs",
+              "code_ogr": 124221,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les relations avec les clients et les fournisseurs",
+              "code_ogr": 502871,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les relations avec les fournisseurs pour assurer un approvisionnement continu",
+              "code_ogr": 507561,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueillir les clients à l'arrivée et gérer leur départ",
+              "code_ogr": 486687,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Adapter l'offre commerciale aux demandes spécifiques",
+              "code_ogr": 508211,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser les besoins des clients",
+              "code_ogr": 499623,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer une ambiance accueillante et conviviale",
+              "code_ogr": 486044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les tendances du marché pour anticiper les besoins des clients",
+              "code_ogr": 484960,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le service après-vente",
+              "code_ogr": 509094,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'agencement du magasin pour optimiser l'expérience client",
+              "code_ogr": 505586,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter les coûts et délais de livraison à un client",
+              "code_ogr": 122159,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter une offre commerciale à un client",
+              "code_ogr": 404885,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Ecouter activement les besoins spécifiques",
+              "code_ogr": 482931,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'appareils de mesure optique (réflectomètre, wattmètre optique, photomètre, stylo optique ...)",
+              "code_ogr": 103556,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de montage optique",
+              "code_ogr": 107523,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des verres optiques",
+              "code_ogr": 107524,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BTS opticien-lunetier",
+              "code_ogr": 514070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention optique professionnelle",
+              "code_ogr": 514567,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Lunetterie / optique",
+              "code_ogr": 126427,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dispositifs médicaux d'aide à la vision",
+              "code_ogr": 492817,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Traitement des verres",
+              "code_ogr": 107526,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prise de mesures optiques",
+              "code_ogr": 107525,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de gestion de stock",
+              "code_ogr": 498158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication professionnelle",
+              "code_ogr": 477875,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    },
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1502 - Cadre de santé d'unité de soins ou de service paramédical",
+      "code_org_rome_cible": 358,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1880 - Spécialiste e-santé",
+      "code_org_rome_cible": 510247,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H1105 - Chef de projets santé / Cheffe de projets santé",
+      "code_org_rome_cible": 488339,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1414 - Chargé / Chargée de mission santé publique",
+      "code_org_rome_cible": 509923,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1220 - Médiateur / Médiatrice en santé",
+      "code_org_rome_cible": 509756,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H2502 - Responsable d'unité de production industrielle",
+      "code_org_rome_cible": 263,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1113 - Responsable e-commerce",
+      "code_org_rome_cible": 489052,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1407 - Orthoptiste",
+      "code_org_rome_cible": 351,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1401 - Audioprothésiste",
+      "code_org_rome_cible": 345,
+      "ordre_mobilite": 9
+    }
+  ]
+}

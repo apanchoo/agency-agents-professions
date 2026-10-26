@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 274,
+    "code_rome": "H2802",
+    "libelle": "Opérateur / Opératrice de fabrication en matériaux de construction",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H2802"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.939,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2802",
+      "title_terms": [
+        "materiau"
+      ],
+      "specific_title_terms": [
+        "materiau"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Contrôle non destructif des pièces",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=103",
+          "selection_score": 75.1884,
+          "shared_terms": [
+            "controle",
+            "non",
+            "piece"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MRVM.10",
+          "title": "Tri, identification et séparation des matériaux",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=235",
+          "selection_score": 49.5887,
+          "shared_terms": [
+            "materiaux",
+            "tri"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Normes et réglementations",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=136",
+          "selection_score": 45.2071,
+          "shared_terms": [
+            "norme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Comprendre les protocoles de mise en forme et les règles de sécurité",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=47",
+          "selection_score": 46.8959,
+          "shared_terms": [
+            "protocole",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Incidence d’un procédé de fabrication sur la qualité d’un produit",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=73",
+          "selection_score": 45.6504,
+          "shared_terms": [
+            "fabrication",
+            "produit"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

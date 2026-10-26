@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 403084,
+    "code_rome": "C1208",
+    "libelle": "Courtier / Courtière en banque",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "C1206"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.162,
+      "matched_terms": [
+        "financ"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        14
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 70.4842,
+          "shared_terms": [
+            "finance",
+            "portefeuille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.11",
+          "title": "Finance : Politique de financement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=141",
+          "selection_score": 58.0698,
+          "shared_terms": [
+            "finance",
+            "financement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Finance",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=96",
+          "selection_score": 49.5939,
+          "shared_terms": [
+            "finance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GC2F.01",
+          "title": "Accompagner le développement de l’entreprise",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=163",
+          "selection_score": 53.488,
+          "shared_terms": [
+            "accompagner"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Contribuer à la gestion d’une organisation en fonction de ses besoins",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=81",
+          "selection_score": 51.5231,
+          "shared_terms": [
+            "fonction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

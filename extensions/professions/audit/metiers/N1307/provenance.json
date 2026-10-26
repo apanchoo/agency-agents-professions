@@ -1,0 +1,193 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515407,
+    "code_rome": "N1307",
+    "libelle": "Coordinateur / Coordinatrice logistique ferroviaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1302"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.392,
+      "matched_terms": [
+        "amelioration",
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1302",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.QMI.09",
+          "title": "Gestion des situations d’urgence",
+          "page": 362,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=362",
+          "selection_score": 68.1231,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Coordination approvisionnements - production",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=118",
+          "selection_score": 63.9251,
+          "shared_terms": [
+            "approvisionnement",
+            "coordination"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Fondamentaux de la Recherche Opérationnelle",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=157",
+          "selection_score": 55.2624,
+          "shared_terms": [
+            "operationnelle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 95.4558,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Immersion-Logistique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=57",
+          "selection_score": 23.3176,
+          "shared_terms": [
+            "logistique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.236,
+      "matched_terms": [
+        "logist",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1302",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Transport ferroviaire",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=120",
+          "selection_score": 78.5043,
+          "shared_terms": [
+            "ferroviaire",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Transport routier de marchandises : contexte et techniques",
+          "page": 39,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=39",
+          "selection_score": 51.8254,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Transport routier de marchandises : approfondissement",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=91",
+          "selection_score": 51.6497,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCC.01",
+          "title": "Optimisation d’une chaîne logistique dans un environnement connecté",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=137",
+          "selection_score": 54.1993,
+          "shared_terms": [
+            "chaine",
+            "logistique",
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCD.01",
+          "title": "Optimisation d’une chaîne logistique dans une démarche durable",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=226",
+          "selection_score": 54.1993,
+          "shared_terms": [
+            "chaine",
+            "logistique",
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

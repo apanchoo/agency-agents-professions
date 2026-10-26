@@ -1,0 +1,580 @@
+{
+  "numero": 216,
+  "rome": {
+    "code_rome": "G1703",
+    "intitule": "Réceptionniste",
+    "code_ogr": 205
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'accueil de l'hôtellerie",
+      "libelle_court": "Agent / Agente d'accueil de l'hôtellerie",
+      "code_ogr": 489144
+    },
+    {
+      "libelle": "Employé / Employée de réception en établissement hôtelier",
+      "libelle_court": "Employé / Employée de réception en établissement hôtelier",
+      "code_ogr": 14780
+    },
+    {
+      "libelle": "Hôte / Hôtesse d'accueil de l'hôtellerie",
+      "libelle_court": "Hôte / Hôtesse d'accueil de l'hôtellerie",
+      "code_ogr": 489143
+    },
+    {
+      "libelle": "Night audit",
+      "libelle_court": "Night audit",
+      "code_ogr": 16991
+    },
+    {
+      "libelle": "Night auditor",
+      "libelle_court": "Night auditor",
+      "code_ogr": 16992
+    },
+    {
+      "libelle": "Préposé / Préposée au camping",
+      "libelle_court": "Préposé / Préposée au camping",
+      "code_ogr": 489140
+    },
+    {
+      "libelle": "Réceptionniste de camping",
+      "libelle_court": "Réceptionniste de camping",
+      "code_ogr": 18320
+    },
+    {
+      "libelle": "Réceptionniste de nuit",
+      "libelle_court": "Réceptionniste de nuit",
+      "code_ogr": 18321
+    },
+    {
+      "libelle": "Réceptionniste de village vacances",
+      "libelle_court": "Réceptionniste de village vacances",
+      "code_ogr": 18323
+    },
+    {
+      "libelle": "Réceptionniste d'hôtel",
+      "libelle_court": "Réceptionniste d'hôtel",
+      "code_ogr": 489142
+    },
+    {
+      "libelle": "Réceptionniste en établissement touristique",
+      "libelle_court": "Réceptionniste en établissement touristique",
+      "code_ogr": 18324
+    },
+    {
+      "libelle": "Réceptionniste en hôtellerie",
+      "libelle_court": "Réceptionniste en hôtellerie",
+      "code_ogr": 18325
+    },
+    {
+      "libelle": "Réceptionniste tournant / Réceptionniste tournante en établissement hôtelier",
+      "libelle_court": "Réceptionniste tournant(e) en établissement hôtelier",
+      "code_ogr": 18326
+    },
+    {
+      "libelle": "Veilleur / Veilleuse de nuit en hôtellerie",
+      "libelle_court": "Veilleur / Veilleuse de nuit en hôtellerie",
+      "code_ogr": 20507
+    }
+  ],
+  "definition": "Le Réceptionniste assure le premier contact avec les clients au sein de l'établissement et fournit un accueil chaleureux et professionnel. Accueille et enregistre les clients à leur arrivée Gère les réservations et les annulations Renseigne les clients sur les services de l'établissement et les attractions locales Traite les demandes spécifiques et les plaintes des clients Assure la coordination avec les autres services de l'hôtel pour optimiser l'expérience client Maintient un environnement de travail propre et organisé",
+  "acces_metier": "Cet emploi est accessible avec une qualification de niveau CAP à Bac+2 en accueil ou hôtellerie-restauration.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Résoudre les problèmes techniques mineurs dans les chambres",
+              "code_ogr": 485876,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour les informations client dans le système informatique",
+              "code_ogr": 123491,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Optimiser les processus de check-in et check-out",
+              "code_ogr": 485878,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des clients en suivant les procédures appropriées",
+              "code_ogr": 485874,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le bon fonctionnement des équipements de l'hôtel",
+              "code_ogr": 485877,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer le suivi des réservations",
+              "code_ogr": 104292,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les paiements et les transactions financières à la réception",
+              "code_ogr": 485873,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la liaison avec les autres départements de l'établissement",
+              "code_ogr": 483764,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Préparer des rapports financiers et d'activité",
+              "code_ogr": 501423,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les plaintes de manière professionnelle",
+              "code_ogr": 124521,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Intégrer l'écoresponsabilité dans toutes les dimensions de son activité",
+              "code_ogr": 402182,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Fournir des informations touristiques et locales aux clients",
+              "code_ogr": 103841,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les appels téléphoniques entrants et sortants",
+              "code_ogr": 400557,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur les prestations et services proposés",
+              "code_ogr": 300621,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser le service des petits-déjeuners en salle ou en chambre, selon l'établissement",
+              "code_ogr": 104175,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer des services additionnels pour améliorer le séjour",
+              "code_ogr": 483278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Assurer la modération des commentaires liés à la e-réputation de la structure ou entreprise",
+              "code_ogr": 489884,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des informations des clients",
+              "code_ogr": 483316,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles d'hygiène et de sécurité au travail",
+              "code_ogr": 489878,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les standards qualité de l'établissement",
+              "code_ogr": 489879,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat de spécialisation accueil-réception",
+              "code_ogr": 522543,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro commercialisation et services en restauration",
+              "code_ogr": 489581,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel réceptionniste en hôtellerie",
+              "code_ogr": 491669,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel réceptionniste hôtellerie et hôtellerie de plein air",
+              "code_ogr": 522566,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionniste en hôtellerie [Polynésie Française]",
+              "code_ogr": 491674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP commercialisation et services en hôtel-café-restaurant",
+              "code_ogr": 489606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP maître d'hôtel",
+              "code_ogr": 489722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option C : management d'unité d'hébergement",
+              "code_ogr": 489602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP gouvernant d'hôtel",
+              "code_ogr": 491012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Un des meilleurs ouvriers de France groupe métiers de la restauration et de l'hôtellerie classe réceptionniste en hôtellerie",
+              "code_ogr": 522551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP réceptionniste",
+              "code_ogr": 491675,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro métiers de l'accueil",
+              "code_ogr": 489585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac techno sciences et technologies de l'hôtellerie et de la restauration",
+              "code_ogr": 489588,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Tarification en temps réel (Yield management)",
+              "code_ogr": 123186,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais niveau avancé B2",
+              "code_ogr": 118471,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de sécurité en hôtellerie",
+              "code_ogr": 480722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'exploitation hôtelière",
+              "code_ogr": 104110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de check-in et check-out",
+              "code_ogr": 478441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits",
+              "code_ogr": 477396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueil et gestion des clients en hôtellerie",
+              "code_ogr": 480719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication interpersonnelle",
+              "code_ogr": 477041,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Hébergement et hôtellerie de plein air",
+          "code_ogr": 489573
+        },
+        {
+          "libelle": "Hôtellerie",
+          "code_ogr": 489574
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1706 - Chef / Cheffe de réception en hôtellerie",
+      "code_org_rome_cible": 488620,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1303 - Conseiller / Conseillère en voyages",
+      "code_org_rome_cible": 190,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1401 - Adjoint / Adjointe de la direction en hôtellerie-restauration",
+      "code_org_rome_cible": 191,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1101 - Agent / Agente d'accueil touristique",
+      "code_org_rome_cible": 180,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1616 - Auxiliaire de gestion des écoles de conduite",
+      "code_org_rome_cible": 489162,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1604 - Assistant / Assistante de direction",
+      "code_org_rome_cible": 477,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N4131 - Conducteur / Conductrice de taxi",
+      "code_org_rome_cible": 489161,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1415 - Chargé / Chargée de relation client",
+      "code_org_rome_cible": 488868,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1403 - Conseiller commercial / Conseillère commerciale auprès des particuliers",
+      "code_org_rome_cible": 104,
+      "ordre_mobilite": 10
+    }
+  ]
+}

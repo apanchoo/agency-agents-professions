@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 170,
+    "code_rome": "F1610",
+    "libelle": "Installateur mainteneur / Installatrice mainteneuse en systèmes solaires, thermiques et photovoltaïques",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1610"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.517,
+      "matched_terms": [
+        "renouvelable",
+        "thermi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1610",
+      "title_terms": [
+        "thermi"
+      ],
+      "specific_title_terms": [
+        "thermi"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MANÉ.03",
+          "title": "Solaire thermique et photovoltaïque",
+          "page": 286,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=286",
+          "selection_score": 91.5247,
+          "shared_terms": [
+            "photovoltaique",
+            "solaire",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 78.7082,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Énergie électrique",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=74",
+          "selection_score": 54.3545,
+          "shared_terms": [
+            "electrique",
+            "energie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Mise en service et maintenance de premier niveau d’une installation",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=61",
+          "selection_score": 51.8248,
+          "shared_terms": [
+            "installation",
+            "maintenance",
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.EXPLOIT.02",
+          "title": "Pilotage et maintenance d’installations – mise en œuvre de plans de mesurage et de comptage à des fins d’optimisation",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=127",
+          "selection_score": 42.9157,
+          "shared_terms": [
+            "installation",
+            "maintenance",
+            "mise",
+            "plans"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

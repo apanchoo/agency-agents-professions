@@ -1,0 +1,468 @@
+{
+  "numero": 49,
+  "rome": {
+    "code_rome": "C1109",
+    "intitule": "Gestionnaire en assurances",
+    "code_ogr": 63
+  },
+  "appellations": [
+    {
+      "libelle": "Concepteur développeur / Conceptrice développeuse de produits d'assurances",
+      "libelle_court": "Concepteur(trice) développeur(se) de produits d'assurances",
+      "code_ogr": 12823
+    },
+    {
+      "libelle": "Gestionnaire sinistre Incendie, Accidents, Risques Divers -IARD-",
+      "libelle_court": "Gestionnaire sinistre Incendie, Accidents, Risques Divers",
+      "code_ogr": 15373
+    }
+  ],
+  "definition": "Le gestionnaire en assurances intervient dans la gestion des contrats et des sinistres, assurant un service essentiel aux clients. Traite et suit les dossiers d'assurance depuis la souscription jusqu'à la gestion des sinistres Analyse les risques associés aux contrats pour proposer les couvertures adéquates Gère les réclamations et les indemnisations en conformité avec la réglementation en vigueur Conseille les clients sur les meilleures options d'assurance selon leurs besoins et maintient à jour les dossiers en assurant un suivi des contrats",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac + 2 à Bac + 5 en assurances, droit des assurances, gestion des risques ou économie. Les certifications spécifiques comme la Certification AMF (Autorité des Marchés Financiers) ou des compétences en gestion des sinistres peuvent être un atout. Un diplôme d'actuaire est obligatoire pour certaines fonctions spécialisées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Déclencher des appels à cotisation",
+              "code_ogr": 122918,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer et gérer un sinistre",
+              "code_ogr": 300331,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expertiser des dommages corporels, matériels et moraux",
+              "code_ogr": 122337,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déployer les procédures d'indemnisation des assurés, victimes",
+              "code_ogr": 121906,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les litiges et les contentieux",
+              "code_ogr": 500728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier un contrat",
+              "code_ogr": 300350,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un contrat d'assurance",
+              "code_ogr": 121164,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller dans le cadre d'une relation commerciale",
+              "code_ogr": 300367,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Intégrer de nouveaux produits d'assurances ou d'épargne",
+              "code_ogr": 116390,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des conditions commerciales",
+              "code_ogr": 300370,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Développer et gérer des relations interpersonnelles",
+              "code_ogr": 300463,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Expliquer de manière claire et pédagogique",
+              "code_ogr": 489566,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et animer une réunion, un groupe de travail, un atelier",
+              "code_ogr": 300469,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Construire et adapter son parcours professionnel",
+              "code_ogr": 300499,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Conseiller en assurance",
+              "code_ogr": 515242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller clientèle omnicanal bancassurance",
+              "code_ogr": 515205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence droit, économie, gestion mention droit, économie",
+              "code_ogr": 514516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager de l'assurance",
+              "code_ogr": 515074,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention droit des assurances",
+              "code_ogr": 490749,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention économie et gestion",
+              "code_ogr": 490835,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention économie",
+              "code_ogr": 491440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Compétences en gestion de la relation client",
+              "code_ogr": 492548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de gestion de base de données",
+              "code_ogr": 404053,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse financière",
+              "code_ogr": 510915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques financiers",
+              "code_ogr": 478545,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des garanties et des assurances",
+              "code_ogr": 122614,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation de l'assurance IARD (Incendie, Accidents, Risques Divers)",
+              "code_ogr": 121349,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de recouvrement de créances",
+              "code_ogr": 101342,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de confidentialité",
+              "code_ogr": 477625,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit et réglementation des assurances",
+              "code_ogr": 101314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des produits d'assurances",
+              "code_ogr": 101460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'indemnisation des sinistres",
+              "code_ogr": 101350,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de gestion de stress en public",
+              "code_ogr": 481879,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits",
+              "code_ogr": 477396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de négociation de contrats",
+              "code_ogr": 515993,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des besoins du client",
+              "code_ogr": 479926,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication professionnelle",
+              "code_ogr": 477875,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle d'affaires",
+          "code_ogr": 300819
+        },
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle d'entreprises",
+          "code_ogr": 300821
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Cabinet libéral",
+          "code_ogr": 300809
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "91",
+      "libelle": "Finance, banque et assurance",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "C1107 - Chargé / Chargée d'indemnisations en assurances",
+      "code_org_rome_cible": 61,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "C1110 - Souscripteur / Souscriptrice en assurances",
+      "code_org_rome_cible": 64,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1501 - Agent / Agente d'administration principal(e) des douanes",
+      "code_org_rome_cible": 384,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "C1401 - Agent administratif / Agente administrative banque ou assurance",
+      "code_org_rome_cible": 75,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "C1102 - Conseiller commercial / Conseillère commerciale et relation client en assurances",
+      "code_org_rome_cible": 56,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "C1201 - Chargé / Chargée d'accueil et de services clientèle bancaire",
+      "code_org_rome_cible": 65,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "G1303 - Conseiller / Conseillère en voyages",
+      "code_org_rome_cible": 190,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1503 - Contrôleur / Contrôleuse des impôts",
+      "code_org_rome_cible": 386,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1409 - Assistant / Assistante administration des ventes",
+      "code_org_rome_cible": 403074,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 374,
+    "code_rome": "K1207",
+    "libelle": "Educateur spécialisé / Educatrice spécialisée",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1207"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 98.58,
+      "matched_terms": [
+        "educat",
+        "insertion",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1207",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.ES.07",
+          "title": "La relation éducative dans l’accompagnement social et éducatif",
+          "page": 423,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=423",
+          "selection_score": 135.3189,
+          "shared_terms": [
+            "accompagnement",
+            "educatif",
+            "educative",
+            "social"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ES.11",
+          "title": "Outil de l’intervention éducative",
+          "page": 452,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=452",
+          "selection_score": 103.3191,
+          "shared_terms": [
+            "educative",
+            "intervention"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.ES.11",
+          "title": "Outils de l’intervention éducative",
+          "page": 350,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=350",
+          "selection_score": 101.6272,
+          "shared_terms": [
+            "educative",
+            "intervention"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ES.04",
+          "title": "Concevoir un accompagnement éducatif adapté à la situation de la personne et/ou du groupe",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=335",
+          "selection_score": 164.5119,
+          "shared_terms": [
+            "accompagnement",
+            "adapte",
+            "educatif",
+            "groupe"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.ES.04",
+          "title": "Repérer les modes d’accompagnement éducatifs adaptés à la situation de la personne et/ou du groupe",
+          "page": 360,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=360",
+          "selection_score": 135.3078,
+          "shared_terms": [
+            "accompagnement",
+            "adapte",
+            "educatif",
+            "groupe"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

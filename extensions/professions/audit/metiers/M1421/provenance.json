@@ -1,0 +1,174 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509569,
+    "code_rome": "M1421",
+    "libelle": "Panéliste",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1401"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.963,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GEMA.09",
+          "title": "Environnement juridique : Droit de la concurrence et de la consommation",
+          "page": 312,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=312",
+          "selection_score": 33.6658,
+          "shared_terms": [
+            "consommation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Outils numériques de gestion",
+          "page": 71,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=71",
+          "selection_score": 23.0156,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GPRH.09",
+          "title": "Ressources humaines : Marketing RH et marque employeur",
+          "page": 417,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=417",
+          "selection_score": 21.5501,
+          "shared_terms": [
+            "marque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 27.6604,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GPRH.01",
+          "title": "Proposer une politique RH dans le cadre d’une évolution du périmètre de l’entreprise",
+          "page": 404,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=404",
+          "selection_score": 27.545,
+          "shared_terms": [
+            "proposer"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.958,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1401",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.09",
+          "title": "Comportement de consommation culturel, artistique, sportif ou de tourisme",
+          "page": 365,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=365",
+          "selection_score": 27.297,
+          "shared_terms": [
+            "consommation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.07",
+          "title": "Droit de la communication numérique",
+          "page": 305,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=305",
+          "selection_score": 15.9626,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.07",
+          "title": "Outils de communication numérique culturelle, artistique, sportive ou de tourisme",
+          "page": 399,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=399",
+          "selection_score": 11.0099,
+          "shared_terms": [
+            "numerique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.03",
+          "title": "Collaborer dans le cadre d’un projet transverse - S3",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=97",
+          "selection_score": 42.7974,
+          "shared_terms": [
+            "collaborer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.03",
+          "title": "Collaborer et rendre compte d’un projet transverse - S4",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=120",
+          "selection_score": 36.1601,
+          "shared_terms": [
+            "collaborer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,267 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509936,
+    "code_rome": "H1240",
+    "libelle": "Agent / Agente de finissage couleurs et effets cuirs et peaux",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1201"
+  },
+  "but": [
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.477,
+      "matched_terms": [
+        "controle",
+        "essai",
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 48.6068,
+          "shared_terms": [
+            "environnementale",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.10",
+          "title": "Conditionnement de signaux et pilotage d’instruments",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=121",
+          "selection_score": 34.9242,
+          "shared_terms": [
+            "instrument"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Equilibres chimiques – Sécurité au laboratoire",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=66",
+          "selection_score": 34.1673,
+          "shared_terms": [
+            "chimique",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCPC.04",
+          "title": "Construire un projet dans le domaine des mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 185,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=185",
+          "selection_score": 53.3234,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "materiaux",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCPC.02",
+          "title": "Concrétiser un projet en mesures pour le contrôle physico-chimique et les matériaux",
+          "page": 208,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=208",
+          "selection_score": 53.3234,
+          "shared_terms": [
+            "chimique",
+            "controle",
+            "materiaux",
+            "mesure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.759,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MCEMP.05",
+          "title": "Surface interface et traitement de surface",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=138",
+          "selection_score": 60.8261,
+          "shared_terms": [
+            "surface",
+            "traitement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Contrôle non destructif des pièces",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=103",
+          "selection_score": 47.2285,
+          "shared_terms": [
+            "controle",
+            "non"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Normes et réglementations",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=136",
+          "selection_score": 45.6574,
+          "shared_terms": [
+            "norme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Comprendre les protocoles de mise en forme et les règles de sécurité",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=47",
+          "selection_score": 47.2299,
+          "shared_terms": [
+            "protocole",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Suivi de protocole pour l’élaboration en sécurité",
+          "page": 44,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=44",
+          "selection_score": 46.015,
+          "shared_terms": [
+            "protocole",
+            "securite"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.488,
+      "matched_terms": [
+        "traitements de surface pour ameliorer l'esthetique et la durabilite des cuirs et peau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.14",
+          "title": "Chimie organique et Biochimie 1",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=91",
+          "selection_score": 52.2479,
+          "shared_terms": [
+            "chimie",
+            "organique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Chimie organique et biochimie 2",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=109",
+          "selection_score": 51.9764,
+          "shared_terms": [
+            "chimie",
+            "organique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.07",
+          "title": "Outils Scientifiques appliqués aux procédés",
+          "page": 150,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=150",
+          "selection_score": 49.2654,
+          "shared_terms": [
+            "applique",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Choix des conditions opératoires et influence sur la qualité d’un produit synthétisé ou dégradé et impact environnemental.",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=76",
+          "selection_score": 37.6843,
+          "shared_terms": [
+            "operatoire",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CPIT.01",
+          "title": "Conception, optimisation et conduite d’un procédé.",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=141",
+          "selection_score": 33.9554,
+          "shared_terms": [
+            "optimisation",
+            "procede"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

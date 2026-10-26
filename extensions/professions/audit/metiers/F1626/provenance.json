@@ -1,0 +1,197 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509352,
+    "code_rome": "F1626",
+    "libelle": "Calorifugeur / Calorifugeuse",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1613"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.396,
+      "matched_terms": [
+        "energe",
+        "thermi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1613",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Bases de transfert de chaleur",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=68",
+          "selection_score": 63.1623,
+          "shared_terms": [
+            "chaleur",
+            "transfert"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.04",
+          "title": "Prévention des risques et incendies",
+          "page": 554,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=554",
+          "selection_score": 59.6434,
+          "shared_terms": [
+            "incendie",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Confort thermique, visuel et acoustique",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=102",
+          "selection_score": 54.9675,
+          "shared_terms": [
+            "acoustique",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 72.8193,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "energetique",
+            "environnementale",
+            "installation",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.OPTIM.03",
+          "title": "Études thermique et environnementale réglementaires sur un bâtiment en phase de conception",
+          "page": 394,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=394",
+          "selection_score": 55.9319,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "environnementale",
+            "thermique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.934,
+      "matched_terms": [
+        "batiment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1613",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 93.4024,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 93.1976,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.13",
+          "title": "Evaluation environnementale des matériaux et des équipements",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=111",
+          "selection_score": 62.7914,
+          "shared_terms": [
+            "environnementale",
+            "equipement",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BAT.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine du bâtiment",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=145",
+          "selection_score": 62.4193,
+          "shared_terms": [
+            "batiment",
+            "chantier",
+            "installation",
+            "materiel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BEC.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel)",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=379",
+          "selection_score": 55.8632,
+          "shared_terms": [
+            "chantier",
+            "installation",
+            "materiel"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

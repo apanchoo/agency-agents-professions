@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521038,
+    "code_rome": "N4134",
+    "libelle": "Conducteur / Conductrice de véhicule de protection de convoi exceptionnel",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4101"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.896,
+      "matched_terms": [
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Transport routier de marchandises : contexte et techniques",
+          "page": 39,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=39",
+          "selection_score": 54.6122,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Transport routier de marchandises : approfondissement",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=91",
+          "selection_score": 54.0395,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 47.2584,
+          "shared_terms": [
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Étude des activités et acteurs du transport routier de marchandises en vue de la réponse à un appel d’offre",
+          "page": 34,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=34",
+          "selection_score": 51.4935,
+          "shared_terms": [
+            "acteur",
+            "routier",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Étude des activités et acteurs du transport de voyageurs",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=57",
+          "selection_score": 51.2682,
+          "shared_terms": [
+            "acteur",
+            "transport"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

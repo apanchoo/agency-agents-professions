@@ -1,0 +1,190 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510415,
+    "code_rome": "M1886",
+    "libelle": "Chef / Cheffe de projet Web",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1803"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 106.102,
+      "matched_terms": [
+        "communication",
+        "design",
+        "developpe",
+        "experience utilisateur",
+        "internet",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [
+        "web"
+      ],
+      "specific_title_terms": [
+        "web"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Ergonomie et Accessibilité",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=83",
+          "selection_score": 89.3136,
+          "shared_terms": [
+            "accessibilite",
+            "ergonomie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.DWEB-DI.09",
+          "title": "Création et design interactif (UI)",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=237",
+          "selection_score": 78.9382,
+          "shared_terms": [
+            "creation",
+            "design"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DWEB-DI.05",
+          "title": "Création et design interactif",
+          "page": 259,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=259",
+          "selection_score": 76.9605,
+          "shared_terms": [
+            "creation",
+            "design"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DWEB-DI.01",
+          "title": "Développer des parcours utilisateur au sein d’un système d’information",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=223",
+          "selection_score": 76.5898,
+          "shared_terms": [
+            "utilisateur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DWEB-DI.01",
+          "title": "Développer pour le Web",
+          "page": 250,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=250",
+          "selection_score": 67.3343,
+          "shared_terms": [
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.294,
+      "matched_terms": [
+        "application",
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1803",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.REAL.11",
+          "title": "Développement pour applications mobiles",
+          "page": 144,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=144",
+          "selection_score": 79.1708,
+          "shared_terms": [
+            "application",
+            "mobile"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Développement d’interfaces web",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=70",
+          "selection_score": 65.7371,
+          "shared_terms": [
+            "interface",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Communication interne",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=138",
+          "selection_score": 51.8868,
+          "shared_terms": [
+            "interne"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ADMIN.01",
+          "title": "Organisation et protection de données",
+          "page": 304,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=304",
+          "selection_score": 54.957,
+          "shared_terms": [
+            "protection"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ADMIN.01",
+          "title": "Proposer une solution optimisée à partir de données internes et externes",
+          "page": 287,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=287",
+          "selection_score": 44.3484,
+          "shared_terms": [
+            "interne",
+            "proposer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

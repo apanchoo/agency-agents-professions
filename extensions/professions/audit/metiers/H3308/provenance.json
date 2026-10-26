@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518259,
+    "code_rome": "H3308",
+    "libelle": "Emballeur industriel / Emballeuse industrielle",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H3302"
+  },
+  "but": [
+    {
+      "programme_id": "pec",
+      "title": "Packaging, emballage et conditionnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.156,
+      "matched_terms": [
+        "emball"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H3302",
+      "title_terms": [
+        "emball"
+      ],
+      "specific_title_terms": [
+        "emball"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf",
+      "programme_sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Traçabilité",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=68",
+          "selection_score": 63.1869,
+          "shared_terms": [
+            "tracabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Systèmes d’information et de traçabilité",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=87",
+          "selection_score": 63.1319,
+          "shared_terms": [
+            "tracabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Contrôle des emballages",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=106",
+          "selection_score": 61.9142,
+          "shared_terms": [
+            "controle",
+            "emballage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Assurer la qualité d’un emballage en production",
+          "page": 56,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=56",
+          "selection_score": 55.5508,
+          "shared_terms": [
+            "emballage",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Réaliser un test de métrologie en suivant une procédure",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=35",
+          "selection_score": 38.7463,
+          "shared_terms": [
+            "suivant"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

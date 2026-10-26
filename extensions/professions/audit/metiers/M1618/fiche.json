@@ -1,0 +1,535 @@
+{
+  "numero": 33036,
+  "rome": {
+    "code_rome": "M1618",
+    "intitule": "Agent / Agente de liaison courrier",
+    "code_ogr": 509416
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de liaison externe",
+      "libelle_court": "Agent / Agente de liaison externe",
+      "code_ogr": 10473
+    },
+    {
+      "libelle": "Agent / Agente de liaison interne",
+      "libelle_court": "Agent / Agente de liaison interne",
+      "code_ogr": 10474
+    },
+    {
+      "libelle": "Agent / Agente du service de courrier interne",
+      "libelle_court": "Agent / Agente du service de courrier interne",
+      "code_ogr": 10735
+    },
+    {
+      "libelle": "Employé / Employée au courrier",
+      "libelle_court": "Employé / Employée au courrier",
+      "code_ogr": 14749
+    },
+    {
+      "libelle": "Vaguemestre",
+      "libelle_court": "Vaguemestre",
+      "code_ogr": 20499
+    }
+  ],
+  "definition": "L' Agent de liaison courrier garantit la gestion et la distribution efficace du courrier au sein des organisations. Assure la réception, le tri et la distribution du courrier interne et externe Organise les circuits de distribution du courrier pour optimiser les délais de livraison Maintient une communication régulière avec les différents départements pour garantir une distribution fluide Gère l'envoi de courriers spéciaux et assure le suivi des envois importants Peut être amené à gérer des tâches administratives liées au courrier, comme l'enregistrement des envois et réceptions Respecte les procédures de sécurité et de confidentialité dans la manipulation du courrier",
+  "acces_metier": "Cet emploi est accessible sans qualification particulière, mais un CAP ou un BEP peut être un atout. Les formations internes sur la gestion du courrier et les processus logistiques sont couramment proposées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Coordonner les opérations avec les autres départements",
+              "code_ogr": 483340,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés aux techniques du métier",
+              "code_ogr": 486779,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Intégrer des technologies numériques dans le système de courrier",
+              "code_ogr": 500559,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir à jour les registres de distribution",
+              "code_ogr": 500552,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels de suivi de courrier",
+              "code_ogr": 500550,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Procéder à l'enregistrement, au tri, à l'affranchissement du courrier",
+              "code_ogr": 101622,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les travaux de préparation et la distribution de l'ensemble du courrier et des colis",
+              "code_ogr": 511391,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Suivre les procédures de sécurité pour le transport de documents sensibles",
+              "code_ogr": 500549,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et l'état du courrier reçu",
+              "code_ogr": 500548,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer des contrôles réguliers des processus de courrier",
+              "code_ogr": 500554,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Analyser les besoins en fournitures de bureau et gérer les approvisionnements",
+              "code_ogr": 483574,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la conformité des livraisons",
+              "code_ogr": 485766,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Collecter du courrier",
+              "code_ogr": 123295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager le respect des délais de distribution",
+              "code_ogr": 505637,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des itinéraires de livraison optimisés",
+              "code_ogr": 124795,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser une tournée",
+              "code_ogr": 110603,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Relever le courrier",
+              "code_ogr": 116211,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Restituer les éléments non distribués au service concerné",
+              "code_ogr": 109620,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner, distribuer ou mettre à disposition des courriers, colis, avis d'échéance, quittances de loyer, etc",
+              "code_ogr": 115356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Résoudre les problèmes de distribution de courrier",
+              "code_ogr": 500553,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Accomplir des formalités administratives et réglementaires",
+              "code_ogr": 404516,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion des courriers entrants et sortants",
+              "code_ogr": 486859,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs de services",
+              "code_ogr": 506132,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations clients relatives à la distribution",
+              "code_ogr": 505635,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Assurer la liaison avec les clients internes pour les besoins de courrier",
+              "code_ogr": 500566,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer les clients sur le statut des envois",
+              "code_ogr": 508496,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Proposer des améliorations pour le système de distribution",
+              "code_ogr": 500555,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Elaborer des stratégies pour la gestion des pics de charge de courrier",
+              "code_ogr": 500567,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Garantir la confidentialité des informations",
+              "code_ogr": 403933,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des échanges et informations",
+              "code_ogr": 486580,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les urgences et les priorités dans la distribution",
+              "code_ogr": 500547,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de dispositifs de sécurité (serrures, scellés)",
+              "code_ogr": 499033,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes de tracking de courrier",
+              "code_ogr": 499313,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP opérateur/opératrice de service - Relation client et livraison",
+              "code_ogr": 514129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP opérateur/opératrice logistique",
+              "code_ogr": 490958,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles d'affranchissement du courrier",
+              "code_ogr": 109662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des procédures de sécurité pour le courrier",
+              "code_ogr": 493284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes postales",
+              "code_ogr": 493165,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des plis spécifiques",
+              "code_ogr": 109627,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de confidentialité pour le traitement du courrier",
+              "code_ogr": 496272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de vérification d'identité",
+              "code_ogr": 109626,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de gestion administrative",
+              "code_ogr": 498131,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'encartage",
+              "code_ogr": 109622,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des retours de courrier non distribué",
+              "code_ogr": 495401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de marquage et d'étiquetage du courrier",
+              "code_ogr": 498287,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à suivre des procédures strictes",
+              "code_ogr": 481433,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'applications mobiles pour la distribution",
+              "code_ogr": 499005,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des envois spéciaux et recommandés",
+              "code_ogr": 497603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tri et distribution du courrier",
+              "code_ogr": 498994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de comptage",
+              "code_ogr": 100086,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion du temps et des itinéraires",
+              "code_ogr": 479816,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tri du courrier",
+              "code_ogr": 498861,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1631 - Opérateur / Opératrice de vérification des dispositifs embarqués Véhicules de Transports Routiers VTR",
+      "code_org_rome_cible": 510606,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1603 - Facteur / Factrice",
+      "code_org_rome_cible": 476,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "M1620 - Assistant / Assistante marketing",
+      "code_org_rome_cible": 510059,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1417 - Chef / Cheffe des ventes",
+      "code_org_rome_cible": 488908,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1302 - Responsable entrepôt logistique",
+      "code_org_rome_cible": 508,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1304 - Directeur / Directrice logistique",
+      "code_org_rome_cible": 488588,
+      "ordre_mobilite": 7
+    }
+  ]
+}

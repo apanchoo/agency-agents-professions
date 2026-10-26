@@ -1,0 +1,519 @@
+{
+  "numero": 151,
+  "rome": {
+    "code_rome": "E1304",
+    "intitule": "Agent / Agente de façonnage et routage",
+    "code_ogr": 135
+  },
+  "appellations": [
+    {
+      "libelle": "Affranchisseur / Affranchisseuse",
+      "libelle_court": "Affranchisseur / Affranchisseuse",
+      "code_ogr": 10330
+    },
+    {
+      "libelle": "Agent / Agente de mise sous plis",
+      "libelle_court": "Agent / Agente de mise sous plis",
+      "code_ogr": 10530
+    },
+    {
+      "libelle": "Agent / Agente de routage manuel",
+      "libelle_court": "Agent / Agente de routage manuel",
+      "code_ogr": 10595
+    },
+    {
+      "libelle": "Agent / Agente d'exécution en routage et façonnage",
+      "libelle_court": "Agent / Agente d'exécution en routage et façonnage",
+      "code_ogr": 10702
+    },
+    {
+      "libelle": "Agent / Agente d'exploitation en routage",
+      "libelle_court": "Agent / Agente d'exploitation en routage",
+      "code_ogr": 10713
+    },
+    {
+      "libelle": "Décortiqueur / Décortiqueuse",
+      "libelle_court": "Décortiqueur / Décortiqueuse",
+      "code_ogr": 13912
+    },
+    {
+      "libelle": "Employé / Employée de routage",
+      "libelle_court": "Employé / Employée de routage",
+      "code_ogr": 14787
+    },
+    {
+      "libelle": "Etiqueteur / Etiqueteuse",
+      "libelle_court": "Etiqueteur / Etiqueteuse",
+      "code_ogr": 14921
+    },
+    {
+      "libelle": "Margeur / Margeuse en façonnage",
+      "libelle_court": "Margeur / Margeuse en façonnage",
+      "code_ogr": 16392
+    },
+    {
+      "libelle": "Margeur ramasseur / Margeuse ramasseuse en façonnage",
+      "libelle_court": "Margeur ramasseur / Margeuse ramasseuse en façonnage",
+      "code_ogr": 16394
+    },
+    {
+      "libelle": "Margeur ramasseur / Margeuse ramasseuse en routage",
+      "libelle_court": "Margeur ramasseur / Margeuse ramasseuse en routage",
+      "code_ogr": 16395
+    },
+    {
+      "libelle": "Opérateur / Opératrice de façonnage en industrie graphique",
+      "libelle_court": "Opérateur / Opératrice de façonnage en industrie graphique",
+      "code_ogr": 17098
+    },
+    {
+      "libelle": "Opérateur / Opératrice de machine manuelle d'affranchissement",
+      "libelle_court": "Opérateur(trice) de machine manuelle d'affranchissement",
+      "code_ogr": 17116
+    },
+    {
+      "libelle": "Opérateur / Opératrice d'exécution de façonnage",
+      "libelle_court": "Opérateur / Opératrice d'exécution de façonnage",
+      "code_ogr": 17186
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de façonnage manuel",
+      "libelle_court": "Ouvrier / Ouvrière de façonnage manuel",
+      "code_ogr": 17436
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de finition et façonnage",
+      "libelle_court": "Ouvrier / Ouvrière de finition et façonnage",
+      "code_ogr": 17438
+    },
+    {
+      "libelle": "Ouvrier cartonnier / Ouvrière cartonnière de finition",
+      "libelle_court": "Ouvrier cartonnier / Ouvrière cartonnière de finition",
+      "code_ogr": 17410
+    },
+    {
+      "libelle": "Papetier / Papetière en façonnage",
+      "libelle_court": "Papetier / Papetière en façonnage",
+      "code_ogr": 17555
+    },
+    {
+      "libelle": "Receveur / Receveuse en façonnage",
+      "libelle_court": "Receveur / Receveuse en façonnage",
+      "code_ogr": 18331
+    }
+  ],
+  "definition": "L'agent de façonnage et routage est un professionnel du secteur de l'imprimerie et de la logistique chargé de préparer, finaliser et expédier des documents imprimés (courriers, brochures, catalogues, magazines, mailings). Prépare les documents imprimés en réalisant les opérations de façonnage (pliage, encartage, assemblage, agrafage, découpe) Règle et conduit les machines de mise sous pli, d'insertion ou de conditionnement Contrôle la conformité des supports et vérifie la qualité du façonnage avant expédition Trie et organise les envois selon les critères de routage et les normes postales en vigueur Assure le conditionnement, l'étiquetage et la préparation des lots pour l'expédition dans le respect des délais",
+  "acces_metier": "Le métier est accessible sans diplôme ni expérience professionnelle, mais des formations de niveau CAP à Bac pro dans les industries graphiques / façonnage apportent des compétences techniques reconnues qui facilitent l'accès au métier et améliorent l'employabilité.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Approvisionner une machine en matière première ou en produit",
+              "code_ogr": 300208,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maîtriser les techniques de façonnage : pliage, assemblage, encartage, agrafage, découpe, reliure",
+              "code_ogr": 520209,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser et préparer les envois selon les règles postales, le tri et le routage pour respecter les délais",
+              "code_ogr": 520211,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations manuelles de façonnage ou routage",
+              "code_ogr": 102901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser et régler des machines de mise sous pli ou de conditionnement en toute sécurité",
+              "code_ogr": 520210,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Surveiller le fonctionnement d'une machine de façonnage préréglée, ajuster les réglages ou signaler les dysfonctionnements",
+              "code_ogr": 114236,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des produits finis",
+              "code_ogr": 102902,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Retirer des produits non conformes",
+              "code_ogr": 102903,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser l'étiquetage de produits",
+              "code_ogr": 102912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser manuellement l'affranchissement pour l'expédition",
+              "code_ogr": 102910,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser manuellement la mise sous tube pour l'expédition",
+              "code_ogr": 102911,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Organiser une livraison",
+              "code_ogr": 300276,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Engins de manutention non motorisés (transpalette, diable, etc.)",
+              "code_ogr": 101829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines de conditionnement",
+              "code_ogr": 124455,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'une machine de mise sous pli",
+              "code_ogr": 102873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outillage manuel",
+              "code_ogr": 118331,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro façonnage de produits imprimés, routage",
+              "code_ogr": 513993,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro réalisation de produits imprimés et plurimédia option B productions imprimées",
+              "code_ogr": 514001,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Electricité",
+              "code_ogr": 102717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mise à jour des connaissances en mécanique",
+              "code_ogr": 104514,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de quantité",
+              "code_ogr": 101743,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes d'adressage",
+              "code_ogr": 102876,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'approvisionnement de machines de routage",
+              "code_ogr": 117649,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'approvisionnement de machines de façonnage",
+              "code_ogr": 117648,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'encartage",
+              "code_ogr": 109622,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pliage",
+              "code_ogr": 100746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques manuelles de façonnage",
+              "code_ogr": 102905,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de collage",
+              "code_ogr": 100800,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "89",
+      "libelle": "Industrie - Papier et imprimerie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "E1316 - Conducteur / Conductrice de machines à sérigraphier",
+      "code_org_rome_cible": 520205,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "E1307 - Opérateur / Opératrice en reprographie",
+      "code_org_rome_cible": 138,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H3102 - Conducteur / Conductrice d'installation de pâte à papier",
+      "code_org_rome_cible": 293,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2604 - Assembleur / Assembleuse en produits électriques et électroniques",
+      "code_org_rome_cible": 270,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H2909 - Assembleur monteur / Assembleuse monteuse",
+      "code_org_rome_cible": 286,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "E1302 - Conducteur / Conductrice de machines de façonnage routage",
+      "code_org_rome_cible": 133,
+      "ordre_mobilite": 10
+    }
+  ]
+}

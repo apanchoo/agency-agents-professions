@@ -1,0 +1,186 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509525,
+    "code_rome": "H2708",
+    "libelle": "Technicien / Technicienne d'exploitation nucléaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2701"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.837,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Bases de Thermodynamique",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=70",
+          "selection_score": 58.7998,
+          "shared_terms": [
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Thermodynamique",
+          "page": 110,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=110",
+          "selection_score": 58.1684,
+          "shared_terms": [
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.05",
+          "title": "Technologies et exploitation des centrales de production d’énergie",
+          "page": 205,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=205",
+          "selection_score": 43.5831,
+          "shared_terms": [
+            "energie",
+            "exploitation",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 46.8433,
+          "shared_terms": [
+            "energetique",
+            "environnementale",
+            "installation",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EXPLOIT.01",
+          "title": "Accompagnement d’une entreprise à la mise en place d’un plan de maintenance de ses installations qui soit compatible avec leur exploitation",
+          "page": 194,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=194",
+          "selection_score": 46.1942,
+          "shared_terms": [
+            "exploitation",
+            "installation",
+            "maintenance",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.521,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2701",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Thermodynamique Energétique",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=80",
+          "selection_score": 65.4199,
+          "shared_terms": [
+            "energetique",
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.01",
+          "title": "Propriétés thermodynamiques de la matière",
+          "page": 52,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=52",
+          "selection_score": 64.4998,
+          "shared_terms": [
+            "matiere",
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.06",
+          "title": "TP Réacteurs et bioréacteurs",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=149",
+          "selection_score": 41.1766,
+          "shared_terms": [
+            "reacteur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CQESP.02",
+          "title": "Etude QSE d’une installation de production ou de traitement (1)",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=172",
+          "selection_score": 28.3164,
+          "shared_terms": [
+            "installation",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CQESP.02",
+          "title": "Etude QSE d’une installation de production ou de traitement (2)",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=195",
+          "selection_score": 28.3164,
+          "shared_terms": [
+            "installation",
+            "production"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

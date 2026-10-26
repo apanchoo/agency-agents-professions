@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509880,
+    "code_rome": "M1222",
+    "libelle": "Assistant / Assistante de contrôle budgétaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1204"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 19.464,
+      "matched_terms": [
+        "controle budgetaire l'assistant de controle budgetaire participe a la gestion",
+        "financ"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1204",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.09",
+          "title": "Contrôle de gestion : Méthode des coûts cibles et tableaux de bord",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=176",
+          "selection_score": 91.8845,
+          "shared_terms": [
+            "bord",
+            "controle",
+            "couts",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.10",
+          "title": "Outils et pilotage de l’organisation : Système d’information décisionnel, tableaux de bord et reporting approfondi",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=235",
+          "selection_score": 71.1092,
+          "shared_terms": [
+            "bord",
+            "reporting",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.10",
+          "title": "Contrôle de gestion : Gestion budgétaire",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=140",
+          "selection_score": 57.5672,
+          "shared_terms": [
+            "budgetaire",
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 46.8092,
+          "shared_terms": [
+            "etablir",
+            "financier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GPRH.02",
+          "title": "S’assurer de la conformité du suivi individuel du salarié",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=336",
+          "selection_score": 46.2864,
+          "shared_terms": [
+            "conformite",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

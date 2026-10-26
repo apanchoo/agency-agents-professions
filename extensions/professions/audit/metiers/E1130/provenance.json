@@ -1,0 +1,194 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521028,
+    "code_rome": "E1130",
+    "libelle": "Chargé / Chargée d'édition musicale graphique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1105"
+  },
+  "but": [
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 100.153,
+      "matched_terms": [
+        "graph",
+        "multimedia",
+        "numerique",
+        "web"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1105",
+      "title_terms": [
+        "graph"
+      ],
+      "specific_title_terms": [
+        "graph"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.CREA.06",
+          "title": "Culture artistique",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=139",
+          "selection_score": 78.4307,
+          "shared_terms": [
+            "artistique",
+            "culture"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CREA.06",
+          "title": "Création numérique",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=153",
+          "selection_score": 74.2575,
+          "shared_terms": [
+            "creation",
+            "numerique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CREA.05",
+          "title": "Gestion de contenus spécialisée",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=138",
+          "selection_score": 64.0042,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 101.9009,
+          "shared_terms": [
+            "contenu",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 77.3414,
+          "shared_terms": [
+            "support",
+            "web"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.832,
+      "matched_terms": [
+        "editorial",
+        "information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1105",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Publication assistée par ordinateur (PAO)",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=87",
+          "selection_score": 136.23,
+          "shared_terms": [
+            "assistee",
+            "ordinateur",
+            "pao",
+            "publication"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.17",
+          "title": "Culture et tendances publicitaires / Culture graphique",
+          "page": 589,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=589",
+          "selection_score": 65.4836,
+          "shared_terms": [
+            "culture",
+            "graphique",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.PUB.05",
+          "title": "Culture et tendances / Design graphique",
+          "page": 690,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=690",
+          "selection_score": 64.3289,
+          "shared_terms": [
+            "culture",
+            "graphique",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.JOU.02",
+          "title": "Produire un reportage multimédia et proposer une stratégie de diffusion",
+          "page": 403,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=403",
+          "selection_score": 45.0616,
+          "shared_terms": [
+            "diffusion",
+            "multimedia"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.JOU.01",
+          "title": "Produire une recherche sur un fait de société à l’international",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=379",
+          "selection_score": 44.1387,
+          "shared_terms": [
+            "fait"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

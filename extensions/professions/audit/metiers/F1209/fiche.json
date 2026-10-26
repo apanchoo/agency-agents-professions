@@ -1,0 +1,772 @@
+{
+  "numero": 33334,
+  "rome": {
+    "code_rome": "F1209",
+    "intitule": "Chef / Cheffe de chantier travaux publics",
+    "code_ogr": 510010
+  },
+  "appellations": [
+    {
+      "libelle": "Artisan en travaux VRD (voirie et réseaux divers) / Artisane en travaux VRD (voirie et réseaux divers)",
+      "libelle_court": "Artisan(e) en travaux VRD",
+      "code_ogr": 517996
+    },
+    {
+      "libelle": "Chef / Cheffe de chantier travaux publics et voirie",
+      "libelle_court": "Chef / Cheffe de chantier travaux publics et voirie",
+      "code_ogr": 12102
+    },
+    {
+      "libelle": "Chef / Cheffe de section des travaux publics",
+      "libelle_court": "Chef / Cheffe de section des travaux publics",
+      "code_ogr": 510078
+    },
+    {
+      "libelle": "Entrepreneur en terrassement et VRD (voirie et réseaux divers) / Entrepreneuse en terrassement et VRD (voirie et réseaux divers)",
+      "libelle_court": "Entrepreneur(euse) en terrassement et VRD",
+      "code_ogr": 517995
+    }
+  ],
+  "definition": "Le chef de chantier travaux publics, toujours présent sur le terrain, coordonne et planifie un ou plusieurs chantiers (selon la taille du projet) pour lesquels il est responsable d'exécution. Contrôle et coordonne le travail des équipes Tient à jour le planning d'avancement des travaux Gère l'ensemble des ressources humaines et matérielles nécessaires Participe à la préparation et au suivi budgétaire du chantier Peut remplacer le conducteur de travaux dans certaines tâches",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac +2 à Bac +5 en Travaux Publics, Génie Civil ou Construction Durable. Il existe également un titre professionnel de chef de chantier routes et canalisation.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Contrôler l'application du plan de travail",
+              "code_ogr": 512937,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner une ou plusieurs équipes",
+              "code_ogr": 512959,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer le suivi administratif (pointages, etc.) et définir les plannings",
+              "code_ogr": 403369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les compétences et la performance de ses équipes",
+              "code_ogr": 513034,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager les chefs d'équipes",
+              "code_ogr": 513128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévoir les besoins en recrutement en lien avec le conducteur de travaux",
+              "code_ogr": 403506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'adapter aux interlocuteurs pour expliquer les attendus du chantier (technique, délais...)",
+              "code_ogr": 513386,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Veiller à la bonne ambiance au sein des équipes et gérer les conflits",
+              "code_ogr": 513471,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner et former dans son domaine d'activité",
+              "code_ogr": 512769,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins de formation",
+              "code_ogr": 512291,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller au respect de la méthodologie et des conditions de formation en situation de travail et de tutorat",
+              "code_ogr": 513477,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Assurer la mise à jour de la maquette numérique sur les aspects concernés",
+              "code_ogr": 403355,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner des supports de suivi d'activité",
+              "code_ogr": 126019,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des équipements de navigation (GPS professionnel, applications mobiles)",
+              "code_ogr": 513452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les logiciels de pilotage de drones",
+              "code_ogr": 400813,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Analyser et suivre les plans d'exécution transmis par le conducteur de travaux (plans, cadences, échéances de livraison, budget)",
+              "code_ogr": 403504,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les calendriers d'avancement des travaux et effectuer les ajustements nécessaires au respect des délais et du budget engagé",
+              "code_ogr": 403503,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Coordonner la remise en état du site",
+              "code_ogr": 512956,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner le repli de tous les équipements et dispositifs du chantier",
+              "code_ogr": 400754,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir et assurer la bonne implantation du chantier sur la zone de travaux selon les plans d'exécution (marquage au sol, traçage de l'ouvrage, identification des réseaux, balisage)",
+              "code_ogr": 403502,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer régulièrement les revues de chantier avec le conducteur de travaux afin de suivre l'avancement global du chantier",
+              "code_ogr": 403501,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier des moyens techniques et matériels pour un chantier",
+              "code_ogr": 122721,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les activités et contraintes des intervenants en les visualisant et les intégrant dans la maquette numérique",
+              "code_ogr": 403376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et adapter les chantiers en tenant compte de l'environnement de travail (équipe, matériaux, matériel, météo, etc.)",
+              "code_ogr": 513161,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Participer à l'établissement des plans de récolement",
+              "code_ogr": 513183,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer l'exécution du chantier",
+              "code_ogr": 300236,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner un ouvrage",
+              "code_ogr": 116467,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Alerter et notifier les incidents (dont ceux relatifs aux risques de chantier) à sa hiérarchie",
+              "code_ogr": 512793,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Anticiper des dangers, problèmes ou besoins matériels et techniques",
+              "code_ogr": 300477,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir et mettre en oeuvre des protocoles de sécurité",
+              "code_ogr": 300150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre l'équipe hors du danger réel ou supposé",
+              "code_ogr": 513151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler un fond de fouilles, une tranchée ou un radier",
+              "code_ogr": 124091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler une habilitation spécifique",
+              "code_ogr": 123653,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la conformité des travaux réalisés",
+              "code_ogr": 505520,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les commandes de fournitures et les stocks de matières premières",
+              "code_ogr": 403496,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le stockage des matériaux, des éléments de structure et des éléments préfabriqués",
+              "code_ogr": 403625,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Saisir et transmettre régulièrement des relevés de chantier en utilisant les outils digitaux",
+              "code_ogr": 513387,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Communiquer les dépenses quotidiennes au conducteur de travaux",
+              "code_ogr": 512879,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des partenariats avec des fournisseurs",
+              "code_ogr": 508362,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire un point régulier (organisation, dépenses, avancement...) avec le conducteur de travaux pour réguler le budget",
+              "code_ogr": 513057,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre les consommations, les dépenses en fin de chantier pour les chantiers de petite taille",
+              "code_ogr": 513416,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Faire le suivi budgétaire du chantier",
+              "code_ogr": 513052,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Négocier des contrats avec des fournisseurs et des distributeurs",
+              "code_ogr": 507798,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evaluer les impacts et les risques des travaux sur l'environnement du chantier en analysant le rapport d'études afin de proposer une solution technique adaptée",
+              "code_ogr": 513035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Garantir le respect des procédures des normes environnementales lors du contrôle de l'avancement du chantier afin de réduire l'impact du chantier sur le milieu",
+              "code_ogr": 513061,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place une stratégie d'achat responsable et choisir les filières et produits d'approvisionnements afin de diminuer l'impact environnemental",
+              "code_ogr": 512865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier les moyens humains et matériels en utilisant les moyens adaptés afin de réduire l'impact environnemental et préserver l'environnement du chantier",
+              "code_ogr": 513165,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser l'évacuation et le recyclage des déchets du chantier",
+              "code_ogr": 403307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Coordonner l'intervention des machines et des engins de chantier",
+              "code_ogr": 403418,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fixer au quotidien les objectifs de production (qualité, respect des délais) aux chefs d'équipe et les aider en cas d'incidents (déplacement d'engins, rectification de métrés, etc.)",
+              "code_ogr": 403509,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Participer à l'analyse des causes et proposer une action corrective",
+              "code_ogr": 513180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la performance et la rentabilité d'une activité ou d'un projet",
+              "code_ogr": 300311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer des ajustements au conducteur de travaux pour améliorer la rentabilité, tels que de nouveaux procédés ou matériaux",
+              "code_ogr": 403626,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Décrire un problème, répondre aux questions (internes et externes) et expliquer les solutions proposées de manière compréhensible",
+              "code_ogr": 512966,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir de bonnes relations avec les riverains et les différents intervenants présents dans l'environnement du chantier (autres corps de métier, autres entreprises de construction)",
+              "code_ogr": 403546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager les équipes en les sensibilisant aux enjeux de transition écologique afin de développer les bonnes pratiques sur le chantier",
+              "code_ogr": 513129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre une décision et l'expliquer",
+              "code_ogr": 300459,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son activité",
+              "code_ogr": 300462,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre des informations et s'assurer de leur compréhension en adoptant un langage approprié aux interlocuteurs internes et externes",
+              "code_ogr": 513440,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer les règles de sécurité et de confidentialité des données",
+              "code_ogr": 512819,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire respecter les règles du plan particulier de sécurité et de protection de la santé (PPSP)",
+              "code_ogr": 403555,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer un ajustement des moyens (humains et techniques)",
+              "code_ogr": 513237,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "GPS et cartes topographiques",
+              "code_ogr": 103126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des équipements de chantier",
+              "code_ogr": 482033,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "DUT génie civil - construction durable",
+              "code_ogr": 514409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité génie civil-construction durable parcours réhabilitation et amélioration des performances environnementales des bâtiments",
+              "code_ogr": 404621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention génie civil",
+              "code_ogr": 490882,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité génie civil-construction durable parcours bureaux d'études conception",
+              "code_ogr": 514082,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention génie urbain",
+              "code_ogr": 514627,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel chef de chantier travaux publics routes et canalisations",
+              "code_ogr": 512483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité génie civil-construction durable parcours travaux publics",
+              "code_ogr": 514083,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du BTP : génie civil et construction",
+              "code_ogr": 490901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel chef de chantier en voirie et réseaux divers",
+              "code_ogr": 522118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du BTP : travaux publics",
+              "code_ogr": 490902,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS travaux publics",
+              "code_ogr": 512397,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention génie civil",
+              "code_ogr": 512446,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Optimisation des coûts de production",
+              "code_ogr": 496364,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Building Information Modeling (BIM)",
+              "code_ogr": 125142,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des réunions de chantier",
+              "code_ogr": 496619,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des délais de construction",
+              "code_ogr": 481129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels métiers",
+              "code_ogr": 300920,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Résistance Des Matériaux (RDM)",
+              "code_ogr": 126026,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Topographie",
+              "code_ogr": 103060,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes de qualité, hygiène, sécurité et environnement",
+              "code_ogr": 119628,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de la construction",
+              "code_ogr": 103045,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de sécurisation d'un chantier",
+              "code_ogr": 125986,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plan Particulier de Sécurité et de Protection de la Santé (PPSPS)",
+              "code_ogr": 103044,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Coordination des sous-traitants",
+              "code_ogr": 493864,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        },
+        {
+          "libelle": "Utilisation d'équipements de protection collective (EPC)",
+          "code_ogr": 489576
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1203 - Chef / Cheffe de carrière",
+      "code_org_rome_cible": 152,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1205 - Directeur / Directrice de travaux du bâtiment",
+      "code_org_rome_cible": 403076,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1204 - Animateur / Animatrice QSE - Qualité Sécurité Environnement BTP",
+      "code_org_rome_cible": 153,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1210 - Directeur / Directrice de travaux TP - Travaux Publics",
+      "code_org_rome_cible": 510445,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1208 - Conducteur / Conductrice de travaux publics",
+      "code_org_rome_cible": 509797,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2306 - Responsable de site éco-industriel",
+      "code_org_rome_cible": 425,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2203 - Responsable de secteur en propreté de locaux",
+      "code_org_rome_cible": 418,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2302 - Responsable de collecte de déchets",
+      "code_org_rome_cible": 421,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "I1101 - Directeur / Directrice de la gestion technique des bâtiments",
+      "code_org_rome_cible": 304,
+      "ordre_mobilite": 10
+    }
+  ]
+}

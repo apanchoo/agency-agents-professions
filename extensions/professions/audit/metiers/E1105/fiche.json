@@ -1,0 +1,535 @@
+{
+  "numero": 123,
+  "rome": {
+    "code_rome": "E1105",
+    "intitule": "Editeur / Editrice",
+    "code_ogr": 123
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante d'édition",
+      "libelle_court": "Assistant / Assistante d'édition",
+      "code_ogr": 11262
+    },
+    {
+      "libelle": "Conseiller / Conseillère littéraire",
+      "libelle_court": "Conseiller / Conseillère littéraire",
+      "code_ogr": 13466
+    },
+    {
+      "libelle": "Directeur / Directrice littéraire",
+      "libelle_court": "Directeur / Directrice littéraire",
+      "code_ogr": 14457
+    },
+    {
+      "libelle": "Editeur / Editrice junior",
+      "libelle_court": "Editeur / Editrice junior",
+      "code_ogr": 14580
+    },
+    {
+      "libelle": "Editeur / Editrice multimédia",
+      "libelle_court": "Editeur / Editrice multimédia",
+      "code_ogr": 14581
+    },
+    {
+      "libelle": "Responsable d'édition",
+      "libelle_court": "Responsable d'édition",
+      "code_ogr": 18897
+    },
+    {
+      "libelle": "Secrétaire d'édition",
+      "libelle_court": "Secrétaire d'édition",
+      "code_ogr": 19383
+    }
+  ],
+  "definition": "L'éditeur participe à la réalisation du programme éditorial de son périmètre en relation avec l'auteur et les lecteurs-correcteurs. Recherche et propose des auteurs et des illustrateurs Participe à la négociation des contrats Supervise la réalisation des ouvrages dans le respect des budgets et du planning en s'assurant de leur qualité et leur accessibilité Réalise la finalisation des textes, en relation étroite avec l'auteur Participe aux prises de décision concernant la réalisation physique ou numérique des ouvrages et le choix des illustrations Rédige les quatrièmes de couverture et les argumentaires de vente des ouvrages Supervise la diffusion et le promotion des ouvrages",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac + 3 à Bac +5 dans les secteurs de l'édition, des métiers du livre, des sciences humaines, de l'information, de la littérature ou de l'art. Une première expérience de 1 à 2 ans dans le secteur ou dans des fonctions similaires est requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner un auteur dans le développement et l'amélioration de son texte",
+              "code_ogr": 520259,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Collecter et préparer les textes, illustrations",
+              "code_ogr": 102556,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir la maquette, la mise en page, l'intégration des textes et le traitement des images",
+              "code_ogr": 102557,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir la politique éditoriale (collections, projets d'éditions, programme éditorial) et sa mise en oeuvre",
+              "code_ogr": 114198,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déterminer des solutions techniques, des modalités de fabrication",
+              "code_ogr": 114195,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des supports de présentation d'ouvrages (couverture, plaquette, affiche, pages web)",
+              "code_ogr": 114194,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger un article, un contenu éditorial",
+              "code_ogr": 300115,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger une note de lecture",
+              "code_ogr": 102562,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre les usages, limites et enjeux légaux de l'IA/IAG dans le traitement et la génération de contenus",
+              "code_ogr": 521284,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Organiser les différentes étapes de production d'un ouvrage",
+              "code_ogr": 520260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Coordonner la réalisation et la fabrication d'un ouvrage",
+              "code_ogr": 122135,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité littéraire et la cohérence d'un manuscrit",
+              "code_ogr": 520258,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Valider les textes, le Bon à Tirer",
+              "code_ogr": 102559,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300315,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les droits d'auteur et la propriété intellectuelle",
+              "code_ogr": 508230,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un contrat",
+              "code_ogr": 300349,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Connaitre et prendre compte les enjeux environnementaux dans ses pratiques éditoriales",
+              "code_ogr": 520619,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Définir et mettre en oeuvre la politique et les actions de promotion et de diffusion des ouvrages",
+              "code_ogr": 114196,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des contrats et gérer les droits d'exploitation",
+              "code_ogr": 520261,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rechercher des auteurs et sélectionner des ouvrages, textes, manuscrits",
+              "code_ogr": 117297,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Diriger une ou plusieurs collections (romans, ouvrages scientifiques, ...)",
+              "code_ogr": 114197,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies de contenu innovantes",
+              "code_ogr": 520287,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la mise en œuvre d'un projet, d'un plan d'action",
+              "code_ogr": 300241,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Suivre des projets d'édition avec les intervenants, auteurs, illustrateurs, imprimeurs, correcteurs",
+              "code_ogr": 102560,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer en langue anglaise à l'oral et a l'écrit",
+              "code_ogr": 512061,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Contrôler les textes, les épreuves et la structure des livres, des ouvrages, de revues",
+              "code_ogr": 102558,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Organiser et développer son réseau professionnel",
+              "code_ogr": 300502,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Graphisme",
+              "code_ogr": 100633,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bandes dessinées",
+              "code_ogr": 102483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Littérature",
+              "code_ogr": 102460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Typographie",
+              "code_ogr": 122238,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Publication Assistée par Ordinateur (PAO)",
+              "code_ogr": 119226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manuels scolaires et universitaires",
+              "code_ogr": 118302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Domaine juridique, organisation d'entreprise, société",
+              "code_ogr": 102572,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Domaine technologique, technique",
+              "code_ogr": 102576,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Domaine scientifique",
+              "code_ogr": 102574,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ouvrages d'art",
+              "code_ogr": 124922,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils multimédias",
+              "code_ogr": 118238,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Littérature jeunesse",
+              "code_ogr": 118139,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guides pratiques, loisirs",
+              "code_ogr": 102488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire",
+              "code_ogr": 118902,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travaux d'édition",
+              "code_ogr": 122136,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels d'édition multimédia",
+              "code_ogr": 119523,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chaîne graphique",
+              "code_ogr": 102461,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes rédactionnelles",
+              "code_ogr": 102226,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'impression",
+              "code_ogr": 102530,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques éditoriales",
+              "code_ogr": 102563,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'infographie",
+              "code_ogr": 102531,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Institution culturelle",
+          "code_ogr": 489413
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "97",
+      "libelle": "Édition",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "E1132 - Directeur éditorial / Directrice éditoriale",
+      "code_org_rome_cible": 520262,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "E1106 - Journaliste",
+      "code_org_rome_cible": 124,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "E1104 - Concepteur / Conceptrice de contenus multimedia",
+      "code_org_rome_cible": 122,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "E1103 - Chargé / Chargée des relations publiques",
+      "code_org_rome_cible": 121,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "E1102 - Auteur / Auteure",
+      "code_org_rome_cible": 120,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "E1401 - Chef / Cheffe de publicité",
+      "code_org_rome_cible": 140,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1305 - Préparateur-correcteur / Préparatrice-correctrice en industrie graphique",
+      "code_org_rome_cible": 136,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1602 - Conservateur / Conservatrice du patrimoine",
+      "code_org_rome_cible": 390,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1702 - Planneur / Planneuse stratégique",
+      "code_org_rome_cible": 484,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "L1303 - Agent / Agente de talent",
+      "code_org_rome_cible": 444,
+      "ordre_mobilite": 10
+    }
+  ]
+}

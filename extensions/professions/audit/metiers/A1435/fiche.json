@@ -1,0 +1,536 @@
+{
+  "numero": 33027,
+  "rome": {
+    "code_rome": "A1435",
+    "intitule": "Eleveur / Eleveuse d'animaux de compagnie",
+    "code_ogr": 509407
+  },
+  "appellations": [
+    {
+      "libelle": "Eleveur / Eleveuse de chats",
+      "libelle_court": "Eleveur / Eleveuse de chats",
+      "code_ogr": 14693
+    },
+    {
+      "libelle": "Eleveur / Eleveuse de chiens",
+      "libelle_court": "Eleveur / Eleveuse de chiens",
+      "code_ogr": 14698
+    },
+    {
+      "libelle": "Garçon / Fille de chenil",
+      "libelle_court": "Garçon / Fille de chenil",
+      "code_ogr": 15189
+    }
+  ],
+  "definition": "L'Éleveur / Eleveuse d'animaux de compagnie élève et soigne essentiellement des chiens et des chats de race en vue de les revendre. Sélectionne et reproduit des races selon des critères spécifiques Fournit une alimentation équilibrée et adaptée aux besoins de chaque animal Assure le suivi vétérinaire et les soins préventifs nécessaires Conseille les clients sur le soin et l'entretien des animaux acquis Peut participer à des expositions ou compétitions animales",
+  "acces_metier": "Cet emploi est accessible avec un Certificat de Capacité pour les Animaux de Compagnie d'Espèces Domestiques (ACACED) obligatoire pour exercer.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Participer à des compétitions sportives, des concours animaliers ou des expositions",
+              "code_ogr": 511091,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Administrer des produits vétérinaires",
+              "code_ogr": 119894,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer les rations alimentaires selon les besoins physiques et physiologiques des animaux",
+              "code_ogr": 122572,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Eduquer/dresser des animaux",
+              "code_ogr": 300295,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Inculquer à un animal des comportements adaptés à différentes situations",
+              "code_ogr": 113922,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier les vaccinations des animaux",
+              "code_ogr": 505107,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et distribuer les rations alimentaires aux animaux",
+              "code_ogr": 405511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'état de gestation d'un animal",
+              "code_ogr": 123086,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller le comportement quotidien des animaux",
+              "code_ogr": 500435,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Documenter les lignées génétiques pour la traçabilité",
+              "code_ogr": 500444,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les dossiers de suivi individuel des animaux",
+              "code_ogr": 502547,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Construire une caisse de mise bas",
+              "code_ogr": 119897,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins en renouvellement ou diversification des espèces d'un élevage",
+              "code_ogr": 122707,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier un animal par marquage",
+              "code_ogr": 122751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les cycles de reproduction",
+              "code_ogr": 122586,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner un mâle reproducteur",
+              "code_ogr": 122404,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier les origines géographiques ou génétiques d'un animal",
+              "code_ogr": 123109,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Nettoyer les équipements et les zones d'élevage",
+              "code_ogr": 485931,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de nourriture et autres fournitures",
+              "code_ogr": 485941,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité et le bien-être des animaux lors du transport",
+              "code_ogr": 404022,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Planifier les visites de contrôle vétérinaire pour les animaux",
+              "code_ogr": 504249,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller les clients sur les soins appropriés aux animaux",
+              "code_ogr": 500443,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fournir des informations sur la nutrition, l'exercice et le bien-être général des animaux",
+              "code_ogr": 505440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner le client sur les races et le mode de vie des animaux",
+              "code_ogr": 126267,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Commercialiser un produit de l'élevage",
+              "code_ogr": 123110,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Développer des partenariats avec des fournisseurs d'aliments et équipements",
+              "code_ogr": 500441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Actualiser régulièrement ses connaissances sur les races et les spécificités des animaux",
+              "code_ogr": 504253,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Propriétés des produits vétérinaires",
+              "code_ogr": 100142,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro conduite d'activités d'élevage et d'hébergement dans le secteur canin et félin",
+              "code_ogr": 513991,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Exercice des activités liées aux animaux de compagnie des espèces domestiques",
+              "code_ogr": 514413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro conduite et gestion de l'entreprise agricole",
+              "code_ogr": 490705,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Diététique animale",
+              "code_ogr": 100469,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de reproduction animale",
+              "code_ogr": 498703,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'élevage",
+              "code_ogr": 122280,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Comportements animaliers",
+              "code_ogr": 480553,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ethologie",
+              "code_ogr": 123748,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des postures animales",
+              "code_ogr": 101072,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des registres d'élevage",
+              "code_ogr": 495327,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des émotions animales",
+              "code_ogr": 479408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de dressage",
+              "code_ogr": 122284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'identification animale",
+              "code_ogr": 498928,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Premiers secours pour animaux",
+              "code_ogr": 479401,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication non verbale avec les animaux",
+              "code_ogr": 480565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de sevrage des animaux",
+              "code_ogr": 498775,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de socialisation animale",
+              "code_ogr": 479410,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1426 - Educateur canin / Educatrice canine",
+      "code_org_rome_cible": 488766,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1508 - Dresseur animalier / Dresseuse animalière",
+      "code_org_rome_cible": 509692,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1509 - Comportementaliste animalier / Comportementaliste animalière",
+      "code_org_rome_cible": 509753,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1506 - Soigneur animalier / Soigneuse animalière",
+      "code_org_rome_cible": 488759,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1240 - Educateur / Educatrice nature environnement",
+      "code_org_rome_cible": 510150,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4125 - Conducteur / Conductrice de transport routier d'animaux vivants",
+      "code_org_rome_cible": 488935,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1503 - Toiletteur / Toiletteuse d'animaux",
+      "code_org_rome_cible": 34,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1210 - Vendeur / Vendeuse en animalerie",
+      "code_org_rome_cible": 96,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1203 - Animateur / Animatrice jeunesse",
+      "code_org_rome_cible": 184,
+      "ordre_mobilite": 10
+    }
+  ]
+}

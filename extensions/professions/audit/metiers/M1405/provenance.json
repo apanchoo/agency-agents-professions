@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404047,
+    "code_rome": "M1405",
+    "libelle": "Data scientist",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.903,
+      "matched_terms": [
+        "data",
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [
+        "data"
+      ],
+      "specific_title_terms": [
+        "data"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Méthodes statistiques pour le Big Data",
+          "page": 130,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=130",
+          "selection_score": 78.3512,
+          "shared_terms": [
+            "big",
+            "data",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.01",
+          "title": "Big Data : enjeux, stockage et extraction",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=129",
+          "selection_score": 73.0563,
+          "shared_terms": [
+            "big",
+            "data",
+            "stockage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.VCOD.05",
+          "title": "Approfondissement en Big Data",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=133",
+          "selection_score": 71.8443,
+          "shared_terms": [
+            "big",
+            "data"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EMS.01",
+          "title": "Modélisation statistique pour les données complexes et le Big Data",
+          "page": 186,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=186",
+          "selection_score": 81.0247,
+          "shared_terms": [
+            "big",
+            "data",
+            "modelisation",
+            "statistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.VCOD.01",
+          "title": "Développement d’un composant d’une solution décisionnelle",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=96",
+          "selection_score": 59.6046,
+          "shared_terms": [
+            "decisionnelle",
+            "solution"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

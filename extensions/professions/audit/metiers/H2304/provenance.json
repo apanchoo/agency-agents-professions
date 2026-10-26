@@ -1,0 +1,187 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510207,
+    "code_rome": "H2304",
+    "libelle": "Opérateur / Opératrice de fabrication des industries chimiques",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H2301"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.127,
+      "matched_terms": [
+        "chimi"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2301",
+      "title_terms": [
+        "chimi"
+      ],
+      "specific_title_terms": [
+        "chimi"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 47.5451,
+          "shared_terms": [
+            "echantillon"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IND.07",
+          "title": "Physique appliquée à l’industrie chimique",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=395",
+          "selection_score": 46.8819,
+          "shared_terms": [
+            "chimique",
+            "industrie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.ANA.02",
+          "title": "Instrumentation",
+          "page": 183,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=183",
+          "selection_score": 42.4003,
+          "shared_terms": [
+            "instrumentation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Analyse de risques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=67",
+          "selection_score": 33.499,
+          "shared_terms": [
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Réalisation d’une étape de synthèse d’un composé",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=88",
+          "selection_score": 28.759,
+          "shared_terms": [
+            "etape"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.636,
+      "matched_terms": [
+        "chimi",
+        "procede"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2301",
+      "title_terms": [
+        "chimi"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Conception des procédés 2 : schéma de procédés",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=129",
+          "selection_score": 61.8259,
+          "shared_terms": [
+            "procede",
+            "schema"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Travaux Pratiques Génie des Procédés",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=79",
+          "selection_score": 46.7464,
+          "shared_terms": [
+            "genie",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.03",
+          "title": "Initiation à la régulation",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=103",
+          "selection_score": 46.0757,
+          "shared_terms": [
+            "regulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Choix et mise en œuvre d’analyses physico-chimiques simples afin de caractériser un produit.",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=50",
+          "selection_score": 41.4701,
+          "shared_terms": [
+            "chimique",
+            "physico",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPOP.02",
+          "title": "Caractérisation d’un système existant et optimisation des paramètres de régulation/automatisme (Partie 1).",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=245",
+          "selection_score": 40.6974,
+          "shared_terms": [
+            "parametre",
+            "regulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

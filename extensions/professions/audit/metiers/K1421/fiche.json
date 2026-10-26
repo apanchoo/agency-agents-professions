@@ -1,0 +1,581 @@
+{
+  "numero": 33427,
+  "rome": {
+    "code_rome": "K1421",
+    "intitule": "Directeur / Directrice de centre hospitalier",
+    "code_ogr": 510160
+  },
+  "appellations": [
+    {
+      "libelle": "Directeur / Directrice de centre hospitalier régional",
+      "libelle_court": "Directeur / Directrice de centre hospitalier régional",
+      "code_ogr": 14230
+    },
+    {
+      "libelle": "Directeur / Directrice de centre hospitalier spécialisé",
+      "libelle_court": "Directeur / Directrice de centre hospitalier spécialisé",
+      "code_ogr": 14231
+    },
+    {
+      "libelle": "Directeur / Directrice de Centre Hospitalier Universitaire (CHU)",
+      "libelle_court": "Directeur(trice) de Centre Hospitalier Universitaire (CHU)",
+      "code_ogr": 14232
+    },
+    {
+      "libelle": "Directeur / Directrice d'hôpital public",
+      "libelle_court": "Directeur / Directrice d'hôpital public",
+      "code_ogr": 14415
+    },
+    {
+      "libelle": "Directeur / Directrice d'hôpital thermal",
+      "libelle_court": "Directeur / Directrice d'hôpital thermal",
+      "code_ogr": 14416
+    },
+    {
+      "libelle": "Directeur adjoint / Directrice adjointe de centre hospitalier",
+      "libelle_court": "Directeur(trice) adjoint(e) de centre hospitalier",
+      "code_ogr": 14175
+    },
+    {
+      "libelle": "Directeur adjoint / Directrice adjointe de centre hospitalier régional",
+      "libelle_court": "Directeur(trice) adjoint(e) centre hospitalier régional",
+      "code_ogr": 14176
+    },
+    {
+      "libelle": "Directeur adjoint / Directrice adjointe de centre hospitalier spécialisé",
+      "libelle_court": "Directeur(trice) adjoint(e) de centre hospitalier spécialisé",
+      "code_ogr": 14177
+    }
+  ],
+  "definition": "Le Directeur de centre hospitalier supervise la gestion et le développement stratégique des établissements de santé. Dirige et coordonne l'ensemble des services d'un établissement hospitalier Définit et met en œuvre la politique de l'établissement en collaboration avec les instances médicales et administratives Optimise la gestion des ressources humaines, financières et matérielles Assure la qualité et la sécurité des soins offerts aux patients Développe des partenariats et des projets innovants pour améliorer l'offre de soins Représente l'hôpital dans les relations externes et les négociations avec les partenaires",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac +5 à Bac +8.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner l'intervention d'équipes de spécialistes",
+              "code_ogr": 402105,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner l'intervention d'équipes pluridisciplinaires",
+              "code_ogr": 300472,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les activités entre différents services",
+              "code_ogr": 484385,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager l'amélioration continue dans les pratiques",
+              "code_ogr": 499794,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les compétences et les performances du personnel",
+              "code_ogr": 499860,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser la gestion des ressources",
+              "code_ogr": 501562,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Assurer la gestion du personnel",
+              "code_ogr": 404873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+              "code_ogr": 300009,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Gérer les opérations quotidiennes d'un centre hospitalier",
+              "code_ogr": 506363,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser la coordination des professionnels de santé (internes et externes) intervenant dans la structure",
+              "code_ogr": 404210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre en compte les innovations en soins médicosociaux",
+              "code_ogr": 489927,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Déterminer une stratégie de communication et de promotion de l'établissement",
+              "code_ogr": 489792,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les relations publiques",
+              "code_ogr": 300122,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter sa structure ou son service lors d'un événement ou auprès d'instances de décision",
+              "code_ogr": 404536,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Evaluer les besoins en équipements médicaux",
+              "code_ogr": 482394,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Sécuriser les équipements et prévoir les procédures assurant la sécurité des données",
+              "code_ogr": 405425,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Concevoir des stratégies pour améliorer la qualité des services",
+              "code_ogr": 482338,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter une démarche qualité, un processus d'amélioration continue",
+              "code_ogr": 300245,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtriser les circuits et les financements hospitaliers, du code des marchés publics et les procédures d'appel d'offres",
+              "code_ogr": 511202,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le respect des normes sanitaires et de sécurité",
+              "code_ogr": 506365,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Promouvoir les pratiques de santé durable au sein de l'hôpital",
+              "code_ogr": 506368,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Avoir une vue d'ensemble sur le fonctionnement de l'établissement",
+              "code_ogr": 300581,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir des outils de pilotage, indicateurs, tableaux de bord",
+              "code_ogr": 300321,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+              "code_ogr": 300401,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer et gérer des relations ou partenariats",
+              "code_ogr": 300603,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer une stratégie de développement d'activité",
+              "code_ogr": 300391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les coûts et les dépenses d'une entreprise",
+              "code_ogr": 485388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les processus hospitaliers pour améliorer l'efficacité",
+              "code_ogr": 506364,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et gérer la prévention et le traitement des incidents et dysfonctionnements",
+              "code_ogr": 400826,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec les autorités sanitaires",
+              "code_ogr": 482568,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser les équipes aux enjeux de la Responsabilité Sociétale et Environnementale (RSE)",
+              "code_ogr": 482278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas de panne critique pour minimiser l'impact sur les services hospitaliers",
+              "code_ogr": 502176,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité et d'hygiène hospitalière",
+              "code_ogr": 482306,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Inspirer, donner du sens",
+              "code_ogr": 300416,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Master mention management des organisations de santé",
+              "code_ogr": 514644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat de docteur en pharmacie",
+              "code_ogr": 405047,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master administration de la santé",
+              "code_ogr": 491323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention économie et gestion de la santé",
+              "code_ogr": 514621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat de docteur en médecine",
+              "code_ogr": 404125,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat de docteur en chirurgie dentaire",
+              "code_ogr": 514321,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de la santé",
+              "code_ogr": 404637,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Politiques de santé publique",
+              "code_ogr": 477580,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management stratégique",
+              "code_ogr": 119494,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion des capacités hospitalières",
+              "code_ogr": 495005,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources humaines",
+              "code_ogr": 476954,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de santé publique",
+              "code_ogr": 476991,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibilisation aux enjeux éthiques en milieu hospitalier",
+              "code_ogr": 497486,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Outils et méthodes de gestion de projet",
+              "code_ogr": 121030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation du système sanitaire et social",
+              "code_ogr": 107969,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes de sécurité informatique en santé",
+              "code_ogr": 481706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation sociale",
+              "code_ogr": 100343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques sanitaires",
+              "code_ogr": 476767,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des infections",
+              "code_ogr": 107255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de budget",
+              "code_ogr": 494633,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication interpersonnelle",
+              "code_ogr": 477041,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Partenaires Publics et Privés",
+          "code_ogr": 511668
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Santé publique",
+          "code_ogr": 490158
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    },
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1403 - Directeur / Directrice d'établissement pour personnes âgées",
+      "code_org_rome_cible": 381,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1407 - Directeur / Directrice d'établissement médicosocial",
+      "code_org_rome_cible": 488293,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1415 - Directeur / Directrice d'établissement privé de santé",
+      "code_org_rome_cible": 509933,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1241 - Directeur / Directrice de centre de séjour de vacances",
+      "code_org_rome_cible": 510396,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1512 - Directeur / Directrice des relations sociales",
+      "code_org_rome_cible": 510197,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1413 - Directeur / Directrice d'établissement à caractère social",
+      "code_org_rome_cible": 510283,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H1104 - Directeur / Directrice des affaires médicales pharmaceutiques",
+      "code_org_rome_cible": 488321,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1428 - Directeur / Directrice qualité services",
+      "code_org_rome_cible": 510195,
+      "ordre_mobilite": 8
+    }
+  ]
+}

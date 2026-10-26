@@ -1,0 +1,265 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488754,
+    "code_rome": "M1827",
+    "libelle": "Ingénieur / Ingénieure DevOps",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1805"
+  },
+  "but": [
+    {
+      "programme_id": "info",
+      "title": "Informatique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.832,
+      "matched_terms": [
+        "application",
+        "developpe",
+        "informati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf",
+      "programme_sha256": "69027bf186ec1d059d55c37788547ed8562f753dd0becd98a750df088e1488f3",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.DEPLOI.06",
+          "title": "Cloud computing",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=245",
+          "selection_score": 93.7518,
+          "shared_terms": [
+            "cloud",
+            "computing"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Architecture logicielle",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=133",
+          "selection_score": 86.4422,
+          "shared_terms": [
+            "architecture",
+            "logicielle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ADMIN.04",
+          "title": "Programmation au format Web des informations décisionnelles",
+          "page": 293,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=293",
+          "selection_score": 67.8531,
+          "shared_terms": [
+            "decisionnelle",
+            "programmation",
+            "web"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.INTEG.01",
+          "title": "Intégration d’une application et gestion de projet",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=336",
+          "selection_score": 57.2118,
+          "shared_terms": [
+            "application",
+            "integration"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.INTEG.01",
+          "title": "Gestion de projet et développement logiciel",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/informatique-30855.pdf#page=316",
+          "selection_score": 49.9967,
+          "shared_terms": [
+            "logiciel"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "rt",
+      "title": "Réseaux et télécommunications",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.118,
+      "matched_terms": [
+        "informatique",
+        "systeme"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf",
+      "programme_sha256": "5830e494d94ef80653e529e4ecd5c5e784db82aa678f9b05353fe99196e7f38f",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.01",
+          "title": "Infrastructures de sécurité",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=146",
+          "selection_score": 53.0502,
+          "shared_terms": [
+            "infrastructure",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Architecture des systèmes numériques et informatiques",
+          "page": 79,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=79",
+          "selection_score": 44.7981,
+          "shared_terms": [
+            "architecture",
+            "informatique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Fondamentaux de la programmation",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=80",
+          "selection_score": 38.2473,
+          "shared_terms": [
+            "programmation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Construire un réseau informatique pour une petite structure",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=93",
+          "selection_score": 32.5689,
+          "shared_terms": [
+            "informatique",
+            "reseau"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.DEVCLOUD.01",
+          "title": "Gérer le pipeline d’une application orientée Cloud",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/r-seaux-et-t-l-communications-30876.pdf#page=258",
+          "selection_score": 29.8086,
+          "shared_terms": [
+            "application",
+            "cloud",
+            "pipeline"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.306,
+      "matched_terms": [
+        "automati"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1805",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        11
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ESE.10",
+          "title": "Systèmes embarqués",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=154",
+          "selection_score": 60.7715,
+          "shared_terms": [
+            "embarque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AII.15",
+          "title": "Supervision / Télégestion",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=277",
+          "selection_score": 37.4995,
+          "shared_terms": [
+            "supervision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.EME.15",
+          "title": "Supervision/ Télégestion",
+          "page": 195,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=195",
+          "selection_score": 36.6136,
+          "shared_terms": [
+            "supervision"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.ESE.01",
+          "title": "Mettre en œuvre un système électronique et/ou embarqué spécifique",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=158",
+          "selection_score": 43.2581,
+          "shared_terms": [
+            "embarque",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ESE.01",
+          "title": "Mettre en œuvre un système électronique communicant sans fil en intégrant un traitement numérique des données",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=118",
+          "selection_score": 33.4769,
+          "shared_terms": [
+            "integrant",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

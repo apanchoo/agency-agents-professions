@@ -1,0 +1,269 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510188,
+    "code_rome": "H1232",
+    "libelle": "Technicien / Technicienne d'études en industrie des matériaux souples",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1205"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.5,
+      "matched_terms": [
+        "composite",
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [
+        "materiau"
+      ],
+      "specific_title_terms": [
+        "materiau"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Matériaux composites 1",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=76",
+          "selection_score": 62.5814,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Matériaux composites 3",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=135",
+          "selection_score": 62.2729,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Matériaux composites 2",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=83",
+          "selection_score": 61.385,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MIMP.03",
+          "title": "Conception et industrialisation d’un prototype eco-responsable",
+          "page": 184,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=184",
+          "selection_score": 67.4271,
+          "shared_terms": [
+            "conception",
+            "industrialisation",
+            "prototype"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.01",
+          "title": "Adaptation du matériau pour un cahier des charges produit",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=127",
+          "selection_score": 63.7953,
+          "shared_terms": [
+            "cahier",
+            "charge",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 29.641,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [
+        "materiau"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Thermodynamique et machines thermiques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=67",
+          "selection_score": 33.8089,
+          "shared_terms": [
+            "machine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MAE.05",
+          "title": "Mesures normalisées de la qualité de l’environnement",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=336",
+          "selection_score": 24.5112,
+          "shared_terms": [
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MAE.05",
+          "title": "Techniques de mesures environnementales",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=316",
+          "selection_score": 24.2315,
+          "shared_terms": [
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Dessiner et concevoir un élément nécessaire à une campagne de mesure à l’aide d’un logiciel spécifique (DAO/CAO)",
+          "page": 46,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=46",
+          "selection_score": 90.9958,
+          "shared_terms": [
+            "aide",
+            "cao",
+            "dao",
+            "logiciel",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Réaliser une mesure à l’aide d’une chaîne de mesure et d’une méthode adaptées",
+          "page": 72,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=72",
+          "selection_score": 63.6669,
+          "shared_terms": [
+            "adaptee",
+            "aide",
+            "mesure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.359,
+      "matched_terms": [
+        "analyses pour garantir la qualite et la conformite des materiaux utilises participe a l'amelioration continue des processus de fabrication pour optimiser les couts et les delais peut superviser une equipe de techniciens juniors et les former aux specificites des materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 46.9146,
+          "shared_terms": [
+            "echantillon"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.IND.01",
+          "title": "Procédés innovants et avancés",
+          "page": 390,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=390",
+          "selection_score": 32.3948,
+          "shared_terms": [
+            "innovant"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Bilans Matière & Chaleur *",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=104",
+          "selection_score": 31.9035,
+          "shared_terms": [
+            "matiere"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ANA.01",
+          "title": "Optimiser une méthode d’analyse",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=140",
+          "selection_score": 57.6942,
+          "shared_terms": [
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Vérification d’une caractéristique donnée d’un matériau ou d’un produit formulé",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=89",
+          "selection_score": 46.5689,
+          "shared_terms": [
+            "caracteristique",
+            "produit"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

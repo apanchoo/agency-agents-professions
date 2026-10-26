@@ -1,0 +1,275 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509367,
+    "code_rome": "I1321",
+    "libelle": "Technicien / Technicienne de maintenance d'éoliennes",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1304"
+  },
+  "but": [
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 36.327,
+      "matched_terms": [
+        "equipement",
+        "maintenance",
+        "mecanique"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [
+        "maintenance"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 62.6364,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 62.508,
+          "shared_terms": [
+            "automatisme",
+            "electricite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Méthodes et Outils en Maintenance 2",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=75",
+          "selection_score": 34.0207,
+          "shared_terms": [
+            "maintenance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.3MI.02",
+          "title": "Prévenir les risques",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=129",
+          "selection_score": 77.6263,
+          "shared_terms": [
+            "prevenir",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Réaliser et vérifier le raccordement d’un équipement",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=61",
+          "selection_score": 62.6372,
+          "shared_terms": [
+            "equipement",
+            "verifier"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "geii",
+      "title": "Génie électrique et informatique industrielle",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 18.979,
+      "matched_terms": [
+        "electri",
+        "electron"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        11
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf",
+      "programme_sha256": "14bb49e9949dabd76b522fec17c7fd5a4c85d8e73a0c1e9473219e7027dfef9c",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.AII.03",
+          "title": "Sécurité machine",
+          "page": 336,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=336",
+          "selection_score": 62.1493,
+          "shared_terms": [
+            "machine",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EME.10",
+          "title": "Composants actifs et Récupération d’énergie",
+          "page": 237,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=237",
+          "selection_score": 48.7803,
+          "shared_terms": [
+            "composant",
+            "energie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Electronique",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=105",
+          "selection_score": 45.6872,
+          "shared_terms": [
+            "electronique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.EME.01",
+          "title": "Concevoir, installer, vérifier et maintenir un système de conversion et de gestion de l’énergie électrique",
+          "page": 219,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=219",
+          "selection_score": 56.0265,
+          "shared_terms": [
+            "electrique",
+            "energie",
+            "verifier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.EME.02",
+          "title": "vérification et maintenance d’un système production, de stockage ou de distribution de l’énergie électrique",
+          "page": 201,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-lectrique-et-informatique-industrielle-30834.pdf#page=201",
+          "selection_score": 53.4088,
+          "shared_terms": [
+            "electrique",
+            "energie",
+            "maintenance",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.332,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1304",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 77.5877,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Mesure et instrumentation en énergétique",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=78",
+          "selection_score": 63.8699,
+          "shared_terms": [
+            "energetique",
+            "instrumentation",
+            "mesure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.08",
+          "title": "Gestion des installations : GTC et GMAO",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=211",
+          "selection_score": 57.464,
+          "shared_terms": [
+            "gmao",
+            "installation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Mise en service et maintenance de premier niveau d’une installation",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=61",
+          "selection_score": 53.5015,
+          "shared_terms": [
+            "installation",
+            "maintenance",
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Préparation de l’instrumentation d’une installation ou d’un bâtiment et mesures en vue de la réalisation de son bilan énergétique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=57",
+          "selection_score": 47.489,
+          "shared_terms": [
+            "energetique",
+            "installation",
+            "instrumentation",
+            "mesure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

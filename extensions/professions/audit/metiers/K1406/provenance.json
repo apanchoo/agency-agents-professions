@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404545,
+    "code_rome": "K1406",
+    "libelle": "Secrétaire de mairie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "K1404"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.291,
+      "matched_terms": [
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CGE3S.10",
+          "title": "Politiques territoriales de santé et d’action sociale",
+          "page": 582,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=582",
+          "selection_score": 69.6057,
+          "shared_terms": [
+            "action",
+            "politique",
+            "sociale",
+            "territoriale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AS.12",
+          "title": "Approches comptable et budgétaire de la conduite de projet",
+          "page": 267,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=267",
+          "selection_score": 64.1473,
+          "shared_terms": [
+            "budgetaire",
+            "comptable",
+            "conduite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.VTD.13",
+          "title": "Droit de l’urbanisme et de l’environnement",
+          "page": 165,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=165",
+          "selection_score": 62.0537,
+          "shared_terms": [
+            "droit",
+            "urbanisme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.VTD.04",
+          "title": "Concevoir et mettre en oeuvre en responsabilité un dispositif de médiation dans le cadre d’un atelier d’aménagement et/ou un projet de transition",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=172",
+          "selection_score": 51.2869,
+          "shared_terms": [
+            "amenagement",
+            "dispositif",
+            "responsabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Élaborer un travail de recherche exploratoire en sciences humaines et sociales",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=121",
+          "selection_score": 48.7282,
+          "shared_terms": [
+            "elaborer",
+            "humaine",
+            "sociale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,178 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 502,
+    "code_rome": "N1103",
+    "libelle": "Préparateur / Préparatrice de commandes",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1103"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.638,
+      "matched_terms": [
+        "logist",
+        "organisation"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 31.9027,
+          "shared_terms": [
+            "conformite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 24.8933,
+          "shared_terms": [
+            "logistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Bases du contrôle de gestion industriel",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=137",
+          "selection_score": 22.0181,
+          "shared_terms": [
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MTD.02",
+          "title": "Vers l’entreprise digitale",
+          "page": 366,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=366",
+          "selection_score": 47.0679,
+          "shared_terms": [
+            "vers"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.QMI.02",
+          "title": "Inventaire des exigences d’un SMI",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=277",
+          "selection_score": 42.4928,
+          "shared_terms": [
+            "inventaire"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.591,
+      "matched_terms": [
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Gestion des entrepôts : approfondissement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=141",
+          "selection_score": 62.54,
+          "shared_terms": [
+            "entrepot"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Entrepôts et plateformes logistiques",
+          "page": 43,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=43",
+          "selection_score": 55.5909,
+          "shared_terms": [
+            "entrepot",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la gestion des stocks et des approvisionnements",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=68",
+          "selection_score": 40.9878,
+          "shared_terms": [
+            "stock"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCD.01",
+          "title": "Optimisation d’une chaîne logistique dans une démarche durable",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=226",
+          "selection_score": 37.1968,
+          "shared_terms": [
+            "chaine",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCC.01",
+          "title": "Optimisation d’une chaîne logistique dans un environnement connecté",
+          "page": 137,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=137",
+          "selection_score": 36.8732,
+          "shared_terms": [
+            "chaine",
+            "logistique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

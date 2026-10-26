@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509640,
+    "code_rome": "A1307",
+    "libelle": "Ingénieur forestier / Ingénieure forestière",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1303"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.374,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.12",
+          "title": "Écosystèmes et écologie fonctionnelle appliquée à l’agronomie",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=142",
+          "selection_score": 76.4094,
+          "shared_terms": [
+            "agronomie",
+            "ecologie",
+            "ecosysteme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.08",
+          "title": "Aménagement rural et territorial 1",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=162",
+          "selection_score": 62.947,
+          "shared_terms": [
+            "amenagement",
+            "rural"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AGRO.08",
+          "title": "Aménagement rural et territorial 2",
+          "page": 178,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=178",
+          "selection_score": 62.4319,
+          "shared_terms": [
+            "amenagement",
+            "rural"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AGRO.02",
+          "title": "Établir des diagnostics en agronomie",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=126",
+          "selection_score": 66.3496,
+          "shared_terms": [
+            "agronomie",
+            "etablir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SEE.03",
+          "title": "Decrire un milieu et sa biodiversité",
+          "page": 610,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=610",
+          "selection_score": 36.1221,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

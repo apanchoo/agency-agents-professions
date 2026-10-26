@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488324,
+    "code_rome": "M1505",
+    "libelle": "Chargé / Chargée de formation en entreprise",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1502"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.867,
+      "matched_terms": [
+        "entrepris",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1502",
+      "title_terms": [
+        "entrepris"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Ressources humaines",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=109",
+          "selection_score": 35.0559,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MDFS.06",
+          "title": "Processus ressources humaines - Niveau 2",
+          "page": 245,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=245",
+          "selection_score": 33.5723,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDFS.06",
+          "title": "Processus ressources humaines - Niveau 1",
+          "page": 228,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=228",
+          "selection_score": 33.2371,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.03",
+          "title": "Collaborer dans le cadre d’un projet transverse - S3",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=97",
+          "selection_score": 43.6138,
+          "shared_terms": [
+            "collaborer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.03",
+          "title": "Collaborer et rendre compte d’un projet transverse - S4",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=120",
+          "selection_score": 36.6651,
+          "shared_terms": [
+            "collaborer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

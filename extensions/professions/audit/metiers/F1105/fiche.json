@@ -1,0 +1,742 @@
+{
+  "numero": 172,
+  "rome": {
+    "code_rome": "F1105",
+    "intitule": "Géologue",
+    "code_ogr": 146
+  },
+  "appellations": [
+    {
+      "libelle": "Géochimiste",
+      "libelle_court": "Géochimiste",
+      "code_ogr": 15251
+    },
+    {
+      "libelle": "Géodésien / Géodésienne",
+      "libelle_court": "Géodésien / Géodésienne",
+      "code_ogr": 15252
+    },
+    {
+      "libelle": "Géologue de chantier",
+      "libelle_court": "Géologue de chantier",
+      "code_ogr": 15255
+    },
+    {
+      "libelle": "Géologue en recherche prospective",
+      "libelle_court": "Géologue en recherche prospective",
+      "code_ogr": 15256
+    },
+    {
+      "libelle": "Géologue minier / Géologue minière",
+      "libelle_court": "Géologue minier / Géologue minière",
+      "code_ogr": 15257
+    },
+    {
+      "libelle": "Géologue pétrolier / Géologue pétrolière",
+      "libelle_court": "Géologue pétrolier / Géologue pétrolière",
+      "code_ogr": 15258
+    },
+    {
+      "libelle": "Géologue prospecteur / Géologue prospectrice",
+      "libelle_court": "Géologue prospecteur / Géologue prospectrice",
+      "code_ogr": 15259
+    },
+    {
+      "libelle": "Géologue-topographe",
+      "libelle_court": "Géologue-topographe",
+      "code_ogr": 15260
+    },
+    {
+      "libelle": "Ingénieur / Ingénieure géologue",
+      "libelle_court": "Ingénieur / Ingénieure géologue",
+      "code_ogr": 15810
+    },
+    {
+      "libelle": "Sondeur / Sondeuse de gisement",
+      "libelle_court": "Sondeur / Sondeuse de gisement",
+      "code_ogr": 509989
+    },
+    {
+      "libelle": "Sondeur / Sondeuse géologue",
+      "libelle_court": "Sondeur / Sondeuse géologue",
+      "code_ogr": 19454
+    },
+    {
+      "libelle": "Sondeur / Sondeuse (sol ou eau)",
+      "libelle_court": "Sondeur / Sondeuse (sol ou eau)",
+      "code_ogr": 509990
+    }
+  ],
+  "definition": "Le géologue, étudie la composition, la structure, l'histoire et les processus de formation des sols, roches et autres matériaux terrestres. Analyse les formations rocheuses pour déterminer leur composition, leur structure, leur évolution Réalise des études de terrain pour collecter des données géologiques Interprète les données géophysiques pour identifier les ressources naturelles ou anticiper des risques environnementaux Collabore avec des ingénieurs pour évaluer la stabilité des sols dans les projets de construction ou de forage Participe à la rédaction de rapports scientifiques et à la publication de résultats de recherche",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac +5 à Bac +8 en géologie, environnement ou géosciences.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les activités de l'équipe sur le terrain",
+              "code_ogr": 486244,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller des chercheurs, institutions, entreprises sur des questions scientifiques",
+              "code_ogr": 126027,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Rédiger une publication scientifique",
+              "code_ogr": 124523,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Assurer une veille réglementaire et scientifique, nationale et internationale",
+              "code_ogr": 404855,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collecter, tester, analyser des échantillons, des matériaux",
+              "code_ogr": 300078,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir des modèles géologiques théoriques, prédictifs de sols, sous-sols (calcul, simulation, modélisation)",
+              "code_ogr": 114279,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conduire des travaux d'études et de recherche",
+              "code_ogr": 300085,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir et coordonner la mise en oeuvre de méthodes et procédés de recherche, prospections, études de sols, sous-sols",
+              "code_ogr": 103153,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les opportunités de développement de nouveaux sites",
+              "code_ogr": 504582,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des études de fondations, de tassement ou de stabilité de terrains (glissement, érosion, résistance)",
+              "code_ogr": 114275,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les caractéristiques géologiques d'un site",
+              "code_ogr": 500513,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser une situation et produire un diagnostic",
+              "code_ogr": 300456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographier des données",
+              "code_ogr": 117693,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité des travaux géologiques",
+              "code_ogr": 504569,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer une documentation technique",
+              "code_ogr": 300126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir des résultats d'analyses et de mesures",
+              "code_ogr": 118762,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interpréter les relevés géologiques de sols, sous-sols, roches et étudier les caractéristiques (étendues, compositions, géométrie, etc.)",
+              "code_ogr": 103157,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des logiciels de modélisation et simulation",
+              "code_ogr": 402319,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Conseiller sur les techniques de forage adaptées",
+              "code_ogr": 504572,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Prospecter en vue d'opérations d'extraction et de forage",
+              "code_ogr": 300289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des relevés de sondage, forage, pollution des sols et sous-sols",
+              "code_ogr": 118758,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Déterminer la densité du sous-sol rocheux",
+              "code_ogr": 123692,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Définir des mesures de prévention des risques",
+              "code_ogr": 119800,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques géologiques dans les projets de construction",
+              "code_ogr": 500586,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser les opérations de forage et de sondage",
+              "code_ogr": 504576,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Evaluer la qualité des ressources minérales",
+              "code_ogr": 504567,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des pratiques avec les réglementations en vigueur",
+              "code_ogr": 505591,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des contrats de services géologiques",
+              "code_ogr": 504580,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité sur les sites de sondage",
+              "code_ogr": 504570,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies pour minimiser l'impact environnemental des projets",
+              "code_ogr": 513559,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une étude d'impact environnemental",
+              "code_ogr": 125772,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Action publique",
+          "items": [
+            {
+              "libelle": "Gérer les relations avec les autorités locales",
+              "code_ogr": 404771,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Apporter une assistance technique aux équipes",
+              "code_ogr": 300184,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Concevoir et gérer un projet",
+              "code_ogr": 300488,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etablir des prévisions, des évaluations, des recommandations, des perspectives",
+              "code_ogr": 400747,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser et contrôler le déroulement et l'avancement des expériences et des observations scientifiques",
+              "code_ogr": 108811,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer les résultats des études aux parties prenantes",
+              "code_ogr": 109529,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Communiquer, lire et rédiger des documents techniques, des rapports, des notes en anglais",
+              "code_ogr": 404863,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Construire des partenariats pour mener des études interdisciplinaires",
+              "code_ogr": 508400,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à des conférences scientifiques",
+              "code_ogr": 486678,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Collecter et analyser des données, des informations",
+              "code_ogr": 300452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Exploiter les données scientifiques collectées, extraire les données utiles",
+              "code_ogr": 404793,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Structurer, synthétiser des informations",
+              "code_ogr": 300458,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'équipements de mesure géologique",
+              "code_ogr": 499357,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "GPS et cartes topographiques",
+              "code_ogr": 103126,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Ingénieur diplômé de l'institut polytechnique UniLaSalle spécialité géosciences et environnement",
+              "code_ogr": 514489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master sciences, technologies, santé mention géoénergies",
+              "code_ogr": 490889,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Doctorat",
+              "code_ogr": 514400,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur spécialisé en géosciences et ingénierie de réservoir, diplômé de l'école nationale supérieure du pétrole et des moteurs",
+              "code_ogr": 514509,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école nationale supérieure de géologie de l'université de Lorraine",
+              "code_ogr": 514442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école polytechnique universitaire de l'institut polytechnique de Grenoble spécialité géotechnique et génie civil (Université Grenoble Alpes)",
+              "code_ogr": 514460,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Analyse de données expérimentales",
+              "code_ogr": 101315,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Hydrogéologie",
+              "code_ogr": 123751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sédimentologie",
+              "code_ogr": 103188,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géotechnique",
+              "code_ogr": 103165,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modélisation et simulation",
+              "code_ogr": 101397,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse sismologique",
+              "code_ogr": 103191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Granulométrie",
+              "code_ogr": 103189,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques en milieu naturel",
+              "code_ogr": 103190,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographie géologique",
+              "code_ogr": 492422,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géochimie",
+              "code_ogr": 123750,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géodynamique, tectonique",
+              "code_ogr": 401025,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géophysique",
+              "code_ogr": 123749,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géologie",
+              "code_ogr": 103272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Topographie",
+              "code_ogr": 103060,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes environnementales",
+              "code_ogr": 493146,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sondage de sol",
+              "code_ogr": 123436,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de datation géologique",
+              "code_ogr": 496062,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographie et SIG",
+              "code_ogr": 103059,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de carottage",
+              "code_ogr": 117764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de forage",
+              "code_ogr": 498120,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Travail en mode projet",
+          "code_ogr": 403107
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": true
+    },
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": false
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1129 - Ingénieur / Ingénieure réservoir",
+      "code_org_rome_cible": 509417,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1119 - Pédologue",
+      "code_org_rome_cible": 488621,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1118 - Sismologue",
+      "code_org_rome_cible": 488615,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1143 - Géophysicien / Géophysicienne",
+      "code_org_rome_cible": 510268,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1203 - Chef / Cheffe de carrière",
+      "code_org_rome_cible": 152,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1808 - Cartographe",
+      "code_org_rome_cible": 497,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1106 - Journaliste",
+      "code_org_rome_cible": 124,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2402 - Ingénieur / Ingénieure de recherche scientifique",
+      "code_org_rome_cible": 427,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1411 - Consultant / Consultante en énergie renouvelable",
+      "code_org_rome_cible": 488756,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2108 - Professeur / Professeure des universités",
+      "code_org_rome_cible": 411,
+      "ordre_mobilite": 10
+    }
+  ]
+}

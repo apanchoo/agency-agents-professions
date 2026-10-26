@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520176,
+    "code_rome": "M1720",
+    "libelle": "Category Manager Responsable (CATMAN)",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1707"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.546,
+      "matched_terms": [
+        "client",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1707",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Coûts, marges et prix d’une offre simple",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=101",
+          "selection_score": 89.1491,
+          "shared_terms": [
+            "marge",
+            "offre",
+            "prix"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MMPV.09",
+          "title": "Merchandising",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=239",
+          "selection_score": 67.973,
+          "shared_terms": [
+            "merchandising"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MMPV.13",
+          "title": "Supply chain",
+          "page": 260,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=260",
+          "selection_score": 60.2889,
+          "shared_terms": [
+            "chain",
+            "supply"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Marketing : positionnement d’une offre simple sur un marché",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=66",
+          "selection_score": 55.796,
+          "shared_terms": [
+            "marche",
+            "marketing",
+            "offre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BI.03",
+          "title": "Développement de l’offre à l’international",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=384",
+          "selection_score": 49.2985,
+          "shared_terms": [
+            "offre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

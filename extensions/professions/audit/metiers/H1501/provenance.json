@@ -1,0 +1,272 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 229,
+    "code_rome": "H1501",
+    "libelle": "Responsable de laboratoire d'analyse industrielle",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1501"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 28.929,
+      "matched_terms": [
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [
+        "laboratoire"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.14",
+          "title": "Risques chimiques et BPL - BPF",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=82",
+          "selection_score": 49.8109,
+          "shared_terms": [
+            "bpl",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Métrologie Electricité",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=78",
+          "selection_score": 32.9374,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.12",
+          "title": "Démarche sécurité",
+          "page": 172,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=172",
+          "selection_score": 32.114,
+          "shared_terms": [
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.06",
+          "title": "Gestion HSE d’un laboratoire ou d’un atelier de production",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=92",
+          "selection_score": 37.1715,
+          "shared_terms": [
+            "laboratoire",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Analyse de risques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=67",
+          "selection_score": 34.0248,
+          "shared_terms": [
+            "risque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.635,
+      "matched_terms": [
+        "environnement",
+        "hygiene",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 53.3281,
+          "shared_terms": [
+            "equipement",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.03",
+          "title": "Approche physique des problématiques HSE et applications technologiques",
+          "page": 33,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=33",
+          "selection_score": 49.9176,
+          "shared_terms": [
+            "application",
+            "physique",
+            "technologique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.01",
+          "title": "Risque technologique lié aux procédés industriels et droit des ICPE",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=98",
+          "selection_score": 47.1435,
+          "shared_terms": [
+            "industriel",
+            "risque",
+            "technologique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 44.564,
+          "shared_terms": [
+            "qhsse",
+            "realisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.03",
+          "title": "Analyser la politique HSE d’une organisation à partir d’un outil diagnostic",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=94",
+          "selection_score": 41.7832,
+          "shared_terms": [
+            "diagnostic",
+            "partir"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.013,
+      "matched_terms": [
+        "controle",
+        "mesure"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 57.9785,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "industriel",
+            "physique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 49.9552,
+          "shared_terms": [
+            "controle",
+            "industriel",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Métrologie et qualité 2",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=176",
+          "selection_score": 47.6695,
+          "shared_terms": [
+            "metrologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Mettre en œuvre des analyses chimiques (acides-bases, complexation, précipitation) en appliquant les bonnes pratiques de laboratoire (BPL)",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=50",
+          "selection_score": 62.0364,
+          "shared_terms": [
+            "bonne",
+            "bpl",
+            "laboratoire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 51.5336,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "mesure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

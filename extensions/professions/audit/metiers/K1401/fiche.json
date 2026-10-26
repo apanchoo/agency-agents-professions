@@ -1,0 +1,701 @@
+{
+  "numero": 397,
+  "rome": {
+    "code_rome": "K1401",
+    "intitule": "Directeur / Directrice d'administration centrale",
+    "code_ogr": 379
+  },
+  "appellations": [
+    {
+      "libelle": "Cadre de direction des services centraux de l'Administration",
+      "libelle_court": "Cadre de direction des services centraux de l'Administration",
+      "code_ogr": 11625
+    },
+    {
+      "libelle": "Haut-commissaire",
+      "libelle_court": "Haut-commissaire",
+      "code_ogr": 15465
+    },
+    {
+      "libelle": "Inspecteur général / Inspectrice générale de l'Administration",
+      "libelle_court": "Inspecteur(trice) général(e) de l'Administration",
+      "code_ogr": 15980
+    },
+    {
+      "libelle": "Secrétaire général / Secrétaire générale de ministère",
+      "libelle_court": "Secrétaire général / Secrétaire générale de ministère",
+      "code_ogr": 19391
+    }
+  ],
+  "definition": "Le directeur d'administration centrale dirige, sous l'autorité du ministre, une administration en définissant les orientations stratégiques et en pilotant, au plan national, la mise en œuvre d'une politique publique dans le cadre d'un programme. Participe à la définition et à la conception des politiques des pouvoirs publics Met en œuvre les décisions du gouvernement Assure la préparation des projets de loi ou de décrets Coordonne les actions de l'Etat dans les services déconcentrés (en région, dans les départements) Peut contrôler et évaluer la mise en œuvre des politiques des pouvoirs publics",
+  "acces_metier": "Ce métier est accessible sur concours de la fonction publique d'Etat (Catégorie A) avec un Master (Master professionnel, diplôme de grandes écoles, etc.), complété par une expérience professionnelle auprès de l'Administration de tutelle. Un casier judiciaire exempt de toute mention contradictoire est obligatoire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer et piloter des cadres de direction, des responsables de services déconcentrés et des établissements publics placés sous son autorité",
+              "code_ogr": 518565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer les réunions de direction et les comités stratégiques",
+              "code_ogr": 518549,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer, orienter et coordonner l'activité des services déconcentrés et des établissements publics placés sous la tutelle du ministre",
+              "code_ogr": 518561,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Encourager l'innovation au sein des équipes",
+              "code_ogr": 482809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager l'innovation et l'adoption de nouvelles technologies",
+              "code_ogr": 484652,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Initier des transformations, mobiliser autour du projet et s'assurer du respect des engagements",
+              "code_ogr": 518582,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Animer le dialogue social",
+              "code_ogr": 300013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+              "code_ogr": 300009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre les actions de transformation nécessaires aux changements",
+              "code_ogr": 300001,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Concevoir et déployer des outils d'évaluation",
+              "code_ogr": 300025,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller le pouvoir politique dans les modalités d'action en gestion de crise",
+              "code_ogr": 518563,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Communiquer sur l'action publique",
+              "code_ogr": 400643,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliciter une politique gouvernementale auprès des autorités et du public",
+              "code_ogr": 123204,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les relations avec les médias, les partenaires et les autres services",
+              "code_ogr": 485536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Encourager l'innovation responsable",
+              "code_ogr": 482282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Innover dans les méthodes de gestion et d'organisation",
+              "code_ogr": 518550,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Elaborer des recommandations stratégiques basées sur l'analyse des données",
+              "code_ogr": 500965,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Gérer l'aménagement du territoire",
+              "code_ogr": 503374,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Déterminer des mesures correctives",
+              "code_ogr": 300242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des stratégies de gestion de crise",
+              "code_ogr": 506695,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Maîtriser les performances et les risques des programmes",
+              "code_ogr": 512114,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Définir des objectifs et des indicateurs d'un programme budgétaire",
+              "code_ogr": 518560,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Gérer les budgets et les prévisions financières",
+              "code_ogr": 504955,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier et exécuter les budgets annuels",
+              "code_ogr": 501436,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des réglementations en vigueur",
+              "code_ogr": 505524,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des projets de loi ou de règlements pour le Gouvernement et élaborer des documents de présentation pour le Parlement",
+              "code_ogr": 115139,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller à l'application des directives gouvernementales",
+              "code_ogr": 107978,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le respect de la réglementation et de l'utilisation des fonds publics",
+              "code_ogr": 115140,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Définir et déployer une politique de développement durable",
+              "code_ogr": 300404,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Action publique",
+          "items": [
+            {
+              "libelle": "Adapter l'organisation aux changements technologiques et sociétaux",
+              "code_ogr": 518552,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Adapter le mode de gouvernance au contexte et à l'objet de l'action publique",
+              "code_ogr": 400218,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assister un Ministre dans l'orientation et l'élaboration de la politique des pouvoirs publics et dans la conduite des affaires du Ministère",
+              "code_ogr": 115142,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer l'articulation entre gouvernance et pilotage opérationnel",
+              "code_ogr": 400219,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la transparence et la redevabilité de l'administration",
+              "code_ogr": 518551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir des orientations stratégiques en cohérence avec les autres directions de l'administration centrale et les autres ministères",
+              "code_ogr": 518559,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documenter un problème public",
+              "code_ogr": 400223,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir des partenariats stratégiques internationaux",
+              "code_ogr": 482758,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les parties prenantes d'un problème public",
+              "code_ogr": 400220,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les partenaires institutionnels et les autres ministères",
+              "code_ogr": 518546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la stratégie globale de l'administration en cohérence avec les orientations gouvernementales",
+              "code_ogr": 518545,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traduire une orientation politique en dispositifs opérationnels",
+              "code_ogr": 300680,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Coordonner les directions d'un Ministère ou d'une administration et répartir les activités entre les responsables de service",
+              "code_ogr": 107980,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diriger un service public",
+              "code_ogr": 300605,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir la politique et les orientations générales d'une organisation",
+              "code_ogr": 300394,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer ou contribuer à l'élaboration du rapport annuel de performances relatif au programme mis en œuvre en signalant le cas échéant les difficultés rencontrées et en proposant des mesures correctrices appropriées",
+              "code_ogr": 518564,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer l'impact financier des décisions stratégiques",
+              "code_ogr": 123038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Innover dans les méthodes de contrôle budgétaire",
+              "code_ogr": 483872,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en place des solutions d'amélioration de la performance",
+              "code_ogr": 300312,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mobiliser une vision stratégique et d'anticipation",
+              "code_ogr": 403788,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les processus administratifs pour améliorer l'efficacité",
+              "code_ogr": 503926,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter sa direction et organiser un travail en réseau avec les acteurs internes et externes, en milieu national et international",
+              "code_ogr": 518562,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller les indicateurs clés de performance pour ajuster les stratégies",
+              "code_ogr": 484319,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Animer des commissions",
+              "code_ogr": 115141,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Incarner les valeurs de l'Etat et du Service Public",
+              "code_ogr": 518583,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de l'action conduite à l'élu exerçant la responsabilité politique",
+              "code_ogr": 400644,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Décider et agir dans la complexité et l'incertitude, hiérarchiser les priorités, accueillir l'imprévu et réorienter son action si nécessaire",
+              "code_ogr": 518581,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Manager en ingénierie des politiques publiques",
+              "code_ogr": 522009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention politiques publiques",
+              "code_ogr": 522050,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager des institutions et des affaires publiques",
+              "code_ogr": 404706,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion des relations gouvernementales",
+              "code_ogr": 495355,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise des enjeux géostratégiques mondiaux",
+              "code_ogr": 495898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comptabilité publique",
+              "code_ogr": 103857,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Politiques publiques",
+              "code_ogr": 117762,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développement économique",
+              "code_ogr": 108039,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils de pilotage et d'exercice de la tutelle",
+              "code_ogr": 518580,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Administration centrale",
+              "code_ogr": 120796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veille sur les évolutions des politiques gouvernementales",
+              "code_ogr": 511594,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion budgétaire",
+              "code_ogr": 102216,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fonctionnement des institutions nationales et européennes",
+              "code_ogr": 518573,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Finances publiques",
+              "code_ogr": 107983,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Défense nationale",
+              "code_ogr": 120798,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Politique extérieure",
+              "code_ogr": 120800,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Code général de la fonction publique",
+              "code_ogr": 401028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des évolutions législatives",
+              "code_ogr": 476935,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit communautaire",
+              "code_ogr": 118833,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit administratif",
+              "code_ogr": 107981,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation sociale",
+              "code_ogr": 100343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit constitutionnel",
+              "code_ogr": 107982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation territoriale de la République",
+              "code_ogr": 400928,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Travail avec des organisations ou partenaires internationaux",
+          "code_ogr": 511477
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone européenne",
+          "code_ogr": 300814
+        },
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "Possibilité de télétravail",
+          "code_ogr": 300799
+        },
+        {
+          "libelle": "Travail en mode projet",
+          "code_ogr": 403107
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1418 - Ambassadeur / Ambassadrice",
+      "code_org_rome_cible": 510045,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1405 - Préfet / Préfète",
+      "code_org_rome_cible": 383,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "M1872 - Consultant décisionnel / Consultante décisionnelle - Business Intelligence",
+      "code_org_rome_cible": 509762,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "M1503 - Directeur / Directrice des Ressources Humaines (DRH)",
+      "code_org_rome_cible": 473,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1403 - Chargé / Chargée d'études socio-économiques",
+      "code_org_rome_cible": 469,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1402 - Responsable en organisation en entreprise",
+      "code_org_rome_cible": 468,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1903 - Juriste",
+      "code_org_rome_cible": 402,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1429 - Consultant / Consultante en management",
+      "code_org_rome_cible": 510146,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1301 - Dirigeant / Dirigeante d'entreprise privée",
+      "code_org_rome_cible": 465,
+      "ordre_mobilite": 10
+    }
+  ]
+}

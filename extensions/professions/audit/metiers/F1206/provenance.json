@@ -1,0 +1,189 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489220,
+    "code_rome": "F1206",
+    "libelle": "Chef / Cheffe d'équipe bâtiment",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1202"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 94.769,
+      "matched_terms": [
+        "batiment",
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1202",
+      "title_terms": [
+        "batiment"
+      ],
+      "specific_title_terms": [
+        "batiment"
+      ],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 94.203,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 94.1868,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.13",
+          "title": "Evaluation environnementale des matériaux et des équipements",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=111",
+          "selection_score": 43.274,
+          "shared_terms": [
+            "equipement",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.06",
+          "title": "Planification de travaux simples",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=92",
+          "selection_score": 58.26,
+          "shared_terms": [
+            "planification",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Etat des lieux d’un ouvrage existant",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=63",
+          "selection_score": 57.8514,
+          "shared_terms": [
+            "etat",
+            "lieux"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 12.496,
+      "matched_terms": [
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1202",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 37.1073,
+          "shared_terms": [
+            "equipement",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.02",
+          "title": "Gestion des coactivités et principaux risques sur chantier",
+          "page": 100,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=100",
+          "selection_score": 26.8484,
+          "shared_terms": [
+            "chantier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.07",
+          "title": "Hygiène et salubrité des locaux et des produits alimentaires",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=83",
+          "selection_score": 18.548,
+          "shared_terms": [
+            "hygiene"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.SDMRPTE.03",
+          "title": "Préparation, réalisation et suivi d’un audit interne QHSSE",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=129",
+          "selection_score": 16.2067,
+          "shared_terms": [
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.01",
+          "title": "Conseiller la direction d’une ICPE dans la réactualisation et la diffusion d’un Plan d’Opération Interne (POI)",
+          "page": 92,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=92",
+          "selection_score": 14.7572,
+          "shared_terms": [
+            "operation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

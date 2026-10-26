@@ -1,0 +1,565 @@
+{
+  "numero": 105,
+  "rome": {
+    "code_rome": "D1206",
+    "intitule": "Cordonnier / Cordonnière",
+    "code_ogr": 92
+  },
+  "appellations": [
+    {
+      "libelle": "Cordonnier réparateur / Cordonnière réparatrice",
+      "libelle_court": "Cordonnier réparateur / Cordonnière réparatrice",
+      "code_ogr": 13732
+    },
+    {
+      "libelle": "Cordonnier-bottier / Cordonnière-bottière",
+      "libelle_court": "Cordonnier-bottier / Cordonnière-bottière",
+      "code_ogr": 13733
+    },
+    {
+      "libelle": "Opérateur / Opératrice en cordonnerie et multiservices",
+      "libelle_court": "Opérateur / Opératrice en cordonnerie et multiservices",
+      "code_ogr": 17198
+    },
+    {
+      "libelle": "Réparateur / Réparatrice d'articles en cuir",
+      "libelle_court": "Réparateur / Réparatrice d'articles en cuir",
+      "code_ogr": 18515
+    },
+    {
+      "libelle": "Réparateur / Réparatrice en chaussures",
+      "libelle_court": "Réparateur / Réparatrice en chaussures",
+      "code_ogr": 18525
+    },
+    {
+      "libelle": "Réparateur / Réparatrice en maroquinerie",
+      "libelle_court": "Réparateur / Réparatrice en maroquinerie",
+      "code_ogr": 18528
+    }
+  ],
+  "definition": "Le cordonnier, artisan du quotidien, préserve et embellit vos articles en cuir. Répare et restaure divers articles en cuir, notamment les chaussures et les sacs Confectionne des pièces sur mesure et effectue des ajustements selon les besoins des clients Propose des services de personnalisation pour divers articles en cuir Maintient un atelier organisé et conforme aux normes de sécurité Conseille les clients sur l'entretien et la conservation de leurs articles en cuir Peut gérer un commerce de détail spécialisé en cordonnerie et articles en cuir",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP Cordonnier, un Brevet Professionnel en Cordonnerie ou un Brevet des Métiers d'Art en Cordonnerie.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Ajuster des chaussures (rehaussement, talonnettes etc.)",
+              "code_ogr": 125338,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Comprendre les différents types de cuirs, textiles, caoutchoucs et autres matériaux",
+              "code_ogr": 511088,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Démonter une pièce de son support",
+              "code_ogr": 124332,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Positionner des éléments de renfort",
+              "code_ogr": 125590,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des articles en cuir à la demande du client",
+              "code_ogr": 114143,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations d'assemblage par clouage, agrafage, couture, sur des pièces en cuir, peau",
+              "code_ogr": 105444,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations de montage sur des articles (tiges, poignées, semelles, ...)",
+              "code_ogr": 114141,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des plaques minéralogiques et d'identification",
+              "code_ogr": 125532,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des reproductions de clés",
+              "code_ogr": 125533,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le bichonnage d'un article de maroquinerie",
+              "code_ogr": 125359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser et régler un outil ou machine d'impression, de tirage",
+              "code_ogr": 300157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser un outil, une machine, un équipement, une installation",
+              "code_ogr": 300153,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Déterminer les réparations ou modifications de l'article",
+              "code_ogr": 101988,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une opération de remise à teinte",
+              "code_ogr": 105621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer des vêtements",
+              "code_ogr": 125787,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des réparations de chaussures",
+              "code_ogr": 502910,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Réaliser l'étiquetage de produits",
+              "code_ogr": 102912,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier, ranger des produits, des matières premières",
+              "code_ogr": 300262,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs de matériaux",
+              "code_ogr": 483814,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Veiller au respect des normes de sécurité",
+              "code_ogr": 404243,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Maîtriser les techniques de nettoyage ou de réparation pour retarder l'obsolescence d'un produit ou d'un objet",
+              "code_ogr": 522884,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'utilisation des matières premières et gérer les chutes de production",
+              "code_ogr": 522883,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer des stratégies de marketing pour promouvoir les produits et les services",
+              "code_ogr": 504912,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des fils",
+              "code_ogr": 101173,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machine plate",
+              "code_ogr": 101996,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines à façonner les clés",
+              "code_ogr": 100865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux souples",
+              "code_ogr": 101133,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Articles de nautisme",
+              "code_ogr": 125786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des articles de bourrellerie et de sellerie",
+              "code_ogr": 105588,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des cuirs et peaux",
+              "code_ogr": 100820,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de presse à découper/emboutir",
+              "code_ogr": 102009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des articles de maroquinerie",
+              "code_ogr": 105160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de point de vente",
+              "code_ogr": 478416,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP cordonnier bottier",
+              "code_ogr": 514114,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP chaussure",
+              "code_ogr": 514109,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel cordonnier multiservices",
+              "code_ogr": 514722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cordonnier (BTM)",
+              "code_ogr": 514232,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP cordonnerie multiservice",
+              "code_ogr": 514113,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Outils informatiques d'impression",
+              "code_ogr": 119433,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques anatomiques du pied",
+              "code_ogr": 102003,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de montage Blake",
+              "code_ogr": 102011,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'affûtage",
+              "code_ogr": 100029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de retouche",
+              "code_ogr": 102004,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de cousu norvégien",
+              "code_ogr": 102012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de ressemelage",
+              "code_ogr": 102005,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de couture petit point",
+              "code_ogr": 102013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Couture manuelle",
+              "code_ogr": 100753,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de collage",
+              "code_ogr": 100800,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'assemblage et de montage en confection",
+              "code_ogr": 101177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation des articles en cuir",
+              "code_ogr": 481830,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prise de mesures (habillement)",
+              "code_ogr": 101134,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage en maroquinerie",
+              "code_ogr": 102015,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "90",
+      "libelle": "Industrie - Textile et mode",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1806 - Tapissier / Tapissière d'ameublement",
+      "code_org_rome_cible": 54,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H2422 - Tapissier industriel / Tapissière industrielle",
+      "code_org_rome_cible": 488780,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "D1226 - Nettoyeur / Nettoyeuse en cuir et peausserie",
+      "code_org_rome_cible": 509547,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "B1605 - Bijoutier / Bijoutière",
+      "code_org_rome_cible": 404957,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "B1802 - Maroquinier / Maroquinière",
+      "code_org_rome_cible": 50,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "B1809 - Sellier / Sellière",
+      "code_org_rome_cible": 510274,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H2411 - Monteur / Monteuse prototypiste cuir et matériaux souples",
+      "code_org_rome_cible": 257,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1626 - Calorifugeur / Calorifugeuse",
+      "code_org_rome_cible": 509352,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "B1606 - Joaillier / Joaillière",
+      "code_org_rome_cible": 404968,
+      "ordre_mobilite": 10
+    }
+  ]
+}

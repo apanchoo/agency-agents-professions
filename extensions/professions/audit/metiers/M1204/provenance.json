@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 461,
+    "code_rome": "M1204",
+    "libelle": "Contrôleur / Contrôleuse de gestion",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1204"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 99.298,
+      "matched_terms": [
+        "controleur / controleuse de gestion acteur cle dans la strategie financiere de l'entreprise, le controleur de gestion",
+        "financ"
+      ],
+      "direct_rome_pages": [
+        13
+      ],
+      "parent_rome": "M1204",
+      "title_terms": [
+        "controleur / controleuse de gestion"
+      ],
+      "specific_title_terms": [
+        "controleur / controleuse de gestion"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.10",
+          "title": "Outils et pilotage de l’organisation : Système d’information décisionnel, tableaux de bord et reporting approfondi",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=235",
+          "selection_score": 146.9518,
+          "shared_terms": [
+            "bord",
+            "pilotage",
+            "reporting",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CG2P.11",
+          "title": "Outils et pilotage de l’organisation : Initiation au pilotage de la performance",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=218",
+          "selection_score": 80.4269,
+          "shared_terms": [
+            "performance",
+            "pilotage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CG2P.13",
+          "title": "Management d’activités : Management des opérations et pilotage de la performance",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=197",
+          "selection_score": 57.706,
+          "shared_terms": [
+            "performance",
+            "pilotage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CG2P.02",
+          "title": "Mettre en œuvre une démarche qualité et amélioration continue de la performance",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=223",
+          "selection_score": 72.6828,
+          "shared_terms": [
+            "amelioration",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CG2P.02",
+          "title": "Construire, en vue de leur mise en œuvre, les outils de suivi de la performance",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=203",
+          "selection_score": 57.9801,
+          "shared_terms": [
+            "performance",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

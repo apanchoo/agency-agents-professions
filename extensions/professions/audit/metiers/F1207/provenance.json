@@ -1,0 +1,116 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 490402,
+    "code_rome": "F1207",
+    "libelle": "Chef / Cheffe d'équipe travaux publics",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1202"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 92.156,
+      "matched_terms": [
+        "travaux public"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1202",
+      "title_terms": [
+        "travaux public"
+      ],
+      "specific_title_terms": [
+        "travaux public"
+      ],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 95.7601,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Dessin - Lecture de plans 2",
+          "page": 102,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=102",
+          "selection_score": 94.6666,
+          "shared_terms": [
+            "dessin",
+            "lecture",
+            "plans"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Topographie 2",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=104",
+          "selection_score": 70.0119,
+          "shared_terms": [
+            "topographie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.TP.02",
+          "title": "Projet de conception réseaux et Implantation d’un ouvrage linéaire",
+          "page": 193,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=193",
+          "selection_score": 68.2635,
+          "shared_terms": [
+            "conception",
+            "implantation",
+            "ouvrage",
+            "reseaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.BEC.02",
+          "title": "Projet de conception réseaux (EU/EP) et Implantation d’un ouvrage linéaire",
+          "page": 351,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=351",
+          "selection_score": 67.6115,
+          "shared_terms": [
+            "conception",
+            "implantation",
+            "ouvrage",
+            "reseaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

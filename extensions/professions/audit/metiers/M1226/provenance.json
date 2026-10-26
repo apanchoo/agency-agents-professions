@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509355,
+    "code_rome": "M1226",
+    "libelle": "Responsable investissements",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1207"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 19.301,
+      "matched_terms": [
+        "financ",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1207",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 83.6043,
+          "shared_terms": [
+            "portefeuille",
+            "tresorerie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GEMA.08",
+          "title": "Outils et pilotage de l’organisation : Business plan",
+          "page": 291,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=291",
+          "selection_score": 48.8085,
+          "shared_terms": [
+            "busines",
+            "plan"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CG2P.13",
+          "title": "Management d’activités : Management des opérations et pilotage de la performance",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=197",
+          "selection_score": 48.7371,
+          "shared_terms": [
+            "management",
+            "operation",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GEMA.02",
+          "title": "Construire un business plan pour vérifier la faisabilité d’une nouvelle activité",
+          "page": 280,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=280",
+          "selection_score": 62.0225,
+          "shared_terms": [
+            "busines",
+            "faisabilite",
+            "plan"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Mettre en œuvre une organisation comptable et fiscale",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=60",
+          "selection_score": 53.638,
+          "shared_terms": [
+            "fiscale",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

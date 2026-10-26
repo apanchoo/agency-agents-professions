@@ -1,0 +1,111 @@
+# Information Systems Administrator
+
+## Scope
+
+The Information Systems Administrator (IS) plays a crucial role in the management and security of a company's IT infrastructures. Manages and maintains the company's information systems and network infrastructure Ensures the security of data and access to the information system Updates systems and software to ensure their efficiency and security Supervises regular data backups to prevent loss of information Collaborates with different departments to optimize processes and use of information systems Provides technical support and trains users in new technologies and systems
+
+## Related Job Titles
+
+- Service platform administrator
+- Information system administrator
+- Infrastructure Administrator
+- IT Administrator
+- IT Network Administrator
+- System and information and communication network administrator
+- IT system administrator
+- Systems and network administrator
+- IT system manager
+- Configuration management manager
+
+## Activities and Skills
+
+- Allocate and organize project resources according to needs and constraints
+- Coordinate the intervention of teams of specialists
+- Write specifications and technical specifications
+- Develop and implement a test plan
+- Evaluate new technologies for integration
+- Administer an information system
+- Analyze, exploit, structure data
+- Allocate network logistics and hardware resources
+- Automate tasks using an AI agent
+- Encode data
+- Design the architecture of a system or network
+- Design the functional mapping of the IS
+- Configure virtual private networks (VPN)
+- Develop scripts to automate operations
+- Manage and master databases (SQL/NoSQL)
+- Manage user access rights
+- Install IT equipment
+- Implement CI or CD pipelines
+- Carry out studies on the organization and evolution of information systems
+- Select, assemble and integrate IT components (software packages, databases, specific developments, etc.)
+- Test software, an information system, an application
+- Design equipment according to its uses and constraints
+- Develop procedure automations
+- Ensure systems maintenance
+- Determine the causes of malfunctions
+- Select IT equipment
+- Assess the risks associated with new applications
+- Assess, prevent, and manage risks and safety
+- Manage cybersecurity risks
+- Securing the use of AI in the company
+- Analyze the impact of updates on systems
+- Ensure systems compliance with regulations
+- Identify and select suppliers, subcontractors, service providers
+- Propose solutions to optimize operating costs
+- Plan and track project deadlines
+- Promote a proposal, a project
+- Prepare and lead a meeting, a working group, a workshop
+- Document technical procedures for users
+- Regularly update your knowledge
+
+## Professional Approach
+
+- Demonstrate autonomy
+- Demonstrate rigor and precision
+- Organize your work according to priorities and objectives
+
+## Areas of expertise
+
+- IT technical writing
+- C# language
+- Network system (LAN, MAN, WAN)
+- Computer operating systems
+- C++ language
+- Computer programming languages
+- Shell Scripting
+- Programming in Python
+- Information systems
+- Technical English
+- Apache
+- Administration of mail servers
+- Industrial IT
+- Database Management System (DBMS)
+
+## Standards and processes
+
+- IT and Telecoms security rules
+- Information systems security
+- Monitoring security systems (firewalls, VPNs, intrusion detection systems)
+- Computer installation rules
+- Scrum methodology
+- Urbanization of information systems
+- Business Continuity Planning
+- Computer modeling
+- Digital data protection
+- AGILE method
+- Computer equipment maintenance
+
+## Working Conditions
+
+- Private sector employee (CDI, CDD)
+- Public sector employee
+- Self-employed
+- Extended sitting position
+- Working in project mode
+- Daytime work
+- Businesses and professional environments
+
+## Sectors
+
+- IT and telecommunications

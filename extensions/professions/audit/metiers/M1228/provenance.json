@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509556,
+    "code_rome": "M1228",
+    "libelle": "Gestionnaire de risques financiers",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1201"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 108.627,
+      "matched_terms": [
+        "financ",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1201",
+      "title_terms": [
+        "financ",
+        "gestion"
+      ],
+      "specific_title_terms": [
+        "financ"
+      ],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Finance",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=96",
+          "selection_score": 48.7429,
+          "shared_terms": [
+            "finance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Comptabilité",
+          "page": 69,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=69",
+          "selection_score": 40.5039,
+          "shared_terms": [
+            "comptabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.13",
+          "title": "Finance : Diagnostic financier approfondi et prévision du BFRE",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=122",
+          "selection_score": 38.5851,
+          "shared_terms": [
+            "finance",
+            "financier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GPRH.01",
+          "title": "Proposer une politique RH dans le cadre d’une évolution du périmètre de l’entreprise",
+          "page": 404,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=404",
+          "selection_score": 56.5997,
+          "shared_terms": [
+            "evolution",
+            "proposer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Contribuer à la gestion d’une organisation en fonction de ses besoins",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=81",
+          "selection_score": 51.6343,
+          "shared_terms": [
+            "fonction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

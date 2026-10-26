@@ -1,0 +1,189 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 69,
+    "code_rome": "C1205",
+    "libelle": "Conseiller / Conseillère en gestion de patrimoine",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "C1205"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 36.091,
+      "matched_terms": [
+        "financ",
+        "fiscal",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1205",
+      "title_terms": [
+        "gestion"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 71.2403,
+          "shared_terms": [
+            "finance",
+            "portefeuille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.07",
+          "title": "Fiscalité : Imposition du patrimoine et contrôle fiscal",
+          "page": 174,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=174",
+          "selection_score": 52.8172,
+          "shared_terms": [
+            "fiscal",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Finance",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=96",
+          "selection_score": 49.8568,
+          "shared_terms": [
+            "finance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GPRH.01",
+          "title": "Proposer une politique RH dans le cadre d’une évolution du périmètre de l’entreprise",
+          "page": 404,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=404",
+          "selection_score": 55.0088,
+          "shared_terms": [
+            "evolution",
+            "proposer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 47.5009,
+          "shared_terms": [
+            "etablir",
+            "financier"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 33.547,
+      "matched_terms": [
+        "jurid",
+        "patrimoine"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1205",
+      "title_terms": [
+        "patrimoine"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 69.2067,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.PF.06",
+          "title": "Droit patrimonial",
+          "page": 221,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=221",
+          "selection_score": 64.866,
+          "shared_terms": [
+            "droit",
+            "patrimonial"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Droit fiscal 1",
+          "page": 100,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=100",
+          "selection_score": 60.8151,
+          "shared_terms": [
+            "droit",
+            "fiscal"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.PF.01",
+          "title": "Conseil financier et/ou patrimonial",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=211",
+          "selection_score": 66.563,
+          "shared_terms": [
+            "financier",
+            "patrimonial"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Sécurisation d’activités d’une organisation",
+          "page": 45,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=45",
+          "selection_score": 61.1416,
+          "shared_terms": [
+            "securisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

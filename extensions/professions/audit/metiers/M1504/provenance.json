@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488280,
+    "code_rome": "M1504",
+    "libelle": "Responsable formation professionnelle en entreprise",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1502"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 32.752,
+      "matched_terms": [
+        "entrepris",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1502",
+      "title_terms": [
+        "entrepris"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MRPE.04",
+          "title": "Veille et pilotage dans une approche éco-responsable",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=167",
+          "selection_score": 55.7305,
+          "shared_terms": [
+            "approche",
+            "responsable",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.09",
+          "title": "Management responsable d’équipe",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=155",
+          "selection_score": 47.3826,
+          "shared_terms": [
+            "management",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 39.2752,
+          "shared_terms": [
+            "indicateur",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MDFS.01",
+          "title": "Piloter un projet aux fonctions support d’une organisation",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=216",
+          "selection_score": 55.1457,
+          "shared_terms": [
+            "fonction",
+            "piloter"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MDFS.01",
+          "title": "Piloter et rendre compte d’un projet aux fonctions support d’une organisation",
+          "page": 234,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=234",
+          "selection_score": 48.8179,
+          "shared_terms": [
+            "fonction",
+            "piloter"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

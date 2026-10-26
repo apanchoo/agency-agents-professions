@@ -1,0 +1,533 @@
+{
+  "numero": 33818,
+  "rome": {
+    "code_rome": "H2220",
+    "intitule": "Agent / Agente de montage en ameublement",
+    "code_ogr": 518348
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de production industrielle de mobilier en menuiserie",
+      "libelle_court": "Agent(e) de production industrielle mobilier en menuiserie",
+      "code_ogr": 10564
+    },
+    {
+      "libelle": "Monteur / Monteuse de meubles",
+      "libelle_court": "Monteur / Monteuse de meubles",
+      "code_ogr": 16789
+    },
+    {
+      "libelle": "Monteur / Monteuse en siège",
+      "libelle_court": "Monteur / Monteuse en siège",
+      "code_ogr": 16839
+    },
+    {
+      "libelle": "Monteur-assembleur / Monteuse-assembleuse de meubles en métal",
+      "libelle_court": "Monteur-assembleur / Monteuse-assembleuse meubles en métal",
+      "code_ogr": 518363
+    },
+    {
+      "libelle": "Opérateur / Opératrice de fabrication de mobilier métallique",
+      "libelle_court": "Opérateur / Opératrice de fabrication de mobilier métallique",
+      "code_ogr": 518365
+    },
+    {
+      "libelle": "Opérateur / Opératrice de machine de fabrication de mobilier en bois",
+      "libelle_court": "Opérateur (trice) de machine fabrication mobilier en bois",
+      "code_ogr": 518364
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de l'industrie de l'ameublement",
+      "libelle_court": "Ouvrier / Ouvrière de l'industrie de l'ameublement",
+      "code_ogr": 518366
+    }
+  ],
+  "definition": "L'Agent de montage en ameublement assemble toutes les parties constitutives d'un meuble ainsi que les éléments auxiliaires, tels que les pieds et coussins. Contrôle la qualité des pièces et des assemblages pour garantir la conformité aux spécifications Effectue des ajustements et des finitions sur les produits finis Respecte les normes de sécurité et d'hygiène tout au long du processus de production Peut opérer des machines spécifiques pour la découpe et l'assemblage du bois ou du métal",
+  "acces_metier": "Ce métier est accessible avec une formation de niveau CAP à Bac pro dans le domaine du montage et assemblage ou de la fabrication bois et matériaux associés.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Adapter, ajuster un article ou une production en fonction du besoin",
+              "code_ogr": 300140,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assembler des éléments de mobilier en utilisant des outils manuels",
+              "code_ogr": 518367,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les phases d'ajustage et de montage d'éléments, systèmes, ensembles mécaniques à partir du dossier technique ou du modèle",
+              "code_ogr": 105933,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le meuble pour l'emballage",
+              "code_ogr": 518368,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations de vernissage sur des ouvrages en bois",
+              "code_ogr": 104931,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la finition d'un produit, d'un article, d'un ouvrage",
+              "code_ogr": 300226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les travaux de montage, d'assemblage",
+              "code_ogr": 300233,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser et régler des machines ou équipements des éléments de l'industrie du bois",
+              "code_ogr": 300170,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Assembler des éléments métalliques",
+              "code_ogr": 486590,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fixer, poser, installer des éléments, des ouvrages",
+              "code_ogr": 300228,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Monter du mobilier",
+              "code_ogr": 104888,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poser les composants d'assemblage et encoller les parties jointives",
+              "code_ogr": 104872,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations relatives au placage",
+              "code_ogr": 104902,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Déterminer les conditions de réfection ou de réalisation de l'article (siège, tenture, ...) ou d'un ensemble d'ameublement selon l'état, le style de mobilier, le délai, le coût des matériaux",
+              "code_ogr": 101273,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir la propreté des équipements et de l'espace de travail",
+              "code_ogr": 483143,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer des éléments de mobilier (serrurerie, ...)",
+              "code_ogr": 114680,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller le bon fonctionnement des machines",
+              "code_ogr": 484345,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des produits finis avec les spécifications",
+              "code_ogr": 507426,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier des non-conformités",
+              "code_ogr": 105456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la conformité du montage et de l'assemblage",
+              "code_ogr": 300505,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les normes liées au recyclage de matériaux",
+              "code_ogr": 402040,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques et propriétés des bois et dérivés du bois",
+              "code_ogr": 104893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des colles",
+              "code_ogr": 103612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils électroportatifs (scie électrique, ponceuse, etc.)",
+              "code_ogr": 100507,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériaux durables",
+              "code_ogr": 479880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machine-outil",
+              "code_ogr": 104905,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel menuisier de fabrication bois et dérivés",
+              "code_ogr": 491076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro technicien de fabrication bois et matériaux associés",
+              "code_ogr": 490926,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Styles de mobilier",
+              "code_ogr": 104882,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de chevillage",
+              "code_ogr": 103399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de placage",
+              "code_ogr": 104881,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage de structures métalliques",
+              "code_ogr": 516228,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vernissage",
+              "code_ogr": 105180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage et démontage de meubles",
+              "code_ogr": 477483,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'assemblage tenon et mortaise",
+              "code_ogr": 104879,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de jointage et assemblage",
+              "code_ogr": 104903,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de collage",
+              "code_ogr": 100800,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pose d'éléments de quincaillerie",
+              "code_ogr": 124494,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "107",
+      "libelle": "Industrie - Bois",
+      "principal": false
+    },
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2205 - Opérateur / Opératrice de production en industrie du bois",
+      "code_org_rome_cible": 241,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H3308 - Emballeur industriel / Emballeuse industrielle",
+      "code_org_rome_cible": 518259,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2202 - Conducteur / Conductrice de ligne de production en industrie du bois",
+      "code_org_rome_cible": 238,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1501 - Monteur / Monteuse de structures bois",
+      "code_org_rome_cible": 158,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H2215 - Caissier / Caissière de l'emballage industriel",
+      "code_org_rome_cible": 513853,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H2219 - Agent / Agente d'encadrement en ameublement",
+      "code_org_rome_cible": 518231,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1625 - Monteur / Monteuse en agencement",
+      "code_org_rome_cible": 489189,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1502 - Monteur / Monteuse en structures métalliques",
+      "code_org_rome_cible": 159,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N4123 - Conducteur livreur installateur / Conductrice livreuse installatrice",
+      "code_org_rome_cible": 488931,
+      "ordre_mobilite": 10
+    }
+  ]
+}

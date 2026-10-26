@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510156,
+    "code_rome": "K1420",
+    "libelle": "Directeur / Directrice d'établissement pénitentiaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1403"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.239,
+      "matched_terms": [
+        "insertion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.CGE3S.03",
+          "title": "Démarche d’amélioration continue et de qualité",
+          "page": 596,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=596",
+          "selection_score": 66.2565,
+          "shared_terms": [
+            "amelioration",
+            "continue"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Cadre politique et institutionnel",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=84",
+          "selection_score": 63.0916,
+          "shared_terms": [
+            "institutionnel",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AS.08",
+          "title": "Politiques et cadre institutionnel de l’action sociale",
+          "page": 287,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=287",
+          "selection_score": 58.8286,
+          "shared_terms": [
+            "institutionnel",
+            "politique",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CGE3S.03",
+          "title": "Assurer une veille réglementaire sur les champs de la qualité et de l’autorisation pour une structure sanitaire et/ou médico sociale",
+          "page": 568,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=568",
+          "selection_score": 54.513,
+          "shared_terms": [
+            "reglementaire",
+            "sociale",
+            "structure",
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ES.04",
+          "title": "Concevoir un accompagnement éducatif adapté à la situation de la personne et/ou du groupe",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=335",
+          "selection_score": 47.8979,
+          "shared_terms": [
+            "educatif",
+            "groupe"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

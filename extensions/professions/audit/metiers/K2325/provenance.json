@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510158,
+    "code_rome": "K2325",
+    "libelle": "Technicien / Technicienne d'exploitation méthanisation",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K2306"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.156,
+      "matched_terms": [
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K2306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        7
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.03",
+          "title": "Sécurité des installations et des équipements de travail, risque d’explosion",
+          "page": 101,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=101",
+          "selection_score": 63.5097,
+          "shared_terms": [
+            "equipement",
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.05",
+          "title": "Sécurité des installations face au risque d’incendie",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=80",
+          "selection_score": 42.1433,
+          "shared_terms": [
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.08",
+          "title": "Transition écologique, Responsabilité Sociétale des Organisations et application à la gestion des déchets",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=84",
+          "selection_score": 41.3999,
+          "shared_terms": [
+            "dechet",
+            "transition"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.03",
+          "title": "Analyser la politique HSE d’une organisation à partir d’un outil diagnostic",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=94",
+          "selection_score": 68.1884,
+          "shared_terms": [
+            "diagnostic",
+            "hse",
+            "partir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.03",
+          "title": "Contribuer à la gestion d’une situation d’urgence",
+          "page": 27,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=27",
+          "selection_score": 67.3371,
+          "shared_terms": [
+            "urgence"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

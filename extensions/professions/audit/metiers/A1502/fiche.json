@@ -1,0 +1,575 @@
+{
+  "numero": 69,
+  "rome": {
+    "code_rome": "A1502",
+    "intitule": "Maréchal-ferrant / Maréchale-ferrante",
+    "code_ogr": 33
+  },
+  "appellations": [
+    {
+      "libelle": "Pareur / Pareuse d'onglon",
+      "libelle_court": "Pareur / Pareuse d'onglon",
+      "code_ogr": 17559
+    },
+    {
+      "libelle": "Pédicure pour bovin",
+      "libelle_court": "Pédicure pour bovin",
+      "code_ogr": 17604
+    }
+  ],
+  "definition": "Le maréchal-ferrant entretient le pied (sabot, onglon) des équidés ou des bovins afin de garantir l'aplomb et la santé de l'animal selon ses besoins et ses caractéristiques. Pose des ferrures pathologiques ou thérapeutiques. Peut façonner le fer en totalité. Conseille les propriétaires sur les pratiques de soin des sabots afin de prévenir les maladies ou blessures. Peut diriger une structure.",
+  "acces_metier": "Cet emploi est accessible avec un CAP / BEP Agricole ou un Brevet Technique des Métiers en maréchalerie. Le permis B et un véhicule type véhicule atelier sont nécessaires. Les vaccinations antitétanique et antirabique peuvent être requises.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller, accompagner une personne",
+              "code_ogr": 300014,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Ajuster les fers afin d'assurer un bon équilibre et un bon soutien pour le cheval",
+              "code_ogr": 405235,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer les soins courants des équidés",
+              "code_ogr": 404003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaître et évaluer les conditions d'accueil et l'environnement des animaux",
+              "code_ogr": 300595,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter les contre-indications traumatiques, inflammatoires, infectieuses et adapter la prise en charge ou orienter vers les partenaires de soins",
+              "code_ogr": 107575,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le comportement et l'état de santé d'un animal",
+              "code_ogr": 119351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier le motif de consultation, le degré d'urgence et informer le propriétaire de l'animal sur les modalités de prise en charge",
+              "code_ogr": 100408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer un traitement orthopédique",
+              "code_ogr": 100421,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des soins d'hygiène corporelle, de confort et de prévention",
+              "code_ogr": 107661,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser ou poser une ferrure",
+              "code_ogr": 100433,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner le fer en fonction de la mobilité, de l'effort et de la morphologie de l'animal et le former d'après l'empreinte",
+              "code_ogr": 100424,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Ajuster des éléments façonnés",
+              "code_ogr": 124982,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Appliquer un traitement, un produit",
+              "code_ogr": 300214,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtriser les caractéristiques d'un produit ou d'un matériau",
+              "code_ogr": 300207,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'état de propreté d'un lieu",
+              "code_ogr": 123603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des ferrures à partir de barres de métal",
+              "code_ogr": 113953,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler un équipement ou matériel",
+              "code_ogr": 124805,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer des actions ou des règles de prévention",
+              "code_ogr": 300148,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, informer et orienter les clients",
+              "code_ogr": 490153,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'accueil téléphonique",
+              "code_ogr": 300613,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier la demande du responsable de l'animal et déterminer les modalités d'intervention (soin sur place, transfert, ...)",
+              "code_ogr": 100456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer et conseiller sur le type de ferrure, les produits de soin, le besoin de consultation vétérinaire",
+              "code_ogr": 100426,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Identifier les priorités d'intervention (contrôles, relevés, ...) en fonction de la planification annuelle et déterminer le matériel approprié",
+              "code_ogr": 100133,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer une consigne de sécurité",
+              "code_ogr": 123351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Archiver des dossiers et documents de référence",
+              "code_ogr": 119250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les informations sur l'animal (troubles, comportement, antécédents, traitements en cours, etc.) auprès de son accompagnant ou dans le dossier médical",
+              "code_ogr": 100457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outils manuels de podologie animale",
+              "code_ogr": 100428,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Animaux d'élevage (bovins, ovins, porcins, ...)",
+              "code_ogr": 100417,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ferrure orthopédique",
+              "code_ogr": 300717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animaux de compétition",
+              "code_ogr": 100472,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ferrure pathologique",
+              "code_ogr": 100434,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du fer",
+              "code_ogr": 123140,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de contention animale",
+              "code_ogr": 119112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ferrure thérapeutique",
+              "code_ogr": 100435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de forge",
+              "code_ogr": 100427,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Brevet Technique des Métiers (BTM) Maréchal-Ferrant",
+              "code_ogr": 404979,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat Technique des Métiers (CTM) Maréchal-Ferrant",
+              "code_ogr": 405003,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agricole maréchal-ferrant",
+              "code_ogr": 404993,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de la santé",
+              "code_ogr": 404637,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Techniques de parage de sabot",
+              "code_ogr": 100430,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie animale",
+              "code_ogr": 100132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de contention animale",
+              "code_ogr": 100302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anatomie, physiologie et comportement des équidés",
+              "code_ogr": 100415,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes sanitaires",
+              "code_ogr": 478822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédés de formage",
+              "code_ogr": 100437,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'accueil des animaux",
+              "code_ogr": 100455,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de ferrage (à froid, à chaud)",
+              "code_ogr": 100431,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de soudage",
+              "code_ogr": 100007,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1102 - Chargé / Chargée de promotion touristique",
+      "code_org_rome_cible": 181,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4101 - Conducteur / Conductrice de poids lourd",
+      "code_org_rome_cible": 523,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H2913 - Soudeur / Soudeuse",
+      "code_org_rome_cible": 290,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1101 - Conducteur / Conductrice d'engins agricoles",
+      "code_org_rome_cible": 6,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1421 - Palefrenier soigneur / Palefrenière soigneuse",
+      "code_org_rome_cible": 403957,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1407 - Eleveur / Eleveuse de bovins",
+      "code_org_rome_cible": 21,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "B1601 - Métallier / Métallière d'art",
+      "code_org_rome_cible": 44,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488313,
+    "code_rome": "H1217",
+    "libelle": "Technicien / Technicienne formulation en industrie pharmaceutique",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.425,
+      "matched_terms": [
+        "formul",
+        "laboratoire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [
+        "formul"
+      ],
+      "specific_title_terms": [
+        "formul"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.16",
+          "title": "Élaboration/Formulation et caractérisation des matériaux et/ou produits formulés",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=136",
+          "selection_score": 63.5831,
+          "shared_terms": [
+            "formulation",
+            "formule",
+            "materiaux",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Formulation",
+          "page": 125,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=125",
+          "selection_score": 59.8853,
+          "shared_terms": [
+            "formulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la formulation",
+          "page": 100,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=100",
+          "selection_score": 59.8259,
+          "shared_terms": [
+            "formulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle *",
+          "page": 117,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=117",
+          "selection_score": 63.3438,
+          "shared_terms": [
+            "echelle",
+            "laboratoire",
+            "mise",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ANA.03",
+          "title": "De la mise au point laboratoire à la production à grande échelle",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=143",
+          "selection_score": 62.8875,
+          "shared_terms": [
+            "echelle",
+            "laboratoire",
+            "mise",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.567,
+      "matched_terms": [
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        18,
+        21
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.15",
+          "title": "Amélioration des systèmes de production",
+          "page": 145,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=145",
+          "selection_score": 44.5947,
+          "shared_terms": [
+            "amelioration",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.BMB.06",
+          "title": "Rôle du technicien dans un laboratoire de biologie médicale",
+          "page": 325,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=325",
+          "selection_score": 44.0887,
+          "shared_terms": [
+            "laboratoire",
+            "technicien"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.11",
+          "title": "Analyses d’essais agronomiques",
+          "page": 165,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=165",
+          "selection_score": 39.8872,
+          "shared_terms": [
+            "essai"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Mise en œuvre d’une expérimentation et suivi analytique",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=149",
+          "selection_score": 54.5987,
+          "shared_terms": [
+            "experimentation",
+            "mise",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.03",
+          "title": "Organiser et mettre en place une procédure d’expérimentation animale dans le cadre de la règlementation en vigueur",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=199",
+          "selection_score": 48.1471,
+          "shared_terms": [
+            "experimentation",
+            "procedure"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.279,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CPD.13",
+          "title": "Approche Environnementale",
+          "page": 347,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=347",
+          "selection_score": 26.0208,
+          "shared_terms": [
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.04",
+          "title": "Production - Méthodes",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=175",
+          "selection_score": 25.4862,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Science des Matériaux",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=136",
+          "selection_score": 17.8074,
+          "shared_terms": [
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 40.7262,
+          "shared_terms": [
+            "industrie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.II.02",
+          "title": "Ameliorer techniquement",
+          "page": 258,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=258",
+          "selection_score": 38.7527,
+          "shared_terms": [
+            "ameliorer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

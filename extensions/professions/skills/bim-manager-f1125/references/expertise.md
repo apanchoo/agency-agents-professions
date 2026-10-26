@@ -1,0 +1,111 @@
+# BIM Manager
+
+## Scope
+
+The Building Information Modeling (BIM) manager plays a crucial role in the digital transformation of the construction industry, using advanced technologies to improve the design, construction and management of buildings and infrastructure. Designs detailed 3D models of buildings and infrastructure Liaises between design, construction and project management teams Develops and implements BIM standards and protocols to improve project efficiency and quality Trains team members in BIM tools and practices Monitors project progress and ensures models comply with specifications and regulations
+
+## Related Job Titles
+
+- Referent Architect / BIM Referent Architect
+- BIM Modeler
+- BIM Project Manager
+- BIM Coordinator
+- BIM Project Director
+- Expert in digitalization of buildings
+- BIM project manager
+- Engineer in digital modeling
+- BIM Projector
+
+## Activities and Skills
+
+- Lead teams of internal and external collaborators on a project (BIM management)
+- Supervise a team of CAD technicians to develop new modeling software
+- Evaluate and develop the skills of your employees
+- Evaluate the performance of team members
+- Implement collaborative work tools and methods
+- Train teams in the use of BIM tools
+- Design instructions, procedures, specifications, study reports based on the results of tests and trials
+- Create a digital model of a BIM project
+- Analyze data from a study or project
+- Create technical documentation
+- Determine technical choices of software and hardware architecture and select technologies, hardware, software, configurations
+- Set up and supervise the implementation of BIM within the organization
+- Use modeling and simulation software
+- Analyze the operational implementation of the site and propose avenues for improvement by exploiting data from the digital model (BIM)
+- Implement functional and technical recommendations
+- Participate in the design and implementation of building information modeling (BIM)
+- Monitor the work (facilitation of weekly monitoring meetings, writing of reports, quality management, cost, deadline, planning, hazard management, contradictory findings)
+- Identify the activities and constraints of stakeholders by visualizing them and integrating them into the digital model
+- Comply with an information security policy
+- Supervise execution and detail plans from a 3D digital model
+- Ensure compliance of BIM models with current standards
+- Regularly evaluate the effectiveness of BIM workflows
+- Write the analysis report and propose the classification, highlighting the recommended solution
+- Ensure the interface with the various stakeholders in the work project (client, public administration, design office, architectural firms, control bodies, etc.)
+- Identify software needs
+- Carry out market intelligence, competitive intelligence
+- Lead a development project
+- Develop and manage relationships or partnerships
+- Evaluate the implementation of a project, an action plan
+- Implement energy performance monitoring tools in BIM models
+- Implement performance improvement solutions
+- Optimize a method or process
+- Manage the performance and profitability of an activity or project
+- Propose solutions to improve energy efficiency
+- Collaborate with multidisciplinary teams
+- Connect the different actors of a project
+- Promote the adoption of international BIM standards within the company
+- Prepare and lead a meeting, a working group, a workshop
+
+## Professional Approach
+
+- Demonstrate leadership
+- Demonstrate rigor and precision
+- Organize your work according to priorities and objectives
+
+## Products, tools and materials
+
+- IT equipment
+
+## Areas of expertise
+
+- Fiber To The Home (FTTH) fiber optic networks
+- Electrical engineering
+- Geomatics
+- Building Information Modeling (BIM)
+- English practice
+- Low Voltage Electricity (LV)
+- Energy engineering
+- Computer-aided design or drawing software (CAD/CAD)
+- Construction economics
+- 3D modeling
+- Fiber optic technology
+
+## Standards and processes
+
+- Town planning and construction law
+- Project management
+- Project management tools and methods
+- Building standards
+- Health and safety standards
+- Reading plans and diagrams
+
+## Professional techniques
+
+- Communication techniques
+
+## Working Conditions
+
+- Business customers
+- Private sector employee (CDI, CDD)
+- Public sector employee
+- Business travel
+- In design office
+- Possibility of teleworking
+- Working in project mode
+- On-call work
+
+## Sectors
+
+- Architecture, studies and standards
+- Building and public works (BTP)

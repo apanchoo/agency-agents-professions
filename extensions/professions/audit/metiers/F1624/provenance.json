@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489084,
+    "code_rome": "F1624",
+    "libelle": "Staffeur Stuqueur / Staffeuse Stuqueuse",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1601"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.341,
+      "matched_terms": [
+        "batiment",
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1601",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Dessin - Lecture de plans 1",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=74",
+          "selection_score": 33.1994,
+          "shared_terms": [
+            "dessin"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.11",
+          "title": "Stabilité des constructions 3",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=335",
+          "selection_score": 32.6977,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Stabilité des constructions 2",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=155",
+          "selection_score": 32.6621,
+          "shared_terms": [
+            "construction"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.RAPEB.01",
+          "title": "Choix et justification de solutions constructives dans le cadre d’une rénovation thermique d’un bâtiment",
+          "page": 269,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=269",
+          "selection_score": 62.398,
+          "shared_terms": [
+            "batiment",
+            "choix",
+            "renovation",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.RAPEB.06",
+          "title": "Diagnostic d’un bâtiment dans le cadre d’une rénovation thermique et structurelle d’un bâtiment",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=275",
+          "selection_score": 53.2324,
+          "shared_terms": [
+            "batiment",
+            "renovation",
+            "thermique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

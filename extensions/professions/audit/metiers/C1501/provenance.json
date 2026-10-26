@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 76,
+    "code_rome": "C1501",
+    "libelle": "Gestionnaire de copropriété",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "C1501"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.905,
+      "matched_terms": [
+        "patrimoine"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1501",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.EA.06",
+          "title": "Droit des contentieux et du recouvrement",
+          "page": 192,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=192",
+          "selection_score": 88.2935,
+          "shared_terms": [
+            "contentieux",
+            "droit",
+            "recouvrement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AJ.02",
+          "title": "Contentieux administratif",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=113",
+          "selection_score": 74.5144,
+          "shared_terms": [
+            "administratif",
+            "contentieux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 69.2062,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Contribution juridique, comptable, fiscale et/ou organisationnelle à la mise en œuvre d’un projet",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=66",
+          "selection_score": 76.4359,
+          "shared_terms": [
+            "comptable",
+            "fiscale",
+            "juridique",
+            "mise",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mise en conformité d’une organisation dans son environnement juridique, économique et social",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=68",
+          "selection_score": 55.63,
+          "shared_terms": [
+            "conformite",
+            "juridique",
+            "mise"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

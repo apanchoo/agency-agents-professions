@@ -1,0 +1,116 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 30,
+    "code_rome": "A1416",
+    "libelle": "Exploitant / Exploitante agricole",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1416"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 103.22,
+      "matched_terms": [
+        "agricol",
+        "aliment",
+        "environnement"
+      ],
+      "direct_rome_pages": [
+        17
+      ],
+      "parent_rome": "A1416",
+      "title_terms": [
+        "agricol"
+      ],
+      "specific_title_terms": [
+        "agricol"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 182.4684,
+          "shared_terms": [
+            "phytosanitaire",
+            "produit",
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.10",
+          "title": "Productions animales 1",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=140",
+          "selection_score": 96.6901,
+          "shared_terms": [
+            "animale",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.07",
+          "title": "Productions animales 2",
+          "page": 161,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=161",
+          "selection_score": 95.7714,
+          "shared_terms": [
+            "animale",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.AGRO.03",
+          "title": "Approche globale d’une exploitation agricole",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=103",
+          "selection_score": 111.3685,
+          "shared_terms": [
+            "agricole",
+            "approche",
+            "exploitation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.AGRO.03",
+          "title": "Caractérisation pédoclimatique d’une exploitation agricole",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=78",
+          "selection_score": 80.8309,
+          "shared_terms": [
+            "agricole",
+            "exploitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

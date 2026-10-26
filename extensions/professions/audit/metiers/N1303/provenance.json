@@ -1,0 +1,199 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509,
+    "code_rome": "N1303",
+    "libelle": "Approvisionneur / Approvisionneuse logistique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N1303"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 102.461,
+      "matched_terms": [
+        "approvisionnement",
+        "flux",
+        "logist",
+        "production",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1303",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.OSC.10",
+          "title": "Prévision et planification de la distribution",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=231",
+          "selection_score": 86.362,
+          "shared_terms": [
+            "distribution",
+            "planification",
+            "prevision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.08",
+          "title": "Planification de la production et prévision de la demande à moyen et long terme",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=142",
+          "selection_score": 74.5775,
+          "shared_terms": [
+            "demande",
+            "planification",
+            "prevision",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 61.2049,
+          "shared_terms": [
+            "logistique",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.02",
+          "title": "Dimensionnement d’un site logistique",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=190",
+          "selection_score": 48.3849,
+          "shared_terms": [
+            "logistique",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.QMI.02",
+          "title": "Inventaire des exigences d’un SMI",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=277",
+          "selection_score": 42.806,
+          "shared_terms": [
+            "inventaire"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.857,
+      "matched_terms": [
+        "flux",
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1303",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la gestion des stocks et des approvisionnements",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=68",
+          "selection_score": 77.8772,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Gestion des stocks et des approvisionnements : approfondissement",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=94",
+          "selection_score": 77.7703,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Traçabilité et outils de mise en oeuvre",
+          "page": 143,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=143",
+          "selection_score": 64.3684,
+          "shared_terms": [
+            "mise",
+            "tracabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Étude de l’entreposage et de la logistique",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=35",
+          "selection_score": 75.4665,
+          "shared_terms": [
+            "entreposage",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Pilotage d’un processus d’achats et gestion des stocks",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=58",
+          "selection_score": 62.8081,
+          "shared_terms": [
+            "achat",
+            "stock"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,492 @@
+{
+  "numero": 32625,
+  "rome": {
+    "code_rome": "K1712",
+    "intitule": "Pilote d'aéronef militaire",
+    "code_ogr": 488708
+  },
+  "appellations": [
+    {
+      "libelle": "Expert / Experte de haut niveau navigateur officier systèmes d'armes transport",
+      "libelle_court": "Expert.e navigateur officier systèmes d'armes transport",
+      "code_ogr": 520511
+    },
+    {
+      "libelle": "Expert / Experte de haut niveau pilote de transport",
+      "libelle_court": "Expert / Experte de haut niveau pilote de transport",
+      "code_ogr": 520516
+    },
+    {
+      "libelle": "Expert / Experte de haut niveau pilote ravitaillement en vol",
+      "libelle_court": "Expert pilote ravitaillement en vol",
+      "code_ogr": 520514
+    },
+    {
+      "libelle": "Spécialiste navigateur officier systèmes d'armes transport",
+      "libelle_court": "Spécialiste navigateur officier systèmes d'armes transport",
+      "code_ogr": 520510
+    },
+    {
+      "libelle": "Spécialiste pilote avion",
+      "libelle_court": "Spécialiste pilote avion",
+      "code_ogr": 520512
+    },
+    {
+      "libelle": "Spécialiste pilote de transport",
+      "libelle_court": "Spécialiste pilote de transport",
+      "code_ogr": 520515
+    },
+    {
+      "libelle": "Spécialiste pilote ravitaillement en vol",
+      "libelle_court": "Spécialiste pilote ravitaillement en vol",
+      "code_ogr": 520513
+    }
+  ],
+  "definition": "Le pilote d'aéronefs militaires est affecté à des missions de combat, de transport de troupes ou de matériel, de reconnaissance, de ravitaillement en vol, ou de sauvetage. Est capable de prendre des décisions rapides et précises sous pression. Développe une condition physique et mentale suffisante à l'exercice de son métier",
+  "acces_metier": "Ce métier s'exerce sous statut militaire de l'armée de Terre, de l'armée de l'Air et de l'Espace, de la Marine nationale ou de la Gendarmerie nationale Les candidats doivent posséder une bonne vision, une bonne audition et une bonne forme physique. Les candidats doivent également réussir une série de tests physiques et mentaux, ainsi qu'une formation spécifique dans le domaine de l'aviation militaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Travailler avec des autorités civiles et militaires",
+              "code_ogr": 511476,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir le matériel de dotation",
+              "code_ogr": 511148,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Anticiper un danger ou une contrainte",
+              "code_ogr": 123344,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'aéronef",
+              "code_ogr": 519399,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer le stress et les réactions en situation de combat",
+              "code_ogr": 485202,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des mesures de sécurité",
+              "code_ogr": 300565,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer un ravitaillement en vol",
+              "code_ogr": 519519,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Effectuer des missions aériennes de combat",
+              "code_ogr": 519395,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer le largage de parachutistes",
+              "code_ogr": 519532,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer une mission en régime de vol aux instruments",
+              "code_ogr": 519396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les équipements et systèmes de bord constitutifs d'un cockpit",
+              "code_ogr": 519388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtriser la phraséologie aéronautique",
+              "code_ogr": 519392,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre les procédures de largage de personnels ou de matériel",
+              "code_ogr": 519533,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre les procédures de navigation aérienne",
+              "code_ogr": 519400,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre les réactions face aux menaces extérieures à bord d'un aéronef",
+              "code_ogr": 519393,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter ou participer à la conduite de l'aéronef, notamment en environnement hostile",
+              "code_ogr": 519520,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter un aéronef et utiliser les sous-systèmes embarqués",
+              "code_ogr": 519391,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer la mission au sol",
+              "code_ogr": 519521,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer une mission aérienne",
+              "code_ogr": 519394,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des missions de transport, de ravitaillement, de surveillance, de sauvetage, de renseignement ou d'attaque",
+              "code_ogr": 519535,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transporter des troupes en opération extérieure",
+              "code_ogr": 519536,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les autres membres de l'unité",
+              "code_ogr": 511927,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communiquer par des moyens radio en situation de combat",
+              "code_ogr": 519401,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Etre projeté en opération militaire sur le territoire national et en zone de conflit",
+              "code_ogr": 511473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre des décisions rapides sous pression",
+              "code_ogr": 482468,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Acquérir et développer une condition physique et mentale suffisante à l'exercice de son métier",
+              "code_ogr": 511150,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Etre formé au largage de personnel et de matériel",
+              "code_ogr": 519534,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Maintien en condition du matériel",
+              "code_ogr": 511560,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratique de langues étrangères",
+              "code_ogr": 403005,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Structures et procédures interalliées ou OTAN",
+              "code_ogr": 519403,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Topographie",
+              "code_ogr": 103060,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Doctrines et procédures aéroterrestres",
+              "code_ogr": 512062,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures d'urgence à bord d'un aéronef",
+              "code_ogr": 519402,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des lois de la guerre",
+              "code_ogr": 497314,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de survie en milieu hostile",
+              "code_ogr": 477252,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de navigation aérienne",
+              "code_ogr": 498372,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication en situation de combat",
+              "code_ogr": 492491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de dispositifs de vision nocturne",
+              "code_ogr": 477261,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à travailler en équipe dans des situations stressantes",
+              "code_ogr": 492407,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Militaire",
+          "code_ogr": 403099
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Travail avec des organisations ou partenaires internationaux",
+          "code_ogr": 511477
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En altitude",
+          "code_ogr": 23377
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "En milieu exigu ou confiné",
+          "code_ogr": 23385
+        },
+        {
+          "libelle": "Port d'arme et de munitions",
+          "code_ogr": 511495
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        },
+        {
+          "libelle": "Travail dans des environnements hostiles et dangereux",
+          "code_ogr": 400047
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Horaires annuels",
+          "code_ogr": 300797
+        },
+        {
+          "libelle": "Mobilisable en urgence",
+          "code_ogr": 511474
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Organisme militaire",
+          "code_ogr": 511846
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1706 - Gendarme",
+      "code_org_rome_cible": 396,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1702 - Responsable de sécurité civile et de secours",
+      "code_org_rome_cible": 392,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1715 - Pilote d'hélicoptère des forces armées",
+      "code_org_rome_cible": 488906,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1713 - Pilote de chasse",
+      "code_org_rome_cible": 488712,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1705 - Secouriste",
+      "code_org_rome_cible": 395,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1701 - Combattant / Combattante en milieu terrestre",
+      "code_org_rome_cible": 391,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N2103 - Pilote instructeur / Pilote instructrice aéronautique",
+      "code_org_rome_cible": 515463,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N2206 - Pilote de drone",
+      "code_org_rome_cible": 489039,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N2102 - Pilote de ligne",
+      "code_org_rome_cible": 511,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1731 - Responsable des opérations militaires en milieu aéroterrestre",
+      "code_org_rome_cible": 510475,
+      "ordre_mobilite": 10
+    }
+  ]
+}

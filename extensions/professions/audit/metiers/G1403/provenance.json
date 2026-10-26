@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 193,
+    "code_rome": "G1403",
+    "libelle": "Responsable de service en établissement touristique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1403"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.019,
+      "matched_terms": [
+        "gestion",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.05",
+          "title": "Management de la performance de l’équipe commerciale",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=319",
+          "selection_score": 54.579,
+          "shared_terms": [
+            "commerciale",
+            "management",
+            "performance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 49.5297,
+          "shared_terms": [
+            "indicateur",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.09",
+          "title": "Management responsable d’équipe",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=155",
+          "selection_score": 48.6341,
+          "shared_terms": [
+            "management",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux responsables et environnementaux",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=94",
+          "selection_score": 60.8299,
+          "shared_terms": [
+            "ameliorer",
+            "performance",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MACAST.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 322,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=322",
+          "selection_score": 56.1161,
+          "shared_terms": [
+            "ameliorer",
+            "performance",
+            "touristique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

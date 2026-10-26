@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 403951,
+    "code_rome": "A1304",
+    "libelle": "Conseiller / Conseillère technique agricole",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "A1301"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 92.37,
+      "matched_terms": [
+        "agricol"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1301",
+      "title_terms": [
+        "agricol"
+      ],
+      "specific_title_terms": [
+        "agricol"
+      ],
+      "parent_rome_pages": [
+        17
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 137.6531,
+          "shared_terms": [
+            "phytosanitaire",
+            "produit",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.09",
+          "title": "Comptabilité et gestion agricole",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=163",
+          "selection_score": 70.5552,
+          "shared_terms": [
+            "agricole"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.11",
+          "title": "Bases de comptabilité agricole",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=141",
+          "selection_score": 70.4832,
+          "shared_terms": [
+            "agricole"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AGRO.02",
+          "title": "Établir des diagnostics en agronomie",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=126",
+          "selection_score": 96.7872,
+          "shared_terms": [
+            "diagnostic",
+            "etablir"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.AGRO.03",
+          "title": "Approche globale d’une exploitation agricole",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=103",
+          "selection_score": 50.5777,
+          "shared_terms": [
+            "agricole"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

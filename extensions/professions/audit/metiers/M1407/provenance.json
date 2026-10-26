@@ -1,0 +1,102 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488300,
+    "code_rome": "M1407",
+    "libelle": "Responsable de la veille scientifique et technique en industrie pharmaceutique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.045,
+      "matched_terms": [
+        "entrepris",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.MRPE.10",
+          "title": "Nouvelles approches de l’entreprise",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=113",
+          "selection_score": 41.5188,
+          "shared_terms": [
+            "nouvelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MRPE.04",
+          "title": "Veille et pilotage dans une approche éco-responsable",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=167",
+          "selection_score": 39.5395,
+          "shared_terms": [
+            "responsable",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie de l’information et de la communication",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=67",
+          "selection_score": 36.8247,
+          "shared_terms": [
+            "technologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Participer au pilotage d’une organisation - Etude concurrentielle",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=75",
+          "selection_score": 51.6401,
+          "shared_terms": [
+            "concurrentielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.02",
+          "title": "Réaliser une étude/conseil dans le cadre d’un projet eco ou socialement responsable",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=96",
+          "selection_score": 24.0243,
+          "shared_terms": [
+            "responsable"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

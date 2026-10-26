@@ -1,0 +1,186 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509686,
+    "code_rome": "D1427",
+    "libelle": "Conseiller vendeur / Conseillère vendeuse d'autocars",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1404"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.524,
+      "matched_terms": [
+        "client",
+        "commercial",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Négocier dans des contextes spécifiques - 1",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=167",
+          "selection_score": 73.6015,
+          "shared_terms": [
+            "negocier",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.02",
+          "title": "Négocier dans des contextes spécifiques - 2",
+          "page": 188,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=188",
+          "selection_score": 72.6272,
+          "shared_terms": [
+            "negocier",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.BDMRC.16",
+          "title": "Fondamentaux de la relation client",
+          "page": 459,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=459",
+          "selection_score": 49.8584,
+          "shared_terms": [
+            "client",
+            "relation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Vente : démarche de prospection",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=67",
+          "selection_score": 78.7446,
+          "shared_terms": [
+            "prospection",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.BDMRC.03",
+          "title": "Développement d’une expertise commerciale basée sur le diagnostic de la stratégie client d’un secteur",
+          "page": 438,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=438",
+          "selection_score": 45.2878,
+          "shared_terms": [
+            "client",
+            "commerciale",
+            "secteur"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.474,
+      "matched_terms": [
+        "commercial",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1404",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MCMO.08",
+          "title": "Gestion commerciale, gestion de la data et CRM",
+          "page": 306,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=306",
+          "selection_score": 60.9587,
+          "shared_terms": [
+            "commerciale",
+            "crm"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MRPE.10",
+          "title": "Nouvelles approches de l’entreprise",
+          "page": 113,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=113",
+          "selection_score": 41.543,
+          "shared_terms": [
+            "nouvelle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.10",
+          "title": "Sources de financement spécifiques culturelles, artistiques, sportives ou de tourisme",
+          "page": 366,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=366",
+          "selection_score": 33.883,
+          "shared_terms": [
+            "financement",
+            "specifique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCMO.01",
+          "title": "Envisager une création d’activité dans le secteur commercial",
+          "page": 270,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=270",
+          "selection_score": 49.489,
+          "shared_terms": [
+            "commercial",
+            "secteur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Conduire un projet de développement commercial dans un contexte international",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=142",
+          "selection_score": 38.1995,
+          "shared_terms": [
+            "commercial"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,503 @@
+{
+  "numero": 360,
+  "rome": {
+    "code_rome": "J1504",
+    "intitule": "Infirmier / Infirmière de bloc opératoire (IBODE)",
+    "code_ogr": 360
+  },
+  "appellations": [
+    {
+      "libelle": "Infirmier / Infirmière aide opératoire",
+      "libelle_court": "Infirmier / Infirmière aide opératoire",
+      "code_ogr": 15531
+    },
+    {
+      "libelle": "Infirmier / Infirmière chef de bloc opératoire",
+      "libelle_court": "Infirmier / Infirmière chef de bloc opératoire",
+      "code_ogr": 38162
+    },
+    {
+      "libelle": "Infirmier / Infirmière de bloc opératoire circulant",
+      "libelle_court": "Infirmier / Infirmière de bloc opératoire circulant",
+      "code_ogr": 15536
+    },
+    {
+      "libelle": "Infirmier / Infirmière de bloc opératoire Diplômé(e) d'Etat (IBODE)",
+      "libelle_court": "Infirmier(ière) de bloc opératoire Diplômé(e) d'Etat (IBODE)",
+      "code_ogr": 15537
+    },
+    {
+      "libelle": "Infirmier / Infirmière de bloc opératoire instrumentiste",
+      "libelle_court": "Infirmier / Infirmière de bloc opératoire instrumentiste",
+      "code_ogr": 15538
+    },
+    {
+      "libelle": "Infirmier spécialisé / Infirmière spécialisée de bloc opératoire",
+      "libelle_court": "Infirmier(ère) spécialisé(e) de bloc opératoire",
+      "code_ogr": 15557
+    },
+    {
+      "libelle": "Instrumentiste en bloc opératoire",
+      "libelle_court": "Instrumentiste en bloc opératoire",
+      "code_ogr": 16024
+    },
+    {
+      "libelle": "Panseur / Panseuse en bloc opératoire",
+      "libelle_court": "Panseur / Panseuse en bloc opératoire",
+      "code_ogr": 17554
+    }
+  ],
+  "definition": "Organise la prise en charge de patients en bloc opératoire et apporte une aide technique au praticien tout au long de l'intervention selon le protocole chirurgical et les règles d'hygiène et d'asepsie. Met en œuvre des mesures d'hygiène et de sécurité en tenant compte des risques inhérents à la nature des interventions et à la spécificité des patients, au travail en zone protégée et à l'utilisation de dispositifs médicaux spécifiques. Peut coordonner une équipe.",
+  "acces_metier": "Cet emploi est accessible après formation initiale et l'acquisition du Diplôme d'Etat d'infirmier de bloc opératoire. Suite au Diplôme d'Etat d'infirmier ou de sage-femme et 2 ans d'activité professionnelle, il est possible de faire la spécialisation en soins infirmiers en bloc opératoire. Des vaccinations prévues par le Code de Santé Publique sont exigées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Participer à une intervention chirurgicale",
+              "code_ogr": 300051,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiquer des examens endoscopiques",
+              "code_ogr": 107722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratiquer un Prélèvement Multi Organes (PMO)",
+              "code_ogr": 107723,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder au transfert en Salle de Surveillance Post-Interventionnelle (SSPI)",
+              "code_ogr": 400840,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prodiguer des soins paramédicaux",
+              "code_ogr": 300048,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer la phase de réveil du patient",
+              "code_ogr": 115058,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer la table d'instrumentation médico-chirurgicale selon le programme opératoire",
+              "code_ogr": 107714,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer un patient pour une intervention médicale",
+              "code_ogr": 300141,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des soins infirmiers",
+              "code_ogr": 107715,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller l'état clinique du patient et transmettre les informations à l'équipe médicale",
+              "code_ogr": 490571,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner les documents techniques lors d'une intervention chirurgicale et les transmettre à l'interlocuteur concerné",
+              "code_ogr": 107703,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer, installer un dispositif médico-technique",
+              "code_ogr": 300143,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répartir les instruments et les dispositifs médicaux selon le mode de traitement par stérilisation ou par destruction",
+              "code_ogr": 107716,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'environnement d'un bloc opératoire",
+              "code_ogr": 123593,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la conformité d'un équipement ou d'une installation sensible",
+              "code_ogr": 123821,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer des déchets sensibles",
+              "code_ogr": 124708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Apporter une assistance technique à l'équipe médicale",
+              "code_ogr": 115049,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Créer une relation de confiance avec les patients",
+              "code_ogr": 404317,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les données d'un dispositif médico-technique",
+              "code_ogr": 300663,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'infirmier de bloc opératoire",
+              "code_ogr": 404158,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Physiologie",
+              "code_ogr": 120915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réanimation",
+              "code_ogr": 107270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de patientèle",
+              "code_ogr": 499116,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Eléments de base en techniques chirurgicales",
+              "code_ogr": 107706,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Endoscopie",
+              "code_ogr": 124263,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du bloc opératoire",
+              "code_ogr": 124264,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de logiciels médicaux",
+              "code_ogr": 477076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Santé et sécurité au travail",
+              "code_ogr": 124654,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sciences médicales",
+              "code_ogr": 118303,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Hygiène hospitalière",
+              "code_ogr": 125143,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures de contrôle du site opératoire",
+              "code_ogr": 107717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Circuit des vigilances",
+              "code_ogr": 107306,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des infections",
+              "code_ogr": 107255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protocoles de soins d'urgence",
+              "code_ogr": 107718,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Patients",
+          "code_ogr": 300838
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bloc opératoire",
+          "code_ogr": 400007
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1502 - Cadre de santé d'unité de soins ou de service paramédical",
+      "code_org_rome_cible": 358,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "J1505 - Infirmier / Infirmière de prévention",
+      "code_org_rome_cible": 361,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1507 - Puériculteur / Puéricultrice",
+      "code_org_rome_cible": 363,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1301 - Educateur / Educatrice en locomotion",
+      "code_org_rome_cible": 375,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "J1506 - Infirmier / Infirmière en soins généraux (IDE)",
+      "code_org_rome_cible": 362,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "J1503 - Infirmier / Infirmière anesthésiste (IADE)",
+      "code_org_rome_cible": 359,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "J1104 - Homme sage-femme / Sage-femme",
+      "code_org_rome_cible": 335,
+      "ordre_mobilite": 7
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "numero": 39,
+  "rome": {
+    "code_rome": "B1801",
+    "intitule": "Modiste",
+    "code_ogr": 49
+  },
+  "appellations": [
+    {
+      "libelle": "Artisan chapelier / Artisane chapelière",
+      "libelle_court": "Artisan chapelier / Artisane chapelière",
+      "code_ogr": 517981
+    },
+    {
+      "libelle": "Casquettier / Casquettière",
+      "libelle_court": "Casquettier / Casquettière",
+      "code_ogr": 11708
+    },
+    {
+      "libelle": "Chapelier / Chapelière",
+      "libelle_court": "Chapelier / Chapelière",
+      "code_ogr": 11738
+    },
+    {
+      "libelle": "Créateur confectionneur / Créatrice confectionneuse de chapeaux",
+      "libelle_court": "Créateur(trice) confectionneur(se) de chapeaux",
+      "code_ogr": 13832
+    },
+    {
+      "libelle": "Képissier / Képissière",
+      "libelle_court": "Képissier / Képissière",
+      "code_ogr": 16135
+    },
+    {
+      "libelle": "Ouvrier chapelier / Ouvrière chapelière pédaliste",
+      "libelle_court": "Ouvrier chapelier / Ouvrière chapelière pédaliste",
+      "code_ogr": 17412
+    }
+  ],
+  "definition": "Le modiste ou chapelier réalise des chapeaux féminins et masculins, de la conception à la vente en passant par les différentes étapes de fabrication. Conseille les clients sur le choix des styles, des formes et des matériaux adaptés à leur morphologie et à leurs préférences Conçoit et réalise des chapeaux sur mesure ou en série limitée, adaptés aux besoins et aux goûts des clients Sélectionne les matériaux, les couleurs et les accessoires pour la création de chaque pièce Assure la qualité et la finition des produits finis Restaure et répare des chapeaux anciens ou endommagés, en préservant leur authenticité et leur valeur Peut personnaliser des chapeaux pour des occasions spéciales, telles que des mariages ou des événements de mode",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Participer à des salons professionnels de la mode",
+              "code_ogr": 501545,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Concevoir de nouveaux modèles et accessoires pour une collection",
+              "code_ogr": 125008,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir des modèles pour une cérémonie",
+              "code_ogr": 101102,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Collaborer avec des designers pour des éditions limitées",
+              "code_ogr": 501548,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir un patron",
+              "code_ogr": 124222,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modifier un patron existant",
+              "code_ogr": 123570,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modéliser une maquette sous CAO",
+              "code_ogr": 117975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser manuellement un gabarit, un patron",
+              "code_ogr": 125755,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des outils de modélisation pour la création de chapeaux",
+              "code_ogr": 501531,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Choisir les matériaux adaptés pour la confection de chapeaux",
+              "code_ogr": 501530,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Couper les matières du chapeau",
+              "code_ogr": 120037,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre les mensurations d'un client",
+              "code_ogr": 101163,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des couleurs (nuancier, ...) et teindre des matériaux (paille, tissus, cuir, ...)",
+              "code_ogr": 113977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des garnitures d'articles de chapellerie",
+              "code_ogr": 120038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de mise en volume et garnissage d'article",
+              "code_ogr": 125752,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les travaux de montage, d'assemblage",
+              "code_ogr": 300233,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un chapeau, une parure de tête",
+              "code_ogr": 125779,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Lustrer un chapeau",
+              "code_ogr": 120035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir les équipements utilisés dans la chapellerie en bon état",
+              "code_ogr": 501536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Implanter des éléments de sécurité ou de signalisation",
+              "code_ogr": 122772,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des chapeaux produits",
+              "code_ogr": 501532,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de matières premières",
+              "code_ogr": 482149,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs de matériaux",
+              "code_ogr": 483814,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les écogestes dans sa pratique",
+              "code_ogr": 489753,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Favoriser le réemploi ou le recyclage des matériaux récupérés",
+              "code_ogr": 400851,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Définir avec le client les caractéristiques de l'article à réaliser selon ses souhaits, ses besoins et l'informer sur les conditions de réalisation",
+              "code_ogr": 101090,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Présenter des échantillons ou des modèles à des clients",
+              "code_ogr": 125581,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les tendances de mode pour la création de chapeaux",
+              "code_ogr": 501529,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir l'aménagement de vitrines",
+              "code_ogr": 119813,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer, adapter une proposition commerciale",
+              "code_ogr": 300377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer la satisfaction client",
+              "code_ogr": 120147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre des actions commerciales et promotionnelles",
+              "code_ogr": 300376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les créations de chapeaux lors d'événements",
+              "code_ogr": 501537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les tendances du marché et ajuster les offres",
+              "code_ogr": 508734,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Développer des partenariats avec des écoles de mode",
+              "code_ogr": 501544,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Appliquer les règles de sécurité dans les pratiques et les tâches",
+              "code_ogr": 490205,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les délais de livraison",
+              "code_ogr": 502120,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des brins végétaux",
+              "code_ogr": 100734,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chapeaux formés",
+              "code_ogr": 120041,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chapeaux plat",
+              "code_ogr": 120040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chapeaux moulés",
+              "code_ogr": 120042,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des tissus et matières textiles",
+              "code_ogr": 101119,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP métiers de la mode : chapelier-modiste",
+              "code_ogr": 514124,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Histoire du chapeau",
+              "code_ogr": 124487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Teinture chimique",
+              "code_ogr": 100686,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Histoire de la mode et des costumes",
+              "code_ogr": 101108,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques morphologiques de la tête",
+              "code_ogr": 126128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chapellerie",
+              "code_ogr": 124485,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'essayage",
+              "code_ogr": 101100,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de plumasserie",
+              "code_ogr": 101121,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage et de sculpture",
+              "code_ogr": 100517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de piqûre machine",
+              "code_ogr": 100741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Couture manuelle",
+              "code_ogr": 100753,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coupe de textile, cuir",
+              "code_ogr": 101098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de plissage",
+              "code_ogr": 101123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de coupe et de dimensionnement du feutre",
+              "code_ogr": 497992,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "90",
+      "libelle": "Industrie - Textile et mode",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1401 - Vannier / Vannière",
+      "code_org_rome_cible": 41,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "B1804 - Brodeur / Brodeuse",
+      "code_org_rome_cible": 52,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "B1803 - Couturier / Couturière",
+      "code_org_rome_cible": 51,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "B1805 - Styliste",
+      "code_org_rome_cible": 53,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "B1809 - Sellier / Sellière",
+      "code_org_rome_cible": 510274,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "B1812 - Modéliste",
+      "code_org_rome_cible": 509946,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "B1802 - Maroquinier / Maroquinière",
+      "code_org_rome_cible": 50,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "L1502 - Costumier / Costumière",
+      "code_org_rome_cible": 448,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1302 - Responsable de boutique",
+      "code_org_rome_cible": 488618,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2109 - Professeur / Professeure d'enseignement technologique",
+      "code_org_rome_cible": 412,
+      "ordre_mobilite": 10
+    }
+  ]
+}

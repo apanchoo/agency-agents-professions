@@ -1,0 +1,483 @@
+{
+  "numero": 33075,
+  "rome": {
+    "code_rome": "A1438",
+    "intitule": "Pêcheur / Pêcheuse à pied",
+    "code_ogr": 509530
+  },
+  "appellations": [
+    {
+      "libelle": "Chasseur de coquillages / Chasseuse de coquillages",
+      "libelle_court": "Chasseur de coquillages / Chasseuse de coquillages",
+      "code_ogr": 517977
+    },
+    {
+      "libelle": "Pêcheur / Pêcheuse",
+      "libelle_court": "Pêcheur / Pêcheuse",
+      "code_ogr": 509597
+    },
+    {
+      "libelle": "Pêcheur / Pêcheuse de coquillages",
+      "libelle_court": "Pêcheur / Pêcheuse de coquillages",
+      "code_ogr": 509596
+    }
+  ],
+  "definition": "Le Pêcheur à pied suit les cycles marins pour collecter des produits de la mer. Explore et exploite les zones côtières pour la récolte de coquillages et crustacés Respecte les réglementations environnementales et les quotas de pêche pour préserver les écosystèmes Sélectionne et utilise des outils de pêche adaptés aux espèces ciblées et aux conditions maritimes Assure la fraîcheur et la qualité des produits récoltés pour la vente directe ou les marchés locaux Prépare l'équipement de pêche et le maintient en état Peut participer à des initiatives de conservation marine et à des projets de recherche sur la biodiversité",
+  "acces_metier": "Cet emploi est accessible sans qualification particulière, mais des formations spécifiques comme le Certificat de matelot à la pêche sont obligatoires pour certaines activités.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Collecter et enregistrer des données de capture de pêche",
+              "code_ogr": 200115,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter une information météorologique recueillie",
+              "code_ogr": 123176,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Contrôler le volume d'une pêche",
+              "code_ogr": 123104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cuire des coquillages et crustacées en respectant la nature du produit",
+              "code_ogr": 489789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déployer un outil de pêche",
+              "code_ogr": 122755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le poisson pour la conservation",
+              "code_ogr": 126245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Récolter les produits de la mer",
+              "code_ogr": 403002,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Récolter un produit à maturité et selon les consignes de calibrage",
+              "code_ogr": 122853,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Assembler différents éléments du filet de pêche (flotteurs, plombs, cordages)",
+              "code_ogr": 405481,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir l'équipement de pêche en bon état",
+              "code_ogr": 123102,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser le remaillage d'un filet en s'assurant du respect minimal ou maximal de la taille du maillage",
+              "code_ogr": 122279,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Remonter un filet de pêche",
+              "code_ogr": 123079,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier des produits de la pêche",
+              "code_ogr": 123080,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Informer sur les réglementations locales et les pratiques de pêche durable",
+              "code_ogr": 490536,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Gérer les ressources naturelles de manière durable",
+              "code_ogr": 482269,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Observer l'écosystème marin pour choisir les meilleurs lieux de pêche",
+              "code_ogr": 501116,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier les sorties de pêche selon les conditions météorologiques et les horaires de marée",
+              "code_ogr": 501112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les pratiques de pêche durable",
+              "code_ogr": 486616,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des techniques de pêche respectueuses de l'environnement",
+              "code_ogr": 506519,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Commercialiser les produits récoltés ou pêchés",
+              "code_ogr": 405501,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Disposer des produits sur le lieu de vente",
+              "code_ogr": 117532,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des modalités de collaboration commerciale",
+              "code_ogr": 121758,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier l'emplacement d'un point de vente",
+              "code_ogr": 400575,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les produits auprès des clients",
+              "code_ogr": 121771,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre les produits directement aux consommateurs ou à un réseau de commerçants ou restaurateurs locaux",
+              "code_ogr": 511821,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec les autres pêcheurs pour partager des informations",
+              "code_ogr": 501110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser un public aux enjeux de la protection du milieu marin",
+              "code_ogr": 511291,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Suivre les évolutions réglementaires",
+              "code_ogr": 126037,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Variétés de coquillages",
+              "code_ogr": 101815,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des produits de la mer",
+              "code_ogr": 119446,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques du matériel de pêche",
+              "code_ogr": 123103,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat de matelot pont",
+              "code_ogr": 490690,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Zones de pêche réglementées",
+              "code_ogr": 493768,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ecosystèmes marins",
+              "code_ogr": 479092,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Argumentation commerciale",
+              "code_ogr": 100381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Météorologie appliquée à la pêche",
+              "code_ogr": 481470,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pêche durable",
+              "code_ogr": 479090,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes sanitaires",
+              "code_ogr": 478822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementations locales sur la pêche",
+              "code_ogr": 481473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de stockage de produits alimentaires",
+              "code_ogr": 122410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respect des quotas de pêche",
+              "code_ogr": 497357,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de matelotage",
+              "code_ogr": 100392,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de pêche à pied",
+              "code_ogr": 498446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1404 - Aquaculteur / Aquacultrice",
+      "code_org_rome_cible": 18,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1430 - Ouvrier / Ouvrière aquacole",
+      "code_org_rome_cible": 489025,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1415 - Marin-pêcheur",
+      "code_org_rome_cible": 29,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "A1425 - Ramendeur / Ramendeuse",
+      "code_org_rome_cible": 488728,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1105 - Poissonnier / Poissonnière",
+      "code_org_rome_cible": 84,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1608 - Ecailler / Ecaillère",
+      "code_org_rome_cible": 404540,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1229 - Guide-accompagnateur / Guide-accompagnatrice de pêche",
+      "code_org_rome_cible": 489165,
+      "ordre_mobilite": 10
+    }
+  ]
+}

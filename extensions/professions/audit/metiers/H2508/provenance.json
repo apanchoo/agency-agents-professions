@@ -1,0 +1,260 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488862,
+    "code_rome": "H2508",
+    "libelle": "Ingénieur / Ingénieure exploitation nucléaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H2502"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.817,
+      "matched_terms": [
+        "production"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Mesure et surveillance de la conformité",
+          "page": 95,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=95",
+          "selection_score": 86.7986,
+          "shared_terms": [
+            "conformite",
+            "mesure",
+            "surveillance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.QMI.09",
+          "title": "Gestion des situations d’urgence",
+          "page": 362,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=362",
+          "selection_score": 67.9046,
+          "shared_terms": [
+            "urgence"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MTD.13",
+          "title": "Modélisation et simulation d’un système de production – Intérêt du jumeau numérique",
+          "page": 433,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=433",
+          "selection_score": 45.8485,
+          "shared_terms": [
+            "modelisation",
+            "production",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MP.02",
+          "title": "Adaptation de l’équipe et de son fonctionnement aux aléas",
+          "page": 149,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=149",
+          "selection_score": 27.578,
+          "shared_terms": [
+            "fonctionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.05",
+          "title": "Organisation d’une situation de production",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=58",
+          "selection_score": 23.7427,
+          "shared_terms": [
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.801,
+      "matched_terms": [
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.09",
+          "title": "Habilitation électrique 2",
+          "page": 77,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=77",
+          "selection_score": 44.4283,
+          "shared_terms": [
+            "habilitation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Méthodes et Outils de Maintenance 1",
+          "page": 48,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=48",
+          "selection_score": 34.0973,
+          "shared_terms": [
+            "maintenance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Méthodes et Outils en Maintenance 2",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=75",
+          "selection_score": 33.5672,
+          "shared_terms": [
+            "maintenance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.3MI.02",
+          "title": "Prévenir les risques",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=129",
+          "selection_score": 76.0033,
+          "shared_terms": [
+            "prevenir",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Utiliser les outils de contrôle et mesure dans le milieu industriel",
+          "page": 63,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=63",
+          "selection_score": 62.3695,
+          "shared_terms": [
+            "controle",
+            "mesure",
+            "milieu"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.373,
+      "matched_terms": [
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CPIT.08",
+          "title": "Modélisation et simulation des procédés 2",
+          "page": 151,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=151",
+          "selection_score": 51.3146,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPIT.09",
+          "title": "Modélisation et simulation des procédés 1",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=134",
+          "selection_score": 49.3779,
+          "shared_terms": [
+            "modelisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CPOP.10",
+          "title": "Simulation et optimisation de procédés",
+          "page": 283,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=283",
+          "selection_score": 43.32,
+          "shared_terms": [
+            "optimisation",
+            "simulation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.01",
+          "title": "Conduite et analyse critique d’une unité de production",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=97",
+          "selection_score": 36.7302,
+          "shared_terms": [
+            "conduite",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CPIT.01",
+          "title": "Conception, optimisation et conduite d’un procédé.",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=141",
+          "selection_score": 35.796,
+          "shared_terms": [
+            "conduite",
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

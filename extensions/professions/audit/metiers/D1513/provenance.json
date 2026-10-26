@@ -1,0 +1,184 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509505,
+    "code_rome": "D1513",
+    "libelle": "Chef / Cheffe de rayon produits frais",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "D1502"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.201,
+      "matched_terms": [
+        "client",
+        "marketing",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.BDMRC.12",
+          "title": "Management de la valeur client",
+          "page": 499,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=499",
+          "selection_score": 67.2634,
+          "shared_terms": [
+            "client",
+            "valeur"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.BDMRC.04",
+          "title": "Nouveaux comportements des clients",
+          "page": 509,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=509",
+          "selection_score": 56.0948,
+          "shared_terms": [
+            "client",
+            "nouveaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BI.11",
+          "title": "Approvisionnements",
+          "page": 419,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=419",
+          "selection_score": 54.6186,
+          "shared_terms": [
+            "approvisionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MMPV.03",
+          "title": "Analyse d’un point de vente ou d’un rayon dans son environnement concurrentiel",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=197",
+          "selection_score": 60.2317,
+          "shared_terms": [
+            "rayon",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BI.03",
+          "title": "Développement de l’offre à l’international",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=384",
+          "selection_score": 48.7114,
+          "shared_terms": [
+            "offre"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.699,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MCMO.07",
+          "title": "Négociation commerciale",
+          "page": 288,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=288",
+          "selection_score": 59.1587,
+          "shared_terms": [
+            "commerciale",
+            "negociation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 48.6189,
+          "shared_terms": [
+            "indicateur",
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDFS.09",
+          "title": "Contrôle de gestion",
+          "page": 231,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=231",
+          "selection_score": 31.7663,
+          "shared_terms": [
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MDFS.01",
+          "title": "Piloter un projet aux fonctions support d’une organisation",
+          "page": 216,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=216",
+          "selection_score": 54.4927,
+          "shared_terms": [
+            "fonction",
+            "piloter"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MDFS.01",
+          "title": "Piloter et rendre compte d’un projet aux fonctions support d’une organisation",
+          "page": 234,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=234",
+          "selection_score": 47.9104,
+          "shared_terms": [
+            "fonction",
+            "piloter"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

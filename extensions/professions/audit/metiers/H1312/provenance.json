@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519922,
+    "code_rome": "H1312",
+    "libelle": "Inspecteur / Inspectrice de sites industriels",
+    "transition_eco": "Emploi Vert",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1302"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 22.542,
+      "matched_terms": [
+        "environnement",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        7
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.05",
+          "title": "Sécurité des installations face au risque d’incendie",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=80",
+          "selection_score": 72.4115,
+          "shared_terms": [
+            "incendie",
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.SDMRPTE.04",
+          "title": "Impact environnemental des activités anthropiques",
+          "page": 118,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=118",
+          "selection_score": 63.7167,
+          "shared_terms": [
+            "environnemental",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.09",
+          "title": "Analyse et maîtrise des impacts environnementaux",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=85",
+          "selection_score": 57.9627,
+          "shared_terms": [
+            "environnementaux",
+            "impact"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.03",
+          "title": "Conseiller un organisateur d’événement en matière de sécurité du public et d’impact environnemental",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=74",
+          "selection_score": 69.5626,
+          "shared_terms": [
+            "environnemental",
+            "impact",
+            "matiere",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.02",
+          "title": "Proposer un plan de gestion des déchets, rejets et/ou ressources",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=73",
+          "selection_score": 58.3768,
+          "shared_terms": [
+            "dechet",
+            "proposer"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

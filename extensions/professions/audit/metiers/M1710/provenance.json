@@ -1,0 +1,177 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488307,
+    "code_rome": "M1710",
+    "libelle": "Responsable régional / Responsable régionale des relations scientifiques médicales",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1707"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.017,
+      "matched_terms": [
+        "communication",
+        "information"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1707",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.INFONUM.13",
+          "title": "Veille stratégique et intelligence économique",
+          "page": 263,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=263",
+          "selection_score": 45.2216,
+          "shared_terms": [
+            "strategique",
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Recherche d’information et veille",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=83",
+          "selection_score": 43.9135,
+          "shared_terms": [
+            "veille"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Veille",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=154",
+          "selection_score": 43.6353,
+          "shared_terms": [
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.INFONUM.02",
+          "title": "Réaliser une prestation de veille",
+          "page": 267,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=267",
+          "selection_score": 31.5769,
+          "shared_terms": [
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PUB.02",
+          "title": "Réaliser une stratégie de communication",
+          "page": 645,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=645",
+          "selection_score": 27.3828,
+          "shared_terms": [
+            "strategie"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.328,
+      "matched_terms": [
+        "communication",
+        "developpe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1707",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DWEB-DI.07",
+          "title": "Dispositifs interactifs",
+          "page": 274,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=274",
+          "selection_score": 31.1734,
+          "shared_terms": [
+            "dispositif"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.STRAT-UX.05",
+          "title": "Stratégie de communication",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=211",
+          "selection_score": 26.4271,
+          "shared_terms": [
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.DWEB-DI.02",
+          "title": "Développement Web et dispositif interactif",
+          "page": 281,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=281",
+          "selection_score": 25.2362,
+          "shared_terms": [
+            "dispositif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CREA.03",
+          "title": "Concevoir des visualisations de données pour le web et un support animé",
+          "page": 107,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=107",
+          "selection_score": 37.3432,
+          "shared_terms": [
+            "anime"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DWEB-DI.02",
+          "title": "Concevoir un dispositif interactif",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=252",
+          "selection_score": 31.1734,
+          "shared_terms": [
+            "dispositif"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

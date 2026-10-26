@@ -1,0 +1,523 @@
+{
+  "numero": 433,
+  "rome": {
+    "code_rome": "L1303",
+    "intitule": "Agent / Agente de talent",
+    "code_ogr": 444
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente artistique",
+      "libelle_court": "Agent / Agente artistique",
+      "code_ogr": 10356
+    },
+    {
+      "libelle": "Agent / Agente d'artiste",
+      "libelle_court": "Agent / Agente d'artiste",
+      "code_ogr": 10387
+    },
+    {
+      "libelle": "Agent / Agente de mannequin",
+      "libelle_court": "Agent / Agente de mannequin",
+      "code_ogr": 10520
+    },
+    {
+      "libelle": "Agent / Agente de promotion des artistes",
+      "libelle_court": "Agent / Agente de promotion des artistes",
+      "code_ogr": 10568
+    },
+    {
+      "libelle": "Agent / Agente de sportif",
+      "libelle_court": "Agent / Agente de sportif",
+      "code_ogr": 10609
+    },
+    {
+      "libelle": "Agent / Agente littéraire",
+      "libelle_court": "Agent / Agente littéraire",
+      "code_ogr": 10746
+    },
+    {
+      "libelle": "Booker / Bookeuse",
+      "libelle_court": "Booker / Bookeuse",
+      "code_ogr": 11556
+    },
+    {
+      "libelle": "Imprésario",
+      "libelle_court": "Imprésario",
+      "code_ogr": 15518
+    },
+    {
+      "libelle": "Manager d'artiste",
+      "libelle_court": "Manager d'artiste",
+      "code_ogr": 16331
+    },
+    {
+      "libelle": "Music manager",
+      "libelle_court": "Music manager",
+      "code_ogr": 16934
+    },
+    {
+      "libelle": "Représentant / Représentante littéraire",
+      "libelle_court": "Représentant / Représentante littéraire",
+      "code_ogr": 18557
+    }
+  ],
+  "definition": "Un agent de talent révèle les potentiels, crée des opportunités uniques et accompagne chaque carrière vers son plus haut niveau d'excellence. Gère et développe la carrière d'artistes, de mannequins, de sportifs selon la réglementation, les objectifs et les orientations professionnels Peut conseiller un artiste, un mannequin, un sportif sur son image Peut réaliser des auditions et des castings d'artistes pour un spectacle, un film Peut gérer la diffusion de spectacles",
+  "acces_metier": "Ce métier est accessible avec une expérience professionnelle dans le management culturel ou de carrières artistiques. La connaissance approfondie d'un secteur (mode, musique, cinéma, sport, littérature, etc.) et de la réglementation (droit de la propriété artistique et littéraire, droit du sport, droit commercial, etc.) est requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Auditionner des artistes",
+              "code_ogr": 119530,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter et sélectionner des talents prometteurs",
+              "code_ogr": 519620,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les carrières",
+              "code_ogr": 117599,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller des artistes, des mannequins, des sportifs dans leur communication",
+              "code_ogr": 121997,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir des objectifs de carrière à l'aune de la personnalité de l'artiste, du mannequin, du sportif",
+              "code_ogr": 109134,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Concevoir des supports de communication et d'image",
+              "code_ogr": 300113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir une stratégie de communication",
+              "code_ogr": 300111,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Etudier le book d'artistes",
+              "code_ogr": 125443,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser des rendez-vous, castings, auditions ou rencontres professionnelles",
+              "code_ogr": 519623,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier les dates, transports, hébergements et besoins matériels",
+              "code_ogr": 519383,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les agendas et planifier des rendez-vous",
+              "code_ogr": 120722,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le paiement des cachets",
+              "code_ogr": 117305,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le paiement des droits",
+              "code_ogr": 117306,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler le respect des obligations légales, sociales et fiscales",
+              "code_ogr": 519386,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les droits d'auteur et la propriété intellectuelle",
+              "code_ogr": 508230,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre un contrat, vérifier le respect des clauses contractuelles",
+              "code_ogr": 300348,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller les talents sur leur image, leur positionnement et leurs choix professionnels",
+              "code_ogr": 519621,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Négocier les contrats, cachets, locations et prestations diverses",
+              "code_ogr": 519382,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Promouvoir un artiste, mannequin, sportif",
+              "code_ogr": 124076,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prospecter de nouveaux clients, de nouveaux marchés",
+              "code_ogr": 300371,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter les intérêts des talents auprès des clients, producteurs ou recruteurs",
+              "code_ogr": 519622,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Garantir la confidentialité des informations",
+              "code_ogr": 403933,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les sessions de briefing avant les événements",
+              "code_ogr": 519390,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soumettre des projets à l'appréciation d'un artiste, mannequin ou sportif",
+              "code_ogr": 125445,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les imprévus, aléas et les changements de dernière minute",
+              "code_ogr": 485043,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Organiser et développer son réseau professionnel",
+              "code_ogr": 300502,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Mastère spécialisé management des entreprises culturelles et des industries créatives",
+              "code_ogr": 490978,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager de l'ingénierie culturelle",
+              "code_ogr": 522626,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Maîtrise des calculs de coûts et de rentabilité",
+              "code_ogr": 481332,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification d'événements",
+              "code_ogr": 478198,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Argumentation commerciale",
+              "code_ogr": 100381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion budgétaire",
+              "code_ogr": 102216,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Marketing culturel",
+              "code_ogr": 478316,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Dispositifs de financement culturel",
+              "code_ogr": 118319,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit du spectacle vivant",
+              "code_ogr": 494081,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit commercial",
+              "code_ogr": 101359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes rédactionnelles",
+              "code_ogr": 102226,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion du stress",
+              "code_ogr": 478065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de projets culturels",
+              "code_ogr": 478319,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat intermittent",
+          "code_ogr": 403097
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "87",
+      "libelle": "Artisanat d'art, audiovisuel et spectacle",
+      "principal": true
+    },
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "L1312 - Administrateur / Administratrice de tournées",
+      "code_org_rome_cible": 519308,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "E1129 - Directeur / Directrice artistique communication",
+      "code_org_rome_cible": 510449,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1808 - Chargé / Chargée de développement culturel",
+      "code_org_rome_cible": 509882,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "E1112 - Chargé / Chargée de communication",
+      "code_org_rome_cible": 488921,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1102 - Chargé / Chargée de promotion touristique",
+      "code_org_rome_cible": 181,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "E1103 - Chargé / Chargée des relations publiques",
+      "code_org_rome_cible": 121,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "E1107 - Chef / Cheffe de projet événementiel",
+      "code_org_rome_cible": 125,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "L1309 - Coordinateur / Coordinatrice d'intimité",
+      "code_org_rome_cible": 513849,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "L1302 - Producteur / Productrice audiovisuel et cinéma",
+      "code_org_rome_cible": 443,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1502 - Chargé / Chargée de recrutement",
+      "code_org_rome_cible": 472,
+      "ordre_mobilite": 10
+    }
+  ]
+}

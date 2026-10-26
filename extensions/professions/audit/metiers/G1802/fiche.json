@@ -1,0 +1,598 @@
+{
+  "numero": 228,
+  "rome": {
+    "code_rome": "G1802",
+    "intitule": "Maître / Maîtresse d'hôtel",
+    "code_ogr": 207
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante maître d'hôtel",
+      "libelle_court": "Assistant / Assistante maître d'hôtel",
+      "code_ogr": 11297
+    },
+    {
+      "libelle": "Maître d'hôtel sommelier / Maîtresse d'hôtel sommelière",
+      "libelle_court": "Maître d'hôtel sommelier / Maîtresse d'hôtel sommelière",
+      "code_ogr": 16314
+    },
+    {
+      "libelle": "Premier maître / Première maîtresse d'hôtel",
+      "libelle_court": "Premier maître / Première maîtresse d'hôtel",
+      "code_ogr": 17976
+    },
+    {
+      "libelle": "Responsable de salle",
+      "libelle_court": "Responsable de salle",
+      "code_ogr": 18850
+    },
+    {
+      "libelle": "Responsable des banquets",
+      "libelle_court": "Responsable des banquets",
+      "code_ogr": 18924
+    },
+    {
+      "libelle": "Second maître / Seconde maîtresse d'hôtel",
+      "libelle_court": "Second maître / Seconde maîtresse d'hôtel",
+      "code_ogr": 19360
+    }
+  ],
+  "definition": "Le Maître d'hôtel orchestre l'accueil et le service en salle, garantissant une expérience culinaire remarquable. Accueille et conseille les clients dès leur arrivée dans l'établissement Coordonne et supervise le travail de l'équipe de salle Assure la gestion des réservations et l'organisation des tables Veille à la qualité du service et à la satisfaction des clients Gère les commandes spéciales et les demandes particulières des clients Peut organiser des événements spéciaux comme des banquets ou des réceptions",
+  "acces_metier": "Cet emploi est accessible principalement avec une qualification de niveau Bac à Bac+3 en hôtellerie-restauration.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer un briefing et débriefing sur le service",
+              "code_ogr": 489762,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire appliquer les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 490106,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier et organiser l'activité du personnel relevant de sa responsabilité",
+              "code_ogr": 489827,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Recruter et intégrer une personne",
+              "code_ogr": 300004,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer la formation des nouveaux collaborateurs",
+              "code_ogr": 403604,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Créer, organiser ou coordonner un évènement",
+              "code_ogr": 300123,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Optimiser l'agencement de la salle pour les événements spéciaux",
+              "code_ogr": 483551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la mise en place de la salle et de l'office",
+              "code_ogr": 117932,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre les procédures d'alerte des secours et les autres mesures prédéfinies en cas d'incident",
+              "code_ogr": 400635,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des plats avant le service",
+              "code_ogr": 483550,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Contrôler l'état des stocks",
+              "code_ogr": 489786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer la liaison entre la cuisine et le service en salle",
+              "code_ogr": 483549,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Coordonner les réservations et optimiser l'occupation de la salle",
+              "code_ogr": 483552,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer une caisse",
+              "code_ogr": 118069,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les horaires en fonction des événements",
+              "code_ogr": 486106,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Saisir une commande sur informatique",
+              "code_ogr": 119398,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations ainsi que les litiges commerciaux",
+              "code_ogr": 403551,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Intégrer l'écoresponsabilité dans toutes les dimensions de son activité",
+              "code_ogr": 402182,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la discrétion et le confort des clients durant le service",
+              "code_ogr": 485636,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller les clients sur les accords mets et vins",
+              "code_ogr": 400368,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les retours des clients pour améliorer les services",
+              "code_ogr": 117171,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur les prestations et services proposés",
+              "code_ogr": 300621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un service en salle",
+              "code_ogr": 124963,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller à la satisfaction du client",
+              "code_ogr": 489285,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Etablir un devis",
+              "code_ogr": 117243,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir un haut niveau de service client",
+              "code_ogr": 483348,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer une communication claire et efficace avec l'équipe",
+              "code_ogr": 483667,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les standards de service de l'établissement",
+              "code_ogr": 483277,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Vins internationaux",
+              "code_ogr": 478199,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Manager en hôtellerie internationale",
+              "code_ogr": 490994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro commercialisation et services en restauration",
+              "code_ogr": 489581,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option B : management d'unité de production culinaire",
+              "code_ogr": 489601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP maître d'hôtel",
+              "code_ogr": 489722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Directeur d'hôtellerie internationale",
+              "code_ogr": 490712,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option C : management d'unité d'hébergement",
+              "code_ogr": 489602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention organisation et gestion des établissements hôteliers et de restauration",
+              "code_ogr": 489656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option A : management d'unité de restauration",
+              "code_ogr": 489600,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Optimisation des coûts et des budgets",
+              "code_ogr": 124683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des fournisseurs et des commandes",
+              "code_ogr": 480120,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la relation client (CRM)",
+              "code_ogr": 116414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vins et accords mets-vins",
+              "code_ogr": 104348,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cultures et coutumes internationales",
+              "code_ogr": 480076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais niveau avancé B2",
+              "code_ogr": 118471,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Planification des tâches et gestion des priorités",
+              "code_ogr": 121796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôle qualité",
+              "code_ogr": 122384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité sur les lieux de travail",
+              "code_ogr": 124944,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'accueil",
+              "code_ogr": 126265,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Communication interpersonnelle",
+              "code_ogr": 476904,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques du service en salle",
+              "code_ogr": 104325,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en horaires fractionnés",
+          "code_ogr": 400005
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de restauration traditionnelle",
+          "code_ogr": 489572
+        },
+        {
+          "libelle": "Hôtellerie / Restauration",
+          "code_ogr": 489575
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1804 - Sommelier / Sommelière",
+      "code_org_rome_cible": 209,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1503 - Gouvernant / Gouvernante d'étage en hôtellerie",
+      "code_org_rome_cible": 197,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1401 - Adjoint / Adjointe de la direction en hôtellerie-restauration",
+      "code_org_rome_cible": 191,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1410 - Directeur / Directrice de la restauration",
+      "code_org_rome_cible": 489049,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1506 - Manager de proximité",
+      "code_org_rome_cible": 488608,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1415 - Chargé / Chargée de relation client",
+      "code_org_rome_cible": 488868,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "E1107 - Chef / Cheffe de projet événementiel",
+      "code_org_rome_cible": 125,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "G1805 - Gérant / Gérante de café, bar-brasserie",
+      "code_org_rome_cible": 489037,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1610 - Intendant / Intendante du sport",
+      "code_org_rome_cible": 488304,
+      "ordre_mobilite": 10
+    }
+  ]
+}

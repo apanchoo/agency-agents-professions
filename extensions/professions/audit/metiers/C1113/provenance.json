@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489048,
+    "code_rome": "C1113",
+    "libelle": "Expert / Experte en assurances dommages automobile",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1604"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.941,
+      "matched_terms": [
+        "contentieux"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1604",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.PF.04",
+          "title": "Droit des assurances",
+          "page": 251,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=251",
+          "selection_score": 64.2315,
+          "shared_terms": [
+            "assurance",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EA.06",
+          "title": "Droit des contentieux et du recouvrement",
+          "page": 192,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=192",
+          "selection_score": 45.4154,
+          "shared_terms": [
+            "contentieux",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AJ.01",
+          "title": "Contentieux judiciaire",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=126",
+          "selection_score": 40.3458,
+          "shared_terms": [
+            "contentieux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.AJ.01",
+          "title": "Gestion de dossiers contentieux ou non contentieux au sein d’une organisation",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=108",
+          "selection_score": 56.4197,
+          "shared_terms": [
+            "contentieux",
+            "dossier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AJ.01",
+          "title": "Gestion de dossiers de contentieux administratif et/ou judiciaire",
+          "page": 123,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=123",
+          "selection_score": 56.2533,
+          "shared_terms": [
+            "contentieux",
+            "dossier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

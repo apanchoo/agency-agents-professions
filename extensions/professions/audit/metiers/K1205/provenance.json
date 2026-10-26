@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 372,
+    "code_rome": "K1205",
+    "libelle": "Agent / Agente d'accueil social",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1205"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.739,
+      "matched_terms": [
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1205",
+      "title_terms": [
+        "social"
+      ],
+      "specific_title_terms": [
+        "social"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.08",
+          "title": "Droit et accès aux droits",
+          "page": 714,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=714",
+          "selection_score": 65.7091,
+          "shared_terms": [
+            "acces",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CGE3S.10",
+          "title": "Techniques d’évaluation des besoins et des demandes des personnes",
+          "page": 538,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=538",
+          "selection_score": 60.7815,
+          "shared_terms": [
+            "demande"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AS.10",
+          "title": "Techniques d’entretien",
+          "page": 289,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=289",
+          "selection_score": 57.6854,
+          "shared_terms": [
+            "entretien"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.CGE3S.04",
+          "title": "Orienter et accompagner les publics après avoir évalué leurs besoins",
+          "page": 480,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=480",
+          "selection_score": 83.72,
+          "shared_terms": [
+            "accompagner",
+            "leurs",
+            "orienter",
+            "public"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.CGE3S.03",
+          "title": "Participer à une démarche de projet dans un établissement ou service sanitaire et social",
+          "page": 479,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=479",
+          "selection_score": 76.3966,
+          "shared_terms": [
+            "etablissement",
+            "sanitaire",
+            "social"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

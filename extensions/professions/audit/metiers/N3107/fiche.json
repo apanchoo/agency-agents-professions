@@ -1,0 +1,574 @@
+{
+  "numero": 33350,
+  "rome": {
+    "code_rome": "N3107",
+    "intitule": "Pilote fluvial / Pilote fluviale",
+    "code_ogr": 510026
+  },
+  "appellations": [
+    {
+      "libelle": "Bateau-taxi",
+      "libelle_court": "Bateau-taxi",
+      "code_ogr": 518126
+    },
+    {
+      "libelle": "Capitaine de la navigation fluviale",
+      "libelle_court": "Capitaine de la navigation fluviale",
+      "code_ogr": 518127
+    },
+    {
+      "libelle": "Conducteur / Conductrice de bateau fluvial de plaisance",
+      "libelle_court": "Conducteur / Conductrice de bateau fluvial de plaisance",
+      "code_ogr": 12883
+    },
+    {
+      "libelle": "Conducteur / Conductrice de bateau taxi",
+      "libelle_court": "Conducteur / Conductrice de bateau taxi",
+      "code_ogr": 12884
+    },
+    {
+      "libelle": "Matelot de bateau bus",
+      "libelle_court": "Matelot de bateau bus",
+      "code_ogr": 16425
+    },
+    {
+      "libelle": "Taxi fluvial / Taxi fluviale",
+      "libelle_court": "Taxi fluvial / Taxi fluviale",
+      "code_ogr": 518125
+    }
+  ],
+  "definition": "Le Pilote fluvial est en charge de la navigation de différents types de bateaux (péniches, bateaux à passagers, bateaux de fret, etc.) sur les rivières, les canaux et autres voies navigables intérieures. Conduit et manœuvre des bateaux de transport fluvial sur les rivières et canaux Assure la sécurité de l'équipage, des passagers et de la cargaison Gère les opérations de chargement et de déchargement des marchandises Surveille les conditions météorologiques et les niveaux d'eau pour naviguer efficacement Effectue des tâches de maintenance et d'entretien de base sur le bateau Veille à la conformité des manœuvres avec les réglementations maritimes",
+  "acces_metier": "Ce métier est accessible avec un Diplôme de matelot fluvial, Certificat général de capacité (permis de navigation), qui sont obligatoires. Des formations complémentaires comme le Brevet de capitaine 200, Brevet de capitaine 500 et Certificat de formation à la sécurité sont également nécessaires et obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Encadrer et coordonner une équipe",
+              "code_ogr": 485916,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Utiliser des équipements de navigation modernes",
+              "code_ogr": 505157,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer les opérations de réparation",
+              "code_ogr": 300179,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir l'équipement nautique",
+              "code_ogr": 124549,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un bateau",
+              "code_ogr": 124550,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Inspecter le bateau avant et après chaque voyage",
+              "code_ogr": 505155,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des passagers et de l'équipage",
+              "code_ogr": 505156,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les itinéraires pour éviter les zones à risque",
+              "code_ogr": 505153,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Constituer le convoi de navigation fluviale (nombre et type de barges, branchements électriques, hydrauliques et ventilation)",
+              "code_ogr": 110392,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des opérations d'avitaillement de navires (carburant, vivres, matériel, etc.)",
+              "code_ogr": 110436,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser l'affectation d'une flotte fluviale selon des impératifs d'exploitation",
+              "code_ogr": 119026,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les arrêts pour maintenance et ravitaillement",
+              "code_ogr": 505158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Se coordonner avec les clients, les expéditeurs et les sociétés de transport",
+              "code_ogr": 522360,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Effectuer les manoeuvres d'accostage ou d'appareillage du bateau",
+              "code_ogr": 100388,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer un transport de tourisme fluvial",
+              "code_ogr": 110414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer un transport fluvial de colis lourds",
+              "code_ogr": 110415,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer une navigation fluviale",
+              "code_ogr": 110404,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer une navigation nécessitant une autorisation",
+              "code_ogr": 106969,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Contrôler l'accès à bord et vérifier les billets",
+              "code_ogr": 110395,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Coordonner les activités à bord du navire",
+              "code_ogr": 115604,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer la communication avec les autorités fluviales",
+              "code_ogr": 506701,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir le journal de bord à jour",
+              "code_ogr": 505154,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Naviguer en respectant les règles de sécurité fluviale",
+              "code_ogr": 504497,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les normes environnementales lors de l'avitaillement",
+              "code_ogr": 484258,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Bateau-promenade",
+              "code_ogr": 110406,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bateau bac",
+              "code_ogr": 110405,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de moteurs de bateau",
+              "code_ogr": 495779,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation de coque de bateau",
+              "code_ogr": 498670,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de sécurité fluviale",
+              "code_ogr": 499370,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bateau automoteur (péniche)",
+              "code_ogr": 300691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des systèmes de communication fluviale",
+              "code_ogr": 493547,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des équipes à bord",
+              "code_ogr": 495159,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Navigation fluviale",
+              "code_ogr": 110408,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Géographie des fleuves, canaux et ouvrages sur voies d'eau",
+              "code_ogr": 110399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mécanique navale",
+              "code_ogr": 512556,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des écosystèmes aquatiques",
+              "code_ogr": 492843,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification logistique fluviale",
+              "code_ogr": 496668,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation de la navigation fluviale",
+              "code_ogr": 110402,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Règles de sécurité fluviale",
+              "code_ogr": 110398,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prévention de la pollution fluviale",
+              "code_ogr": 496829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'utilisation de bateaux",
+              "code_ogr": 116686,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle d'équipements fluviaux",
+              "code_ogr": 110423,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Lecture de carte fluviale",
+              "code_ogr": 110448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des lois environnementales applicables",
+              "code_ogr": 492950,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des procédures de nettoyage à bord",
+              "code_ogr": 116685,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'embarquement et débarquement des passagers",
+              "code_ogr": 103847,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Formation aux premiers secours spécifiques à l'eau",
+              "code_ogr": 494435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des situations d'urgence fluviale",
+              "code_ogr": 516449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de manoeuvre et de conduite de bateau fluvial",
+              "code_ogr": 110400,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de navigation par radar",
+              "code_ogr": 498378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des conflits",
+              "code_ogr": 510923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication radio pour la navigation fluviale",
+              "code_ogr": 492517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de matelotage",
+              "code_ogr": 100392,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En milieu aquatique",
+          "code_ogr": 490531
+        },
+        {
+          "libelle": "En zone portuaire",
+          "code_ogr": 300786
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le dimanche",
+          "code_ogr": 300793
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        },
+        {
+          "libelle": "Structures maritimes",
+          "code_ogr": 522309
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N3106 - Officier / Officière de la marine marchande",
+      "code_org_rome_cible": 509805,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N3101 - Officier / Officière de port",
+      "code_org_rome_cible": 517,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N3202 - Responsable d'exploitation transport fluvial",
+      "code_org_rome_cible": 521,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N3210 - Assistant / Assistante d'exploitation transport maritime",
+      "code_org_rome_cible": 515425,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N3209 - Responsable de structure de manutention portuaire",
+      "code_org_rome_cible": 515424,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1703 - Chef / Cheffe de produit",
+      "code_org_rome_cible": 485,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1431 - Chargé / Chargée de partenariat",
+      "code_org_rome_cible": 515441,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1302 - Conducteur / Conductrice d'engins de chantier",
+      "code_org_rome_cible": 155,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1619 - Approvisionneur / Approvisionneuse points de distribution",
+      "code_org_rome_cible": 509799,
+      "ordre_mobilite": 10
+    }
+  ]
+}

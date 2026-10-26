@@ -1,0 +1,191 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 465,
+    "code_rome": "M1301",
+    "libelle": "Dirigeant / Dirigeante d'entreprise privée",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1301"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 35.536,
+      "matched_terms": [
+        "entrepris",
+        "gestion",
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1301",
+      "title_terms": [
+        "entrepris"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.07",
+          "title": "Management du changement",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=153",
+          "selection_score": 53.6926,
+          "shared_terms": [
+            "changement",
+            "management"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 2",
+          "page": 213,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=213",
+          "selection_score": 42.8287,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MDFS.10",
+          "title": "Gestion administrative du personnel - Niveau 1",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=190",
+          "selection_score": 42.4577,
+          "shared_terms": [
+            "administrative"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 49.8783,
+          "shared_terms": [
+            "financiere",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.02",
+          "title": "Conduire un projet de développement commercial dans un contexte international",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=142",
+          "selection_score": 39.9842,
+          "shared_terms": [
+            "commercial"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 24.09,
+      "matched_terms": [
+        "administrat",
+        "financ",
+        "gestion",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.GPRH.08",
+          "title": "Ressources humaines : Optimisation des dispositifs de responsabilité sociale et de QVCT",
+          "page": 416,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=416",
+          "selection_score": 55.2902,
+          "shared_terms": [
+            "humaine",
+            "optimisation",
+            "responsabilite",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.09",
+          "title": "Ressources humaines : Gestion administrative collective",
+          "page": 395,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=395",
+          "selection_score": 54.0457,
+          "shared_terms": [
+            "administrative",
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GPRH.12",
+          "title": "Ressources humaines : Responsabilité sociale, santé au travail et QVCT",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=377",
+          "selection_score": 46.5473,
+          "shared_terms": [
+            "humaine",
+            "responsabilite",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.03",
+          "title": "Optimiser une politique de développement des compétences",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=384",
+          "selection_score": 69.1939,
+          "shared_terms": [
+            "optimiser",
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.01",
+          "title": "Participer, dans le respect des contraintes réglementaires et dans une démarche de gouvernance durable à la création ou au développement d’une organisation",
+          "page": 125,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=125",
+          "selection_score": 51.2159,
+          "shared_terms": [
+            "durable",
+            "gouvernance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

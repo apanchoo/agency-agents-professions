@@ -1,0 +1,696 @@
+{
+  "numero": 392,
+  "rome": {
+    "code_rome": "K1302",
+    "intitule": "Assistant / Assistante de vie dépendance",
+    "code_ogr": 376
+  },
+  "appellations": [
+    {
+      "libelle": "Aide aux personnes âgées",
+      "libelle_court": "Aide aux personnes âgées",
+      "code_ogr": 10816
+    },
+    {
+      "libelle": "Assistant / Assistante de vie auprès de personnes âgées",
+      "libelle_court": "Assistant / Assistante de vie auprès de personnes âgées",
+      "code_ogr": 11256
+    },
+    {
+      "libelle": "Assistant / Assistante de vie auprès de personnes handicapées",
+      "libelle_court": "Assistant(e) de vie auprès de personnes handicapées",
+      "code_ogr": 11257
+    },
+    {
+      "libelle": "Auxiliaire familiale et sanitaire",
+      "libelle_court": "Auxiliaire familiale et sanitaire",
+      "code_ogr": 11460
+    },
+    {
+      "libelle": "Pair-Aidant / Pair-Aidante",
+      "libelle_court": "Pair-Aidant / Pair-Aidante",
+      "code_ogr": 510079
+    }
+  ],
+  "definition": "L'assistant de vie dépendance facilite la vie quotidienne de personnes fragiles en leur apportant une aide dans les actes essentiels de la vie courante. Favorise l'autonomie des personnes accompagnées dans le respect de leurs habitudes de vie Accompagne les personnes dans les actes de la vie quotidienne et la réalisation des travaux ménagers afin de maintenir leur autonomie Assure un rôle d'écoute active ainsi qu'une présence rassurante et contribue ainsi à l'amélioration de la qualité de vie Peut participer à des activités de coordination et de liaison avec d'autres services de soins ou d'aide Maintient un environnement sécurisé et confortable",
+  "acces_metier": "Cet emploi est accessible avec un Diplôme d'Etat d'Accompagnant Educatif et Social (DEAES). D'autres diplômes peuvent également être requis comme un BEP ou CAP (au minimum) dans le domaine du service à la personne.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Concevoir et animer des activités de détente ou de loisirs",
+              "code_ogr": 300030,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner le développement de l'autonomie d'une personne",
+              "code_ogr": 300035,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueillir, rassurer, orienter, informer une personne et son entourage",
+              "code_ogr": 512319,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Apporter un soutien émotionnel aux personnes accompagnées et à leur entourage",
+              "code_ogr": 489922,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faciliter la résolution de questions et démarches administratives",
+              "code_ogr": 121985,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer, conseiller le patient ou la personne accompagnée dans la gestion de son environnement",
+              "code_ogr": 120690,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir et faciliter l'inclusion des personnes accompagnées pour éviter l'isolement social",
+              "code_ogr": 489923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener des actions de suivi social spécifiques",
+              "code_ogr": 489968,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à la conception et au suivi d'un projet individualisé",
+              "code_ogr": 489919,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Accompagner les personnes dans les gestes de la vie quotidienne",
+              "code_ogr": 489977,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accompagner une personne lors d'un déplacement",
+              "code_ogr": 123872,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Aider des personnes dans leur cadre de vie",
+              "code_ogr": 400076,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Aider une personne à s'habiller",
+              "code_ogr": 400100,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Aider à la préparation des repas équilibrés",
+              "code_ogr": 400245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer les techniques de premiers secours en cas d'urgence",
+              "code_ogr": 121885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
+              "code_ogr": 490109,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Distribuer ou administrer des médicaments",
+              "code_ogr": 115113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer les courses d'une personne",
+              "code_ogr": 107920,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager la personne à maintenir une activité physique adaptée",
+              "code_ogr": 483081,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'hygiène quotidienne d'une personne dépendante",
+              "code_ogr": 482881,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des repas",
+              "code_ogr": 115131,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
+              "code_ogr": 490601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser aux bonnes pratiques d'hygiène et de santé",
+              "code_ogr": 107447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'état de santé d'une personne",
+              "code_ogr": 300044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller à l'hygiène corporelle des personnes",
+              "code_ogr": 489979,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier la prise de médicaments par la personne en fonction de la prescription médicale",
+              "code_ogr": 115119,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner les documents de suivi d'une personne",
+              "code_ogr": 123994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Adapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)",
+              "code_ogr": 483323,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler un équipement médicalisé",
+              "code_ogr": 107666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements spéciaux pour l'aide à la mobilité",
+              "code_ogr": 483445,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Changer les draps, refaire le lit (mise à blanc, recouche) et remplacer le linge de toilette",
+              "code_ogr": 104160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'état de propreté du linge",
+              "code_ogr": 124663,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir les espaces de vie et le linge de la personne accompagnée",
+              "code_ogr": 489930,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des produits de nettoyage et d'entretien",
+              "code_ogr": 119622,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
+              "code_ogr": 107449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire des recommandations sur des aménagements du lieu de vie pour la sécurité des personnes",
+              "code_ogr": 400430,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir un environnement propre et sécurisé",
+              "code_ogr": 482883,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prévenir les risques et la sécurité de la personne accompagnée",
+              "code_ogr": 489929,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Transporter des personnes à mobilité réduite",
+              "code_ogr": 110535,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Réaliser des courses à la demande d'un client ou pour les besoins de l'établissement",
+              "code_ogr": 114523,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec l'entourage de la personne accompagnée",
+              "code_ogr": 489932,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+              "code_ogr": 300147,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'aide-soignant",
+              "code_ogr": 404157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel agent de service médico-social",
+              "code_ogr": 515332,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat d'accompagnant éducatif et social",
+              "code_ogr": 405273,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro services aux personnes et animation dans les territoires",
+              "code_ogr": 404726,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel assistant de vie aux familles",
+              "code_ogr": 404163,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Diététique",
+              "code_ogr": 102065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies du vieillissement",
+              "code_ogr": 107674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des symptômes de maladies courantes",
+              "code_ogr": 477283,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de mobilisation des patients",
+              "code_ogr": 107667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Typologie des handicaps et caractéristiques associées",
+              "code_ogr": 489958,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maitrise des dispositifs d'aide sociale",
+              "code_ogr": 492807,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins à la personne âgée",
+              "code_ogr": 511255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures de nettoyage",
+              "code_ogr": 480036,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité domestique",
+              "code_ogr": 107925,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion de comportements difficiles",
+              "code_ogr": 477737,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'écoute active",
+              "code_ogr": 107926,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la médication",
+              "code_ogr": 477500,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de levage et de transfert",
+              "code_ogr": 103396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication non verbale",
+              "code_ogr": 115755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'écoute active et de médiation",
+              "code_ogr": 404565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interpersonnelle",
+              "code_ogr": 476904,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation des repas adaptés",
+              "code_ogr": 477499,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des chutes",
+              "code_ogr": 477365,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion du stress",
+              "code_ogr": 478065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soutien psychologique",
+              "code_ogr": 477502,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Personnes âgées",
+          "code_ogr": 300839
+        },
+        {
+          "libelle": "Personnes en situation de handicap",
+          "code_ogr": 300840
+        },
+        {
+          "libelle": "Personnes médicalisées",
+          "code_ogr": 300841
+        },
+        {
+          "libelle": "Personnes vulnérables",
+          "code_ogr": 300843
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Particuliers employeurs",
+          "code_ogr": 489935
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "109",
+      "libelle": "Social",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1306 - Accompagnant Educatif et Social (AES) / Accompagnante Educative et Sociale (AES)",
+      "code_org_rome_cible": 404044,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1205 - Agent / Agente d'accueil social",
+      "code_org_rome_cible": 372,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1501 - Aide-soignant / Aide-soignante",
+      "code_org_rome_cible": 357,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1301 - Educateur / Educatrice en locomotion",
+      "code_org_rome_cible": 375,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1305 - Technicien / Technicienne d'Intervention Sociale et Familiale (TISF)",
+      "code_org_rome_cible": 28964,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1312 - Accueillant familial / Accueillante familiale thérapeutique auprès d'adultes",
+      "code_org_rome_cible": 488338,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1208 - Moniteur éducateur / Monitrice éducatrice",
+      "code_org_rome_cible": 488325,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1101 - Conseiller conjugal et familial / Conseillère conjugale et familiale",
+      "code_org_rome_cible": 364,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1303 - Assistant / Assistante médico-technique",
+      "code_org_rome_cible": 340,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1609 - Secrétaire médical / Secrétaire médicale",
+      "code_org_rome_cible": 482,
+      "ordre_mobilite": 10
+    }
+  ]
+}

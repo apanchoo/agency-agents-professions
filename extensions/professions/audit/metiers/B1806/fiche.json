@@ -1,0 +1,601 @@
+{
+  "numero": 38,
+  "rome": {
+    "code_rome": "B1806",
+    "intitule": "Tapissier / Tapissière d'ameublement",
+    "code_ogr": 54
+  },
+  "appellations": [
+    {
+      "libelle": "Bourrelier-matelassier / Bourrelière-matelassière",
+      "libelle_court": "Bourrelier-matelassier / Bourrelière-matelassière",
+      "code_ogr": 11579
+    },
+    {
+      "libelle": "Couturier / Couturière d'ameublement",
+      "libelle_court": "Couturier / Couturière d'ameublement",
+      "code_ogr": 13813
+    },
+    {
+      "libelle": "Couturier tapissier / Couturière tapissière",
+      "libelle_court": "Couturier tapissier / Couturière tapissière",
+      "code_ogr": 13821
+    },
+    {
+      "libelle": "Litier / Litière",
+      "libelle_court": "Litier / Litière",
+      "code_ogr": 16202
+    },
+    {
+      "libelle": "Matelassier / Matelassière",
+      "libelle_court": "Matelassier / Matelassière",
+      "code_ogr": 16424
+    },
+    {
+      "libelle": "Tapissier / Tapissière en sièges",
+      "libelle_court": "Tapissier / Tapissière en sièges",
+      "code_ogr": 19633
+    },
+    {
+      "libelle": "Tapissier-décorateur / Tapissière-décoratrice",
+      "libelle_court": "Tapissier-décorateur / Tapissière-décoratrice",
+      "code_ogr": 19636
+    },
+    {
+      "libelle": "Tapissier-ensemblier / Tapissière-ensemblière",
+      "libelle_court": "Tapissier-ensemblier / Tapissière-ensemblière",
+      "code_ogr": 19637
+    },
+    {
+      "libelle": "Tapissier-garnisseur / Tapissière-garnisseuse",
+      "libelle_court": "Tapissier-garnisseur / Tapissière-garnisseuse",
+      "code_ogr": 19638
+    },
+    {
+      "libelle": "Tapissier-villier / Tapissière-villière",
+      "libelle_court": "Tapissier-villier / Tapissière-villière",
+      "code_ogr": 19641
+    }
+  ],
+  "definition": "Le tapissier réalise à la main et à la machine les opérations de fabrication (garnissage, recouvrement, etc) et de rénovation d'assises de sièges, de matelas, d'éléments d'ameublement (rideaux, voilages, tentures, etc) à l'unité ou en petite série. Peut remettre en état les carcasses de sièges, réaliser la pose de tentures, plafonds tendus, toiles murales chez les clients Peut coordonner une équipe et diriger une structure",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac (Bac professionnel, Brevet de Compagnon, etc) en tapisserie d'ameublement, artisanat et métier d'art, etc.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Concevoir ou reproduire des modèles de siège",
+              "code_ogr": 125347,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Positionner une toile sur l'assise",
+              "code_ogr": 123245,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Appliquer un traitement, un produit",
+              "code_ogr": 300214,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Confectionner des articles de sellerie",
+              "code_ogr": 126115,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Couper à dimension une toile ou un tissu",
+              "code_ogr": 123247,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dégarnir un siège, matelas ou support mural",
+              "code_ogr": 124118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Marquer un repère sur un matériau",
+              "code_ogr": 123533,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mesurer les murs, fenêtres et déterminer les quantités de matériaux et accessoires nécessaires",
+              "code_ogr": 101275,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Positionner un patron/gabarit sur le tissu",
+              "code_ogr": 123246,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des matériaux de garnissage",
+              "code_ogr": 125568,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recouvrir un support d'un revêtement de décoration",
+              "code_ogr": 125828,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des décors",
+              "code_ogr": 101286,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des effets décoratifs et des ornementations",
+              "code_ogr": 123419,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des garnitures de siège",
+              "code_ogr": 101287,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des matelas",
+              "code_ogr": 101288,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de mise en volume et garnissage d'article",
+              "code_ogr": 125752,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des sommiers",
+              "code_ogr": 125541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'enveloppe ou le support d'une assise",
+              "code_ogr": 125740,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Fixer, poser, installer des éléments, des ouvrages",
+              "code_ogr": 300228,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Poser les éléments d'ornement ou de fixation",
+              "code_ogr": 126302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser, poser des revêtements",
+              "code_ogr": 300224,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Détacher un produit",
+              "code_ogr": 105617,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer les conditions de réfection ou de réalisation de l'article (siège, tenture, ...) ou d'un ensemble d'ameublement selon l'état, le style de mobilier, le délai, le coût des matériaux",
+              "code_ogr": 101273,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer les opérations de réparation",
+              "code_ogr": 300179,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repasser du textile (vêtements, linge)",
+              "code_ogr": 101974,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des opérations de remise en état sur un article (fûts de siège, lattes de fixation murale etc.)",
+              "code_ogr": 125328,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Elaborer, adapter une proposition commerciale",
+              "code_ogr": 300377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des tissus et matières textiles",
+              "code_ogr": 101119,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Eléments de décoration",
+              "code_ogr": 123257,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des éléments de tringlerie",
+              "code_ogr": 119838,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des sièges",
+              "code_ogr": 101282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux de garnissage",
+              "code_ogr": 118951,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des plafonds tendus",
+              "code_ogr": 119840,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Menuiserie aluminium",
+              "code_ogr": 103597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des cuirs et peaux",
+              "code_ogr": 100820,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des articles de bourrellerie et de sellerie",
+              "code_ogr": 105588,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des revêtements muraux",
+              "code_ogr": 114889,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel tapissier-couturier d'ameublement",
+              "code_ogr": 514742,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP tapissier-tapissière d'ameublement en décor",
+              "code_ogr": 514918,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tapissier décorateur garnisseur de sièges",
+              "code_ogr": 522640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel tapissier garnisseur",
+              "code_ogr": 514741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP tapissier-tapissière d'ameublement en siège",
+              "code_ogr": 514135,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro artisanat et métiers d'art option tapissier d'ameublement",
+              "code_ogr": 513990,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BP ameublement tapisserie décoration",
+              "code_ogr": 514014,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP arts du tapis et de la tapisserie de lisse",
+              "code_ogr": 522419,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Menuiserie bois",
+              "code_ogr": 103596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Histoire de l'art",
+              "code_ogr": 119191,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tracé de croquis",
+              "code_ogr": 100643,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes de sécurité sur les chantiers",
+              "code_ogr": 101300,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de conservation préventive",
+              "code_ogr": 100597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de métrage",
+              "code_ogr": 101170,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traitement anti-tâche",
+              "code_ogr": 125723,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de dépoussiérage/désinfection de mousse",
+              "code_ogr": 117948,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de piqûre machine",
+              "code_ogr": 100741,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Couture manuelle",
+              "code_ogr": 100753,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de découpe et façonnage de mousse",
+              "code_ogr": 117947,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de capitonnage",
+              "code_ogr": 101291,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de rivetage",
+              "code_ogr": 106393,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de cardage de fibres textiles",
+              "code_ogr": 117945,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de guindage de ressorts",
+              "code_ogr": 101283,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de garnissage",
+              "code_ogr": 101159,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de montage de sellerie",
+              "code_ogr": 107139,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de plissage",
+              "code_ogr": 101123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de restauration",
+              "code_ogr": 101898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de clouage",
+              "code_ogr": 118952,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques d'imperméabilisation",
+              "code_ogr": 125724,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En grande hauteur",
+          "code_ogr": 300782
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "87",
+      "libelle": "Artisanat d'art, audiovisuel et spectacle",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1402 - Relieur / Relieuse d'art",
+      "code_org_rome_cible": 42,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "B1804 - Brodeur / Brodeuse",
+      "code_org_rome_cible": 52,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "B1802 - Maroquinier / Maroquinière",
+      "code_org_rome_cible": 50,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "B1803 - Couturier / Couturière",
+      "code_org_rome_cible": 51,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "B1302 - Décorateur / Décoratrice d'objets d'art",
+      "code_org_rome_cible": 39,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1203 - Educateur technique spécialisé / Educatrice technique spécialisée",
+      "code_org_rome_cible": 370,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1609 - Poseur / Poseuse de revêtements de sols",
+      "code_org_rome_cible": 169,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "L1502 - Costumier / Costumière",
+      "code_org_rome_cible": 448,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1212 - Vendeur / Vendeuse en équipement de la maison",
+      "code_org_rome_cible": 98,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 10
+    }
+  ]
+}

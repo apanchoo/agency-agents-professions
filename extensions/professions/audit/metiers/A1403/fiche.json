@@ -1,0 +1,519 @@
+{
+  "numero": 31,
+  "rome": {
+    "code_rome": "A1403",
+    "intitule": "Aide d'élevage agricole",
+    "code_ogr": 17
+  },
+  "appellations": [
+    {
+      "libelle": "Aide agricole en production laitière",
+      "libelle_court": "Aide agricole en production laitière",
+      "code_ogr": 10811
+    },
+    {
+      "libelle": "Aide d'élevage",
+      "libelle_court": "Aide d'élevage",
+      "code_ogr": 404410
+    },
+    {
+      "libelle": "Aide d'élevage bovin",
+      "libelle_court": "Aide d'élevage bovin",
+      "code_ogr": 10833
+    },
+    {
+      "libelle": "Aide d'élevage caprin",
+      "libelle_court": "Aide d'élevage caprin",
+      "code_ogr": 10834
+    },
+    {
+      "libelle": "Aide d'élevage cunicole (lapins)",
+      "libelle_court": "Aide d'élevage cunicole (lapins)",
+      "code_ogr": 10835
+    },
+    {
+      "libelle": "Aide d'élevage de chevaux",
+      "libelle_court": "Aide d'élevage de chevaux",
+      "code_ogr": 10836
+    },
+    {
+      "libelle": "Aide d'élevage en production de volaille",
+      "libelle_court": "Aide d'élevage en production de volaille",
+      "code_ogr": 10837
+    },
+    {
+      "libelle": "Aide d'élevage en production laitière",
+      "libelle_court": "Aide d'élevage en production laitière",
+      "code_ogr": 10838
+    },
+    {
+      "libelle": "Aide d'élevage ovin",
+      "libelle_court": "Aide d'élevage ovin",
+      "code_ogr": 10840
+    },
+    {
+      "libelle": "Aide d'élevage porcin",
+      "libelle_court": "Aide d'élevage porcin",
+      "code_ogr": 10841
+    },
+    {
+      "libelle": "Aide-vacher / Aide-vachère",
+      "libelle_court": "Aide-vacher / Aide-vachère",
+      "code_ogr": 10898
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière agricole en production bovine",
+      "libelle_court": "Ouvrier / Ouvrière agricole en production bovine",
+      "code_ogr": 17389
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière agricole en production équine",
+      "libelle_court": "Ouvrier / Ouvrière agricole en production équine",
+      "code_ogr": 17394
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière agricole en production laitière",
+      "libelle_court": "Ouvrier / Ouvrière agricole en production laitière",
+      "code_ogr": 17395
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière de production bovine",
+      "libelle_court": "Ouvrier / Ouvrière de production bovine",
+      "code_ogr": 17456
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'élevage en production bovine",
+      "libelle_court": "Ouvrier / Ouvrière d'élevage en production bovine",
+      "code_ogr": 17463
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'élevage en production bovine biologique",
+      "libelle_court": "Ouvrier / Ouvrière d'élevage en production bovine biologique",
+      "code_ogr": 17464
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'élevage en production équine",
+      "libelle_court": "Ouvrier / Ouvrière d'élevage en production équine",
+      "code_ogr": 17468
+    },
+    {
+      "libelle": "Ouvrier / Ouvrière d'élevage laitier bovin",
+      "libelle_court": "Ouvrier / Ouvrière d'élevage laitier bovin",
+      "code_ogr": 17471
+    },
+    {
+      "libelle": "Ramasseur / Ramasseuse de volaille",
+      "libelle_court": "Ramasseur / Ramasseuse de volaille",
+      "code_ogr": 18280
+    },
+    {
+      "libelle": "Ramasseur / Ramasseuse d'œufs",
+      "libelle_court": "Ramasseur / Ramasseuse d'œufs",
+      "code_ogr": 18282
+    },
+    {
+      "libelle": "Sexeur / Sexeuse de volailles",
+      "libelle_court": "Sexeur / Sexeuse de volailles",
+      "code_ogr": 19431
+    },
+    {
+      "libelle": "Tondeur / Tondeuse de moutons",
+      "libelle_court": "Tondeur / Tondeuse de moutons",
+      "code_ogr": 20364
+    },
+    {
+      "libelle": "Vacher / Vachère",
+      "libelle_court": "Vacher / Vachère",
+      "code_ogr": 20498
+    }
+  ],
+  "definition": "Apporte une aide à l'éleveur dans les activités quotidiennes auprès des animaux (distribution de nourriture, aide à la traite, ramassage des œufs, ...) Participe aux soins et veille au bien-être des animaux. Peut conduire un troupeau. Peut réaliser des opérations de tri et de conditionnement de produits issus de l'élevage.",
+  "acces_metier": "Cet emploi est accessible sans qualification et peut être une première expérience pour des diplômés d'un CAP ou BP métiers de l'agriculture.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Dispenser les soins préventifs ou curatifs aux animaux",
+              "code_ogr": 100256,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter le bien-être animal",
+              "code_ogr": 404019,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sortir l'animal dans un espace extérieur",
+              "code_ogr": 404021,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Identifier un animal malade et informer les acteurs concernés (propriétaire, vétérinaire, ...)",
+              "code_ogr": 123087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Conduire un troupeau aux pâturages",
+              "code_ogr": 123076,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier un animal par marquage",
+              "code_ogr": 122751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer la traite (regroupement et préparation des animaux)",
+              "code_ogr": 126362,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Regrouper des animaux",
+              "code_ogr": 123075,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la traite",
+              "code_ogr": 126060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations de tonte et transférer la laine vers la zone de stockage pour transformation et conditionnement",
+              "code_ogr": 126113,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Récolter le produit d'un élevage",
+              "code_ogr": 122860,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Régler les systèmes hydrauliques des machines agricoles",
+              "code_ogr": 300160,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répartir les animaux dans des locaux d'élevage ou en plein air",
+              "code_ogr": 100300,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner un mâle reproducteur",
+              "code_ogr": 122404,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir les éléments de structure d'un bâtiment (clôtures, zones de stockage, ...)",
+              "code_ogr": 125255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner des produits",
+              "code_ogr": 300268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de nourriture et distribuer les aliments",
+              "code_ogr": 100295,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Trier, ranger des produits, des matières premières",
+              "code_ogr": 300262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Repérer la présence de nuisibles et constater la nature et l'étendue des dégâts",
+              "code_ogr": 123028,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de tonte animale",
+              "code_ogr": 122408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPA option travaux de la production animale spécialité élevage de ruminants",
+              "code_ogr": 404603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP agricole métiers de l'agriculture",
+              "code_ogr": 403970,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux de la production animale spécialité polyculture et élevage",
+              "code_ogr": 403972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option ouvrier d'élevage de ruminants et de cultures fourragères",
+              "code_ogr": 405266,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP opérateur avicole en élevage de sélection et de reproduction",
+              "code_ogr": 404602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BPA option travaux de la production animale spécialité élevage de porcs ou de volailles",
+              "code_ogr": 404604,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Techniques de tonte d'ovins",
+              "code_ogr": 117558,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de stockage de laine brute",
+              "code_ogr": 117559,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédure de traite",
+              "code_ogr": 100304,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1419 - Ouvrier agricole polyvalent / Ouvrière agricole polyvalente",
+      "code_org_rome_cible": 403955,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1105 - Manutentionnaire",
+      "code_org_rome_cible": 504,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1101 - Cariste",
+      "code_org_rome_cible": 500,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1709 - Démolisseur / Démolisseuse",
+      "code_org_rome_cible": 404038,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H2101 - Ouvrier / Ouvrière d'abattoir",
+      "code_org_rome_cible": 235,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1602 - Commis / Commise de cuisine",
+      "code_org_rome_cible": 199,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1407 - Eleveur / Eleveuse de bovins",
+      "code_org_rome_cible": 21,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1101 - Conducteur / Conductrice d'engins agricoles",
+      "code_org_rome_cible": 6,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 11
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 12
+    }
+  ]
+}

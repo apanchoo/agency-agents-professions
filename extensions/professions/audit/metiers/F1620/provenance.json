@@ -1,0 +1,117 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404539,
+    "code_rome": "F1620",
+    "libelle": "Installateur / Installatrice chauffage et climatisation",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "F1603"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 174.855,
+      "matched_terms": [
+        "chauff",
+        "climat",
+        "energe",
+        "ventilation"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1603",
+      "title_terms": [
+        "chauff",
+        "climat"
+      ],
+      "specific_title_terms": [
+        "chauff",
+        "climat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Chauffage – ECS – Ventilation",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=66",
+          "selection_score": 77.5789,
+          "shared_terms": [
+            "chauffage",
+            "ventilation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OPTIM.01",
+          "title": "Pompes à chaleur",
+          "page": 361,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=361",
+          "selection_score": 74.8701,
+          "shared_terms": [
+            "chaleur",
+            "pompe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MANÉ.03",
+          "title": "Solaire thermique et photovoltaïque",
+          "page": 286,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=286",
+          "selection_score": 58.8248,
+          "shared_terms": [
+            "solaire",
+            "thermique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MANÉ.03",
+          "title": "Évaluation des émissions de gaz à effet de serre d’un organisme et développement d’une stratégie bas carbone",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=277",
+          "selection_score": 75.5847,
+          "shared_terms": [
+            "carbone",
+            "emission",
+            "gaz"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Dimensionnement des installations élémentaires de chauffage, d’ECS et de ventilation d’un bâtiment",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=94",
+          "selection_score": 71.1541,
+          "shared_terms": [
+            "batiment",
+            "chauffage",
+            "installation",
+            "ventilation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

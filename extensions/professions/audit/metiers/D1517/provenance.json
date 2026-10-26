@@ -1,0 +1,190 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510442,
+    "code_rome": "D1517",
+    "libelle": "Chef / Cheffe de secteur distribution",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "D1509"
+  },
+  "but": [
+    {
+      "programme_id": "tc",
+      "title": "Techniques de commercialisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.945,
+      "matched_terms": [
+        "distribution",
+        "vente"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1509",
+      "title_terms": [
+        "distribution"
+      ],
+      "specific_title_terms": [
+        "distribution"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf",
+      "programme_sha256": "43917bc6b61730de47cbee33cd2f11746406008d74c901eeff13ee4a35c50edd",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.09",
+          "title": "Rôle et organisation de l’entreprise sur son marché",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=78",
+          "selection_score": 71.6262,
+          "shared_terms": [
+            "marche",
+            "role"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MMPV.16",
+          "title": "Marketing du point de vente",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=218",
+          "selection_score": 71.0323,
+          "shared_terms": [
+            "marketing",
+            "point",
+            "vente"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MMPV.09",
+          "title": "Merchandising",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=239",
+          "selection_score": 67.7342,
+          "shared_terms": [
+            "merchandising"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MMPV.03",
+          "title": "Analyse d’un point de vente ou d’un rayon dans son environnement concurrentiel",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=197",
+          "selection_score": 83.558,
+          "shared_terms": [
+            "point",
+            "rayon",
+            "vente"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Vente : initiation au jeu de rôle de négociation",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/techniques-de-commercialisation-30885.pdf#page=89",
+          "selection_score": 75.1401,
+          "shared_terms": [
+            "negociation",
+            "role",
+            "vente"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.117,
+      "matched_terms": [
+        "entrepris"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "D1509",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Marketing stratégique et opérationnel",
+          "page": 108,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=108",
+          "selection_score": 70.7533,
+          "shared_terms": [
+            "marketing",
+            "operationnel",
+            "strategique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MCMO.07",
+          "title": "Négociation commerciale",
+          "page": 288,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=288",
+          "selection_score": 58.2543,
+          "shared_terms": [
+            "commerciale",
+            "negociation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MCMO.09",
+          "title": "Trade marketing et merchandising",
+          "page": 266,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=266",
+          "selection_score": 57.4194,
+          "shared_terms": [
+            "marketing",
+            "merchandising"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Participer au pilotage d’une organisation - Etude concurrentielle",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=75",
+          "selection_score": 52.9113,
+          "shared_terms": [
+            "concurrentielle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MCMO.01",
+          "title": "Piloter un projet aux enjeux commerciaux",
+          "page": 292,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=292",
+          "selection_score": 39.5564,
+          "shared_terms": [
+            "commerciaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,30 +1,9 @@
-# Security Policy
+# Security policy
 
-## Reporting a Vulnerability
+The published website is static. Agent documents are displayed as text; raw HTML is not rendered. No account credentials are included in its build artifacts.
 
-If you discover a security vulnerability in this project, please report it responsibly. Do NOT open a public GitHub issue for security vulnerabilities. Open a private security advisory via GitHub Security tab.
+Renovate checks dependencies daily and creates reviewable updates. Patch and minor updates may merge only after the required site validation passes; major updates require review. Native vulnerability alerts and automated security fixes are enabled where supported. Production dependency auditing, browser tests and a static build precede deployment. CodeQL runs separately.
 
-## Response Timeline
+Use private vulnerability reporting on GitHub when available. Avoid posting credentials or exploitable security details in public issues. For ordinary content defects, report the affected file and a minimal reproduction.
 
-- Acknowledgment: within 48 hours
-- Initial assessment: within 7 days
-- Fix or mitigation: depends on severity
-
-## Scope
-
-This repository contains Markdown-based agent definitions and shell scripts for installation and conversion.
-
-### Agent files (.md)
-- Non-executable prompt definitions
-- No API keys, secrets, or credentials should be stored in agent files
-
-### Shell scripts (scripts/)
-- install.sh, convert.sh, and lint-agents.sh are executable
-- Contributors should review scripts for unintended behavior before running
-
-## Best Practices for Contributors
-
-- Never commit API keys, tokens, or credentials
-- Never add executable code inside agent Markdown files
-- Shell scripts must be reviewed before merging
-- Report suspicious agent definitions that attempt prompt injection
+Dependency checks and automation reduce risk; they do not guarantee that every vulnerability is detected or automatically fixed. Maintainers remain responsible for failed checks and security alerts.

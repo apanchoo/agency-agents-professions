@@ -1,0 +1,190 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509391,
+    "code_rome": "M1415",
+    "libelle": "Auditeur social / Auditrice sociale",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1402"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 19.435,
+      "matched_terms": [
+        "gestion",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.14",
+          "title": "Ressources humaines : Gestion des compétences approfondie et des talents",
+          "page": 400,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=400",
+          "selection_score": 62.346,
+          "shared_terms": [
+            "humaine",
+            "talent"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.13",
+          "title": "Ressources humaines : Pilotage social et performance sociale",
+          "page": 399,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=399",
+          "selection_score": 61.9215,
+          "shared_terms": [
+            "humaine",
+            "performance",
+            "social",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GPRH.11",
+          "title": "Ressources humaines : Politiques de rémunération",
+          "page": 397,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=397",
+          "selection_score": 41.3505,
+          "shared_terms": [
+            "humaine",
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.GPRH.01",
+          "title": "Proposer une politique RH dans le cadre d’une évolution du périmètre de l’entreprise",
+          "page": 404,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=404",
+          "selection_score": 75.3622,
+          "shared_terms": [
+            "evolution",
+            "politique",
+            "proposer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.03",
+          "title": "Optimiser une politique de développement des compétences",
+          "page": 384,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=384",
+          "selection_score": 69.6351,
+          "shared_terms": [
+            "optimiser",
+            "politique"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.293,
+      "matched_terms": [
+        "entrepris",
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MCMO.04",
+          "title": "Stratégie digitale outbound et indicateurs de performance du marketing digital",
+          "page": 318,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=318",
+          "selection_score": 49.085,
+          "shared_terms": [
+            "indicateur",
+            "performance",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.07",
+          "title": "Ressources humaines",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=109",
+          "selection_score": 34.1788,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MDFS.06",
+          "title": "Processus ressources humaines - Niveau 1",
+          "page": 228,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=228",
+          "selection_score": 33.4802,
+          "shared_terms": [
+            "humaine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MDFS.01",
+          "title": "Analyser et améliorer la performance financière et stratégique d’une organisation",
+          "page": 171,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=171",
+          "selection_score": 47.1988,
+          "shared_terms": [
+            "ameliorer",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MCMO.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux commerciaux",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=248",
+          "selection_score": 46.7226,
+          "shared_terms": [
+            "ameliorer",
+            "performance"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

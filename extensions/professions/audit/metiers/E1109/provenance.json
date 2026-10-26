@@ -1,0 +1,192 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 403088,
+    "code_rome": "E1109",
+    "libelle": "Directeur / Directrice de la communication",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "E1103"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.217,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1103",
+      "title_terms": [
+        "communication"
+      ],
+      "specific_title_terms": [
+        "communication"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.PUB.17",
+          "title": "Culture et tendances publicitaires / Culture graphique",
+          "page": 589,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=589",
+          "selection_score": 66.2688,
+          "shared_terms": [
+            "culture",
+            "graphique",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.PUB.05",
+          "title": "Culture et tendances / Design graphique",
+          "page": 690,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=690",
+          "selection_score": 64.8861,
+          "shared_terms": [
+            "culture",
+            "graphique",
+            "tendance"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PUB.07",
+          "title": "Publicité internationale / Campagnes spécifiques",
+          "page": 677,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=677",
+          "selection_score": 63.7142,
+          "shared_terms": [
+            "campagne",
+            "publicite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.INFONUM.01",
+          "title": "Mettre en place une stratégie de communication numérique",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=284",
+          "selection_score": 54.9933,
+          "shared_terms": [
+            "numerique",
+            "place",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.COMOR.03",
+          "title": "Réaliser un plan de communication",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=105",
+          "selection_score": 38.5905,
+          "shared_terms": [
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 31.66,
+      "matched_terms": [
+        "communication"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1103",
+      "title_terms": [
+        "communication"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.05",
+          "title": "Stratégies de communication et marketing",
+          "page": 173,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=173",
+          "selection_score": 76.8884,
+          "shared_terms": [
+            "marketing",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.STRAT-UX.03",
+          "title": "Stratégie de communication pluri-média",
+          "page": 220,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=220",
+          "selection_score": 71.6065,
+          "shared_terms": [
+            "media",
+            "strategie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.STRAT-UX.13",
+          "title": "Gestion de contenus avancée",
+          "page": 181,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=181",
+          "selection_score": 64.3856,
+          "shared_terms": [
+            "contenu"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.STRAT-UX.02",
+          "title": "Développer une communication sur les médias sociaux",
+          "page": 191,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=191",
+          "selection_score": 131.3081,
+          "shared_terms": [
+            "media",
+            "sociaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.STRAT-UX.03",
+          "title": "Concevoir des visualisations de données pour le web et dans un contexte d’une communication print et/ou sur les réseaux sociaux",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=167",
+          "selection_score": 125.5547,
+          "shared_terms": [
+            "print",
+            "reseaux",
+            "sociaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

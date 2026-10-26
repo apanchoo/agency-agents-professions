@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509417,
+    "code_rome": "F1129",
+    "libelle": "Ingénieur / Ingénieure réservoir",
+    "transition_eco": "Emploi Brun",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1105"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.367,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1105",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.EXPLOIT.03",
+          "title": "Études réglementaires en énergétique du bâtiment",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=135",
+          "selection_score": 48.9845,
+          "shared_terms": [
+            "energetique",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.05",
+          "title": "Technologies et exploitation des centrales de production d’énergie",
+          "page": 205,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=205",
+          "selection_score": 43.163,
+          "shared_terms": [
+            "exploitation",
+            "production",
+            "technologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EXPLOIT.10",
+          "title": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
+          "page": 215,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=215",
+          "selection_score": 42.2196,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Préparation de l’instrumentation d’une installation ou d’un bâtiment et mesures en vue de la réalisation de son bilan énergétique",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=57",
+          "selection_score": 43.9046,
+          "shared_terms": [
+            "energetique",
+            "realisation",
+            "vue"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MANÉ.03",
+          "title": "Évaluation des émissions de gaz à effet de serre d’un organisme et développement d’une stratégie bas carbone",
+          "page": 277,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=277",
+          "selection_score": 37.807,
+          "shared_terms": [
+            "gaz",
+            "strategie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

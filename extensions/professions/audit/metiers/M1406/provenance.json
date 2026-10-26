@@ -1,0 +1,188 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488287,
+    "code_rome": "M1406",
+    "libelle": "Responsable RSE (Responsabilité Sociétale de l'Entreprise)",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1402"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 30.489,
+      "matched_terms": [
+        "entrepris"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [
+        "entrepris"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.MRPE.08",
+          "title": "Responsabilité sociale et environnementale de l’organisation",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=136",
+          "selection_score": 61.832,
+          "shared_terms": [
+            "environnementale",
+            "responsabilite",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.07",
+          "title": "Management du changement",
+          "page": 153,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=153",
+          "selection_score": 54.9862,
+          "shared_terms": [
+            "changement",
+            "management"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MRPE.05",
+          "title": "Négociation et achat responsable",
+          "page": 168,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=168",
+          "selection_score": 54.2586,
+          "shared_terms": [
+            "negociation",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MRPE.01",
+          "title": "Analyser et améliorer la performance d’une organisation aux enjeux responsables et environnementaux",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=94",
+          "selection_score": 76.5238,
+          "shared_terms": [
+            "enjeux",
+            "environnementaux",
+            "performance",
+            "responsable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MRPE.01",
+          "title": "Piloter un projet aux enjeux responsables et environnementaux",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=140",
+          "selection_score": 68.6743,
+          "shared_terms": [
+            "enjeux",
+            "environnementaux",
+            "responsable"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "sd",
+      "title": "Science des données",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.66,
+      "matched_terms": [
+        "donnee"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1402",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf",
+      "programme_sha256": "7991c10ea99d667af1192b0ae12c5fd9e306d8b15cd6ff54df72060be3d416e8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Anglais pour la coopération internationale et enjeux internationaux des données",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=119",
+          "selection_score": 54.7997,
+          "shared_terms": [
+            "enjeux",
+            "internationaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Utilisation avancée d’outils de reporting",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=82",
+          "selection_score": 48.9934,
+          "shared_terms": [
+            "avancee",
+            "reporting"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.VCOD.06",
+          "title": "Développement logiciel",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=122",
+          "selection_score": 45.5023,
+          "shared_terms": [
+            "logiciel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.05",
+          "title": "Construction et présentation d’indicateurs de performance",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=57",
+          "selection_score": 52.1764,
+          "shared_terms": [
+            "indicateur",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.02",
+          "title": "Reporting d’une analyse multivariée",
+          "page": 97,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-des-donn-es-30879.pdf#page=97",
+          "selection_score": 37.2475,
+          "shared_terms": [
+            "reporting"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

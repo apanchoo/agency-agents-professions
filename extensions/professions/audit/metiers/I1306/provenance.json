@@ -1,0 +1,266 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 315,
+    "code_rome": "I1306",
+    "libelle": "Frigoriste",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "I1306"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 21.584,
+      "matched_terms": [
+        "climat",
+        "energe",
+        "froid"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.OPTIM.02",
+          "title": "Machines frigorifiques",
+          "page": 363,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=363",
+          "selection_score": 83.4932,
+          "shared_terms": [
+            "frigorifique",
+            "machine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.10",
+          "title": "Conditionnement d’air",
+          "page": 565,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=565",
+          "selection_score": 78.958,
+          "shared_terms": [
+            "air",
+            "conditionnement"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Bases de Thermodynamique",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=70",
+          "selection_score": 59.3717,
+          "shared_terms": [
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Mise en service et maintenance de premier niveau d’une installation",
+          "page": 61,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=61",
+          "selection_score": 52.4614,
+          "shared_terms": [
+            "installation",
+            "maintenance",
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OPTIM.03",
+          "title": "Intégration et dimensionnement de réseaux fluides et de leurs équipements dans une maquette numérique",
+          "page": 358,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=358",
+          "selection_score": 52.3822,
+          "shared_terms": [
+            "equipement",
+            "fluide",
+            "leurs"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 20.964,
+      "matched_terms": [
+        "equipement",
+        "industri",
+        "maintenance"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.06",
+          "title": "Électricité et automatismes industriels 1",
+          "page": 47,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=47",
+          "selection_score": 57.1629,
+          "shared_terms": [
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Électricité et Automatismes Industriels 2",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=73",
+          "selection_score": 56.0743,
+          "shared_terms": [
+            "electricite",
+            "industriel"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Organisation des systèmes industriels 1",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=50",
+          "selection_score": 38.1871,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ISP.02",
+          "title": "Installer un système en équipe",
+          "page": 211,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=211",
+          "selection_score": 63.3514,
+          "shared_terms": [
+            "installer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Remplacer un élément avec changement de modèle",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=35",
+          "selection_score": 49.9978,
+          "shared_terms": [
+            "changement",
+            "element"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.698,
+      "matched_terms": [
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "I1306",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.10",
+          "title": "Thermodynamique et machines thermiques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=67",
+          "selection_score": 65.1351,
+          "shared_terms": [
+            "machine",
+            "thermodynamique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Mécanique vibratoire et acoustique",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=140",
+          "selection_score": 61.8905,
+          "shared_terms": [
+            "mecanique",
+            "vibratoire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Mécanique des fluides et introduction aux techniques du vide",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=116",
+          "selection_score": 43.3085,
+          "shared_terms": [
+            "fluide",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 40.9952,
+          "shared_terms": [
+            "chaine",
+            "essai"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.TI.01",
+          "title": "Mettre en œuvre une chaîne d’instrumentation complexe dans des conditions spécifiques ou extrêmes",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=163",
+          "selection_score": 30.5022,
+          "shared_terms": [
+            "chaine",
+            "specifique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

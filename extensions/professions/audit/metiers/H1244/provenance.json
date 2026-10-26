@@ -1,0 +1,272 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518849,
+    "code_rome": "H1244",
+    "libelle": "Formulateur / Formulatrice de produits alimentaires",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "H1210"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 92.548,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [
+        "aliment"
+      ],
+      "specific_title_terms": [
+        "aliment"
+      ],
+      "parent_rome_pages": [
+        17,
+        18,
+        20,
+        22
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.06",
+          "title": "Qualité et hygiène en industrie alimentaire",
+          "page": 545,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=545",
+          "selection_score": 143.0801,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "industrie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SAB.08",
+          "title": "Qualité, hygiène et microbiologie alimentaire",
+          "page": 525,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=525",
+          "selection_score": 84.2681,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SAB.11",
+          "title": "Génie des Procédés Alimentaires",
+          "page": 528,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=528",
+          "selection_score": 75.6952,
+          "shared_terms": [
+            "alimentaire",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SAB.02",
+          "title": "Produire des aliments ou bioproduits en contrôlant la qualité et en respectant les procédures d’hygiène et de sécurité",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=535",
+          "selection_score": 87.7973,
+          "shared_terms": [
+            "hygiene",
+            "procedure",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SAB.03",
+          "title": "Contrôler l’hygiène lors d’une production des aliments et/ou de bioproduits",
+          "page": 464,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=464",
+          "selection_score": 61.4616,
+          "shared_terms": [
+            "hygiene",
+            "production"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 89.817,
+      "matched_terms": [
+        "formul"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [
+        "formul"
+      ],
+      "specific_title_terms": [
+        "formul"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Formulation",
+          "page": 125,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=125",
+          "selection_score": 60.2401,
+          "shared_terms": [
+            "formulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la formulation",
+          "page": 100,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=100",
+          "selection_score": 59.7607,
+          "shared_terms": [
+            "formulation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.16",
+          "title": "Élaboration/Formulation et caractérisation des matériaux et/ou produits formulés",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=136",
+          "selection_score": 54.8019,
+          "shared_terms": [
+            "formulation",
+            "formule",
+            "produit"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Suivi d’un procédé élémentaire",
+          "page": 65,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=65",
+          "selection_score": 39.1342,
+          "shared_terms": [
+            "procede",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MPF.01",
+          "title": "Étude et élaboration d’un matériau et/ou d’un produit formulé",
+          "page": 309,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=309",
+          "selection_score": 37.9224,
+          "shared_terms": [
+            "formule",
+            "produit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.0,
+      "matched_terms": [
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1210",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.CAI.13",
+          "title": "Principes de la gestion d’affaire",
+          "page": 421,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=421",
+          "selection_score": 42.5465,
+          "shared_terms": [
+            "principe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 36.8491,
+          "shared_terms": [
+            "reglementation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Organisation et Pilotage Industriel",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=119",
+          "selection_score": 28.068,
+          "shared_terms": [
+            "industriel"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 42.976,
+          "shared_terms": [
+            "specification"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Organisation structurelle de l’industrie",
+          "page": 70,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=70",
+          "selection_score": 40.1796,
+          "shared_terms": [
+            "industrie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

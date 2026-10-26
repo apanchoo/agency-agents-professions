@@ -1,0 +1,264 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519941,
+    "code_rome": "H2514",
+    "libelle": "Ingénieur / Ingénieure en génie des matériaux",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "H2502"
+  },
+  "but": [
+    {
+      "programme_id": "sgm",
+      "title": "Science et génie des matériaux",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 90.095,
+      "matched_terms": [
+        "materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [
+        "materiau"
+      ],
+      "specific_title_terms": [
+        "materiau"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf",
+      "programme_sha256": "e2be14b3559a8efbee2d25cf01dd3eec2e7d39743e5f3f56f96cb594ed7dc3a8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.01",
+          "title": "Matériaux composites 1",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=76",
+          "selection_score": 61.8693,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.02",
+          "title": "Matériaux composites 3",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=135",
+          "selection_score": 61.8288,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Matériaux composites 2",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=83",
+          "selection_score": 61.3739,
+          "shared_terms": [
+            "composite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.03",
+          "title": "Adaptation et optimisation d’un procédé de fabrication",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=129",
+          "selection_score": 46.5936,
+          "shared_terms": [
+            "fabrication",
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MCEMP.01",
+          "title": "Projet industriel matériaux",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/science-et-g-nie-des-mat-riaux-30882.pdf#page=111",
+          "selection_score": 45.0668,
+          "shared_terms": [
+            "industriel",
+            "materiaux"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gim",
+      "title": "Génie industriel et maintenance",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.058,
+      "matched_terms": [
+        "industri"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf",
+      "programme_sha256": "2e5dbd9b7e625acd28a16b8e293b3075f5f80243744c880c7790ab0873afd053",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Mécanique et Matériaux 5",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=135",
+          "selection_score": 42.7535,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Mécanique et Matériaux 2",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=68",
+          "selection_score": 41.7663,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.02",
+          "title": "Mécanique et Matériaux 4",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=114",
+          "selection_score": 41.7102,
+          "shared_terms": [
+            "materiaux",
+            "mecanique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.3MI.01",
+          "title": "Mettre en place une action de maintenance",
+          "page": 85,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=85",
+          "selection_score": 42.8128,
+          "shared_terms": [
+            "maintenance",
+            "place"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.3MI.02",
+          "title": "Prévenir les risques",
+          "page": 129,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-industriel-et-maintenance-30837.pdf#page=129",
+          "selection_score": 25.4109,
+          "shared_terms": [
+            "risque"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "chimie",
+      "title": "Chimie",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.832,
+      "matched_terms": [
+        "analyser la structure et les proprietes des materiaux ameliore les materiaux existants pour augmenter leur durabilite, leur resistance et leur efficacite concoit et tester de nouveaux materiaux pour repondre a des besoins specifiques travaille avec des equipes pluridisciplinaires et assure la conformite des materiau"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H2502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf",
+      "programme_sha256": "0425a4cc5521d6370acb9c8127d0796be66d9d5eff087aa83556623878ab9c35",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ANA.03",
+          "title": "Préparation d’échantillons",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=164",
+          "selection_score": 46.6065,
+          "shared_terms": [
+            "echantillon"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MPF.05",
+          "title": "Relation structures/formules et propriétés des matériaux et/ou produits formulés",
+          "page": 316,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=316",
+          "selection_score": 40.9334,
+          "shared_terms": [
+            "materiaux",
+            "propriete",
+            "structure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MPF.04",
+          "title": "Durabilité des matériaux et/ou des produits formulés",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=315",
+          "selection_score": 40.2164,
+          "shared_terms": [
+            "durabilite",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.06",
+          "title": "Analyse de risques",
+          "page": 67,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=67",
+          "selection_score": 32.3818,
+          "shared_terms": [
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.IND.03",
+          "title": "Conduite et optimisation d’un procédé",
+          "page": 370,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/chimie-30822.pdf#page=370",
+          "selection_score": 19.843,
+          "shared_terms": [
+            "optimisation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,567 @@
+{
+  "numero": 100,
+  "rome": {
+    "code_rome": "C1401",
+    "intitule": "Agent administratif / Agente administrative banque ou assurance",
+    "code_ogr": 75
+  },
+  "appellations": [
+    {
+      "libelle": "Agent administratif / Agente administrative d'assurances",
+      "libelle_court": "Agent administratif / Agente administrative d'assurances",
+      "code_ogr": 10351
+    },
+    {
+      "libelle": "Agent administratif / Agente administrative de banque",
+      "libelle_court": "Agent administratif / Agente administrative de banque",
+      "code_ogr": 10352
+    },
+    {
+      "libelle": "Assistant administratif / Assistante administrative d'assurances",
+      "libelle_court": "Assistant(e) administratif(ve) d'assurances",
+      "code_ogr": 11184
+    },
+    {
+      "libelle": "Employé central / Employée centrale chèque",
+      "libelle_court": "Employé central / Employée centrale chèque",
+      "code_ogr": 14752
+    },
+    {
+      "libelle": "Technicien / Technicienne de gestion électronique de documents (GED)",
+      "libelle_court": "Technicien(ne) de gestion électronique de documents",
+      "code_ogr": 19775
+    },
+    {
+      "libelle": "Technicien administratif / Technicienne administrative de banque",
+      "libelle_court": "Technicien(ne) administratif(ve) de banque",
+      "code_ogr": 19647
+    }
+  ],
+  "definition": "L'Agent administratif en banque ou assurance gère le suivi administratif des dossiers et des documents clients selon la réglementation de l'assurance ou de la banque. Réalise des opérations commerciales et assure la mise à jour des dossiers Appuie les équipes en fournissant des données et des rapports précis Traite la correspondance et les communications avec les clients Participe à l'amélioration des processus administratifs",
+  "acces_metier": "Ce métier est accessible avec un niveau Bac + 2 à Bac + 5 BTS, DUT gestion des entreprises et Master en banque, assurance, finance. Une Certification professionnelle en gestion de documents électroniques est un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Organiser des actions de communication interne",
+              "code_ogr": 300002,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner l'appropriation d'un outil par ses utilisateurs",
+              "code_ogr": 300019,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une base de données numériques",
+              "code_ogr": 300203,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre à jour un tableau de suivi client",
+              "code_ogr": 121720,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels de gestion administrative",
+              "code_ogr": 506392,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre les processus et les modes opératoires techniques",
+              "code_ogr": 300129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'enregistrement, au tri, à l'affranchissement du courrier",
+              "code_ogr": 101622,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Définir et mettre en oeuvre des protocoles de sécurité",
+              "code_ogr": 300150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les risques de cybersécurité",
+              "code_ogr": 300615,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité des process",
+              "code_ogr": 300250,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité des process",
+              "code_ogr": 300258,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations de marché financier",
+              "code_ogr": 300335,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre la gestion de comptes bancaires",
+              "code_ogr": 123223,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les réclamations et assurer un suivi de qualité",
+              "code_ogr": 502516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la gestion administrative des contrats",
+              "code_ogr": 117290,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un contrat d'assurance",
+              "code_ogr": 121164,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accompagner le client à la validation du dossier par la banque",
+              "code_ogr": 403814,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer l'accueil téléphonique",
+              "code_ogr": 300613,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Optimiser la performance de l'organisation",
+              "code_ogr": 300398,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer une situation d'urgence",
+              "code_ogr": 300481,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Maintenir à jour ses connaissances sur les nouvelles réglementations d'assurance",
+              "code_ogr": 486157,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de gestion de documents",
+              "code_ogr": 518628,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bachelor en sciences du management - diplôme de gestion et management des entreprises (GBM)",
+              "code_ogr": 522101,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bachelor en sciences du management - diplôme de gestion et de management des entreprises",
+              "code_ogr": 522016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bachelor en sciences du management - programme de gestion et de management des entreprises",
+              "code_ogr": 522035,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion du temps",
+              "code_ogr": 476903,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits d'assurance",
+              "code_ogr": 518631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Argumentation commerciale",
+              "code_ogr": 100381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la relation client (CRM)",
+              "code_ogr": 116414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de problèmes",
+              "code_ogr": 403126,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits bancaires",
+              "code_ogr": 518627,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'administration de compte bancaire",
+              "code_ogr": 101507,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recommandations AMF (Autorité des Marchés Financiers)",
+              "code_ogr": 125746,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maîtrise de la règlementation bancaire et financière",
+              "code_ogr": 403133,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse de données financières",
+              "code_ogr": 109362,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prospection téléphonique",
+              "code_ogr": 122158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de confidentialité et de sécurité des données",
+              "code_ogr": 518629,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation des produits d'assurances",
+              "code_ogr": 101460,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion de documents électroniques",
+              "code_ogr": 518624,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle d'affaires",
+          "code_ogr": 300819
+        },
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle d'entreprises",
+          "code_ogr": 300821
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "91",
+      "libelle": "Finance, banque et assurance",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "C1109 - Gestionnaire en assurances",
+      "code_org_rome_cible": 63,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "C1102 - Conseiller commercial / Conseillère commerciale et relation client en assurances",
+      "code_org_rome_cible": 56,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "C1201 - Chargé / Chargée d'accueil et de services clientèle bancaire",
+      "code_org_rome_cible": 65,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "C1206 - Conseiller / Conseillère de clientèle bancaire",
+      "code_org_rome_cible": 70,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "C1301 - Trader",
+      "code_org_rome_cible": 72,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K1503 - Contrôleur / Contrôleuse des impôts",
+      "code_org_rome_cible": 386,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1605 - Secrétaire technique",
+      "code_org_rome_cible": 478,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1607 - Assistant administratif / Assistante administrative",
+      "code_org_rome_cible": 480,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1608 - Secrétaire comptable",
+      "code_org_rome_cible": 481,
+      "ordre_mobilite": 10
+    }
+  ]
+}

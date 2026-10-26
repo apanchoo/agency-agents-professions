@@ -1,0 +1,143 @@
+# Port officer
+
+## Scope
+
+The Port Officer plays a crucial role in the management and security of port activities. Supervises maritime traffic operations within the port Coordinates pilotage, towing and mooring activities of ships Ensures the safety of goods and people in the port area Manages emergency situations and coordinates necessary interventions Controls the application of maritime and port regulations Participates in the planning and development of port infrastructure
+
+## Related Job Titles
+
+- Harbor Captain
+- Port Commander
+- Marine purser
+- Port Lieutenant
+- Deputy Port Officer (Lieutenant)
+- Port lookout officer
+- Port officer (captain)
+
+## Activities and Skills
+
+- Lead, coordinate a team
+- Ensure the coordination of port services during stopovers
+- Liaise with emergency services
+- Facilitate communication between different port stakeholders
+- Organize rotations of port work teams
+- Implement human resources management actions
+- Assess the training needs of port staff
+- Implement training for port staff
+- Design port waste management systems
+- Collect technical data and develop the route map for the crossing (times, distances, weather, etc.)
+- Design development plans for the port
+- Plan and supervise port construction works
+- Maintain navigation equipment in good condition
+- Supervise and coordinate surveillance operations of a port site (fire protection, emergency plan, etc.) and develop emergency intervention plans
+- Supervise the maintenance of port equipment
+- Monitor vessel pilotage operations
+- Check the operation of a safety device
+- Coordinate interventions in the event of marine pollution
+- Perform regular safety inspections
+- Assess the risks linked to port activities
+- Plan equipment maintenance operations
+- Carry out port security audits
+- Supervise port cleaning and maintenance operations
+- Monitor towing and mooring operations
+- Analyze port operational performance
+- Optimize the use of port infrastructure
+- Monitor water quality in the port area
+- Manage inventory
+- Analyze maritime transport needs
+- Coordinate loading and unloading operations
+- Manage radio communications with ships and authorities
+- Organize port operations and maritime transport of goods
+- Organize and plan the allocation of port or maritime equipment (gantry cranes, ships, etc.)
+- Organize maritime traffic in the port
+- Plan or coordinate the activity of port teams or sedentary maritime personnel
+- Optimize customs clearance procedures
+- Manage relationships with port customers and suppliers
+- Develop, monitor and manage a budget
+- Monitor the application of maritime regulations in port
+- Monitor the application of environmental regulations
+- Analyze weather conditions for navigation
+- Control port access and security
+- Develop port waste management policies
+- Evaluate the impact of port activities on the local environment
+- Conduct environmental impact studies for port projects
+- Optimize the use of port energy resources
+- Promote sustainable development practices in the port
+- Ensure monitoring of port performance indicators
+- Develop strategies to increase port efficiency
+- Establish strategic partnerships for port development
+- Implement technologies to improve traffic management
+- Implement policies to reduce polluting emissions
+- Managing an activity
+- Propose improvements to port services
+- Coordinate with local authorities for port development
+- Communicate and cooperate with maritime authorities
+- Relay information
+- Comply with maritime regulations
+- Respect the rules of Quality, Hygiene, Safety, Health and Environment (QHSSE)
+- Follow maritime safety standards
+
+## Professional Approach
+
+- Have team spirit
+- Be proactive
+- Demonstrate leadership
+- Organize your work according to priorities and objectives
+
+## Products, tools and materials
+
+- Using freight management software
+- Harbor tug ship
+
+## Areas of expertise
+
+- Statistical analysis of port data
+- Nautical information management
+- Port Resource Planning
+- Maritime English
+- Coordination of pilotage services
+- Port human resources management
+- Optimization of port space
+- Optimization of goods flows
+- Professional shipping software
+- Assessment of port performance
+- Monitoring of loading operations
+- Internal port communication
+- Financial management of port activities
+- Planning of ship movements
+
+## Standards and processes
+
+- Regulation of freight transport
+- Management of emergency situations in port
+- Preventive maintenance of port equipment
+- Safety rules on board ships (people and goods)
+- Knowledge of maritime environmental standards
+- Port regulations
+- Fire safety regulations
+- Maritime safety rules
+- Control of port security procedures
+- Maritime law
+
+## Professional techniques
+
+- Port equipment management
+- Communication and negotiation techniques
+- Maritime data analysis
+- Port risk management
+- Supervision of port infrastructure maintenance
+- Port dispute resolution techniques
+- Towing techniques
+
+## Working Conditions
+
+- Departmental zone
+- In contact with the public
+- In the port area
+- Wearing personal protective equipment (PPE): gloves, shoes, helmet, hearing protection
+- Work weekends and public holidays
+- Work at an irregular pace and peaks in activity
+
+## Sectors
+
+- Logistics and transportation

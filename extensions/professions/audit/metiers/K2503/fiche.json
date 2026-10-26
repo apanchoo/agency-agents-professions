@@ -1,0 +1,837 @@
+{
+  "numero": 505,
+  "rome": {
+    "code_rome": "K2503",
+    "intitule": "Agent / Agente de prévention et de sécurité",
+    "code_ogr": 430
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de démarque",
+      "libelle_court": "Agent / Agente de démarque",
+      "code_ogr": 10435
+    },
+    {
+      "libelle": "Agent / Agente de prévention et de sécurité privée",
+      "libelle_court": "Agent / Agente de prévention et de sécurité privée",
+      "code_ogr": 10557
+    },
+    {
+      "libelle": "Agent / Agente de sécurité",
+      "libelle_court": "Agent / Agente de sécurité",
+      "code_ogr": 10599
+    },
+    {
+      "libelle": "Agent / Agente de sécurité incendie",
+      "libelle_court": "Agent / Agente de sécurité incendie",
+      "code_ogr": 10601
+    },
+    {
+      "libelle": "Agent / Agente de sécurité magasin",
+      "libelle_court": "Agent / Agente de sécurité magasin",
+      "code_ogr": 38455
+    },
+    {
+      "libelle": "Agent / Agente de sécurité SSIAP 1",
+      "libelle_court": "Agent / Agente de sécurité SSIAP 1",
+      "code_ogr": 10602
+    },
+    {
+      "libelle": "Agent / Agente de service de sécurité incendie",
+      "libelle_court": "Agent / Agente de service de sécurité incendie",
+      "code_ogr": 10604
+    },
+    {
+      "libelle": "Agent / Agente de service sécurité",
+      "libelle_court": "Agent / Agente de service sécurité",
+      "code_ogr": 10606
+    },
+    {
+      "libelle": "Agent / Agente de sûreté",
+      "libelle_court": "Agent / Agente de sûreté",
+      "code_ogr": 10613
+    },
+    {
+      "libelle": "Agent / Agente de sûreté de passage",
+      "libelle_court": "Agent / Agente de sûreté de passage",
+      "code_ogr": 10615
+    },
+    {
+      "libelle": "Agent / Agente de surveillance",
+      "libelle_court": "Agent / Agente de surveillance",
+      "code_ogr": 10617
+    },
+    {
+      "libelle": "Agent / Agente de surveillance et de protection",
+      "libelle_court": "Agent / Agente de surveillance et de protection",
+      "code_ogr": 10621
+    },
+    {
+      "libelle": "Agent / Agente de surveillance et de sécurité",
+      "libelle_court": "Agent / Agente de surveillance et de sécurité",
+      "code_ogr": 10622
+    },
+    {
+      "libelle": "Agent / Agente de surveillance et d'intervention",
+      "libelle_court": "Agent / Agente de surveillance et d'intervention",
+      "code_ogr": 10623
+    },
+    {
+      "libelle": "Agent / Agente d'établissement de nuit",
+      "libelle_court": "Agent / Agente d'établissement de nuit",
+      "code_ogr": 10600
+    },
+    {
+      "libelle": "Agent / Agente protection de site nucléaire",
+      "libelle_court": "Agent / Agente protection de site nucléaire",
+      "code_ogr": 519271
+    },
+    {
+      "libelle": "Chef / Cheffe de poste sécurité",
+      "libelle_court": "Chef / Cheffe de poste sécurité",
+      "code_ogr": 12213
+    },
+    {
+      "libelle": "Gardien / Gardienne de musée",
+      "libelle_court": "Gardien / Gardienne de musée",
+      "code_ogr": 15221
+    },
+    {
+      "libelle": "Gardien veilleur / Gardienne veilleuse",
+      "libelle_court": "Gardien veilleur / Gardienne veilleuse",
+      "code_ogr": 15233
+    },
+    {
+      "libelle": "Gardien veilleur de nuit / Gardienne veilleuse de nuit",
+      "libelle_court": "Gardien veilleur de nuit / Gardienne veilleuse de nuit",
+      "code_ogr": 490003
+    },
+    {
+      "libelle": "Intervenant / Intervenante sur alarme",
+      "libelle_court": "Intervenant / Intervenante sur alarme",
+      "code_ogr": 16065
+    },
+    {
+      "libelle": "Physionomiste",
+      "libelle_court": "Physionomiste",
+      "code_ogr": 17735
+    },
+    {
+      "libelle": "Pilote d'équipe sécurité",
+      "libelle_court": "Pilote d'équipe sécurité",
+      "code_ogr": 17758
+    },
+    {
+      "libelle": "Portier / Portière physionomiste",
+      "libelle_court": "Portier / Portière physionomiste",
+      "code_ogr": 17898
+    },
+    {
+      "libelle": "Rondier / Rondière en sécurité",
+      "libelle_court": "Rondier / Rondière en sécurité",
+      "code_ogr": 19280
+    },
+    {
+      "libelle": "Surveillant / Surveillante de magasin",
+      "libelle_court": "Surveillant / Surveillante de magasin",
+      "code_ogr": 19590
+    },
+    {
+      "libelle": "Surveillant / Surveillante de musée",
+      "libelle_court": "Surveillant / Surveillante de musée",
+      "code_ogr": 19591
+    },
+    {
+      "libelle": "Surveillant / Surveillante de nuit",
+      "libelle_court": "Surveillant / Surveillante de nuit",
+      "code_ogr": 38195
+    },
+    {
+      "libelle": "Surveillant / Surveillante de parking",
+      "libelle_court": "Surveillant / Surveillante de parking",
+      "code_ogr": 19592
+    },
+    {
+      "libelle": "Surveillant / Surveillante d'immeuble",
+      "libelle_court": "Surveillant / Surveillante d'immeuble",
+      "code_ogr": 19597
+    },
+    {
+      "libelle": "Surveillant-chef / Surveillante-chef de musée",
+      "libelle_court": "Surveillant-chef / Surveillante-chef de musée",
+      "code_ogr": 19603
+    },
+    {
+      "libelle": "Surveillant-chef gardien / Surveillante-chef gardienne de musée",
+      "libelle_court": "Surveillant(e)-chef gardien(ne) de musée",
+      "code_ogr": 19604
+    },
+    {
+      "libelle": "Technicien / Technicienne protection de site nucléaire",
+      "libelle_court": "Technicien / Technicienne protection de site nucléaire",
+      "code_ogr": 519270
+    },
+    {
+      "libelle": "Veilleur / Veilleuse de nuit",
+      "libelle_court": "Veilleur / Veilleuse de nuit",
+      "code_ogr": 489516
+    },
+    {
+      "libelle": "Vigile",
+      "libelle_court": "Vigile",
+      "code_ogr": 20688
+    }
+  ],
+  "definition": "L'agent de prévention et de sécurité assure la protection des biens et des personnes. Surveille et contrôle l'accès des sites pour garantir la sécurité des biens et des personnes Intervient lors des situations d'urgence et gère les incidents de sécurité Réalise des rondes de prévention et de détection des anomalies Informe et alerte les services compétents (pompiers, forces de l'ordre) en cas de menace sérieuse Assure le respect des règles de sécurité au sein des établissements Gère l'utilisation des équipements de surveillance et d'alarme",
+  "acces_metier": "Cet emploi est accessible avec un diplôme du niveau CAP au niveau BAC. Il faut également être titulaire d'une carte professionnelle délivrée par le CNAPS. Ne pas être inscrit au bulletin n°2 du casier judiciaire, et être détenteur d'un titre de séjour de plus de 5 ans pour les ressortissants étrangers hors UE.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Adapter sa communication selon les interlocuteurs et les médias utilisés",
+              "code_ogr": 403822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils digitaux (communication, applications, objets connectés)",
+              "code_ogr": 405260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Observer des faits, des évènements, des comportements",
+              "code_ogr": 300079,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repérer les anomalies, incidents et informer les forces de l'ordre et les clients",
+              "code_ogr": 108844,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une télésurveillance",
+              "code_ogr": 114883,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Analyser les endroits pour identifier les points faibles et recommander des améliorations de sécurité",
+              "code_ogr": 511302,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer les procédures de sécurité en cas d'urgence",
+              "code_ogr": 484248,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un dispositif de sécurité",
+              "code_ogr": 104016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler une zone sensible avant d'intervenir",
+              "code_ogr": 512950,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déclencher les mesures d'urgence en cas d'incident",
+              "code_ogr": 490453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter et localiser tout individu ou tout comportement présentant une menace pour la sécurité ou la sûreté",
+              "code_ogr": 400633,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Détecter les comportements suspects",
+              "code_ogr": 140956,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer les aptitudes sensorielles du chien permettant la détection de personnes, matières ou objets suspects",
+              "code_ogr": 400299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les menaces potentielles et planifier les mesures de protection nécessaires",
+              "code_ogr": 511299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer les risques de sécurité dans différentes situations",
+              "code_ogr": 118780,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Repérer les comportements ou situations à risques",
+              "code_ogr": 403338,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des interventions de sécurité nécessitant une habilitation",
+              "code_ogr": 105754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser des personnes, des lieux et des biens par un système de vidéoprotection",
+              "code_ogr": 140932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sécuriser le public en cas d'incidents et alerter les services compétents de gendarmerie, pompiers",
+              "code_ogr": 113872,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sécuriser un équipement, un périmètre",
+              "code_ogr": 100240,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en étroite collaboration avec les responsables de la sécurité et les forces de l'ordre",
+              "code_ogr": 511301,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir un rapport d'accident et d'incident",
+              "code_ogr": 124181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner les supports de contrôle et de constat",
+              "code_ogr": 300506,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Déterminer des mesures conservatoires d'un bien ou d'un lieu",
+              "code_ogr": 125732,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place les mesures conservatoires d'un bien ou d'un lieu",
+              "code_ogr": 119937,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les règles et protocoles visant à limiter les effets de l'activité sur l'environnement",
+              "code_ogr": 400098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'accès et la circulation des personnes",
+              "code_ogr": 300284,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler ou appréhender une personne",
+              "code_ogr": 404533,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Délivrer des autorisations d'accès",
+              "code_ogr": 120873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des contrôles visuels et par palpation, à l'entrée des visiteurs",
+              "code_ogr": 404878,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des rondes de surveillance",
+              "code_ogr": 404881,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evacuer les personnes, les mettre en sécurité en cas d'accident, d'incendie et guider les secours",
+              "code_ogr": 115272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Filtrer des personnes ou des objets au moyen d'appareils de contrôle",
+              "code_ogr": 124716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les accès à des zones restreintes",
+              "code_ogr": 484250,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Protéger des personnes et des biens",
+              "code_ogr": 300352,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller et protéger les zones sensibles (vestiaires, parkings, tribunes, aire de jeu, scène ...)",
+              "code_ogr": 404880,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier les accréditations, droits d'entrée, titres d'accès",
+              "code_ogr": 404879,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des visiteurs et du personnel",
+              "code_ogr": 125317,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur le site",
+              "code_ogr": 300619,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'accident ou d'imprévu",
+              "code_ogr": 120373,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les situations d'urgence et appliquer les procédures adéquates",
+              "code_ogr": 504068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veiller à la protection des données et des informations sensibles",
+              "code_ogr": 501370,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'équipements de surveillance",
+              "code_ogr": 104290,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipement engin télécommandé de prise de vue",
+              "code_ogr": 117879,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils connectés",
+              "code_ogr": 108834,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Opérateur en télésurveillance",
+              "code_ogr": 126474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent de prévention et de sécurité",
+              "code_ogr": 404721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent cynophile de sécurité",
+              "code_ogr": 123801,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Service de sécurité incendie et d'assistance aux personnes de niveau 1 (SSIAP 1) - diplôme d'agent de service",
+              "code_ogr": 121837,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Agent de sûreté aéroportuaire",
+              "code_ogr": 126434,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Français parlé, lu, écrit",
+              "code_ogr": 403170,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et d'évacuation",
+              "code_ogr": 105142,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité incendie",
+              "code_ogr": 124941,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité ferroviaire",
+              "code_ogr": 110623,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Actions et techniques de prévention, de sécurité et de secourisme",
+              "code_ogr": 115200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protection des biens",
+              "code_ogr": 124936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protection des personnes",
+              "code_ogr": 124938,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sécurité incendie",
+              "code_ogr": 101449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sûreté aéroportuaire",
+              "code_ogr": 107018,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des accès sécurisés",
+              "code_ogr": 478984,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de lutte contre les incendies",
+              "code_ogr": 107093,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de surveillance",
+              "code_ogr": 478982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de foule",
+              "code_ogr": 478978,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes d'alarme",
+              "code_ogr": 478979,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2502 - Responsable sécurité de site",
+      "code_org_rome_cible": 429,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1705 - Secouriste",
+      "code_org_rome_cible": 395,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1706 - Gendarme",
+      "code_org_rome_cible": 396,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1204 - Médiateur social / Médiatrice sociale",
+      "code_org_rome_cible": 371,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1703 - Réceptionniste",
+      "code_org_rome_cible": 205,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1205 - Installateur vérificateur / Installatrice vérificatrice d'extincteurs",
+      "code_org_rome_cible": 488628,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1204 - Garde nature",
+      "code_org_rome_cible": 10,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N4302 - Agent / Agente de contrôle du réseau ferré",
+      "code_org_rome_cible": 533,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1204 - Educateur sportif / Educatrice sportive",
+      "code_org_rome_cible": 185,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 536,
+    "code_rome": "N4403",
+    "libelle": "Opérateur / Opératrice ferroviaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4403"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.324,
+      "matched_terms": [
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.04",
+          "title": "Transport ferroviaire",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=120",
+          "selection_score": 79.2501,
+          "shared_terms": [
+            "ferroviaire",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Transport routier de marchandises : contexte et techniques",
+          "page": 39,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=39",
+          "selection_score": 52.0126,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.05",
+          "title": "Transport routier de marchandises : approfondissement",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=91",
+          "selection_score": 51.6463,
+          "shared_terms": [
+            "marchandise",
+            "transport"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MSCC.01",
+          "title": "Organisation d’acheminements internationaux de marchandises dans un environnement connecté",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=111",
+          "selection_score": 61.254,
+          "shared_terms": [
+            "acheminement",
+            "marchandise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MSCD.01",
+          "title": "Organisation d’acheminements internationaux de marchandises en adoptant une démarche durable",
+          "page": 201,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=201",
+          "selection_score": 54.9146,
+          "shared_terms": [
+            "acheminement",
+            "marchandise"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,574 @@
+{
+  "numero": 33797,
+  "rome": {
+    "code_rome": "H2217",
+    "intitule": "Responsable de scierie",
+    "code_ogr": 518223
+  },
+  "appellations": [
+    {
+      "libelle": "Adjoint / Adjointe chef d'atelier de scierie",
+      "libelle_court": "Adjoint / Adjointe chef d'atelier de scierie",
+      "code_ogr": 10284
+    },
+    {
+      "libelle": "Adjoint / Adjointe chef de scierie",
+      "libelle_court": "Adjoint / Adjointe chef de scierie",
+      "code_ogr": 10289
+    },
+    {
+      "libelle": "Agent / Agente de maîtrise de scierie",
+      "libelle_court": "Agent / Agente de maîtrise de scierie",
+      "code_ogr": 10512
+    },
+    {
+      "libelle": "Chef / Cheffe de scierie",
+      "libelle_court": "Chef / Cheffe de scierie",
+      "code_ogr": 12313
+    },
+    {
+      "libelle": "Contremaître / Contremaîtresse de scierie",
+      "libelle_court": "Contremaître / Contremaîtresse de scierie",
+      "code_ogr": 13567
+    }
+  ],
+  "definition": "Le Responsable de scierie organise la production, assure la gestion quotidienne et le respect des normes de sécurité et environnementales au sein de la scierie. Supervise la production de bois et la transformation des grumes ou billons Optimise les processus de production pour garantir l'efficacité et la qualité des produits Gère les stocks de bois et assure la logistique nécessaire à l'approvisionnement continu Développe des stratégies pour améliorer la rentabilité et réduire les coûts de production Encadre et forme le personnel pour optimiser les compétences et la performance de l'équipe",
+  "acces_metier": "Cet métier est accessible avec un diplôme de niveau Bac à Bac +3 dans le domaine des métiers du bois ou de la gestion forestière. Il est également accessible avec un CAP ou un BP de technicien de scierie ou de conducteur d'installations et une expérience professionnelle confirmée.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Faciliter et créer les conditions de la coopération",
+              "code_ogr": 300442,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler l'activité d'équipes selon les priorités et les aléas",
+              "code_ogr": 110573,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Assurer la formation continue des équipes sur les nouvelles pratiques",
+              "code_ogr": 500876,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en développement des compétences",
+              "code_ogr": 300023,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Vérifier la faisabilité d'une production",
+              "code_ogr": 123404,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser un document de production",
+              "code_ogr": 120260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Débiter et fendre des billons en intégrant les contraintes techniques dans la réalisation de production",
+              "code_ogr": 513921,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner les matières premières à mobiliser",
+              "code_ogr": 300205,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transformer une matière première",
+              "code_ogr": 300210,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité du matériel de production",
+              "code_ogr": 123858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la maintenance des équipements",
+              "code_ogr": 509071,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Organiser ou surveiller des phases de fabrication",
+              "code_ogr": 300173,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier des interventions de maintenance",
+              "code_ogr": 122329,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les anomalies ou les dysfonctionnements d'une production",
+              "code_ogr": 120790,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter une démarche qualité, un processus d'amélioration continue",
+              "code_ogr": 300245,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler un approvisionnement",
+              "code_ogr": 123571,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations liées à la gestion des ressources humaines",
+              "code_ogr": 403010,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Négocier des contrats avec des fournisseurs et des distributeurs",
+              "code_ogr": 507798,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Apporter une assistance technique aux équipes",
+              "code_ogr": 300184,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Collaborer avec des fournisseurs pour la sélection des matières premières",
+              "code_ogr": 486448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre la stratégie commerciale de l'entreprise",
+              "code_ogr": 122534,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des conditions commerciales",
+              "code_ogr": 300370,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Analyser les performances de production et proposer des améliorations",
+              "code_ogr": 485681,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la gestion de la production, de l'exploitation",
+              "code_ogr": 300175,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Expliquer les choix techniques aux clients",
+              "code_ogr": 400694,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les pratiques de développement durable dans la production",
+              "code_ogr": 403320,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques et propriétés des bois et dérivés du bois",
+              "code_ogr": 104893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gammes de produits bois",
+              "code_ogr": 104969,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro technicien constructeur bois",
+              "code_ogr": 490922,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro technicien de scierie",
+              "code_ogr": 491061,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion de Production Assistée Par Ordinateur (GPAO)",
+              "code_ogr": 119507,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management opérationnel",
+              "code_ogr": 121075,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chiffrage et calcul de coût",
+              "code_ogr": 100038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion budgétaire",
+              "code_ogr": 102216,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes Qualité, Sécurité, Environnement (QSE)",
+              "code_ogr": 122475,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle qualité",
+              "code_ogr": 124680,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'ordonnancement",
+              "code_ogr": 102885,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'usinage en industrie du bois",
+              "code_ogr": 104975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": false
+    },
+    {
+      "code": "107",
+      "libelle": "Industrie - Bois",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2218 - Responsable de production en industrie du bois",
+      "code_org_rome_cible": 518230,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H2216 - Responsable de parc à grumes",
+      "code_org_rome_cible": 518220,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2502 - Responsable d'unité de production industrielle",
+      "code_org_rome_cible": 263,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1502 - Responsable qualité en industrie",
+      "code_org_rome_cible": 230,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H1401 - Responsable ordonnancement-lancement-planification en industrie",
+      "code_org_rome_cible": 225,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1402 - Ingénieur / Ingénieure méthodes et process",
+      "code_org_rome_cible": 226,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1418 - Technico-commercial / Technico-commerciale produits bois",
+      "code_org_rome_cible": 488926,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1101 - Acheteur / Acheteuse",
+      "code_org_rome_cible": 456,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510267,
+    "code_rome": "M1225",
+    "libelle": "Aide-comptable",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1203"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 103.861,
+      "matched_terms": [
+        "comptab",
+        "controle et enregistre les recettes et depenses de l'entreprise participe a la preparation des bilans et des comptes de resultat assiste l'equipe comptable dans la gestion",
+        "financ",
+        "gestion",
+        "paie"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1203",
+      "title_terms": [
+        "comptab"
+      ],
+      "specific_title_terms": [
+        "comptab"
+      ],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.12",
+          "title": "Comptabilité : Techniques de base de comptabilité approfondie et de révision comptable",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=121",
+          "selection_score": 75.0284,
+          "shared_terms": [
+            "comptabilite",
+            "comptable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 71.0407,
+          "shared_terms": [
+            "tresorerie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.10",
+          "title": "Comptabilité : Techniques particulières de comptabilité approfondie et de révision comptable",
+          "page": 158,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=158",
+          "selection_score": 66.0512,
+          "shared_terms": [
+            "comptabilite",
+            "comptable"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 82.9398,
+          "shared_terms": [
+            "etablir",
+            "financier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Mettre en œuvre une organisation comptable et fiscale",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=60",
+          "selection_score": 63.7296,
+          "shared_terms": [
+            "comptable",
+            "fiscale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

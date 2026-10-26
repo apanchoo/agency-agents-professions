@@ -1,0 +1,23 @@
+name: Validate professional agents
+on:
+  pull_request:
+    paths: ['professions/**', 'extensions/professions/**', 'scripts/*professions.py', '.github/workflows/validate-professions.yml']
+  push:
+    branches: [main]
+    paths: ['professions/**', 'extensions/professions/**', 'scripts/*professions.py', '.github/workflows/validate-professions.yml']
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r extensions/professions/requirements.txt
+      - run: python -X utf8 extensions/professions/scripts/library.py validate
+      - run: python -X utf8 -m unittest discover -s extensions/professions/tests -v
+      - run: python -X utf8 scripts/validate-professions.py
+      - name: Verify upstream Codex conversion
+        run: |
+          bash scripts/convert.sh --tool codex --out "$RUNNER_TEMP/agency-conversion"
+          python -c "import os,pathlib,tomllib; files=list((pathlib.Path(os.environ['RUNNER_TEMP'])/'agency-conversion/codex/agents').glob('*.toml')); assert len(files)==2206,len(files); [tomllib.loads(f.read_text()) for f in files]; print('Validated',len(files),'Codex agent files')"

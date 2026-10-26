@@ -1,0 +1,481 @@
+{
+  "numero": 34032,
+  "rome": {
+    "code_rome": "M1433",
+    "intitule": "Géographe",
+    "code_ogr": 520263
+  },
+  "appellations": [
+    {
+      "libelle": "Administrateur / Administratrice bases de données géographiques",
+      "libelle_court": "Administrateur(trice) bases de données géographiques",
+      "code_ogr": 10300
+    },
+    {
+      "libelle": "Chef / Cheffe de batterie géographie",
+      "libelle_court": "Chef / Cheffe de batterie géographie",
+      "code_ogr": 12068
+    },
+    {
+      "libelle": "Chef / Cheffe géographe",
+      "libelle_court": "Chef / Cheffe géographe",
+      "code_ogr": 12567
+    },
+    {
+      "libelle": "Officier / Officière géographe",
+      "libelle_court": "Officier / Officière géographe",
+      "code_ogr": 17028
+    },
+    {
+      "libelle": "Opérateur / Opératrice géographe",
+      "libelle_court": "Opérateur / Opératrice géographe",
+      "code_ogr": 17233
+    }
+  ],
+  "definition": "Le Géographe analyse et interprète les données géographiques, les phénomènes naturels et leurs incidences sur la vie des populations. Réalise des études de terrain pour collecter des données géographiques et environnementales Utilise des outils de cartographie et de SIG-Système d'Information Géographique-pour créer des cartes détaillées Collabore avec des urbanistes et des décideurs pour fournir des analyses qui influencent la planification territoriale Participe à des projets de recherche pour développer de nouvelles méthodes d'analyse spatiale Oriente les choix de grands travaux d'aménagement pour mieux exploiter les ressources naturelles du territoire",
+  "acces_metier": "Ce métier est accessible avec un niveau bac + 3 à Bac + 8 Licence en géographie, Master et Doctorat en géographie, aménagement, urbanisme, environnement et gestion des territoires, développement local. Une certification professionnelle en Systèmes d'Information Géographique et des habilitations à diriger des recherches en géographie sont un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Conduire des études de terrain pour valider des données géographiques",
+              "code_ogr": 517648,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Administrer un système d'informations",
+              "code_ogr": 300204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser des cartes et des données géographiques",
+              "code_ogr": 485348,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les données des relevés, les retranscrire sur ordinateur, exploiter les images satellites pour les compléter et les affiner",
+              "code_ogr": 403431,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser, exploiter, structurer des données",
+              "code_ogr": 300067,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Cartographier des données",
+              "code_ogr": 117693,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer des visualisations de données géographiques complexes",
+              "code_ogr": 517645,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer et administrer une base de données géographiques (catalogues de données, de métadonnées)",
+              "code_ogr": 115540,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer et interpréter des calculs, géo-référencer les coordonnées géographiques",
+              "code_ogr": 403419,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Formaliser des données cartographiques et les diffuser sur des réseaux d'information",
+              "code_ogr": 109922,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les mises à jour des cartes pour des projets continus",
+              "code_ogr": 500089,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier et interpréter les données et caractéristiques géographiques et analyser les résultats",
+              "code_ogr": 109918,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une analyse ou modélisation statistique de données",
+              "code_ogr": 300068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner, traiter et réaliser l'analyse spatiale de données géographiques",
+              "code_ogr": 109917,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Adapter des cartes pour différents utilisateurs et besoins",
+              "code_ogr": 500088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les relevés terrain et collecter des données alphanumériques et graphiques",
+              "code_ogr": 109916,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Identifier les opérations à réaliser à partir des diagnostics et des données fournies par un drone",
+              "code_ogr": 400207,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Réaliser un diagnostic environnemental",
+              "code_ogr": 300301,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Collaborer avec des équipes interdisciplinaires pour des études complexes",
+              "code_ogr": 504140,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Collecter et analyser des données, des informations",
+              "code_ogr": 300452,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Numériser des données de terrain pour un système d'information géographique",
+              "code_ogr": 114288,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Restituer et mettre en forme les données géographiques pour l'édition cartographique",
+              "code_ogr": 109920,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser la collecte de données environnementales",
+              "code_ogr": 516974,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "GPS et cartes topographiques",
+              "code_ogr": 103126,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Master mention géographie, aménagement, environnement et développement",
+              "code_ogr": 490971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école nationale des sciences géographiques (Université Gustave Eiffel)",
+              "code_ogr": 522633,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Planification urbaine et régionale par cartographie",
+              "code_ogr": 496713,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation de données satellitaires",
+              "code_ogr": 477887,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Intégration de données environnementales dans les cartes",
+              "code_ogr": 495670,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse statistique des données environnementales",
+              "code_ogr": 481860,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Démographie",
+              "code_ogr": 107999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système d'Information Géographique (SIG)",
+              "code_ogr": 119432,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiques de développement durable",
+              "code_ogr": 496720,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Géographie des fleuves, canaux et ouvrages sur voies d'eau",
+              "code_ogr": 110399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géographie urbaine",
+              "code_ogr": 494617,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Enseignement de la géographie",
+              "code_ogr": 520320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géographie",
+              "code_ogr": 520321,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Etude d'impact environnemental",
+              "code_ogr": 123488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographie des risques",
+              "code_ogr": 121639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cartographie et SIG",
+              "code_ogr": 103059,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Données géoréférencées",
+              "code_ogr": 300709,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        },
+        {
+          "libelle": "Etudiants",
+          "code_ogr": 300829
+        },
+        {
+          "libelle": "Travail avec des organisations ou partenaires internationaux",
+          "code_ogr": 511477
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone internationale",
+          "code_ogr": 300816
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Laboratoire de recherche et développement",
+          "code_ogr": 511069
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "112",
+      "libelle": "Enseignement et formation",
+      "principal": false
+    },
+    {
+      "code": "105",
+      "libelle": "Recherche",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "M1808 - Cartographe",
+      "code_org_rome_cible": 497,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1891 - Ingénieur / Ingénieure prévisionniste météorologue",
+      "code_org_rome_cible": 510447,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "M1809 - Météorologue",
+      "code_org_rome_cible": 498,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "M1895 - Géomaticien / Géomaticienne",
+      "code_org_rome_cible": 515456,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1404 - Chargé / Chargée de mission développement territorial",
+      "code_org_rome_cible": 382,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K2413 - Chercheur / Chercheuse des écosystèmes",
+      "code_org_rome_cible": 519211,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2402 - Ingénieur / Ingénieure de recherche scientifique",
+      "code_org_rome_cible": 427,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2407 - Climatologue",
+      "code_org_rome_cible": 488592,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1313 - Chargé / Chargée de mission environnement",
+      "code_org_rome_cible": 510436,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1413 - Chargé / Chargée de mission RSE - Responsabilité Sociétale de l'Entreprise",
+      "code_org_rome_cible": 488936,
+      "ordre_mobilite": 10
+    }
+  ]
+}

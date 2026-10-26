@@ -1,0 +1,119 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509898,
+    "code_rome": "M1223",
+    "libelle": "Chef / Cheffe des services administratifs et financiers",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1205"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 118.542,
+      "matched_terms": [
+        "administrat",
+        "comptab",
+        "financ",
+        "gestion",
+        "ressources humaines"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1205",
+      "title_terms": [
+        "administrat",
+        "financ"
+      ],
+      "specific_title_terms": [
+        "financ"
+      ],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.GPRH.12",
+          "title": "Ressources humaines : Pratique de la paie",
+          "page": 351,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=351",
+          "selection_score": 70.4026,
+          "shared_terms": [
+            "humaine",
+            "paie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.13",
+          "title": "Finance : Diagnostic financier approfondi et prévision du BFRE",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=122",
+          "selection_score": 61.5713,
+          "shared_terms": [
+            "finance",
+            "financier",
+            "prevision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.10",
+          "title": "Contrôle de gestion : Gestion budgétaire",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=140",
+          "selection_score": 57.6174,
+          "shared_terms": [
+            "budgetaire",
+            "controle"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GPRH.02",
+          "title": "Optimiser les processus administratifs RH dans une organisation",
+          "page": 382,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=382",
+          "selection_score": 78.3614,
+          "shared_terms": [
+            "administratif",
+            "optimiser"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CG2P.02",
+          "title": "Construire, en vue de leur mise en œuvre, les outils de suivi de la performance",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=203",
+          "selection_score": 54.0426,
+          "shared_terms": [
+            "mise",
+            "performance",
+            "suivi",
+            "uvre"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

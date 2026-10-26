@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518310,
+    "code_rome": "C1124",
+    "libelle": "Technicien / Technicienne sécurité sociale",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "C1106"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.974,
+      "matched_terms": [
+        "droit"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.EA.01",
+          "title": "Obligations juridiques et comptables",
+          "page": 203,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=203",
+          "selection_score": 58.9346,
+          "shared_terms": [
+            "juridique",
+            "obligation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.EA.03",
+          "title": "Droit des obligations approfondi",
+          "page": 189,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=189",
+          "selection_score": 51.5523,
+          "shared_terms": [
+            "droit",
+            "obligation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.PF.01",
+          "title": "Responsabilité et déontologie",
+          "page": 264,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=264",
+          "selection_score": 45.808,
+          "shared_terms": [
+            "deontologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Mise en conformité d’une organisation dans son environnement juridique, économique et social",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=68",
+          "selection_score": 55.1069,
+          "shared_terms": [
+            "conformite",
+            "juridique",
+            "mise"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EA.01",
+          "title": "Audit et conseils liés aux pratiques et procédures d’une organisation ou d’un service",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=199",
+          "selection_score": 54.223,
+          "shared_terms": [
+            "audit",
+            "procedure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

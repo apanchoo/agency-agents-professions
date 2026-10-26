@@ -1,0 +1,274 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 519122,
+    "code_rome": "H1242",
+    "libelle": "Responsable de développement industriel en bioproduction",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1206"
+  },
+  "but": [
+    {
+      "programme_id": "gcgp",
+      "title": "Génie chimique - Génie des procédés",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 95.94,
+      "matched_terms": [
+        "bioproduction",
+        "procede",
+        "process"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [
+        "bioproduction"
+      ],
+      "specific_title_terms": [
+        "bioproduction"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf",
+      "programme_sha256": "5fd1a8aadd175347615e1c2e7d806412d7f9b697c68f54b737c2b87af5a39598",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Sécurité des procédés et bioprocédés",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=131",
+          "selection_score": 77.0088,
+          "shared_terms": [
+            "bioprocede",
+            "procede",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CPIT.09",
+          "title": "Procédés Innovants",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=152",
+          "selection_score": 58.7523,
+          "shared_terms": [
+            "innovant",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CPIT.03",
+          "title": "Industrialisation des procédés",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=164",
+          "selection_score": 56.0824,
+          "shared_terms": [
+            "industrialisation",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CPIT.02",
+          "title": "Extrapolation d’un procédé du laboratoire à l’échelle pilote (Partie 2)",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=122",
+          "selection_score": 35.6247,
+          "shared_terms": [
+            "pilote",
+            "procede"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CPIT.02",
+          "title": "Extrapolation d’un procédé du laboratoire à l’échelle pilote (Partie 1)",
+          "page": 99,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-chimique-g-nie-des-proc-d-s-30828.pdf#page=99",
+          "selection_score": 35.1455,
+          "shared_terms": [
+            "pilote",
+            "procede"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gmp",
+      "title": "Génie mécanique et productique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 92.027,
+      "matched_terms": [
+        "industrialisation",
+        "producti"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [
+        "producti"
+      ],
+      "specific_title_terms": [
+        "producti"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf",
+      "programme_sha256": "42e7b8716323023bdd1f7cbd680f7d8448c2c6fce3172ac82370b422fa6a44c6",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Organisation et Pilotage Industriel",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=119",
+          "selection_score": 45.9893,
+          "shared_terms": [
+            "industriel",
+            "pilotage"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.CAI.13",
+          "title": "Réglementation industrielle",
+          "page": 461,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=461",
+          "selection_score": 29.59,
+          "shared_terms": [
+            "industrielle"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Production - Méthodes",
+          "page": 139,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=139",
+          "selection_score": 25.9869,
+          "shared_terms": [
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MPI.02",
+          "title": "Optimisation d’un processus industriel",
+          "page": 224,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=224",
+          "selection_score": 47.7986,
+          "shared_terms": [
+            "industriel",
+            "optimisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Spécification des processus d’élaboration d’une pièce",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-m-canique-et-productique-30840.pdf#page=86",
+          "selection_score": 43.0149,
+          "shared_terms": [
+            "specification"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.09,
+      "matched_terms": [
+        "biotech"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1206",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        18,
+        21
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.BMB.13",
+          "title": "Procédés de bioproduction",
+          "page": 313,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=313",
+          "selection_score": 65.6508,
+          "shared_terms": [
+            "bioproduction",
+            "procede"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.BMB.14",
+          "title": "Bioproduction",
+          "page": 295,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=295",
+          "selection_score": 62.4296,
+          "shared_terms": [
+            "bioproduction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SAB.09",
+          "title": "Biotechnologie",
+          "page": 548,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=548",
+          "selection_score": 58.2908,
+          "shared_terms": [
+            "biotechnologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.SAB.01",
+          "title": "Innover, produire et contrôler en science des aliments et biotechnologie",
+          "page": 554,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=554",
+          "selection_score": 47.4782,
+          "shared_terms": [
+            "biotechnologie",
+            "produire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SAB.02",
+          "title": "Produire des aliments ou bioproduits en contrôlant la qualité et en respectant les procédures d’hygiène et de sécurité",
+          "page": 535,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=535",
+          "selection_score": 42.4532,
+          "shared_terms": [
+            "hygiene",
+            "produire",
+            "securite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

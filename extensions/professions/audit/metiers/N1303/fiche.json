@@ -1,0 +1,720 @@
+{
+  "numero": 533,
+  "rome": {
+    "code_rome": "N1303",
+    "intitule": "Approvisionneur / Approvisionneuse logistique",
+    "code_ogr": 509
+  },
+  "appellations": [
+    {
+      "libelle": "Agent d'approvisionnement logistique / Agente d'approvisionnement logistique",
+      "libelle_court": "Agent(e) d'approvisionnement logistique",
+      "code_ogr": 517965
+    },
+    {
+      "libelle": "Agent de maîtrise approvisionnements matériel (AMAM) / Agente de maîtrise approvisionnements matériel (AMAM)",
+      "libelle_court": "Agent(e) de maîtrise approvisionnements matériel",
+      "code_ogr": 517966
+    },
+    {
+      "libelle": "Responsable gestionnaire des stocks",
+      "libelle_court": "Responsable gestionnaire des stocks",
+      "code_ogr": 19097
+    },
+    {
+      "libelle": "Supply planner",
+      "libelle_court": "Supply planner",
+      "code_ogr": 518088
+    },
+    {
+      "libelle": "Technicien / Technicienne logistique approvisionnements",
+      "libelle_court": "Technicien / Technicienne logistique approvisionnements",
+      "code_ogr": 20182
+    }
+  ],
+  "definition": "L'approvisionneur logistique, un rôle clé pour optimiser la chaîne d'approvisionnement et garantir la disponibilité des produits. Gère et optimise les stocks de produits pour répondre aux besoins de production ou de distribution Planifie et coordonne les activités d'approvisionnement pour assurer une livraison en temps et en heure Négocie avec les fournisseurs pour obtenir les meilleures conditions d'achat et de livraison Surveille et analyse les performances des fournisseurs pour garantir la qualité et la conformité des produits Utilise des systèmes d'information pour suivre les flux de produits et anticiper les besoins futurs Peut superviser une équipe et former les nouveaux employés aux procédures d'approvisionnement",
+  "acces_metier": "Cet emploi est accessible avec un Bac + 5 en gestion de la chaîne d'approvisionnement (Master ou école d'ingénieur). Des certifications spécifiques en gestion des stocks et des approvisionnements peuvent être pertinentes.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Accompagner des équipes au niveau technique et méthodologique",
+              "code_ogr": 400121,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier au sein de l'entreprise les différents services à associer en fonction des actions à conduire",
+              "code_ogr": 400122,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mobiliser individuellement et collectivement autour des objectifs",
+              "code_ogr": 400570,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le travail d'une équipe",
+              "code_ogr": 300436,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer des processus et des modes opératoires techniques",
+              "code_ogr": 300146,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter des objectifs d'exploitation des activités logistiques",
+              "code_ogr": 400378,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Suivre la gestion des zones de stockage",
+              "code_ogr": 117521,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Identifier les besoins d'intervention en fonction des anomalies ou incidents et mettre en place les procédures d'alerte",
+              "code_ogr": 110237,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et superviser des activités logistiques et des flux de produits",
+              "code_ogr": 400549,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer des solutions pour améliorer la sécurité au travail",
+              "code_ogr": 400610,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser des opérations, des actions",
+              "code_ogr": 300486,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Analyser les besoins en approvisionnement",
+              "code_ogr": 517787,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contribuer au sourcing de nouveaux fournisseurs en exprimant un avis sur les performances en matière d'approvisionnement",
+              "code_ogr": 522305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les procédures d'achat avec une solution digitale de E-procurement",
+              "code_ogr": 522312,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins en équipements et en matériels",
+              "code_ogr": 400609,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations de chargement ou déchargement de navires et effectuer le rangement et la sécurisation de la cargaison",
+              "code_ogr": 522313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+              "code_ogr": 300263,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sourcer et sélectionner les prestataires éventuels (en particulier transporteurs et transitaires)",
+              "code_ogr": 522310,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser ou renseigner les outils dédiés à la traçabilité de l'activité des équipes logistiques",
+              "code_ogr": 400608,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Contrôler la mise en oeuvre des modes opératoires et règles de fonctionnement en vigueur dans l'entreprise",
+              "code_ogr": 400531,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler une opération d'entreposage",
+              "code_ogr": 124038,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le traitement des commandes",
+              "code_ogr": 300280,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser les activités logistiques en tenant compte des ressources mobilisables, du budget et des règlementations",
+              "code_ogr": 400532,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser une opération logistique de transport",
+              "code_ogr": 300278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Suivre le budget de fonctionnement du périmètre confié",
+              "code_ogr": 400119,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les retours de marchandises",
+              "code_ogr": 500173,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mobiliser les équipes logistiques au respect des règles qualité, hygiène, santé, sécurité et environnement",
+              "code_ogr": 400727,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier des contrats avec des fournisseurs et des distributeurs",
+              "code_ogr": 507798,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser et contrôler la mise en oeuvre des procédures et consignes en matière de sécurité au travail",
+              "code_ogr": 400866,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Appliquer les règles et protocoles visant à limiter les effets de l'activité sur l'environnement",
+              "code_ogr": 400098,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la sécurité des personnes et des biens",
+              "code_ogr": 485355,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Formuler des propositions d'amélioration au niveau de l'organisation du travail, des équipements, des matériels, du stock, ..",
+              "code_ogr": 400533,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Garantir la disponibilité des produits, en tenant compte de contraintes de coût, de qualité, de quantité et de délais",
+              "code_ogr": 400728,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des indicateurs de performance (KPI)",
+              "code_ogr": 501203,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des indicateurs clés et de tableaux de bord pour mesurer la performance des actions menées : taux de rotation des stocks, délais de livraison, taux de disponibilité, etc",
+              "code_ogr": 522311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des indicateurs de performance pour le suivi qualité",
+              "code_ogr": 500618,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimiser les flux de produits",
+              "code_ogr": 485566,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Faciliter la communication interne pour l'efficacité logistique",
+              "code_ogr": 517788,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Formaliser des informations utiles au bon fonctionnement et à la traçabilité de son activité",
+              "code_ogr": 400662,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer le référentiel qualité de l'entreprise",
+              "code_ogr": 400137,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer les affichages réglementaires",
+              "code_ogr": 400664,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collecter les éléments d'activité du personnel",
+              "code_ogr": 113363,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler le respect des règles d'utilisation des équipements et des matériels et organiser leur maintenance",
+              "code_ogr": 400625,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les urgences en logistique",
+              "code_ogr": 482378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité dans l'entrepôt",
+              "code_ogr": 484656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier le respect des règles, normes et procédures opérationnelles",
+              "code_ogr": 400138,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion de la relation fournisseur",
+              "code_ogr": 494809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des ressources",
+              "code_ogr": 480221,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Approvisionnement en ligne / E achat",
+              "code_ogr": 124447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais technique",
+              "code_ogr": 110150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réduction des coûts",
+              "code_ogr": 476957,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitement des commandes",
+              "code_ogr": 122632,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des stocks",
+              "code_ogr": 495456,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de production (ERP)",
+              "code_ogr": 113376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Echange de Données Informatisées (EDI)",
+              "code_ogr": 119419,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logistique internationale",
+              "code_ogr": 125809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation de la chaîne d'approvisionnement",
+              "code_ogr": 496323,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du transport de marchandises",
+              "code_ogr": 104084,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sur le stockage de produits spécifiques (dangereux, sous température dirigée, phytosanitaire, ...)",
+              "code_ogr": 106465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation douanière",
+              "code_ogr": 512656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôle qualité des produits",
+              "code_ogr": 477673,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation d'un site d'entreposage (plan de circulation, ...)",
+              "code_ogr": 109996,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation de la chaîne logistique",
+              "code_ogr": 102224,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivi des garanties des fournisseurs",
+              "code_ogr": 478356,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des flux de matières",
+              "code_ogr": 516444,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des données de consommation",
+              "code_ogr": 516445,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Méthodes de réapprovisionnement",
+              "code_ogr": 516447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévisions de la demande",
+              "code_ogr": 516446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de planification",
+              "code_ogr": 104150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'inventaire",
+              "code_ogr": 477505,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "En flux tendu",
+          "code_ogr": 300834
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        },
+        {
+          "libelle": "Etablissement de distribution en gros",
+          "code_ogr": 513696
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "88",
+      "libelle": "Commerce et distribution",
+      "principal": true
+    },
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1302 - Responsable entrepôt logistique",
+      "code_org_rome_cible": 508,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1308 - Responsable expédition - distribution",
+      "code_org_rome_cible": 515413,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1306 - Coordonnateur / Coordonnatrice de projet logistique humanitaire",
+      "code_org_rome_cible": 521040,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1201 - Affréteur / Affréteuse",
+      "code_org_rome_cible": 505,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4201 - Responsable d'agence transport routier de marchandises",
+      "code_org_rome_cible": 528,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1203 - Déclarant / Déclarante en douane",
+      "code_org_rome_cible": 488586,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1204 - Coordinateur / Coordinatrice transit en import - export",
+      "code_org_rome_cible": 488601,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1210 - Logisticien / Logisticienne",
+      "code_org_rome_cible": 515420,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1101 - Acheteur / Acheteuse",
+      "code_org_rome_cible": 456,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488595,
+    "code_rome": "N4109",
+    "libelle": "Conducteur / Conductrice d'autocar ligne régulière",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "N4103"
+  },
+  "but": [
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.221,
+      "matched_terms": [
+        "exploitation",
+        "transport"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N4103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.01",
+          "title": "Transports urbains et interurbains de personnes : exploitation",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=87",
+          "selection_score": 37.5894,
+          "shared_terms": [
+            "exploitation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.03",
+          "title": "Transport routier de marchandises : exploitation",
+          "page": 64,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=64",
+          "selection_score": 36.4329,
+          "shared_terms": [
+            "exploitation",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.12",
+          "title": "Utilisation d’un tableur",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=73",
+          "selection_score": 35.3278,
+          "shared_terms": [
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Étude des activités et acteurs du transport de voyageurs",
+          "page": 57,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=57",
+          "selection_score": 58.6357,
+          "shared_terms": [
+            "transport",
+            "voyageur"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.MSCC.01",
+          "title": "Création de services pour les voyageurs dans un environnement connecté",
+          "page": 82,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=82",
+          "selection_score": 37.5589,
+          "shared_terms": [
+            "voyageur"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

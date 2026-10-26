@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488589,
+    "code_rome": "F1116",
+    "libelle": "Ingénieur / Ingénieure démantèlement et assainissement",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1106"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.792,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.10",
+          "title": "Déconstruction",
+          "page": 159,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=159",
+          "selection_score": 74.5987,
+          "shared_terms": [
+            "deconstruction"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.13",
+          "title": "Evaluation environnementale des matériaux et des équipements",
+          "page": 111,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=111",
+          "selection_score": 63.8968,
+          "shared_terms": [
+            "environnementale",
+            "equipement",
+            "materiaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.11",
+          "title": "Matériaux granulaires, sols et réemplois",
+          "page": 109,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=109",
+          "selection_score": 42.9526,
+          "shared_terms": [
+            "materiaux",
+            "sols"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.TP.03",
+          "title": "Modélisation et dimensionnement de structures simples",
+          "page": 194,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=194",
+          "selection_score": 38.0061,
+          "shared_terms": [
+            "modelisation",
+            "structure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.BAT.05",
+          "title": "Réalisation d’une étude méthodes en phase préparation de chantier",
+          "page": 120,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=120",
+          "selection_score": 30.268,
+          "shared_terms": [
+            "phase"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

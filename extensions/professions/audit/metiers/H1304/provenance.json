@@ -1,0 +1,128 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488285,
+    "code_rome": "H1304",
+    "libelle": "Responsable Hygiène Sécurité Environnement (HSE) en industrie",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1302"
+  },
+  "but": [
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 269.053,
+      "matched_terms": [
+        "environnement",
+        "hse",
+        "hygiene",
+        "risque",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1302",
+      "title_terms": [
+        "environnement",
+        "hse",
+        "hygiene",
+        "securite"
+      ],
+      "specific_title_terms": [
+        "hse",
+        "hygiene",
+        "securite"
+      ],
+      "parent_rome_pages": [
+        7
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.01",
+          "title": "Risque technologique lié aux procédés industriels et droit des ICPE",
+          "page": 98,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=98",
+          "selection_score": 84.0721,
+          "shared_terms": [
+            "icpe",
+            "industriel",
+            "procede",
+            "risque",
+            "technologique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Toxicologie industrielle et environnementale",
+          "page": 62,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=62",
+          "selection_score": 82.9368,
+          "shared_terms": [
+            "environnementale",
+            "industrielle",
+            "toxicologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.05",
+          "title": "Sécurité des installations face au risque d’incendie",
+          "page": 80,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=80",
+          "selection_score": 72.7885,
+          "shared_terms": [
+            "incendie",
+            "installation",
+            "risque",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.02",
+          "title": "Proposer un plan de gestion des déchets, rejets et/ou ressources",
+          "page": 73,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=73",
+          "selection_score": 77.2843,
+          "shared_terms": [
+            "dechet",
+            "plan",
+            "proposer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.SDMRPTE.01",
+          "title": "Conduire une démarche intégrée d’analyse et de maîtrise des risques PTE dans une ICPE",
+          "page": 110,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=110",
+          "selection_score": 65.6429,
+          "shared_terms": [
+            "conduire",
+            "icpe",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

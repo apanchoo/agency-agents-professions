@@ -1,0 +1,565 @@
+{
+  "numero": 319,
+  "rome": {
+    "code_rome": "J1303",
+    "intitule": "Assistant / Assistante médico-technique",
+    "code_ogr": 340
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente des Cabinets en Imagerie Médicale (ACIM)",
+      "libelle_court": "Agent / Agente des Cabinets en Imagerie Médicale - ACIM -",
+      "code_ogr": 10694
+    },
+    {
+      "libelle": "Assistant / Assistante audioprothésiste",
+      "libelle_court": "Assistant / Assistante audioprothésiste",
+      "code_ogr": 11193
+    },
+    {
+      "libelle": "Assistant / Assistante en cabinet médical",
+      "libelle_court": "Assistant / Assistante en cabinet médical",
+      "code_ogr": 11281
+    },
+    {
+      "libelle": "Assistant / Assistante médico-technique en audioprothèse",
+      "libelle_court": "Assistant / Assistante médico-technique en audioprothèse",
+      "code_ogr": 11359
+    },
+    {
+      "libelle": "Assistant médical / Assistante médicale",
+      "libelle_court": "Assistant médical / Assistante médicale",
+      "code_ogr": 200145
+    },
+    {
+      "libelle": "Assistant technique installateur / Assistante technique installatrice de matériel médical",
+      "libelle_court": "Assistant(e) technique installateur(trice) matériel médical",
+      "code_ogr": 38451
+    },
+    {
+      "libelle": "Intervenant / Intervenante médico-technique à domicile",
+      "libelle_court": "Intervenant / Intervenante médico-technique à domicile",
+      "code_ogr": 518096
+    },
+    {
+      "libelle": "Technicien / Technicienne d'intervention sur matériels d'assistance respiratoire",
+      "libelle_court": "Technicien(ne) intervention matériel assistance respiratoire",
+      "code_ogr": 38858
+    }
+  ],
+  "definition": "L'assistant médico-technique est un professionnel de santé qui travaille en étroite collaboration avec les médecins, les infirmiers et les autres membres de l'équipe médicale. Accueille et oriente les patients dans un cabinet médical ou un établissement de santé Gère les rendez-vous, les appels téléphoniques et les dossiers médicaux des patients Assiste les médecins lors des consultations et des examens médicaux Prépare et organise les salles de consultation et veille à leur propreté Effectue des tâches administratives telles que la facturation et le classement des documents Peut assister à des procédures médico-techniques spécifiques et gérer le matériel médical",
+  "acces_metier": "Cet emploi est accessible avec une formation spécifique liée à ce domaine. En France, le diplôme le plus courant pour cette profession est le Diplôme d'État d'Aide-Soignant (DEAS) ou le Diplôme d'État d'Infirmier (DEI). Ces diplômes permettent d'acquérir les compétences nécessaires pour assister les professionnels de santé dans des tâches techniques et administratives.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller, accompagner une personne",
+              "code_ogr": 300014,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Assister le personnel médical pendant les consultations",
+              "code_ogr": 507084,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Coordonner les activités du cabinet médical",
+              "code_ogr": 507083,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les urgences mineures en attendant le personnel médical",
+              "code_ogr": 507085,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer le patient pour la consultation ou l'examen",
+              "code_ogr": 511876,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer les accessoires de radiologie et procéder au développement des clichés",
+              "code_ogr": 113949,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un dépistage (visuel, auditif)",
+              "code_ogr": 107726,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réceptionner les éléments médico-techniques et en informer le praticien, le patient en vue de l'intervention",
+              "code_ogr": 107357,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Effectuer des réglages sur un appareil d'assistance respiratoire",
+              "code_ogr": 507171,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Installer à domicile du matériel médical (lit médicalisé, appareil d'assistance respiratoire, ...) et en expliquer le fonctionnement",
+              "code_ogr": 115015,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer le matériel, les produits selon les indications du praticien et la nature de l'intervention",
+              "code_ogr": 115009,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer, installer un dispositif médico-technique",
+              "code_ogr": 300143,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Préparer les salles de soins et le matériel nécessaire aux interventions",
+              "code_ogr": 511956,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des éléments d'une commande",
+              "code_ogr": 116934,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser les rendez-vous et l'agenda d'un professionnel de santé",
+              "code_ogr": 507081,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner des documents médico-administratifs",
+              "code_ogr": 124221,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer des réclamations et litiges",
+              "code_ogr": 300345,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter et renseigner un patient",
+              "code_ogr": 123905,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer une personne, un client",
+              "code_ogr": 101925,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Recueillir les données d'un dispositif médico-technique",
+              "code_ogr": 300663,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Prise de mesures corporelles",
+              "code_ogr": 496966,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'aide-soignant",
+              "code_ogr": 404157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat d'ambulancier",
+              "code_ogr": 512440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BP préparateur en pharmacie",
+              "code_ogr": 491092,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel secrétaire assistant médico-social",
+              "code_ogr": 405308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP assistant médical",
+              "code_ogr": 514235,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme d'Etat de technicien de laboratoire médical",
+              "code_ogr": 491319,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Equipements médicaux courants",
+              "code_ogr": 492869,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Orthodontie",
+              "code_ogr": 107261,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies courantes",
+              "code_ogr": 476858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'assemblage d'éléments de prothèses auditives",
+              "code_ogr": 107366,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Terminologie médicale",
+              "code_ogr": 107361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies auditives",
+              "code_ogr": 107364,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Hygiène bucco-dentaire",
+              "code_ogr": 115012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soins dentaires",
+              "code_ogr": 107363,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des dossiers médicaux",
+              "code_ogr": 476923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bonnes pratiques de dispensation de l'oxygène (BPDO)",
+              "code_ogr": 140908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dosimétrie",
+              "code_ogr": 116491,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de retraitement des déchets",
+              "code_ogr": 101987,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des infections",
+              "code_ogr": 107255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de nettoyage écologique",
+              "code_ogr": 107349,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Grille de codification Sécurité Sociale",
+              "code_ogr": 107204,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Formation aux équipements d'assistance respiratoire",
+              "code_ogr": 494402,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de nettoyage des équipements médicaux",
+              "code_ogr": 496996,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En bloc opératoire",
+          "code_ogr": 400007
+        },
+        {
+          "libelle": "En laboratoire",
+          "code_ogr": 23380
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Cabinet libéral",
+          "code_ogr": 300809
+        },
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        },
+        {
+          "libelle": "Etablissement social ou médico-social (EHPAD, résidence senior, ...)",
+          "code_ogr": 400010
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1621 - Assistant administratif / Assistante administrative multilingue",
+      "code_org_rome_cible": 510208,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1220 - Médiateur / Médiatrice en santé",
+      "code_org_rome_cible": 509756,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1412 - Délégué médical hospitalier / Déléguée médicale hospitalière",
+      "code_org_rome_cible": 488290,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1609 - Secrétaire médical / Secrétaire médicale",
+      "code_org_rome_cible": 482,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1405 - Conseiller / Conseillère en information médicale",
+      "code_org_rome_cible": 106,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "J1302 - Technicien / Technicienne de laboratoire d'analyses médicales",
+      "code_org_rome_cible": 339,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1436 - Assistant / Assistante de régulation médicale (ARM)",
+      "code_org_rome_cible": 510165,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1428 - Superviseur / Superviseuse technique et logistique en assistance de régulation médicale",
+      "code_org_rome_cible": 509695,
+      "ordre_mobilite": 9
+    }
+  ]
+}

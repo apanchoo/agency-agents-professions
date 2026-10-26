@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509768,
+    "code_rome": "A1441",
+    "libelle": "Pépiniériste",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1414"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.59,
+      "matched_terms": [
+        "agricol"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1414",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 101.4504,
+          "shared_terms": [
+            "phytosanitaire",
+            "produit",
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.BMB.13",
+          "title": "Biologie cellulaire complémentaire",
+          "page": 241,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=241",
+          "selection_score": 65.8734,
+          "shared_terms": [
+            "biologie",
+            "complementaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Biologie et Physiologie",
+          "page": 110,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=110",
+          "selection_score": 60.7389,
+          "shared_terms": [
+            "biologie",
+            "physiologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BMB.03",
+          "title": "Diagnostic et suivi biologique d’une pathologie",
+          "page": 276,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=276",
+          "selection_score": 51.6326,
+          "shared_terms": [
+            "biologique",
+            "pathologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DN.02",
+          "title": "Conduite d’entretien, prise en charge et suivi diététique d’un patient et proposition d’un atelier d’ETP adapté à la pathologie.",
+          "page": 430,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=430",
+          "selection_score": 47.663,
+          "shared_terms": [
+            "adapte",
+            "entretien",
+            "pathologie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

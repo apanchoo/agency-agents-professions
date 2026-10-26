@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 339,
+    "code_rome": "J1302",
+    "libelle": "Technicien / Technicienne de laboratoire d'analyses médicales",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": "O",
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "J1302"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 40.617,
+      "matched_terms": [
+        "biologi",
+        "laboratoire d'analyses medicales garant de la fiabilite des resultats, le technicien de laboratoire d'analyses medicales est au cœur du diagnostic et du suivi des patients. realise et traite des prelevements biologiques en vue d'analyses biomedicales selon la prescription medical"
+      ],
+      "direct_rome_pages": [
+        18
+      ],
+      "parent_rome": "J1302",
+      "title_terms": [
+        "laboratoire d'analyses medical"
+      ],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.BMB.11",
+          "title": "Parasitologie",
+          "page": 311,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=311",
+          "selection_score": 132.6604,
+          "shared_terms": [
+            "parasitologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.BMB.09",
+          "title": "Virologie",
+          "page": 309,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=309",
+          "selection_score": 132.5164,
+          "shared_terms": [
+            "virologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.BMB.16",
+          "title": "Hématologie",
+          "page": 218,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=218",
+          "selection_score": 122.7514,
+          "shared_terms": [
+            "hematologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.BMB.04",
+          "title": "Mettre en oeuvre un examen de biologie médicale de première intention en hématologie et immunologie dans le cadre d’un contrôle et/ou d’une prévention",
+          "page": 200,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=200",
+          "selection_score": 145.2333,
+          "shared_terms": [
+            "hematologie",
+            "immunologie",
+            "medicale",
+            "prevention"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BMB.03",
+          "title": "Diagnostic et suivi biologique d’une pathologie",
+          "page": 276,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=276",
+          "selection_score": 114.9134,
+          "shared_terms": [
+            "biologique",
+            "diagnostic",
+            "suivi"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

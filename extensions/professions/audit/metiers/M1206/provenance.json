@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 463,
+    "code_rome": "M1206",
+    "libelle": "Responsable comptabilité",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1206"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 106.032,
+      "matched_terms": [
+        "comptab",
+        "financ",
+        "fiscal",
+        "gestion"
+      ],
+      "direct_rome_pages": [
+        13
+      ],
+      "parent_rome": "M1206",
+      "title_terms": [
+        "comptab"
+      ],
+      "specific_title_terms": [
+        "comptab"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 122.5948,
+          "shared_terms": [
+            "finance",
+            "tresorerie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.GC2F.13",
+          "title": "Finance : Diagnostic financier approfondi et prévision du BFRE",
+          "page": 122,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=122",
+          "selection_score": 112.152,
+          "shared_terms": [
+            "finance",
+            "financier",
+            "prevision"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.GC2F.11",
+          "title": "Finance : Politique de financement",
+          "page": 141,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=141",
+          "selection_score": 105.0953,
+          "shared_terms": [
+            "finance",
+            "financement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GC2F.02",
+          "title": "Analyser la fiabilité d’un projet de reprise d’entreprise",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=127",
+          "selection_score": 105.0193,
+          "shared_terms": [
+            "fiabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 87.5597,
+          "shared_terms": [
+            "etablir",
+            "financier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

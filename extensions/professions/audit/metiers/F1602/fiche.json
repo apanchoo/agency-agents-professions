@@ -1,0 +1,632 @@
+{
+  "numero": 199,
+  "rome": {
+    "code_rome": "F1602",
+    "intitule": "Electricien / Electricienne du bâtiment",
+    "code_ogr": 162
+  },
+  "appellations": [
+    {
+      "libelle": "Artisan électricien / Artisane électricienne du bâtiment",
+      "libelle_court": "Artisan électricien / Artisane électricienne du bâtiment",
+      "code_ogr": 509432
+    },
+    {
+      "libelle": "Câbleur / Câbleuse du bâtiment",
+      "libelle_court": "Câbleur / Câbleuse du bâtiment",
+      "code_ogr": 509429
+    },
+    {
+      "libelle": "Electricien / Electricienne bâtiment tertiaire",
+      "libelle_court": "Electricien / Electricienne bâtiment tertiaire",
+      "code_ogr": 14614
+    },
+    {
+      "libelle": "Electricien / Electricienne de chantier",
+      "libelle_court": "Electricien / Electricienne de chantier",
+      "code_ogr": 14617
+    },
+    {
+      "libelle": "Electricien / Electricienne d'entretien des bâtiments",
+      "libelle_court": "Electricien / Electricienne d'entretien des bâtiments",
+      "code_ogr": 509431
+    },
+    {
+      "libelle": "Electricien / Electricienne d'équipement",
+      "libelle_court": "Electricien / Electricienne d'équipement",
+      "code_ogr": 14631
+    },
+    {
+      "libelle": "Electricien / Electricienne d'équipement domestique",
+      "libelle_court": "Electricien / Electricienne d'équipement domestique",
+      "code_ogr": 14632
+    },
+    {
+      "libelle": "Electricien / Electricienne photovoltaïque",
+      "libelle_court": "Electricien / Electricienne photovoltaïque",
+      "code_ogr": 38135
+    },
+    {
+      "libelle": "Electricien / Electricienne tertiaire",
+      "libelle_court": "Electricien / Electricienne tertiaire",
+      "code_ogr": 14643
+    },
+    {
+      "libelle": "Enseigniste",
+      "libelle_court": "Enseigniste",
+      "code_ogr": 14855
+    },
+    {
+      "libelle": "Monteur électricien / Monteuse électricienne",
+      "libelle_court": "Monteur électricien / Monteuse électricienne",
+      "code_ogr": 16801
+    }
+  ],
+  "definition": "L'électricien du bâtiment est chargé de la conception, de la mise en œuvre, de la maintenance et de l'optimisation d'une installation d'électricité à basse tension d'un bâtiment. Réalise des travaux d'installation et de mise en service des équipements électriques dans des bâtiments à usage domestique, tertiaire ou industriel selon les règles de sécurité Câble et raccorde des installations très basse tension (TBT) (téléphonie, informatique, alarmes, ...) Effectue des travaux de dépannage et de maintenance Effectue les travaux pour l'installation des énergies renouvelables (EnR) Gère des coupures d'électricité et la coordination des interventions pour les rétablir Contrôle de la conformité des installations aux normes de sécurité et aux réglementations en vigueur Suit des indicateurs de performance énergétique de l'installation et propose des solutions d'amélioration",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac +2 en électricité. Un diplôme de niveau Bac professionnel à Bac+2 (BTS/DUT) peut être demandé selon le secteur (domotique, électrotechnique, automatisme, ...) et pour les postes d'encadrement d'équipe. Une formation à l'habilitation aux risques électriques (hors tension et sous-tension) est exigée. Des Certificat(s) d'Aptitude à la Conduite En Sécurité - CACES - conditionné par une aptitude médicale à renouveler périodiquement peuvent être requis.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller une organisation, une structure",
+              "code_ogr": 300016,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Concevoir une infrastructure de recharge pour véhicules électriques et hybrides",
+              "code_ogr": 512889,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour la documentation technique et les rapports d'intervention",
+              "code_ogr": 506061,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des logiciels spécifiques",
+              "code_ogr": 300428,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Concevoir des systèmes électriques conformes aux normes de sécurité",
+              "code_ogr": 506608,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Concevoir une infrastructure électrique pour des énergies renouvelables",
+              "code_ogr": 512890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Elaborer des processus et des modes opératoires techniques",
+              "code_ogr": 300146,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Installer des compteurs et effectuer des relevés de consommation",
+              "code_ogr": 300128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les saignées et les creusements divers",
+              "code_ogr": 103515,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Câbler un matériel",
+              "code_ogr": 117447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer un système électrique",
+              "code_ogr": 122872,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en place de petits appareillages Basse Tension (BT) tels que prises de courant, appareils d'éclairage, de commande, de coupure, de chauffage",
+              "code_ogr": 400248,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre le réseau en service et contrôler l'installation",
+              "code_ogr": 400303,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Raccorder des éléments basse tension",
+              "code_ogr": 121778,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Raccorder, gérer un réseau technique",
+              "code_ogr": 300220,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser et poser des chemins de câbles et des conduits électriques en apparent ou en encastré",
+              "code_ogr": 103495,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser la pose de la partie électrique des installations photovoltaïques",
+              "code_ogr": 114347,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une opération de câblage électrique",
+              "code_ogr": 105734,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Changer ou réparer une pièce ou un ensemble défectueux",
+              "code_ogr": 106679,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité des installations électriques",
+              "code_ogr": 499701,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diagnostiquer des pannes ou anomalies sur l'installation électrique et mettre en place les actions nécessaires pour y remédier",
+              "code_ogr": 499702,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en œuvre des plans de maintenance et de rénovation pour garantir la performance et la fiabilité de l'installation électrique",
+              "code_ogr": 513760,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un diagnostic technique",
+              "code_ogr": 300185,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Anticiper des dangers, problèmes ou besoins matériels et techniques",
+              "code_ogr": 300477,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité des installations électriques",
+              "code_ogr": 106811,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques liés aux installations électriques et proposer des mesures préventives",
+              "code_ogr": 507457,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter en permanence les règles de sécurité établies",
+              "code_ogr": 114888,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier le montage et le câblage (valeur des composants, continuité électrique, etc.)",
+              "code_ogr": 105775,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Modéliser des plans d'approvisionnement grâce à des logiciels spécialisés",
+              "code_ogr": 513152,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Procéder à un diagnostic de performance énergétique",
+              "code_ogr": 125512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier et orienter les déchets selon leur traitement ou leur valorisation futurs",
+              "code_ogr": 400528,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Conseiller des produits, outils ou services aux clients en fonction de leurs besoins",
+              "code_ogr": 404007,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec les clients sur les opérations réalisées",
+              "code_ogr": 507847,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Proposer des solutions pour améliorer l'efficacité énergétique",
+              "code_ogr": 485708,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'appareils de mesure optique (réflectomètre, wattmètre optique, photomètre, stylo optique ...)",
+              "code_ogr": 103556,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils de diagnostic",
+              "code_ogr": 476859,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de soudeuse à fibres optiques",
+              "code_ogr": 103557,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux isolants",
+              "code_ogr": 103402,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CAP électricien",
+              "code_ogr": 490943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien du bâtiment communicant et connecté",
+              "code_ogr": 514752,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel électricien d'équipement du bâtiment",
+              "code_ogr": 512487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro métiers de l'électricité et de ses environnements connectés",
+              "code_ogr": 490938,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS électrotechnique",
+              "code_ogr": 490942,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Courants forts et courants faibles",
+              "code_ogr": 512535,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Energie solaire photovoltaïque",
+              "code_ogr": 120655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité",
+              "code_ogr": 102717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation de données techniques électriques",
+              "code_ogr": 480107,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes de référence pour l'installation et la maintenance électrique",
+              "code_ogr": 512635,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité du travail sous tension",
+              "code_ogr": 103505,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Diagnostic de pannes",
+              "code_ogr": 480222,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de câblage électrique sécurisé",
+              "code_ogr": 480242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tirage de câble",
+              "code_ogr": 109258,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de systèmes photovoltaïques",
+              "code_ogr": 481817,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installation du tableau électrique, des équipements et des systèmes électriques",
+              "code_ogr": 512761,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sécurité électrique en milieu humide et immergé",
+              "code_ogr": 512765,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        },
+        {
+          "libelle": "Utilisation d'équipements de protection collective (EPC)",
+          "code_ogr": 489576
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1622 - Monteur / Monteuse en éclairage public",
+      "code_org_rome_cible": 488912,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1628 - Installateur / Installatrice de bornes de recharges électriques",
+      "code_org_rome_cible": 509685,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1605 - Monteur / Monteuse de réseaux électriques",
+      "code_org_rome_cible": 165,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1202 - Chef / Cheffe de chantier bâtiment",
+      "code_org_rome_cible": 151,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1206 - Chef / Cheffe d'équipe bâtiment",
+      "code_org_rome_cible": 489220,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H2606 - Monteur-bobinier / Monteuse-bobinière en électricité",
+      "code_org_rome_cible": 488763,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "I1209 - Technicien / Technicienne d'installation de panneau digital",
+      "code_org_rome_cible": 510452,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "I1314 - Monteur installateur / Monteuse installatrice d'équipements connectés",
+      "code_org_rome_cible": 488747,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "F1627 - Poseur / Poseuse de compteurs",
+      "code_org_rome_cible": 509523,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1213 - Vendeur / Vendeuse grossiste en équipement du foyer",
+      "code_org_rome_cible": 99,
+      "ordre_mobilite": 10
+    }
+  ]
+}

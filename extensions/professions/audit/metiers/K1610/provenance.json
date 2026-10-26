@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520081,
+    "code_rome": "K1610",
+    "libelle": "Régisseur d'œuvres d'art / Régisseuse d'œuvres d'art",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "K1602"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.995,
+      "matched_terms": [
+        "documentation"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1602",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.MLP.13",
+          "title": "Initiation à la socio-économie du livre et du patrimoine",
+          "page": 469,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=469",
+          "selection_score": 58.9532,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.MLP.11",
+          "title": "Socio-économie du livre et du patrimoine",
+          "page": 493,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=493",
+          "selection_score": 58.9532,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Veille",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=154",
+          "selection_score": 44.3819,
+          "shared_terms": [
+            "veille"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.MLP.03",
+          "title": "Suivre l’actualité du livre et du patrimoine",
+          "page": 453,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=453",
+          "selection_score": 69.5162,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.COMOR.03",
+          "title": "Réaliser un plan de communication",
+          "page": 105,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=105",
+          "selection_score": 35.7174,
+          "shared_terms": [
+            "plan"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

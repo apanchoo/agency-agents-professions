@@ -1,0 +1,101 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 518359,
+    "code_rome": "C1211",
+    "libelle": "Guichetier vendeur / Guichetière vendeuse",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "C1201"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.44,
+      "matched_terms": [
+        "financ",
+        "paie"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "C1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.09",
+          "title": "Management d’activités : Management des opérations approfondies 2",
+          "page": 234,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=234",
+          "selection_score": 23.6378,
+          "shared_terms": [
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.CG2P.10",
+          "title": "Management d’activités : Management des opérations approfondi",
+          "page": 217,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=217",
+          "selection_score": 22.7448,
+          "shared_terms": [
+            "operation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CG2P.13",
+          "title": "Management d’activités : Management des opérations et pilotage de la performance",
+          "page": 197,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=197",
+          "selection_score": 19.4658,
+          "shared_terms": [
+            "operation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.02",
+          "title": "Identifier l’impact des décisions de gestion sur la performance de l’organisation",
+          "page": 83,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=83",
+          "selection_score": 24.4426,
+          "shared_terms": [
+            "identifier"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.GC2F.02",
+          "title": "Établir le diagnostic financier d’une entreprise après avoir procédé à l’analyse des comptes annuels",
+          "page": 106,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=106",
+          "selection_score": 21.0175,
+          "shared_terms": [
+            "financier"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

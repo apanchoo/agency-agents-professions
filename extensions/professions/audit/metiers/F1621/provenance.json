@@ -1,0 +1,103 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488572,
+    "code_rome": "F1621",
+    "libelle": "Ramoneur / Ramoneuse",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1603"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.201,
+      "matched_terms": [
+        "chauff"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1603",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.04",
+          "title": "Prévention des risques et incendies",
+          "page": 554,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=554",
+          "selection_score": 59.2065,
+          "shared_terms": [
+            "incendie",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.EXPLOIT.09",
+          "title": "Comptage carbone",
+          "page": 147,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=147",
+          "selection_score": 40.6627,
+          "shared_terms": [
+            "carbone"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.02",
+          "title": "Chauffage – ECS – Ventilation",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=66",
+          "selection_score": 37.6049,
+          "shared_terms": [
+            "chauffage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Dimensionnement des installations élémentaires de chauffage, d’ECS et de ventilation d’un bâtiment",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=94",
+          "selection_score": 35.3307,
+          "shared_terms": [
+            "chauffage",
+            "installation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.03",
+          "title": "Préparation des documents techniques nécessaires à la rénovation d’une installation de génération et distribution de fluides",
+          "page": 96,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=96",
+          "selection_score": 31.3247,
+          "shared_terms": [
+            "document",
+            "installation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

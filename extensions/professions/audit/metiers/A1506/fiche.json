@@ -1,0 +1,563 @@
+{
+  "numero": 32676,
+  "rome": {
+    "code_rome": "A1506",
+    "intitule": "Soigneur animalier / Soigneuse animalière",
+    "code_ogr": 488759
+  },
+  "appellations": [
+    {
+      "libelle": "Agent animalier / Agente animalière",
+      "libelle_court": "Agent animalier / Agente animalière",
+      "code_ogr": 489990
+    },
+    {
+      "libelle": "Animalier / Animalière en parc zoologique",
+      "libelle_court": "Animalier / Animalière en parc zoologique",
+      "code_ogr": 10968
+    },
+    {
+      "libelle": "Gardien / Gardienne de zoo",
+      "libelle_court": "Gardien / Gardienne de zoo",
+      "code_ogr": 510480
+    },
+    {
+      "libelle": "Soigneur / Soigneuse de ménagerie",
+      "libelle_court": "Soigneur / Soigneuse de ménagerie",
+      "code_ogr": 19445
+    },
+    {
+      "libelle": "Soigneur / Soigneuse en parc zoologique",
+      "libelle_court": "Soigneur / Soigneuse en parc zoologique",
+      "code_ogr": 19448
+    },
+    {
+      "libelle": "Soigneur / Soigneuse en pension animale",
+      "libelle_court": "Soigneur / Soigneuse en pension animale",
+      "code_ogr": 19449
+    }
+  ],
+  "definition": "Le soigneur animalier partage le quotidien des animaux, s'occupe de leur alimentation et nettoie leur lieu de vie afin d'assurer leur bien-être. Prépare et distribue les repas adaptés à chaque espèce Nettoie et entretient les installations, les enclos, les cages ou les bassins Surveille le comportement des animaux et rapporte toute anomalie au vétérinaire Sensibilise le public à la protection des espèces et au bien-être animal",
+  "acces_metier": "Quelques écoles préparent à un diplôme spécifique de soigneur animalier. Cet emploi est également accessible avec une formation scientifique et des stages. Des certificats de qualification spécifiques à certaines espèces animales sont aussi proposés. Le Certificat de transport d'animaux vivants peut être un atout supplémentaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Assurer le maintien de l'environnement naturel des animaux",
+              "code_ogr": 484562,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la surveillance post-opératoire d'un animal",
+              "code_ogr": 113946,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en œuvre des actions d'éducation ou de dressage des animaux lors des activités quotidiennes",
+              "code_ogr": 489509,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nourrir les animaux en respectant les régimes spécifiques",
+              "code_ogr": 484559,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et distribuer les rations alimentaires aux animaux",
+              "code_ogr": 405511,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer l'animal pour des soins médicaux",
+              "code_ogr": 404017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter le bien-être animal",
+              "code_ogr": 404019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Identifier un animal malade et informer les acteurs concernés (propriétaire, vétérinaire, ...)",
+              "code_ogr": 123087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Observer le comportement animal pour détecter des anomalies",
+              "code_ogr": 484561,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Réaliser des rondes régulières pour vérifier la sécurité des enclos",
+              "code_ogr": 484564,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir l'espace de vie d'un animal",
+              "code_ogr": 120679,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de nourriture et autres fournitures",
+              "code_ogr": 485941,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Procéder au transport ou au transfert d'un animal",
+              "code_ogr": 489510,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Gérer les déchets et le recyclage de manière écologique",
+              "code_ogr": 125495,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répondre aux questions spécifiques des touristes",
+              "code_ogr": 484715,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Animer un atelier à thème",
+              "code_ogr": 121329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collaborer avec des équipes multidisciplinaires",
+              "code_ogr": 404783,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Connaitre et respecter les protocoles de sécurité en vigueur",
+              "code_ogr": 400613,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les informations sur l'animal (troubles, comportement, antécédents, traitements en cours, etc.) auprès de son accompagnant ou dans le dossier médical",
+              "code_ogr": 100457,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les consignes de sécurité lors des animations",
+              "code_ogr": 486995,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des outils de communication numérique",
+              "code_ogr": 405261,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Animaux sauvages",
+              "code_ogr": 100418,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animaux domestiques",
+              "code_ogr": 100416,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de contention animale",
+              "code_ogr": 119112,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat de docteur vétérinaire",
+              "code_ogr": 490722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'études techniques de l'animal de compagnie d'espèce domestique option chien",
+              "code_ogr": 490704,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Habilitation plongée",
+              "code_ogr": 124199,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de capacité pour l'entretien d'animaux d'espèces non domestiques",
+              "code_ogr": 490719,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'études techniques de l'animal de compagnie d'espèce domestique option chats et petits mammifères familiers",
+              "code_ogr": 490720,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'études techniques de l'animal de compagnie option chat",
+              "code_ogr": 490721,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Diététique animale",
+              "code_ogr": 100469,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Biologie animale",
+              "code_ogr": 100132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nutrition animale",
+              "code_ogr": 118972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comportements animaliers",
+              "code_ogr": 480553,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Zoologie",
+              "code_ogr": 101064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des postures animales",
+              "code_ogr": 101072,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ethologie",
+              "code_ogr": 123748,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ecologie",
+              "code_ogr": 120439,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes d'hygiène et de sécurité",
+              "code_ogr": 100144,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prévention des maladies zoonotiques",
+              "code_ogr": 479311,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets biologiques",
+              "code_ogr": 477427,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protocoles d'urgence en parc zoologique",
+              "code_ogr": 479316,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'entretien des équipements de plongée",
+              "code_ogr": 116776,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port d'équipement d'hygiène",
+          "code_ogr": 300802
+        },
+        {
+          "libelle": "Travail avec des animaux",
+          "code_ogr": 403963
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1408 - Eleveur / Eleveuse d'animaux sauvages",
+      "code_org_rome_cible": 22,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1216 - Moniteur / Monitrice de sport nature",
+      "code_org_rome_cible": 404970,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1101 - Agent / Agente d'accueil touristique",
+      "code_org_rome_cible": 180,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N4125 - Conducteur / Conductrice de transport routier d'animaux vivants",
+      "code_org_rome_cible": 488935,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1503 - Toiletteur / Toiletteuse d'animaux",
+      "code_org_rome_cible": 34,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "A1202 - Ouvrier / Ouvrière d'entretien des espaces naturels",
+      "code_org_rome_cible": 8,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1210 - Vendeur / Vendeuse en animalerie",
+      "code_org_rome_cible": 96,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1405 - Directeur / Directrice de structure sportive",
+      "code_org_rome_cible": 404965,
+      "ordre_mobilite": 10
+    }
+  ]
+}

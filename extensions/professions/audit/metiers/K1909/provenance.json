@@ -1,0 +1,111 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510190,
+    "code_rome": "K1909",
+    "libelle": "Greffier / Greffière",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1902"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.409,
+      "matched_terms": [
+        "greff",
+        "judiciaire",
+        "jurid",
+        "justice"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1902",
+      "title_terms": [
+        "greff"
+      ],
+      "specific_title_terms": [
+        "greff"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Organisation judiciaire",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=51",
+          "selection_score": 62.4376,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.AJ.01",
+          "title": "Contentieux judiciaire",
+          "page": 126,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=126",
+          "selection_score": 44.9652,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AJ.03",
+          "title": "Droit administratif 2",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=114",
+          "selection_score": 35.9419,
+          "shared_terms": [
+            "administratif"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AJ.01",
+          "title": "Gestion de dossiers de contentieux administratif et/ou judiciaire",
+          "page": 123,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=123",
+          "selection_score": 83.653,
+          "shared_terms": [
+            "administratif",
+            "dossier",
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.01",
+          "title": "Gestion de dossiers administratifs et juridiques",
+          "page": 89,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=89",
+          "selection_score": 80.8226,
+          "shared_terms": [
+            "administratif",
+            "dossier",
+            "juridique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

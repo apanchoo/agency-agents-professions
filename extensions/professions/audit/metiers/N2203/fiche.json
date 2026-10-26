@@ -1,0 +1,732 @@
+{
+  "numero": 543,
+  "rome": {
+    "code_rome": "N2203",
+    "intitule": "Agent / Agente d'opérations sur piste",
+    "code_ogr": 514
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de chargement fret aérien (handler)",
+      "libelle_court": "Agent / Agente de chargement fret aérien (handler)",
+      "code_ogr": 10398
+    },
+    {
+      "libelle": "Agent / Agente de handling",
+      "libelle_court": "Agent / Agente de handling",
+      "code_ogr": 10465
+    },
+    {
+      "libelle": "Agent / Agente de piste",
+      "libelle_court": "Agent / Agente de piste",
+      "code_ogr": 404495
+    },
+    {
+      "libelle": "Agent / Agente de piste aéroportuaire",
+      "libelle_court": "Agent / Agente de piste aéroportuaire",
+      "code_ogr": 10542
+    },
+    {
+      "libelle": "Agent / Agente de piste d'aéronautique ou de pont d'envol de l'armée",
+      "libelle_court": "Agent(e) piste d'aéronautique ou de pont d'envol de l'armée",
+      "code_ogr": 10543
+    },
+    {
+      "libelle": "Agent / Agente de service avion",
+      "libelle_court": "Agent / Agente de service avion",
+      "code_ogr": 10603
+    },
+    {
+      "libelle": "Agent / Agente d'opérations fret aérien",
+      "libelle_court": "Agent / Agente d'opérations fret aérien",
+      "code_ogr": 10728
+    },
+    {
+      "libelle": "Assistant / Assistante avion",
+      "libelle_court": "Assistant / Assistante avion",
+      "code_ogr": 11195
+    },
+    {
+      "libelle": "Assistant / Assistante de piste aéroportuaire",
+      "libelle_court": "Assistant / Assistante de piste aéroportuaire",
+      "code_ogr": 11242
+    },
+    {
+      "libelle": "Bagagiste aéroportuaire",
+      "libelle_court": "Bagagiste aéroportuaire",
+      "code_ogr": 11482
+    },
+    {
+      "libelle": "Chargeur / Chargeuse d'avion",
+      "libelle_court": "Chargeur / Chargeuse d'avion",
+      "code_ogr": 11946
+    },
+    {
+      "libelle": "Opérateur de piste aéroportuaire / Opératrice de piste aéroportuaire",
+      "libelle_court": "Opérateur(trice) de piste aéroportuaire",
+      "code_ogr": 517808
+    },
+    {
+      "libelle": "Pushiste avion",
+      "libelle_court": "Pushiste avion",
+      "code_ogr": 18256
+    },
+    {
+      "libelle": "Ramp handler",
+      "libelle_court": "Ramp handler",
+      "code_ogr": 18286
+    },
+    {
+      "libelle": "Tractiste",
+      "libelle_court": "Tractiste",
+      "code_ogr": 517809
+    },
+    {
+      "libelle": "Tractiste avion",
+      "libelle_court": "Tractiste avion",
+      "code_ogr": 20403
+    }
+  ],
+  "definition": "L'agent d'opérations sur piste joue un rôle crucial dans la logistique et la sécurité des opérations aéroportuaires. Assure le chargement et le déchargement des bagages et du fret aérien Veille à la bonne disposition des équipements au sol pour les opérations d'arrivée et de départ des avions Contrôle la conformité des procédures de sécurité sur la piste Se coordonne avec les équipes de maintenance pour les inspections pré-vol Gère la signalisation au sol pour guider les avions lors des manœuvres sur la piste Peut assister dans la gestion des situations d'urgence sur la piste",
+  "acces_metier": "Pour exercer le métier d'agent d'opérations sur piste, il est obligatoire de posséder un Certificat d'aptitude à la conduite en sécurité (CACES) pour engins de piste. Des formations complémentaires en sécurité aéroportuaire et en gestion des opérations aéroportuaires sont recommandées mais non obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les équipes au sol pour les opérations de nuit",
+              "code_ogr": 516514,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interpréter la signalisation et le balisage aéroportuaire",
+              "code_ogr": 400626,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer le matériel (balises, cales) et les équipements (rampe passagers, ...) en fonction du type de l'appareil et du chargement",
+              "code_ogr": 110262,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Mettre en place et retirer des moyens d'accès à l'avion (manipulés à la main ou autotractés)",
+              "code_ogr": 400425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place et retirer des tapis bagage (convoyeur à bande) / sur les avions vrac",
+              "code_ogr": 400398,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Coordonner les opérations de maintenance pré-vol",
+              "code_ogr": 516510,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir, nettoyer un produit ou du matériel",
+              "code_ogr": 300177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre la communication gestuelle piste-avion",
+              "code_ogr": 400399,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en place et retirer des câbles d'alimentation",
+              "code_ogr": 400123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les opérations de vidange des eaux et toilettes des avions",
+              "code_ogr": 400113,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Effectuer des vérifications de sécurité avant le départ",
+              "code_ogr": 486816,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratiquer des gestes et postures de manutention en toute sécurité",
+              "code_ogr": 400094,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre et contrôler d'éventuelles anomalies et incidents pendant la touchée",
+              "code_ogr": 400233,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser le chargement et le déchargement des bagages",
+              "code_ogr": 507327,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier la sécurisation des aires de roulement ou de stationnement des aéronefs",
+              "code_ogr": 110261,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Arrimer les bagages vrac ou bloquer les containers dans la soute",
+              "code_ogr": 400109,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Charger ou décharger les moyens de transport",
+              "code_ogr": 400110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Charger, décharger, manutentionner des produits",
+              "code_ogr": 300265,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un camion-élévateur",
+              "code_ogr": 110271,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un escabeau auto-tracté",
+              "code_ogr": 110273,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un push/push back/tracteur-avion",
+              "code_ogr": 110276,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un tapis bagages",
+              "code_ogr": 110278,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un tracteur bagages, un chariot vrac ou un conteneur",
+              "code_ogr": 110279,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs un élévateur à fourche",
+              "code_ogr": 110272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs une passerelle télescopique",
+              "code_ogr": 110274,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs une plate-forme élévatrice",
+              "code_ogr": 110275,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Convoyer sur les pistes ou installer aux abords des aéronefs une rampe mobile",
+              "code_ogr": 110277,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer le refoulement, le tractage et le convoyage de l'avion",
+              "code_ogr": 400112,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer les manoeuvres d'accrochage/décrochage d'avions au véhicule de tractage et convoyer des aéronefs sur l'aire de roulement",
+              "code_ogr": 115593,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Gérer les priorités sur la piste en cas de trafic dense",
+              "code_ogr": 516511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser les départs d'avions au casque",
+              "code_ogr": 400606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le tri des bagages, du fret et des sacs postaux en soute, sur piste ou en galerie, selon leur destination",
+              "code_ogr": 110265,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Caler l'avion, baliser et retirer les cales et balisages",
+              "code_ogr": 400607,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Placer l'avion",
+              "code_ogr": 400177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repousser l'avion",
+              "code_ogr": 400250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier le respect du plan de chargement de l'avion",
+              "code_ogr": 400605,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Vérifier l'application des normes de sécurité par le personnel",
+              "code_ogr": 516513,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer la communication entre le personnel de cabine et les services au sol",
+              "code_ogr": 507326,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des procédures de sécurité et de sûreté aéroportuaire",
+              "code_ogr": 507329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser l'évacuation de l'avion en cas d'urgence",
+              "code_ogr": 516512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Mise en place de signalisations de sécurité",
+              "code_ogr": 100251,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de signalisation sur piste",
+              "code_ogr": 515781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques techniques des aéronefs",
+              "code_ogr": 106997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de véhicules de piste spécialisés",
+              "code_ogr": 515511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de dispositifs de communication sans fil",
+              "code_ogr": 515515,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de systèmes de suivi de bagages",
+              "code_ogr": 515509,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des types d'aéronefs",
+              "code_ogr": 493741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Radiocommunication aéronautique",
+              "code_ogr": 123230,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestuelle de communication avec le personnel de piste",
+              "code_ogr": 107020,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manutention aéroportuaire",
+              "code_ogr": 123335,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication efficace en équipe",
+              "code_ogr": 476879,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures de vérification du chargement",
+              "code_ogr": 110286,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Terminologie aéronautique (IATA, alphabet aéronautique, ...)",
+              "code_ogr": 110177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des règlements internationaux de l'aviation",
+              "code_ogr": 493448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'avitaillement en carburant",
+              "code_ogr": 107019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assistance au stationnement des aéronefs et au guidage du pilote (départ au casque)",
+              "code_ogr": 115592,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organisation et fonctionnement de site aéroportuaire",
+              "code_ogr": 110269,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de branchement/débranchement des équipements",
+              "code_ogr": 110284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de sécurité en zone aéroportuaire",
+              "code_ogr": 515508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des procédures douanières",
+              "code_ogr": 493294,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des situations d'urgence aérienne",
+              "code_ogr": 495449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de circulation sur piste aéroportuaire",
+              "code_ogr": 110270,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sûreté aéroportuaire",
+              "code_ogr": 107018,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion du stress en environnement bruyant",
+              "code_ogr": 478594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de chargement et déchargement d'avions",
+              "code_ogr": 515506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prévention des accidents sur piste",
+              "code_ogr": 515512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance de base des équipements",
+              "code_ogr": 495765,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de levage sécurisé",
+              "code_ogr": 498224,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tri et de manutention des bagages",
+              "code_ogr": 515516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des opérations aériennes",
+              "code_ogr": 515777,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Travail avec des organisations ou partenaires internationaux",
+          "code_ogr": 511477
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Travail répétitif ou cadence imposée",
+          "code_ogr": 300801
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N2215 - Coordonnateur / Coordonnatrice zone avion",
+      "code_org_rome_cible": 515437,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N2209 - Superviseur / Superviseuse piste",
+      "code_org_rome_cible": 515405,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1209 - Technicien / Technicienne logistique",
+      "code_org_rome_cible": 515412,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1115 - Opérateur / Opératrice logistique",
+      "code_org_rome_cible": 489164,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1112 - Chef / Cheffe d'équipe logistique",
+      "code_org_rome_cible": 488924,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1208 - Opérateur / Opératrice de traitement de valeurs",
+      "code_org_rome_cible": 512366,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1101 - Cariste",
+      "code_org_rome_cible": 500,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N1107 - Chef / Cheffe d'équipe en déménagement",
+      "code_org_rome_cible": 488599,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N2207 - Agent / Agente d'accompagnement du transport",
+      "code_org_rome_cible": 489211,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "numero": 33120,
+  "rome": {
+    "code_rome": "G1415",
+    "intitule": "Gérant / Gérante de gîte et chambres d'hôtes",
+    "code_ogr": 509639
+  },
+  "appellations": [
+    {
+      "libelle": "Directeur / Directrice de gîtes touristiques",
+      "libelle_court": "Directeur / Directrice de gîtes touristiques",
+      "code_ogr": 509715
+    },
+    {
+      "libelle": "Exploitant / Exploitante de chambres d'hôtes",
+      "libelle_court": "Exploitant / Exploitante de chambres d'hôtes",
+      "code_ogr": 14980
+    },
+    {
+      "libelle": "Exploitant / Exploitante de gîte rural",
+      "libelle_court": "Exploitant / Exploitante de gîte rural",
+      "code_ogr": 14983
+    },
+    {
+      "libelle": "Gardien / Gardienne de refuge de montagne",
+      "libelle_court": "Gardien / Gardienne de refuge de montagne",
+      "code_ogr": 38890
+    }
+  ],
+  "definition": "Le gérant de gîte et chambres d'hôtes assure l'accueil, la logistique, l'organisation de services annexes pour offrir des conditions d'hébergement et de séjour optimales à ses clients Gère et supervise l'entretien d'un ou plusieurs gîtes pour garantir un accueil de qualité Coordonne les réservations et optimise l'occupation des gîtes Assure un accueil chaleureux et professionnel aux hôtes Développe des partenariats locaux pour enrichir l'expérience des visiteurs Peut proposer et organiser des activités touristiques et récréatives Gère le budget et les aspects administratifs des gîtes",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau Bac+2 à Bac+5 en hôtellerie-restauration, gestion hôtelière ou en management du tourisme. Selon la taille de la structure, une expérience confirmée en gestion de structure d'hébergement peut parfois suffire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Organiser des activités de loisirs pour les clients",
+              "code_ogr": 504649,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+              "code_ogr": 403296,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Assurer la promotion du gîte sur les plateformes de voyages et les réseaux sociaux",
+              "code_ogr": 511535,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Mettre en oeuvre des actions de communication",
+              "code_ogr": 300110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les activités touristiques locales",
+              "code_ogr": 484673,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un établissement et de ses équipements",
+              "code_ogr": 123658,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer l'entretien des équipements et installations",
+              "code_ogr": 400598,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des clients durant leur séjour",
+              "code_ogr": 501748,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le nettoyage et la préparation des chambres",
+              "code_ogr": 501746,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité des services fournis aux clients",
+              "code_ogr": 482526,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300243,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks de nourriture et autres fournitures",
+              "code_ogr": 485941,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la gestion des stocks",
+              "code_ogr": 117561,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des réservations",
+              "code_ogr": 104292,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les réservations et les annulations tout en délivrant un service de qualité",
+              "code_ogr": 484074,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer quotidiennement les activités d'un gîte touristique",
+              "code_ogr": 501744,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la relation avec les fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300316,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner et s'approvisionner en produits issus de l'agriculture biologique",
+              "code_ogr": 511536,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier le taux de réservation et de fréquentation de l'établissement",
+              "code_ogr": 490086,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer le budget de fonctionnement",
+              "code_ogr": 489806,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Gérer les réclamations ainsi que les litiges commerciaux",
+              "code_ogr": 403551,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Assurer la conformité avec les normes environnementales",
+              "code_ogr": 508732,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les déchets et le recyclage de manière écologique",
+              "code_ogr": 125495,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place une politique éco-responsable",
+              "code_ogr": 489815,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, informer et orienter les clients",
+              "code_ogr": 490153,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur les prestations et services proposés",
+              "code_ogr": 300621,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Analyser les retours clients pour améliorer les produits ou services",
+              "code_ogr": 484314,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer le suivi de la satisfaction clients",
+              "code_ogr": 400190,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir les menus, les cartes et définir les tarifs des plats",
+              "code_ogr": 104183,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir la tarification des produits ou des services",
+              "code_ogr": 300372,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Positionner l'offre dans un environnement concurrentiel",
+              "code_ogr": 123481,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Avoir une vue d'ensemble sur le fonctionnement de l'établissement",
+              "code_ogr": 300581,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer et mettre en place l'organisation de l'exploitation",
+              "code_ogr": 400306,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des partenariats locaux pour offrir des activités touristiques attractives",
+              "code_ogr": 503883,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer une stratégie de développement d'activité",
+              "code_ogr": 300391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les coûts opérationnels",
+              "code_ogr": 486927,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Piloter la performance et la rentabilité d'une activité ou d'un projet",
+              "code_ogr": 300311,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser l'anglais dans un contexte professionnel",
+              "code_ogr": 513457,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les urgences et les incidents sur site",
+              "code_ogr": 509204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme de management de l'hôtellerie et restauration",
+              "code_ogr": 490995,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option B : management d'unité de production culinaire",
+              "code_ogr": 489601,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme en management du tourisme",
+              "code_ogr": 490960,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option C : management d'unité d'hébergement",
+              "code_ogr": 489602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du tourisme et des loisirs",
+              "code_ogr": 489655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diplôme en management international de l'hôtellerie et de la restauration",
+              "code_ogr": 515299,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention organisation et gestion des établissements hôteliers et de restauration",
+              "code_ogr": 489656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS management en hôtellerie - restauration option A : management d'unité de restauration",
+              "code_ogr": 489600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bachelor en management du tourisme et de l'hôtellerie",
+              "code_ogr": 491006,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Optimisation des coûts et des budgets",
+              "code_ogr": 124683,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Activités d'une structure d'hébergement",
+              "code_ogr": 122148,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des attractions touristiques locales",
+              "code_ogr": 477903,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Données d'activité de la structure, du service",
+              "code_ogr": 115028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion hôtelière",
+              "code_ogr": 117667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tarification en temps réel (Yield management)",
+              "code_ogr": 123186,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion budgétaire",
+              "code_ogr": 102216,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Planning d'occupation des chambres",
+              "code_ogr": 104182,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hébergement touristique",
+              "code_ogr": 104138,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et de sécurité alimentaire",
+              "code_ogr": 100359,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des réglementations locales en matière de tourisme",
+              "code_ogr": 493422,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques commerciales",
+              "code_ogr": 121706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des réservations en ligne",
+              "code_ogr": 477898,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Hébergement et hôtellerie de plein air",
+          "code_ogr": 489573
+        },
+        {
+          "libelle": "Hôtellerie",
+          "code_ogr": 489574
+        },
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    },
+    {
+      "code": "101",
+      "libelle": "Tourisme",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1408 - Directeur / Directrice de structure d'hébergement touristique",
+      "code_org_rome_cible": 488762,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1403 - Responsable de service en établissement touristique",
+      "code_org_rome_cible": 193,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1416 - Directeur / Directrice d'hôtellerie de plein air",
+      "code_org_rome_cible": 509931,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1402 - Directeur / Directrice d'établissement en hôtellerie-restauration",
+      "code_org_rome_cible": 192,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1241 - Directeur / Directrice de centre de séjour de vacances",
+      "code_org_rome_cible": 510396,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "G1104 - Consultant / Consultante tourisme",
+      "code_org_rome_cible": 488765,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1707 - Responsable du développement commercial",
+      "code_org_rome_cible": 489,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1510 - Chef / Cheffe de secteur magasin",
+      "code_org_rome_cible": 403087,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1102 - Directeur / Directrice des achats",
+      "code_org_rome_cible": 457,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1802 - Chargé / Chargée de développement économique et local",
+      "code_org_rome_cible": 399,
+      "ordre_mobilite": 10
+    }
+  ]
+}

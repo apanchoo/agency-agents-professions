@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509407,
+    "code_rome": "A1435",
+    "libelle": "Eleveur / Eleveuse d'animaux de compagnie",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "A1408"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.915,
+      "matched_terms": [
+        "aliment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1408",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.DN.07",
+          "title": "Hygiène Qualité Sécurité Environnement",
+          "page": 439,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=439",
+          "selection_score": 50.6892,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.DN.10",
+          "title": "Environnement professionnel en secteur de soins",
+          "page": 442,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=442",
+          "selection_score": 42.6847,
+          "shared_terms": [
+            "soins"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DN.08",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 422,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=422",
+          "selection_score": 41.6473,
+          "shared_terms": [
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.DN.02",
+          "title": "Conduite d’entretien, prise en charge et suivi diététique d’un patient et proposition d’un atelier d’ETP adapté à la pathologie.",
+          "page": 430,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=430",
+          "selection_score": 74.4094,
+          "shared_terms": [
+            "adapte",
+            "dietetique",
+            "entretien",
+            "pathologie",
+            "suivi"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.DN.02",
+          "title": "Actions d’éducation nutritionnelle auprès d’un groupe de patients présentant une pathologie ciblée, incluant l’élaboration d’une alimentation adaptée.",
+          "page": 409,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=409",
+          "selection_score": 50.8938,
+          "shared_terms": [
+            "adaptee",
+            "alimentation",
+            "pathologie"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

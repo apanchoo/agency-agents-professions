@@ -1,0 +1,567 @@
+{
+  "numero": 32427,
+  "rome": {
+    "code_rome": "K1409",
+    "intitule": "Chef / Cheffe de service socioéducatif",
+    "code_ogr": 488311
+  },
+  "appellations": [
+    {
+      "libelle": "Encadrant socio-éducatif / Encadrante socio-éducative",
+      "libelle_court": "Encadrant socio-éducatif / Encadrante socio-éducative",
+      "code_ogr": 518729
+    },
+    {
+      "libelle": "Responsable des services socio-éducatifs",
+      "libelle_court": "Responsable des services socio-éducatifs",
+      "code_ogr": 518727
+    },
+    {
+      "libelle": "Responsable socio-éducatif",
+      "libelle_court": "Responsable socio-éducatif",
+      "code_ogr": 518728
+    }
+  ],
+  "definition": "Le chef de service socio-éducatif encadre les équipes socio-éducatives et assure la coordination des actions menées au sein de son service en direction des personnes accompagnées et de leur entourage. Assure un rôle d'interface entre la direction de la structure et les équipes qu'il encadre Participe à l'élaboration du projet de service ou d'établissement dans le cadre du développement de sa structure Encadre les équipes et s'assure de la montée en compétences des collaborateurs Organise, coordonne, supervise et s'assure de la qualité des activités socio-éducatives mises en œuvre au sein du service Développe des partenariats sur le territoire pour améliorer l'offre de services",
+  "acces_metier": "Ce métier est accessible avec un diplôme du travail social de niveau 6 (CEC). En parallèle, le CAFERUIS (Certificat d'aptitude aux fonctions d'encadrement et de responsable d'unité d'intervention sociale) est souhaité pour accéder à ce métier. Ces diplômes sont réglementairement requis pour exercer dans la Fonction Publique Hospitalière.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer les compétences individuelles et collectives de l'équipe",
+              "code_ogr": 518741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire appliquer les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 490106,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager les ressources humaines au quotidien",
+              "code_ogr": 518740,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Etre attentif à la bonne intégration de chaque nouveau collaborateur",
+              "code_ogr": 403602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à la mise en place de projets RH facilitant l'inclusion, l'égalité et la qualité de vie au travail au sein de la structure",
+              "code_ogr": 489293,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner et développer l'autonomie dans l'usage des outils numériques et des services digitaux",
+              "code_ogr": 140975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appuyer les professionnels dans la prise de recul sur les situations rencontrées",
+              "code_ogr": 518739,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Informer et former le personnel sur les innovations en santé",
+              "code_ogr": 482528,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Prévenir les risques psychosociaux",
+              "code_ogr": 300040,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Mettre en place des politiques de diversité et d'inclusion",
+              "code_ogr": 490129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Représenter sa structure ou son service lors d'un événement ou auprès d'instances de décision",
+              "code_ogr": 404536,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des réglementations en vigueur",
+              "code_ogr": 505524,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faciliter l'appropriation par les équipes des évolutions sociétales et juridiques ainsi que des politiques sociales",
+              "code_ogr": 518738,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Accompagner la mise en œuvre d'un projet socio-éducatif en proposant des axes d'adaptation à partir de l'analyse réflexive des pratiques professionnelles",
+              "code_ogr": 518737,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les retours d'expérience pour améliorer les pratiques",
+              "code_ogr": 484649,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer le suivi des indicateurs de performance (KPI)",
+              "code_ogr": 501203,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la mise en œuvre d'un projet, d'un plan d'action",
+              "code_ogr": 300241,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier, coordonner et mettre en place des évènements auprès des acteurs du secteur",
+              "code_ogr": 490126,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Faciliter la communication inter-services pour une meilleure coordination",
+              "code_ogr": 507332,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et animer une réunion, un groupe de travail, un atelier",
+              "code_ogr": 300469,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rendre compte des informations récoltées sur le terrain à sa direction",
+              "code_ogr": 403440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser les équipes aux enjeux de la Responsabilité Sociétale et Environnementale (RSE)",
+              "code_ogr": 482278,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer des situations de crise ou d'urgence",
+              "code_ogr": 400323,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels ERP spécifiques au secteur",
+              "code_ogr": 481053,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence mention sciences sociales",
+              "code_ogr": 491376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention sciences sociales",
+              "code_ogr": 491377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance de l'écosystème sanitaire, médico-social et social",
+              "code_ogr": 514781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des Nouvelles Technologies de l'information et de la Communication (NTIC)",
+              "code_ogr": 123009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Politiques publiques",
+              "code_ogr": 117762,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des principes de la bientraitance",
+              "code_ogr": 514783,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des droits de l'homme et des libertés fondamentales",
+              "code_ogr": 492828,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Modalités de prise en charge du patient",
+              "code_ogr": 490128,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outils et méthodes de gestion de projet",
+              "code_ogr": 121030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des risques des personnes accompagnées",
+              "code_ogr": 518655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de prise en charge de la personne accompagnée",
+              "code_ogr": 518654,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de prévention des risques professionnels",
+              "code_ogr": 496861,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de confidentialité",
+              "code_ogr": 477625,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit de l'action sociale",
+              "code_ogr": 514779,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des risques des patients",
+              "code_ogr": 514788,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système de Management de la Qualité (SMQ)",
+              "code_ogr": 118426,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication non verbale",
+              "code_ogr": 115755,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'identification des besoins de la personne accompagnée",
+              "code_ogr": 518656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication interpersonnelle",
+              "code_ogr": 477041,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'identification des besoins du patient",
+              "code_ogr": 514789,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de transmission de savoirs",
+              "code_ogr": 512754,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de suivi et d'évaluation de l'évolution des pratiques professionnelles",
+              "code_ogr": 514793,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Mineurs (- 18 ans)",
+          "code_ogr": 300835
+        },
+        {
+          "libelle": "Personnes en situation de handicap",
+          "code_ogr": 300840
+        },
+        {
+          "libelle": "Personnes sous main de justice",
+          "code_ogr": 300842
+        },
+        {
+          "libelle": "Personnes vulnérables",
+          "code_ogr": 300843
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Association",
+          "code_ogr": 300849
+        },
+        {
+          "libelle": "Collectivités territoriales",
+          "code_ogr": 405285
+        },
+        {
+          "libelle": "Etablissement social ou médico-social (EHPAD, résidence senior, ...)",
+          "code_ogr": 400010
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1408 - Responsable de secteur d'aide à domicile",
+      "code_org_rome_cible": 488294,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1407 - Directeur / Directrice d'établissement médicosocial",
+      "code_org_rome_cible": 488293,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1403 - Directeur / Directrice d'établissement pour personnes âgées",
+      "code_org_rome_cible": 381,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1404 - Chargé / Chargée de mission développement territorial",
+      "code_org_rome_cible": 382,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1503 - Directeur / Directrice des Ressources Humaines (DRH)",
+      "code_org_rome_cible": 473,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1504 - Responsable formation professionnelle en entreprise",
+      "code_org_rome_cible": 488280,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1203 - Educateur technique spécialisé / Educatrice technique spécialisée",
+      "code_org_rome_cible": 370,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K1207 - Educateur spécialisé / Educatrice spécialisée",
+      "code_org_rome_cible": 374,
+      "ordre_mobilite": 10
+    }
+  ]
+}

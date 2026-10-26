@@ -1,0 +1,645 @@
+{
+  "numero": 32649,
+  "rome": {
+    "code_rome": "N4114",
+    "intitule": "Conducteur livreur avitailleur / Conductrice livreuse avitailleuse en carburant",
+    "code_ogr": 488732
+  },
+  "appellations": [
+    {
+      "libelle": "Avitailleur / Avitailleuse",
+      "libelle_court": "Avitailleur / Avitailleuse",
+      "code_ogr": 488811
+    },
+    {
+      "libelle": "Conducteur citernier essencier / Conductrice citernière essencière",
+      "libelle_court": "Conducteur(trice) citernier(ère) essencier(ère)",
+      "code_ogr": 12858
+    }
+  ],
+  "definition": "Le Conducteur livreur avitailleur en carburant joue un rôle crucial dans la distribution et la fourniture de carburant. Assure la livraison de carburant aux points de vente ou aux véhicules Contrôle la qualité et la quantité du carburant livré Veille au respect des normes de sécurité lors du chargement et du déchargement Gère les documents de transport et les procédures administratives associées Maintient son véhicule en bon état de fonctionnement Peut conseiller les clients sur les différents types de carburants disponibles",
+  "acces_metier": "Cet emploi est accessible avec les permis C ou CE, et des certifications spécifiques liées à la manipulation et au transport de matières dangereuses, telles que les divers Certificats de formation ADR. La formation initiale et continue obligatoire (FIMO et FCO) est également requise.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Planifier les opérations de maintenance préventive",
+              "code_ogr": 483224,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Manipuler des produits dangereux ou fragiles",
+              "code_ogr": 300216,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à des opérations d'avitaillement",
+              "code_ogr": 107017,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des équipements de sécurité spécifiques",
+              "code_ogr": 482367,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un outil ou un matériel",
+              "code_ogr": 124629,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer les risques liés au transport de carburant",
+              "code_ogr": 484261,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité du carburant avant livraison",
+              "code_ogr": 484255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier l'exactitude et la conformité de documents de transport de marchandises",
+              "code_ogr": 110474,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Optimiser les itinéraires de collecte pour réduire l'empreinte carbone",
+              "code_ogr": 504006,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Conduire un poids lourd",
+              "code_ogr": 110024,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conduire un véhicule nécessitant une habilitation",
+              "code_ogr": 110560,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Livrer une commande",
+              "code_ogr": 125102,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des itinéraires de livraison optimisés",
+              "code_ogr": 124795,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser une tournée",
+              "code_ogr": 110603,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer le véhicule, repérer le parcours et prévoir les aléas",
+              "code_ogr": 110523,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Effectuer le suivi des commandes, la facturation",
+              "code_ogr": 300305,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Actualiser les données de suivi de la livraison ou de l'enlèvement sur un support numérique ou manuscrit",
+              "code_ogr": 119847,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Informer sur une démarche qualité ou sécurité",
+              "code_ogr": 113671,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Présenter et valoriser un produit ou un service",
+              "code_ogr": 300374,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec l'équipe et les clients",
+              "code_ogr": 403448,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Adapter les méthodes de travail à la réglementation locale",
+              "code_ogr": 404331,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les urgences et les imprévus dans les livraisons",
+              "code_ogr": 484205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les normes environnementales lors de l'avitaillement",
+              "code_ogr": 484258,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les procédures de sécurité lors du chargement et déchargement",
+              "code_ogr": 485099,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des équipements de protection individuelle (EPI)",
+              "code_ogr": 482123,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Gestion de l'inventaire de carburant",
+              "code_ogr": 479004,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Véhicule citerne",
+              "code_ogr": 110565,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types de carburants et leurs applications",
+              "code_ogr": 479007,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de dispositifs de mesure du carburant",
+              "code_ogr": 479016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Certificat de formation de conducteur ADR - spécialisation citernes restreinte GPL (habilitation)",
+              "code_ogr": 491606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR - spécialisation citernes (habilitation)",
+              "code_ogr": 491605,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 6 chariots élévateurs à poste de conduite élevable (hauteur de plancher > 1,20 m)",
+              "code_ogr": 491588,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R490 grues de chargement",
+              "code_ogr": 490913,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 7 conduite hors-production des chariots de toutes les catégories",
+              "code_ogr": 491385,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 5 chariots élévateurs à mât rétractable",
+              "code_ogr": 491587,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 3 chariots élévateurs frontaux en porte-à-faux (capacité nominale < ou = à 6 tonnes)",
+              "code_ogr": 491586,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR - spécialisation classe 1 (habilitation)",
+              "code_ogr": 491608,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R485 chariots de manutention automoteurs gerbeurs à conducteur accompagnant catégorie 2 gerbeurs automoteurs à conducteur accompagnant (hauteur de levée > 2,50 m)",
+              "code_ogr": 491631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 4 chariots élévateurs frontaux en porte-à-faux (capacité nominale > 6 tonnes)",
+              "code_ogr": 491632,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 1B gerbeurs à conducteur porté (hauteur de levée > 1,20 m)",
+              "code_ogr": 491384,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR - spécialisation citernes restreinte produits pétroliers (habilitation)",
+              "code_ogr": 491607,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR (habilitation)",
+              "code_ogr": 491616,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 1A transpalettes à conducteur porté et préparateurs de commande sans élévation du poste de conduite (hauteur de levée < ou = à 1,20 m)",
+              "code_ogr": 491583,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 2A chariots à plateau porteur (capacité de charge < ou = à 2 tonnes)",
+              "code_ogr": 491584,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R489 chariots de manutention automoteurs à conducteur porté catégorie 2B chariots tracteurs industriels (capacité de traction < ou = à 25 tonnes)",
+              "code_ogr": 491585,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat d'aptitude à la conduite en sécurité R485 chariots de manutention automoteurs gerbeurs à conducteur accompagnant catégorie 1 gerbeurs automoteurs à conducteur accompagnant (1,20 m < hauteur de levée < ou = à 2,50 m)",
+              "code_ogr": 491630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Certificat de formation de conducteur ADR - spécialisation classe 7 (habilitation)",
+              "code_ogr": 491633,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Entretien de véhicules",
+              "code_ogr": 121002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des impacts environnementaux du transport de carburant",
+              "code_ogr": 479017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des incidents",
+              "code_ogr": 123515,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système de navigation embarqué",
+              "code_ogr": 119061,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits en cas de litige de livraison",
+              "code_ogr": 479009,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Caractéristiques du chronotachygraphe",
+              "code_ogr": 119055,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes de sécurité pour le transport de carburant",
+              "code_ogr": 479003,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Connaissance des procédures d'urgence en cas de déversement",
+              "code_ogr": 479012,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de tournées",
+              "code_ogr": 121418,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de l'écoconduite",
+              "code_ogr": 140977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des réglementations locales sur le stockage de carburant",
+              "code_ogr": 479010,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du transport de marchandises",
+              "code_ogr": 104084,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'avitaillement en carburant",
+              "code_ogr": 107019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle de qualité du carburant",
+              "code_ogr": 479005,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de conduite et de sécurité routière",
+              "code_ogr": 108568,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plan urbain",
+              "code_ogr": 109486,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Maintenance préventive de véhicules de loisirs",
+              "code_ogr": 495839,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de navigation en milieu urbain",
+              "code_ogr": 479013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication avec la clientèle",
+              "code_ogr": 478367,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vérification de la qualité du carburant à la livraison",
+              "code_ogr": 479015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de minimisation des déchets lors de l'avitaillement",
+              "code_ogr": 479018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'applications mobiles pour la gestion de livraisons",
+              "code_ogr": 479008,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N4120 - Chauffeur-livreur préparateur / Chauffeuse-livreuse préparatrice de commandes",
+      "code_org_rome_cible": 488881,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N4112 - Conducteur / Conductrice VTC",
+      "code_org_rome_cible": 489201,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N4103 - Conducteur / Conductrice de bus",
+      "code_org_rome_cible": 525,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N4101 - Conducteur / Conductrice de poids lourd",
+      "code_org_rome_cible": 523,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N2203 - Agent / Agente d'opérations sur piste",
+      "code_org_rome_cible": 514,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1201 - Affréteur / Affréteuse",
+      "code_org_rome_cible": 505,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1303 - Approvisionneur / Approvisionneuse logistique",
+      "code_org_rome_cible": 509,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1114 - Conducteur / Conductrice d'engins lourds de manutention",
+      "code_org_rome_cible": 489077,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "N4203 - Agent / Agente d'exploitation en transport routier de marchandises",
+      "code_org_rome_cible": 530,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1101 - Conducteur / Conductrice d'engins agricoles",
+      "code_org_rome_cible": 6,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "numero": 169,
+  "rome": {
+    "code_rome": "F1103",
+    "intitule": "Diagnostiqueur / Diagnostiqueuse immobilier",
+    "code_ogr": 144
+  },
+  "appellations": [
+    {
+      "libelle": "Diagnostiqueur / Diagnostiqueuse bâtiment",
+      "libelle_court": "Diagnostiqueur / Diagnostiqueuse bâtiment",
+      "code_ogr": 14162
+    },
+    {
+      "libelle": "Diagnostiqueur / Diagnostiqueuse construction amiante",
+      "libelle_court": "Diagnostiqueur / Diagnostiqueuse construction amiante",
+      "code_ogr": 14163
+    },
+    {
+      "libelle": "Diagnostiqueur / Diagnostiqueuse performance énergétique bâtiment",
+      "libelle_court": "Diagnostiqueur(se) performance énergétique bâtiment",
+      "code_ogr": 38153
+    },
+    {
+      "libelle": "Opérateur / Opératrice de repérage amiante",
+      "libelle_court": "Opérateur / Opératrice de repérage amiante",
+      "code_ogr": 17158
+    },
+    {
+      "libelle": "Responsable technique diagnostic du bâtiment",
+      "libelle_court": "Responsable technique diagnostic du bâtiment",
+      "code_ogr": 19201
+    },
+    {
+      "libelle": "Technicien / Technicienne de diagnostics immobiliers",
+      "libelle_court": "Technicien / Technicienne de diagnostics immobiliers",
+      "code_ogr": 19754
+    },
+    {
+      "libelle": "Technicien / Technicienne de diagnostics techniques du bâtiment",
+      "libelle_court": "Technicien(ne) de diagnostics techniques du bâtiment",
+      "code_ogr": 19755
+    },
+    {
+      "libelle": "Technicien / Technicienne de la construction",
+      "libelle_court": "Technicien / Technicienne de la construction",
+      "code_ogr": 19779
+    },
+    {
+      "libelle": "Technicien / Technicienne diagnostics amiante",
+      "libelle_court": "Technicien / Technicienne diagnostics amiante",
+      "code_ogr": 19989
+    },
+    {
+      "libelle": "Technicien chargé / Technicienne chargée de diagnostics en amiante",
+      "libelle_court": "Technicien(ne) chargé(e) de diagnostics en amiante",
+      "code_ogr": 19684
+    },
+    {
+      "libelle": "Technicien chargé / Technicienne chargée de diagnostics immobiliers",
+      "libelle_court": "Technicien(ne) chargé(e) de diagnostics immobiliers",
+      "code_ogr": 19685
+    },
+    {
+      "libelle": "Technicien diagnostiqueur / Technicienne diagnostiqueuse en immobilier",
+      "libelle_court": "Technicien(ne) diagnostiqueur(se) en immobilier",
+      "code_ogr": 19990
+    }
+  ],
+  "definition": "Le Diagnostiqueur immobilier réalise des contrôles obligatoires pour évaluer l'état d'un bien dans le cadre de transactions immobilières ou de travaux de rénovation. Réalise différents types de diagnostics (amiante, gaz, électricité, termites, etc.) pour détecter d'éventuels risques pour la santé ou la sécurité Effectue des diagnostics de performance énergétique (DPE) pour évaluer l'efficacité énergétique des bâtiments Délivre des certificats de contrôle à destination des particuliers, agences immobilières, notaires, etc. Développe et fidélise un réseau de partenaires clients",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac + 2 à Bac + 3 dans le domaine du bâtiment, de la construction ou du génie civil. Des certifications spécifiques sont légalement obligatoires selon les types de diagnostics. Ces certifications sont délivrées par des organismes habilités et ont une validité de 5 ans.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Créer des documents numériques",
+              "code_ogr": 405259,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Réaliser les prélèvements d'échantillons, les mesures d'eau, d'air, de poussières et analyser les résultats",
+              "code_ogr": 103097,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser des résultats de tests et essais",
+              "code_ogr": 402029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Réaliser des mesures de locaux et les calculs de surfaces",
+              "code_ogr": 126008,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Diagnostiquer l'état de produits, de matériaux ou de constructions (conservation, dégradation etc.)",
+              "code_ogr": 125998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer la conformité des installations électriques",
+              "code_ogr": 507743,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Planifier une intervention technique",
+              "code_ogr": 125461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relever les mesures et détecter les atteintes ou dépassement de seuil de contamination, de toxicité ou de pollution",
+              "code_ogr": 106937,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Délivrer un certificat ou une attestation de contrôle",
+              "code_ogr": 125462,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Prendre rendez-vous pour intervenir chez un client",
+              "code_ogr": 489423,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à un diagnostic amiante",
+              "code_ogr": 103107,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à un diagnostic d'état parasitaire",
+              "code_ogr": 125511,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à un diagnostic plomb",
+              "code_ogr": 103111,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger des rapports de visite précis et détaillés sur les diagnostics réalisés et les anomalies détectées et les transmettre aux parties prenantes (clients, notaires, agences immobilières, etc.)",
+              "code_ogr": 507739,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la facturation",
+              "code_ogr": 512997,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer un cadre juridique ou réglementaire",
+              "code_ogr": 300338,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un suivi commercial",
+              "code_ogr": 122313,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Procéder à un diagnostic de performance énergétique",
+              "code_ogr": 125512,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à un diagnostic gaz",
+              "code_ogr": 103109,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Repérer et identifier des risques sanitaires et environnementaux",
+              "code_ogr": 103098,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Expliquer aux clients l'importance des interventions réalisées et les éventuelles réparations nécessaires",
+              "code_ogr": 490319,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Prospecter de nouveaux clients, de nouveaux marchés",
+              "code_ogr": 300371,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir une veille réglementaire et technique",
+              "code_ogr": 486092,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Actualiser régulièrement ses connaissances",
+              "code_ogr": 300492,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et développer son réseau professionnel",
+              "code_ogr": 300502,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+              "code_ogr": 300493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Systèmes de sécurité incendie",
+              "code_ogr": 125101,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés des matériaux de construction",
+              "code_ogr": 125915,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'appareils de détection et de diagnostic",
+              "code_ogr": 498081,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques des matériaux isolants",
+              "code_ogr": 103402,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diagnostiqueur immobilier",
+              "code_ogr": 514283,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du BTP : performance énergétique et environnementale des bâtiments",
+              "code_ogr": 404390,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Pathologies du bâtiment",
+              "code_ogr": 103104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Génie énergétique",
+              "code_ogr": 119721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Economie de la construction",
+              "code_ogr": 101642,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de conception ou dessin assisté par ordinateur (CAO/DAO)",
+              "code_ogr": 119672,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règlementation en matière d'hygiène et sécurité de l'habitat",
+              "code_ogr": 498152,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Montage d'un dossier de contrôle technique",
+              "code_ogr": 126006,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de la construction",
+              "code_ogr": 103045,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sécurité et normes environnementales",
+              "code_ogr": 489706,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de surface",
+              "code_ogr": 123285,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de métré",
+              "code_ogr": 103103,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de prélèvement et d'analyses",
+              "code_ogr": 103106,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En bureau d'études",
+          "code_ogr": 403093
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    },
+    {
+      "code": "108",
+      "libelle": "Énergie",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1108 - Métreur / Métreuse de la construction",
+      "code_org_rome_cible": 149,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1114 - Conseiller / Conseillère en rénovation énergétique",
+      "code_org_rome_cible": 404538,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1201 - Conducteur / Conductrice de travaux du bâtiment",
+      "code_org_rome_cible": 150,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1204 - Animateur / Animatrice QSE - Qualité Sécurité Environnement BTP",
+      "code_org_rome_cible": 153,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1416 - Animateur / Animatrice qualité services",
+      "code_org_rome_cible": 509399,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1802 - Chargé / Chargée de développement économique et local",
+      "code_org_rome_cible": 399,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "C1106 - Expert / Experte risques en assurances",
+      "code_org_rome_cible": 60,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1407 - Technico-commercial / Technico-commerciale",
+      "code_org_rome_cible": 108,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "F1109 - Assistant / Assistante géomètre",
+      "code_org_rome_cible": 403075,
+      "ordre_mobilite": 10
+    }
+  ]
+}

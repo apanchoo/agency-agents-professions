@@ -1,0 +1,119 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 346,
+    "code_rome": "J1402",
+    "libelle": "Diététicien / Diététicienne",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "J1402"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 104.076,
+      "matched_terms": [
+        "aliment",
+        "dietet",
+        "nutrition"
+      ],
+      "direct_rome_pages": [
+        19
+      ],
+      "parent_rome": "J1402",
+      "title_terms": [
+        "dietet"
+      ],
+      "specific_title_terms": [
+        "dietet"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.DN.14",
+          "title": "Prévention et information, et Education nutritionnelle",
+          "page": 405,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=405",
+          "selection_score": 165.9063,
+          "shared_terms": [
+            "education",
+            "nutritionnelle",
+            "prevention"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DN.12",
+          "title": "Prévention et information, Education nutritionnelle",
+          "page": 426,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=426",
+          "selection_score": 165.6293,
+          "shared_terms": [
+            "education",
+            "nutritionnelle",
+            "prevention"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.DN.12",
+          "title": "Prévention et information nutritionnelle",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=377",
+          "selection_score": 133.0667,
+          "shared_terms": [
+            "nutritionnelle",
+            "prevention"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.DN.03",
+          "title": "Préparation d’un bilan nutritionnel individuel",
+          "page": 362,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=362",
+          "selection_score": 146.243,
+          "shared_terms": [
+            "bilan",
+            "nutritionnel",
+            "preparation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.DN.02",
+          "title": "Mise en place d’un projet d’information et d’éducation nutritionnelle et ses déclinaisons alimentaires pour un public ciblé.",
+          "page": 388,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=388",
+          "selection_score": 145.1901,
+          "shared_terms": [
+            "alimentaire",
+            "education",
+            "mise",
+            "nutritionnelle",
+            "place"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

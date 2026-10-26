@@ -1,0 +1,539 @@
+{
+  "numero": 393,
+  "rome": {
+    "code_rome": "H2910",
+    "intitule": "Mouleur noyauteur / Mouleuse noyauteuse machine",
+    "code_ogr": 287
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de fabrication en fonderie de moulage en sable",
+      "libelle_court": "Agent(e) de fabrication en fonderie de moulage en sable",
+      "code_ogr": 10450
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe moulage noyautage",
+      "libelle_court": "Chef / Cheffe d'équipe moulage noyautage",
+      "code_ogr": 12479
+    },
+    {
+      "libelle": "Machiniste aide mouleur / Machiniste aide mouleuse",
+      "libelle_court": "Machiniste aide mouleur / Machiniste aide mouleuse",
+      "code_ogr": 16234
+    },
+    {
+      "libelle": "Mouleur / Mouleuse de fonderie en fosse",
+      "libelle_court": "Mouleur / Mouleuse de fonderie en fosse",
+      "code_ogr": 16910
+    },
+    {
+      "libelle": "Mouleur / Mouleuse de grosses pièces de fonderie en fosse",
+      "libelle_court": "Mouleur / Mouleuse de grosses pièces de fonderie en fosse",
+      "code_ogr": 16911
+    },
+    {
+      "libelle": "Mouleur / Mouleuse main",
+      "libelle_court": "Mouleur / Mouleuse main",
+      "code_ogr": 16914
+    },
+    {
+      "libelle": "Mouleur / Mouleuse plaquiste",
+      "libelle_court": "Mouleur / Mouleuse plaquiste",
+      "code_ogr": 16917
+    },
+    {
+      "libelle": "Mouleur / Mouleuse sable",
+      "libelle_court": "Mouleur / Mouleuse sable",
+      "code_ogr": 16918
+    },
+    {
+      "libelle": "Mouleur noyauteur / Mouleuse noyauteuse main",
+      "libelle_court": "Mouleur noyauteur / Mouleuse noyauteuse main",
+      "code_ogr": 16916
+    },
+    {
+      "libelle": "Noyauteur / Noyauteuse",
+      "libelle_court": "Noyauteur / Noyauteuse",
+      "code_ogr": 17000
+    },
+    {
+      "libelle": "Opérateur / Opératrice noyautage",
+      "libelle_court": "Opérateur / Opératrice noyautage",
+      "code_ogr": 17244
+    },
+    {
+      "libelle": "Opérateur / Opératrice remmoulage",
+      "libelle_court": "Opérateur / Opératrice remmoulage",
+      "code_ogr": 17272
+    },
+    {
+      "libelle": "Plaquiste en fonderie",
+      "libelle_court": "Plaquiste en fonderie",
+      "code_ogr": 17822
+    },
+    {
+      "libelle": "Remmouleur / Remmouleuse",
+      "libelle_court": "Remmouleur / Remmouleuse",
+      "code_ogr": 18506
+    }
+  ],
+  "definition": "Le mouleur noyauteur réalise à l'unité ou en série des moules en sable destinés au moulage de métaux en fusion, selon les règles de sécurité et les impératifs de production (qualité, délais, etc.). Peut réaliser des interventions simples de transformation de modèles Peut coordonner une équipe",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac professionnel en fonderie. Il est également accessible avec une expérience professionnelle dans le même secteur sans diplôme particulier. Un BTS/DUT peut être demandé selon le niveau de technicité. Un ou plusieurs Certificat(s) d'Aptitude à la Conduite En Sécurité (CACES) conditionné(s) par une aptitude médicale à renouveler périodiquement peu(ven)t être requis.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Modifier ou adapter la forme et les dimensions d'un modèle, d'une plaque modèle, d'une boîte à noyaux",
+              "code_ogr": 114822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser la fabrication additive pour prototyper et façonner des produits",
+              "code_ogr": 402322,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Lire et interpréter des données et documents techniques, au besoin en anglais",
+              "code_ogr": 402191,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Etablir une gamme de fabrication",
+              "code_ogr": 117159,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer un changement de production",
+              "code_ogr": 402249,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Dégager l'empreinte, en contrôler les dimensions, l'état de surface et procéder aux retouches et finitions",
+              "code_ogr": 106194,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Déposer un enduit sur les surfaces moulantes (empreintes, noyaux, ...)",
+              "code_ogr": 106195,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les phases d'intervention",
+              "code_ogr": 122760,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer des mélanges sableux",
+              "code_ogr": 300521,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Remplir le moule de sable, déterminer la position du modèle et réaliser le moulage de l'empreinte, les conduits de coulée et d'évacuation des gaz",
+              "code_ogr": 106193,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les noyaux (remplissage des boîtes à noyau de sable, tassage, positionnement d'armatures, traitement de durcissage, ...)",
+              "code_ogr": 106192,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Régler la machine et monter des outillages (tourniquet, chaîne de fabrication)",
+              "code_ogr": 114821,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Positionner et fixer les éléments et fermer le moule",
+              "code_ogr": 106196,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité du matériel de production",
+              "code_ogr": 123858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir un équipement, une machine, une installation",
+              "code_ogr": 300181,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "S'inscrire dans une démarche d'optimisation matière",
+              "code_ogr": 402301,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Réduire l'empreinte environnementale de son activité",
+              "code_ogr": 402008,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Apporter une assistance technique aux équipes",
+              "code_ogr": 300184,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Traiter les données de production pour analyse de performance",
+              "code_ogr": 402238,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Favoriser un environnement de travail collaboratif",
+              "code_ogr": 402226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'intégrer dans l'équipe et faire preuve de coopération",
+              "code_ogr": 402302,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Intégrer des recommandations et adapter son comportement professionnel",
+              "code_ogr": 402180,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de planche à trousser",
+              "code_ogr": 106210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques de coulée des alliages",
+              "code_ogr": 106200,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils électroportatifs (scie électrique, ponceuse, etc.)",
+              "code_ogr": 100507,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Chariots frontaux en porte-à-faux (capacité nominale > 6 tonnes) (CACES R 489-4) - Depuis le 01/01/2020",
+              "code_ogr": 200073,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transpalettes à conducteur porté et préparateurs de commandes au sol (CACES R 389-1)",
+              "code_ogr": 123696,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS fonderie",
+              "code_ogr": 522462,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ponts roulants (CACES R 318)",
+              "code_ogr": 121308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chariots élévateurs en porte-à-faux de capacité inférieure ou égale à 6000 kg (CACES R 389-3)",
+              "code_ogr": 123698,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles de sécurité",
+              "code_ogr": 100017,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédé de moulage au trousseau",
+              "code_ogr": 106209,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de fermetures de moule",
+              "code_ogr": 106206,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veille technologique en métrologie",
+              "code_ogr": 103167,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Serrage mécanisé de sable",
+              "code_ogr": 106198,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'étuvage",
+              "code_ogr": 106199,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage en châssis",
+              "code_ogr": 106203,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage",
+              "code_ogr": 106202,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de poteyage",
+              "code_ogr": 106150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage semi-automatisées",
+              "code_ogr": 106204,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de remmoulage",
+              "code_ogr": 106205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'ébarbage",
+              "code_ogr": 106212,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de décochage",
+              "code_ogr": 106211,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        },
+        {
+          "libelle": "Exposition à de hautes températures",
+          "code_ogr": 300789
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "100",
+      "libelle": "Industrie - Métallurgie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H2909 - Assembleur monteur / Assembleuse monteuse",
+      "code_org_rome_cible": 286,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H2907 - Fondeur / Fondeuse en métallurgie",
+      "code_org_rome_cible": 284,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H2908 - Modeleur / Modeleuse",
+      "code_org_rome_cible": 285,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2601 - Bobinier / Bobinière en électricité",
+      "code_org_rome_cible": 267,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H3402 - Opérateur / Opératrice de traitement de surface",
+      "code_org_rome_cible": 301,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H3401 - Opérateur / Opératrice de traitement d'abrasion de surface",
+      "code_org_rome_cible": 300,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1706 - Agent / Agente de préfabrication de l'industrie du béton",
+      "code_org_rome_cible": 179,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H3203 - Mouleur-stratifieur / Mouleuse-stratifieuse",
+      "code_org_rome_cible": 296,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "A1102 - Conducteur / Conductrice d'engins d'exploitation forestière",
+      "code_org_rome_cible": 403950,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "A1101 - Conducteur / Conductrice d'engins agricoles",
+      "code_org_rome_cible": 6,
+      "ordre_mobilite": 10
+    }
+  ]
+}

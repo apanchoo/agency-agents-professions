@@ -1,0 +1,605 @@
+{
+  "numero": 33686,
+  "rome": {
+    "code_rome": "N1208",
+    "intitule": "Opérateur / Opératrice de traitement de valeurs",
+    "code_ogr": 512366
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente de chambre forte ou coffre",
+      "libelle_court": "Agent / Agente de chambre forte ou coffre",
+      "code_ogr": 521756
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe caisse - comptage",
+      "libelle_court": "Chef / Cheffe d'équipe caisse - comptage",
+      "code_ogr": 521757
+    },
+    {
+      "libelle": "Opérateur / Opératrice de caisse ou comptage",
+      "libelle_court": "Opérateur / Opératrice de caisse ou comptage",
+      "code_ogr": 521758
+    },
+    {
+      "libelle": "Responsable de chambre forte ou coffre",
+      "libelle_court": "Responsable de chambre forte ou coffre",
+      "code_ogr": 521759
+    },
+    {
+      "libelle": "Responsable de service caisse",
+      "libelle_court": "Responsable de service caisse",
+      "code_ogr": 521760
+    },
+    {
+      "libelle": "Responsable de service comptage",
+      "libelle_court": "Responsable de service comptage",
+      "code_ogr": 521761
+    }
+  ],
+  "definition": "L'opérateur de traitement des valeurs assure les opérations de valorisation et de conditionnement des fonds (argent) et de valeurs (horlogerie, bijouterie, joaillerie, orfèvrerie, métaux précieux) confiés ou commandés par les clients : Valorise et conditionne les fonds et valeurs Contribue à la gestion des fonds et valeurs en conservation dans la chambre forte Assure l'entretien courant des machines de comptage, de valorisation et de conditionnement Manutentionne les colis à l'intérieur des locaux de l'entreprise Signale les anomalies",
+  "acces_metier": "Cet emploi est accessible sous conditions : - Avoir un extrait de casier judiciaire (bulletin n°2) vierge - Avoir suivi une formation certificante agréée par les autorités compétences, validant l'aptitude professionnelle - Etre détenteur d'une carte professionnelle délivrée par le CNAPS - Suivre une formation de maintien et d'actualisation des connaissances tous les 5 ans.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés aux procédures de tri et de sécurité",
+              "code_ogr": 486364,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Traiter des informations relatives à l'authenticité des pièces",
+              "code_ogr": 501143,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Utiliser les matériels technologiques de sécurisation des fonds",
+              "code_ogr": 513466,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer l'entretien courant des machines liées à l'activité",
+              "code_ogr": 521254,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la maintenance de premier niveau des machines de tri",
+              "code_ogr": 485439,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Repérer les anomalies, incidents et informer les forces de l'ordre et les clients",
+              "code_ogr": 108844,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Assurer la sécurité des transactions de métaux précieux",
+              "code_ogr": 501458,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des interventions de sécurité nécessitant une habilitation",
+              "code_ogr": 105754,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Signaler les dysfonctionnements des dispositifs de sécurité",
+              "code_ogr": 521609,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Identifier une contrefaçon",
+              "code_ogr": 123648,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner des fonds et valeurs",
+              "code_ogr": 121908,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conditionner, emballer",
+              "code_ogr": 512895,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler les besoins en approvisionnement",
+              "code_ogr": 521325,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Protéger les fonds et valeurs transportés",
+              "code_ogr": 513242,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Assurer le transport de fonds et de valeurs en utilisant des véhicules blindés et des itinéraires planifiés pour minimiser les risques",
+              "code_ogr": 490539,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transporter des fonds et valeurs selon des itinéraires et horaires aléatoires afin de minimiser les risques",
+              "code_ogr": 513443,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Renseigner les supports de contrôle et de constat",
+              "code_ogr": 300506,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les transactions monétaires entre le coffre et les caisses",
+              "code_ogr": 118070,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger des rapports d'intervention détaillés",
+              "code_ogr": 501701,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Gérer les relations avec les banques pour les aspects financiers des transactions",
+              "code_ogr": 516730,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Authentifier et compter des fonds et des valeurs",
+              "code_ogr": 117787,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser la gestion des risques financiers",
+              "code_ogr": 500894,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Assurer la conformité des transactions avec la législation",
+              "code_ogr": 484295,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Gestion de la confidentialité et de la discrétion",
+              "code_ogr": 521413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les accès à des zones restreintes",
+              "code_ogr": 484250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protéger des personnes et des biens",
+              "code_ogr": 300352,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rendre compte de son activité",
+              "code_ogr": 300462,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des informations des clients",
+              "code_ogr": 483316,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la confidentialité des transactions",
+              "code_ogr": 500174,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Documenter les procédures de sécurité, ainsi que les incidents",
+              "code_ogr": 483975,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les situations d'urgence et appliquer les procédures adéquates",
+              "code_ogr": 504068,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protéger des documents de valeurs",
+              "code_ogr": 125638,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes réglementaires dans les transactions",
+              "code_ogr": 503864,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de sécurité",
+              "code_ogr": 489283,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter des informations sensibles",
+              "code_ogr": 482369,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation des outils spécifiques de l'activité valeurs (Horlogerie, Bijouterie, Joaillerie, Orfèvrerie, métaux précieux)",
+              "code_ogr": 521213,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils de diagnostic",
+              "code_ogr": 476859,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Approvisionner les machines de conditionnement en consommables (bracelets, rouleaux)",
+              "code_ogr": 521055,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériels de comptage traitement, valorisation et conditionnement des fonds et valeurs",
+              "code_ogr": 521210,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CQP métiers d'opérateur de traitement des valeurs",
+              "code_ogr": 512427,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Analyse comportementale",
+              "code_ogr": 477324,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de traitement des fonds et valeurs",
+              "code_ogr": 521154,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques financiers",
+              "code_ogr": 478545,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de projet informatique",
+              "code_ogr": 481371,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'urgences et de secours",
+              "code_ogr": 521152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ethique professionnelle et déontologie",
+              "code_ogr": 494158,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protection des personnes",
+              "code_ogr": 124938,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Loi de sécurité financière (LSF)",
+              "code_ogr": 121943,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes relatives au conditionnement des fonds et valeurs",
+              "code_ogr": 521140,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Protection des biens",
+              "code_ogr": 124936,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de sécurité",
+              "code_ogr": 477938,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques d'analyse de transactions suspectes",
+              "code_ogr": 497823,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vérification de l'authenticité des documents",
+              "code_ogr": 498890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Matériels de comptage traitement, de valorisation, de conditionnement, de poinçonnage des bijoux",
+              "code_ogr": 521132,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication en équipe pour la sécurité",
+              "code_ogr": 477936,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion et sécurisation des fonds et valeurs",
+              "code_ogr": 521114,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En milieu exigu ou confiné",
+          "code_ogr": 23385
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Sans lumière naturelle",
+          "code_ogr": 402010
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "91",
+      "libelle": "Finance, banque et assurance",
+      "principal": false
+    },
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    },
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1209 - Technicien / Technicienne logistique",
+      "code_org_rome_cible": 515412,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1205 - Responsable de service transit",
+      "code_org_rome_cible": 488741,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1202 - Agent / Agente de transit",
+      "code_org_rome_cible": 506,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1106 - Déménageur / Déménageuse d'œuvres d'art",
+      "code_org_rome_cible": 488333,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1303 - Technicien / Technicienne de maintenance de distributeurs automatiques",
+      "code_org_rome_cible": 312,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1329 - Technicien / Technicienne d'exploitation et de maintenance des équipements audiovisuels",
+      "code_org_rome_cible": 509704,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "I1320 - Technicien / Technicienne de maintenance d'équipements connectés",
+      "code_org_rome_cible": 489206,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2506 - Convoyeur / Convoyeuse de fonds",
+      "code_org_rome_cible": 488730,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1619 - Approvisionneur / Approvisionneuse points de distribution",
+      "code_org_rome_cible": 509799,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "C1401 - Agent administratif / Agente administrative banque ou assurance",
+      "code_org_rome_cible": 75,
+      "ordre_mobilite": 10
+    }
+  ]
+}

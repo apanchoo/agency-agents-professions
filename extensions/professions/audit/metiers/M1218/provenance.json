@@ -1,0 +1,109 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509791,
+    "code_rome": "M1218",
+    "libelle": "Directeur / Directrice de l'environnement de travail",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "M1205"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 15.772,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1205",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        13
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.GPRH.12",
+          "title": "Ressources humaines : Responsabilité sociale, santé au travail et QVCT",
+          "page": 377,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=377",
+          "selection_score": 51.9276,
+          "shared_terms": [
+            "responsabilite",
+            "sante",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.CG2P.09",
+          "title": "Management d’activités : Management des opérations et outils de pilotage de l’amélioration continue",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=253",
+          "selection_score": 43.6132,
+          "shared_terms": [
+            "amelioration",
+            "continue"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GPRH.08",
+          "title": "Ressources humaines : Optimisation des dispositifs de responsabilité sociale et de QVCT",
+          "page": 416,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=416",
+          "selection_score": 41.1945,
+          "shared_terms": [
+            "optimisation",
+            "responsabilite",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CG2P.02",
+          "title": "Mettre en œuvre une démarche qualité et amélioration continue de la performance",
+          "page": 223,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=223",
+          "selection_score": 60.028,
+          "shared_terms": [
+            "amelioration",
+            "continue",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.01",
+          "title": "Contribuer à la gestion d’une organisation en fonction de ses besoins",
+          "page": 81,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=81",
+          "selection_score": 51.2537,
+          "shared_terms": [
+            "fonction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

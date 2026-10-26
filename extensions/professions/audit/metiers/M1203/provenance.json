@@ -1,0 +1,114 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 460,
+    "code_rome": "M1203",
+    "libelle": "Comptable",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "M1203"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 106.218,
+      "matched_terms": [
+        "comptab",
+        "financ",
+        "fiscal",
+        "gestion"
+      ],
+      "direct_rome_pages": [
+        13
+      ],
+      "parent_rome": "M1203",
+      "title_terms": [
+        "comptab"
+      ],
+      "specific_title_terms": [
+        "comptab"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.09",
+          "title": "Fiscalité : Approfondissements TVA et IR",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=157",
+          "selection_score": 154.3473,
+          "shared_terms": [
+            "fiscalite",
+            "tva"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.09",
+          "title": "Contrôle de gestion : Méthode des coûts cibles et tableaux de bord",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=176",
+          "selection_score": 123.8801,
+          "shared_terms": [
+            "bord",
+            "controle",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GC2F.12",
+          "title": "Finance : Gestion de trésorerie et gestion de portefeuille",
+          "page": 160,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=160",
+          "selection_score": 121.5673,
+          "shared_terms": [
+            "finance",
+            "tresorerie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GC2F.02",
+          "title": "Analyser la fiabilité d’un projet de reprise d’entreprise",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=127",
+          "selection_score": 102.2971,
+          "shared_terms": [
+            "fiabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Mettre en œuvre une organisation comptable et fiscale",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=60",
+          "selection_score": 64.7519,
+          "shared_terms": [
+            "comptable",
+            "fiscale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

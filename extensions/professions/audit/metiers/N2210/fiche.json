@@ -1,0 +1,626 @@
+{
+  "numero": 33138,
+  "rome": {
+    "code_rome": "N2210",
+    "intitule": "Superviseur / Superviseuse d'exploitation aéroportuaire",
+    "code_ogr": 509657
+  },
+  "appellations": [
+    {
+      "libelle": "Directeur / Directrice d'aérodrome",
+      "libelle_court": "Directeur / Directrice d'aérodrome",
+      "code_ogr": 14203
+    },
+    {
+      "libelle": "Directeur / Directrice des opérations d'exploitation aéroportuaire",
+      "libelle_court": "Directeur(trice) des opérations d'exploitation aéroportuaire",
+      "code_ogr": 14370
+    },
+    {
+      "libelle": "Directeur / Directrice d'exploitation aéroportuaire",
+      "libelle_court": "Directeur / Directrice d'exploitation aéroportuaire",
+      "code_ogr": 14410
+    },
+    {
+      "libelle": "Directeur d'aéroport / Directrice d'aéroport",
+      "libelle_court": "Directeur d'aéroport / Directrice d'aéroport",
+      "code_ogr": 518118
+    },
+    {
+      "libelle": "Responsable des opérations d'exploitation aéroportuaire",
+      "libelle_court": "Responsable des opérations d'exploitation aéroportuaire",
+      "code_ogr": 18930
+    },
+    {
+      "libelle": "Responsable d'exploitation aéroportuaire",
+      "libelle_court": "Responsable d'exploitation aéroportuaire",
+      "code_ogr": 18973
+    }
+  ],
+  "definition": "Le superviseur d'exploitation aéroportuaire, un rôle clé pour assurer la fluidité et la sécurité des opérations aéroportuaires. Coordonne et supervise les opérations d'embarquement et de débarquement des passagers. Veille au respect des procédures de sécurité et des réglementations en vigueur. Gère les incidents et les situations d'urgence en collaboration avec les équipes au sol. Assure la liaison entre les différents services de l'aéroport pour optimiser les flux de passagers et de bagages. Contrôle la qualité des services fournis aux passagers et propose des améliorations. Forme et encadre les équipes de terrain pour garantir un service optimal.",
+  "acces_metier": "Cet emploi est accessible avec un Certificat d'agent d'escale commercial, un BTS Tourisme ou un Diplôme d'État en gestion des opérations aéroportuaires, ce dernier étant obligatoire. Les niveaux d'études requis varient de Bac + 2 à Bac + 3.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer un briefing et débriefing sur le service",
+              "code_ogr": 489762,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Former les nouveaux membres de l'équipe",
+              "code_ogr": 501321,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser les activités des membres de l'équipe en tenant compte d'un ensemble de critères : qualité des prestations à réaliser, délais à respecter, consignes de sécurité et de sûreté, contraintes liées à l'exploitation, situations de co-activité, etc",
+              "code_ogr": 520922,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répartir la charge de travail et les tâches à effectuer entre les membres de l'équipe",
+              "code_ogr": 489488,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre le bon déroulement de l'activité",
+              "code_ogr": 520917,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transmettre des consignes liées au traitement des vols ou à la réalisation des activités",
+              "code_ogr": 520914,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Mettre en oeuvre un programme d'intégration en direction des nouveaux membres de l'équipe",
+              "code_ogr": 400156,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux membres de l'équipe aux procédures",
+              "code_ogr": 517573,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier les besoins de formation",
+              "code_ogr": 512291,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Coordonner les opérations sur le tarmac",
+              "code_ogr": 502097,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir les standards de sécurité aéroportuaire",
+              "code_ogr": 502101,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Conduire au moyen de minibus ou voiture, des passagers sur une piste aéroportuaire",
+              "code_ogr": 115586,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Définir les plannings et congés de ses équipes",
+              "code_ogr": 403386,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Renseigner des formulaires et documents liés à l'activité",
+              "code_ogr": 520918,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller au respect des horaires de vol",
+              "code_ogr": 502100,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer la réglementation douanière",
+              "code_ogr": 400214,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer le cadre juridique du transport aérien et de la navigation aérienne",
+              "code_ogr": 400225,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la conformité des pratiques avec les réglementations en vigueur",
+              "code_ogr": 505591,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer le suivi des procédures réglementaires aéroportuaires",
+              "code_ogr": 502102,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier, traiter une demande client",
+              "code_ogr": 300363,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Améliorer la qualité de service",
+              "code_ogr": 300380,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Adapter les interventions de l'équipe en fonction de l'activité des autres équipes de la même entreprise ou d'autres entreprises (coactivité)",
+              "code_ogr": 520920,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer un rôle de relais d'information ascendante et descendante entre les différents intervenants",
+              "code_ogr": 520923,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre des informations et s'assurer de leur compréhension en adoptant un langage approprié aux interlocuteurs internes et externes",
+              "code_ogr": 513440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter d'un dysfonctionnement ou d'une situation à risque",
+              "code_ogr": 511938,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer le référentiel qualité de l'entreprise",
+              "code_ogr": 400137,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Collecter les informations concernant les vols",
+              "code_ogr": 110224,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler de la mise en œuvre des procédures en vigueur, des règles de sécurité et de sûreté au cours de la réalisation des opérations et des activités",
+              "code_ogr": 520916,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Négocier en cas de conflit pour désamorcer les tensions",
+              "code_ogr": 400665,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Proposer des actions correctives",
+              "code_ogr": 520919,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir les informations sur les vols à traiter et les activités à réaliser",
+              "code_ogr": 520915,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations de vol en temps réel",
+              "code_ogr": 517461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traiter les informations nécessaires à la réalisation des activités de l'équipe",
+              "code_ogr": 520921,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Outils connectés",
+              "code_ogr": 108834,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Supervision des activités de maintenance aéroportuaire",
+              "code_ogr": 497718,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Anglais professionnel",
+              "code_ogr": 491759,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels d'enregistrement et de suivi de bagages",
+              "code_ogr": 119046,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des horaires d'équipe",
+              "code_ogr": 496571,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Données d'activité de la structure, du service",
+              "code_ogr": 115028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciels de suivi bagages",
+              "code_ogr": 119043,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des performances opérationnelles",
+              "code_ogr": 492104,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mise en œuvre de plans d'amélioration continue",
+              "code_ogr": 496174,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des équipes sur le terrain",
+              "code_ogr": 495176,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordination des opérations d'embarquement",
+              "code_ogr": 493862,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification stratégique des opérations aéroportuaires",
+              "code_ogr": 496691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interne pour les équipes aéroportuaires",
+              "code_ogr": 492499,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Terminologie aéronautique (IATA, alphabet aéronautique, ...)",
+              "code_ogr": 110177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du transport de matières et produits dangereux",
+              "code_ogr": 101424,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de prise en charge des enfants mineurs",
+              "code_ogr": 110231,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurance de la conformité aux normes aéroportuaires",
+              "code_ogr": 492255,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques opérationnels",
+              "code_ogr": 495434,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance des procédures de chargement et déchargement",
+              "code_ogr": 497764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sûreté aéroportuaire",
+              "code_ogr": 107018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Application des normes de sécurité internationales",
+              "code_ogr": 492204,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Développement de protocoles d'urgence",
+              "code_ogr": 493962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des compétences professionnelles",
+              "code_ogr": 494268,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des conflits entre personnel",
+              "code_ogr": 495060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des besoins en formation du personnel",
+              "code_ogr": 494256,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Travail avec des organisations ou partenaires internationaux",
+          "code_ogr": 511477
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En milieu occupé",
+          "code_ogr": 403094
+        },
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        },
+        {
+          "libelle": "Polyactivité",
+          "code_ogr": 403024
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N2211 - Planificateur régulateur vol / Planificatrice régulatrice vol",
+      "code_org_rome_cible": 515450,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N2215 - Coordonnateur / Coordonnatrice zone avion",
+      "code_org_rome_cible": 515437,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1308 - Responsable expédition - distribution",
+      "code_org_rome_cible": 515413,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1307 - Coordinateur / Coordinatrice logistique ferroviaire",
+      "code_org_rome_cible": 515407,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1301 - Responsable logistique",
+      "code_org_rome_cible": 507,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1204 - Coordinateur / Coordinatrice transit en import - export",
+      "code_org_rome_cible": 488601,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N4207 - Régulateur / Régulatrice poste central transport sanitaire de personnes",
+      "code_org_rome_cible": 515464,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "H1403 - Gestionnaire de flux de production",
+      "code_org_rome_cible": 227,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1720 - Category Manager Responsable (CATMAN)",
+      "code_org_rome_cible": 520176,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1506 - Manager de proximité",
+      "code_org_rome_cible": 488608,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "K1222 - Coordinateur / Coordinatrice d'équipes de médiation",
+      "code_org_rome_cible": 509911,
+      "ordre_mobilite": 11
+    }
+  ]
+}

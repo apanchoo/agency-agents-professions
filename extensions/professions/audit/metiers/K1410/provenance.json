@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 489074,
+    "code_rome": "K1410",
+    "libelle": "Directeur régional / Directrice régionale des services pénitentiaires",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": null,
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1403"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.921,
+      "matched_terms": [
+        "insertion",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.05",
+          "title": "Cadre politique et institutionnel",
+          "page": 84,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=84",
+          "selection_score": 62.7716,
+          "shared_terms": [
+            "institutionnel",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.AS.03",
+          "title": "Politiques et cadre institutionnel de l’action sociale",
+          "page": 324,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=324",
+          "selection_score": 59.4311,
+          "shared_terms": [
+            "institutionnel",
+            "politique",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.12",
+          "title": "Ethique",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=244",
+          "selection_score": 56.6341,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.ASSC.03",
+          "title": "Coordonner un projet d’animation",
+          "page": 702,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=702",
+          "selection_score": 48.5363,
+          "shared_terms": [
+            "coordonner"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.AS.03",
+          "title": "Concevoir et mettre en œuvre une intervention sociale collective",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=275",
+          "selection_score": 33.5274,
+          "shared_terms": [
+            "intervention",
+            "sociale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

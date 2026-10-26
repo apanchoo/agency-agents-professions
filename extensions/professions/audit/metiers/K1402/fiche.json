@@ -1,0 +1,569 @@
+{
+  "numero": 406,
+  "rome": {
+    "code_rome": "K1402",
+    "intitule": "Médecin conseil",
+    "code_ogr": 380
+  },
+  "appellations": [
+    {
+      "libelle": "Chirurgien-dentiste / Chirurgienne-dentiste conseil",
+      "libelle_court": "Chirurgien-dentiste / Chirurgienne-dentiste conseil",
+      "code_ogr": 12627
+    },
+    {
+      "libelle": "Dentiste conseil",
+      "libelle_court": "Dentiste conseil",
+      "code_ogr": 13961
+    },
+    {
+      "libelle": "Médecin conseil en santé publique",
+      "libelle_court": "Médecin conseil en santé publique",
+      "code_ogr": 509847
+    },
+    {
+      "libelle": "Médecin des services communaux d'hygiène",
+      "libelle_court": "Médecin des services communaux d'hygiène",
+      "code_ogr": 16574
+    },
+    {
+      "libelle": "Médecin des services communaux d'hygiène et de la santé",
+      "libelle_court": "Médecin des services communaux d'hygiène et de la santé",
+      "code_ogr": 16575
+    },
+    {
+      "libelle": "Médecin inspecteur de la santé",
+      "libelle_court": "Médecin inspecteur de la santé",
+      "code_ogr": 16585
+    },
+    {
+      "libelle": "Médecin Inspecteur de Santé Publique -MISP-",
+      "libelle_court": "Médecin Inspecteur de Santé Publique -MISP-",
+      "code_ogr": 16586
+    },
+    {
+      "libelle": "Pharmacien / Pharmacienne conseil",
+      "libelle_court": "Pharmacien / Pharmacienne conseil",
+      "code_ogr": 17681
+    },
+    {
+      "libelle": "Pharmacien inspecteur / Pharmacienne inspectrice de la santé",
+      "libelle_court": "Pharmacien inspecteur / Pharmacienne inspectrice de la santé",
+      "code_ogr": 17688
+    },
+    {
+      "libelle": "Pharmacien Inspecteur / Pharmacienne Inspectrice de Santé Publique (PhISP)",
+      "libelle_court": "Pharmacien(ne) Inspecteur(trice) Santé (PhISP)",
+      "code_ogr": 17689
+    },
+    {
+      "libelle": "Pharmacien spécialisé / Pharmacienne spécialisée en législation pharmaceutique",
+      "libelle_court": "Pharmacien(ne) spécialisé(e) en législation pharmaceutique",
+      "code_ogr": 17692
+    },
+    {
+      "libelle": "Praticien / Praticienne de santé publique",
+      "libelle_court": "Praticien / Praticienne de santé publique",
+      "code_ogr": 17959
+    }
+  ],
+  "definition": "Le médecin conseil conçoit des programmes de prévention, d'éducation de santé publique et met en place des actions de contrôle et d'évaluation du système de santé, selon les impératifs de sécurité sanitaire et la réglementation médicosociale (code de Santé Publique, Code de Sécurité Sociale, etc.). Accompagne l'évolution des pratiques des professionnels de santé et des assurés Accompagne la structuration des soins dans les territoires pour répondre aux enjeux de santé publique et de maîtrise des dépenses. Peut coordonner une équipe ou un réseau d'intervenants.",
+  "acces_metier": "Ce métier est accessible avec le Diplôme d'Etat de Docteur en médecine, pharmacie, chirurgie dentaire ou médecine vétérinaire. Des formations complémentaires (santé communautaire et médecine sociale, santé publique et médecine sociale, santé publique, etc.) peuvent être requises. L'accès à ce métier s'effectue sur concours sur titre (services déconcentrés de l'Etat, organismes de sécurité sociale, etc.). L'inscription au tableau de l'Ordre professionnel de la spécialité est obligatoire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner les personnels de santé et les usagers vers des pratiques en faveur du développement de la prévention",
+              "code_ogr": 518461,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accompagner les professionnels de santé dans l'analyse des actions à conduire afin d'améliorer la pertinence des soins et des prescriptions",
+              "code_ogr": 518494,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contribuer à des actions d'information et de promotion des services en santé et d'accès aux soins",
+              "code_ogr": 518493,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diffuser auprès des professionnels de santé les référentiels de bonnes pratiques médicales, les conditions de prise en charge et les dispositifs conventionnels",
+              "code_ogr": 518495,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Procéder aux visites de contrôle et mettre en place l'organisation des soins, l'application réglementaire, les prescriptions, ...",
+              "code_ogr": 107996,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder à l'examen médical de contrôle et déterminer les conditions d'attribution des prestations (taux d'invalidité, exonération de ticket modérateur, carte d'invalidité, ...)",
+              "code_ogr": 115144,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sensibiliser à la santé mentale et au bien-être",
+              "code_ogr": 504052,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Définir une stratégie de communication",
+              "code_ogr": 300111,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les programmes de santé publique",
+              "code_ogr": 482395,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger une publication scientifique",
+              "code_ogr": 124523,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Administrer une enquête, un sondage",
+              "code_ogr": 300065,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les données socioéconomiques (mortalité, fécondité, pathologies) afin d'évaluer l'activité médicale (consommation de soins, taux d'utilisation des équipements)",
+              "code_ogr": 107994,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Concevoir et mettre en oeuvre des actions de sensibilisation",
+              "code_ogr": 115321,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer des actions ou des règles de prévention",
+              "code_ogr": 300148,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer un risque sanitaire et mettre en place des mesures d'urgence (vaccination, fermeture d'établissement, abattage d'animaux, ...)",
+              "code_ogr": 115145,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler les pratiques des établissements de soins, des professionnels de santé et des patients et intervenir en cas de non-respect de la réglementation",
+              "code_ogr": 518496,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir un rapport d'inspection et de contrôle",
+              "code_ogr": 107997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Créer les conditions d'accompagnement des parcours des patients atteints de pathologies chroniques ou professionnelles",
+              "code_ogr": 518492,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener des échanges individuels avec les assurés",
+              "code_ogr": 518491,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Action publique",
+          "items": [
+            {
+              "libelle": "Accompagner la prise en charge coordonnée des patients par les acteurs de santé",
+              "code_ogr": 518464,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accompagner la structuration des soins dans les territoires",
+              "code_ogr": 518463,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir les modalités d'une action publique",
+              "code_ogr": 300358,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Implémenter des politiques de santé publique",
+              "code_ogr": 300583,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener des missions d'expertise internationale",
+              "code_ogr": 108011,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des actions de contrôle et d'évaluation du système de santé",
+              "code_ogr": 300631,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prendre en charge des dossiers de santé publique",
+              "code_ogr": 108005,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traduire une orientation politique en dispositifs opérationnels",
+              "code_ogr": 300680,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Accompagner les professionnels de santé et les usagers vers l'amélioration de la pertinence des prises en charge",
+              "code_ogr": 518462,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Concevoir et gérer un projet",
+              "code_ogr": 300488,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Informer et sensibiliser le public sur les comportements et pratiques de santé pour prévenir les maladies",
+              "code_ogr": 405357,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Participer à des commissions techniques ou comités consultatifs",
+              "code_ogr": 107998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et animer une réunion, un groupe de travail, un atelier",
+              "code_ogr": 300469,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Démographie",
+              "code_ogr": 107999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels d'analyse statistique",
+              "code_ogr": 499066,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Addictologie",
+              "code_ogr": 107188,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Médecine générale",
+              "code_ogr": 124284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Chirurgie dentaire",
+              "code_ogr": 124276,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pharmacologie",
+              "code_ogr": 116639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Epidémiologie",
+              "code_ogr": 107187,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyse de données expérimentales",
+              "code_ogr": 101315,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Biologie",
+              "code_ogr": 104585,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Méthodes d'enquête épidémiologique et/ou alimentaire",
+              "code_ogr": 124125,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nomenclature des actes de biologie médicale",
+              "code_ogr": 107296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Législation sociale",
+              "code_ogr": 100343,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du marché du médicament, du dispositif médical",
+              "code_ogr": 102297,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Circuit des vigilances",
+              "code_ogr": 107306,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guide des Bonnes Pratiques d'Inspection",
+              "code_ogr": 108000,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Personnes vulnérables",
+          "code_ogr": 300843
+        },
+        {
+          "libelle": "Professionnels de santé",
+          "code_ogr": 405324
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "Santé publique",
+          "code_ogr": 490158
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    },
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1401 - Directeur / Directrice d'administration centrale",
+      "code_org_rome_cible": 379,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1403 - Directeur / Directrice d'établissement pour personnes âgées",
+      "code_org_rome_cible": 381,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2402 - Ingénieur / Ingénieure de recherche scientifique",
+      "code_org_rome_cible": 427,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H1502 - Responsable qualité en industrie",
+      "code_org_rome_cible": 230,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "J1101 - Médecin du travail et de prévention",
+      "code_org_rome_cible": 332,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "M1302 - Responsable de Petite ou Moyenne Entreprise -PME-",
+      "code_org_rome_cible": 466,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H1206 - Ingénieur / Ingénieure R&D en industrie",
+      "code_org_rome_cible": 217,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1105 - Médecin coordonnateur",
+      "code_org_rome_cible": 404041,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1402 - Responsable en organisation en entreprise",
+      "code_org_rome_cible": 468,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2108 - Professeur / Professeure des universités",
+      "code_org_rome_cible": 411,
+      "ordre_mobilite": 10
+    }
+  ]
+}

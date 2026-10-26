@@ -1,0 +1,259 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404542,
+    "code_rome": "H1507",
+    "libelle": "Chargé / Chargée des affaires réglementaires",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "H1502"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.451,
+      "matched_terms": [
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.07",
+          "title": "Mise en place d’une certification système",
+          "page": 162,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=162",
+          "selection_score": 78.3051,
+          "shared_terms": [
+            "certification",
+            "mise",
+            "place"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.08",
+          "title": "Pérennisation d’une certification système",
+          "page": 163,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=163",
+          "selection_score": 48.2826,
+          "shared_terms": [
+            "certification"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 46.0336,
+          "shared_terms": [
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Résolution de problèmes",
+          "page": 54,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=54",
+          "selection_score": 95.5041,
+          "shared_terms": [
+            "probleme",
+            "resolution"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MP.02",
+          "title": "Appréhender une unité de production",
+          "page": 127,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=127",
+          "selection_score": 44.1736,
+          "shared_terms": [
+            "apprehender"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "pec",
+      "title": "Packaging, emballage et conditionnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.803,
+      "matched_terms": [
+        "conditionnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf",
+      "programme_sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.03",
+          "title": "Evaluation d’impact environnemental",
+          "page": 103,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=103",
+          "selection_score": 75.2651,
+          "shared_terms": [
+            "environnemental",
+            "impact"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.03",
+          "title": "Homologation packaging 1",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=119",
+          "selection_score": 49.2161,
+          "shared_terms": [
+            "homologation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.03",
+          "title": "Homologation packaging 2",
+          "page": 133,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=133",
+          "selection_score": 47.4376,
+          "shared_terms": [
+            "homologation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.01",
+          "title": "Éco-concevoir la structure d’un emballage simple",
+          "page": 33,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=33",
+          "selection_score": 40.8393,
+          "shared_terms": [
+            "eco",
+            "structure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Fonctions logistiques",
+          "page": 36,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=36",
+          "selection_score": 37.9039,
+          "shared_terms": [
+            "fonction"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mp",
+      "title": "Mesures physiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.026,
+      "matched_terms": [
+        "essai"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "H1502",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf",
+      "programme_sha256": "a53479620d20ca9dbb8481c90abee27f45df69852256ddb1a39bd3312281af58",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.TI.05",
+          "title": "Contrôles et essais industriels relatifs à des grandeurs de la physique ondulatoire",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=157",
+          "selection_score": 33.012,
+          "shared_terms": [
+            "controle",
+            "essai"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MCPC.05",
+          "title": "Expertise et contrôle de produits industriels",
+          "page": 257,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=257",
+          "selection_score": 32.474,
+          "shared_terms": [
+            "controle",
+            "produit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.10",
+          "title": "Conditionnement de signaux et pilotage d’instruments",
+          "page": 121,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=121",
+          "selection_score": 30.5172,
+          "shared_terms": [
+            "conditionnement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MAE.01",
+          "title": "Mettre en œuvre une chaîne de mesure, de contrôle et d’essai dans les domaines de l’environnement ou de l’énergie",
+          "page": 284,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=284",
+          "selection_score": 49.4747,
+          "shared_terms": [
+            "controle",
+            "essai",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.TI.02",
+          "title": "Concrétiser un projet complexe et sous contraintes en techniques d’instrumentation",
+          "page": 165,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/mesures-physiques-30861.pdf#page=165",
+          "selection_score": 46.8134,
+          "shared_terms": [
+            "complexe",
+            "contrainte"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

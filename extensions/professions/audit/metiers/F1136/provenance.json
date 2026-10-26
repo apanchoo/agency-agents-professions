@@ -1,0 +1,190 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509938,
+    "code_rome": "F1136",
+    "libelle": "Chef / Cheffe de projet éolien",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1106"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.978,
+      "matched_terms": [
+        "energe",
+        "renouvelable"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.02",
+          "title": "Énergies renouvelables",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=104",
+          "selection_score": 76.3152,
+          "shared_terms": [
+            "energie",
+            "renouvelable"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.EXPLOIT.03",
+          "title": "Études réglementaires en énergétique du bâtiment",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=135",
+          "selection_score": 48.8719,
+          "shared_terms": [
+            "energetique",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MANÉ.03",
+          "title": "Amélioration de la performance énergétique",
+          "page": 315,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=315",
+          "selection_score": 41.7311,
+          "shared_terms": [
+            "energetique",
+            "performance"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 462,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=462",
+          "selection_score": 63.1087,
+          "shared_terms": [
+            "energetique",
+            "environnementale",
+            "installation",
+            "performance",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.OPTIM.03",
+          "title": "Études thermique et environnementale réglementaires sur un bâtiment en phase de conception",
+          "page": 394,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=394",
+          "selection_score": 35.9622,
+          "shared_terms": [
+            "environnementale",
+            "reglementaire"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 16.253,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.06",
+          "title": "Topographie 2",
+          "page": 104,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=104",
+          "selection_score": 67.3597,
+          "shared_terms": [
+            "topographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Topographie 1",
+          "page": 76,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=76",
+          "selection_score": 67.103,
+          "shared_terms": [
+            "topographie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.10",
+          "title": "Mécanique des structures 3",
+          "page": 334,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=334",
+          "selection_score": 45.5697,
+          "shared_terms": [
+            "mecanique",
+            "structure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BEC.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel)",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=379",
+          "selection_score": 55.9692,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "installation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.TP.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine des TP",
+          "page": 222,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=222",
+          "selection_score": 55.9659,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "installation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

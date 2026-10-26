@@ -1,0 +1,277 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521040,
+    "code_rome": "N1306",
+    "libelle": "Coordonnateur / Coordonnatrice de projet logistique humanitaire",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "N1301"
+  },
+  "but": [
+    {
+      "programme_id": "qlio",
+      "title": "Qualité, logistique industrielle et organisation",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 99.298,
+      "matched_terms": [
+        "approvisionnement",
+        "flux",
+        "logist",
+        "qualite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1301",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf",
+      "programme_sha256": "54b899533eca5eea3d730b4786816be84a14b635ed2157f52156bea42c1f1c73",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.QMI.11",
+          "title": "Gestion des risques de la santé, de la sécurité au travail et de l’environnement",
+          "page": 319,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=319",
+          "selection_score": 64.8055,
+          "shared_terms": [
+            "risque",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OSC.14",
+          "title": "Distribution, transport et Supply Chain",
+          "page": 256,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=256",
+          "selection_score": 63.2153,
+          "shared_terms": [
+            "chain",
+            "supply",
+            "transport"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.OSC.13",
+          "title": "Activités d’un site logistique",
+          "page": 209,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=209",
+          "selection_score": 62.5144,
+          "shared_terms": [
+            "logistique",
+            "site"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.QMI.02",
+          "title": "Évaluation des risques opérationnels",
+          "page": 301,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=301",
+          "selection_score": 56.0871,
+          "shared_terms": [
+            "operationnel",
+            "risque"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.OSC.02",
+          "title": "Dimensionnement d’un site logistique",
+          "page": 190,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/qualit-logistique-industrielle-et-organisation-30873.pdf#page=190",
+          "selection_score": 49.8358,
+          "shared_terms": [
+            "logistique",
+            "site"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mlt",
+      "title": "Management de la logistique et des transports",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.865,
+      "matched_terms": [
+        "flux",
+        "logist"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1301",
+      "title_terms": [
+        "logist"
+      ],
+      "specific_title_terms": [
+        "logist"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf",
+      "programme_sha256": "88eff8213cc73d0149f9a53201dc042ac0037654b6ec3d3f4401838a98f382dc",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Introduction à la gestion des stocks et des approvisionnements",
+          "page": 68,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=68",
+          "selection_score": 77.752,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Gestion des stocks et des approvisionnements : approfondissement",
+          "page": 94,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=94",
+          "selection_score": 77.347,
+          "shared_terms": [
+            "approvisionnement",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.07",
+          "title": "Tableaux de bord dynamiques",
+          "page": 146,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=146",
+          "selection_score": 71.8995,
+          "shared_terms": [
+            "bord",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.02",
+          "title": "Étude de l’entreposage et de la logistique",
+          "page": 35,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=35",
+          "selection_score": 75.8508,
+          "shared_terms": [
+            "entreposage",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MSCD.01",
+          "title": "Optimisation d’une chaîne logistique dans une démarche durable",
+          "page": 226,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/management-de-la-logistique-et-des-transports-30858.pdf#page=226",
+          "selection_score": 56.3219,
+          "shared_terms": [
+            "chaine",
+            "logistique",
+            "optimisation"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "pec",
+      "title": "Packaging, emballage et conditionnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.458,
+      "matched_terms": [
+        "conditionnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "N1301",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf",
+      "programme_sha256": "e243f2ef20d231df1670260d8d95a98432943e45dab3dda6bc24b0240cc42199",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Gestion des flux et des stocks",
+          "page": 66,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=66",
+          "selection_score": 80.027,
+          "shared_terms": [
+            "flux",
+            "stock"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Gestion de la production et des entrepôts",
+          "page": 86,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=86",
+          "selection_score": 65.7994,
+          "shared_terms": [
+            "entrepot",
+            "production"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.09",
+          "title": "Systèmes d’information et de traçabilité",
+          "page": 87,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=87",
+          "selection_score": 65.3325,
+          "shared_terms": [
+            "tracabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.04",
+          "title": "Gestion des flux logistiques",
+          "page": 58,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=58",
+          "selection_score": 63.1753,
+          "shared_terms": [
+            "flux",
+            "logistique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.ECHSC.01",
+          "title": "Projet de développement de packaging adapté à la chaîne logistique",
+          "page": 138,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/packaging-emballage-et-conditionnement-30870.pdf#page=138",
+          "selection_score": 38.6989,
+          "shared_terms": [
+            "chaine",
+            "logistique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

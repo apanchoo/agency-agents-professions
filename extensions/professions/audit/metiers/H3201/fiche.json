@@ -1,0 +1,604 @@
+{
+  "numero": 401,
+  "rome": {
+    "code_rome": "H3201",
+    "intitule": "Plasturgiste",
+    "code_ogr": 294
+  },
+  "appellations": [
+    {
+      "libelle": "Conducteur / Conductrice de presses à vulcaniser",
+      "libelle_court": "Conducteur / Conductrice de presses à vulcaniser",
+      "code_ogr": 13142
+    },
+    {
+      "libelle": "Formeur / Formeuse en thermoplastiques",
+      "libelle_court": "Formeur / Formeuse en thermoplastiques",
+      "code_ogr": 15148
+    },
+    {
+      "libelle": "Formeur-usineur / Formeuse-usineuse en thermoplastiques",
+      "libelle_court": "Formeur-usineur / Formeuse-usineuse en thermoplastiques",
+      "code_ogr": 15149
+    },
+    {
+      "libelle": "Injecteur / Injecteuse chaussures",
+      "libelle_court": "Injecteur / Injecteuse chaussures",
+      "code_ogr": 15917
+    },
+    {
+      "libelle": "Mouleur-stratifieur / Mouleuse-stratifieuse par pultrusion",
+      "libelle_court": "Mouleur-stratifieur / Mouleuse-stratifieuse par pultrusion",
+      "code_ogr": 16924
+    },
+    {
+      "libelle": "Soudeur / Soudeuse chaussures",
+      "libelle_court": "Soudeur / Soudeuse chaussures",
+      "code_ogr": 19463
+    },
+    {
+      "libelle": "Thermoformeur / Thermoformeuse",
+      "libelle_court": "Thermoformeur / Thermoformeuse",
+      "code_ogr": 20323
+    },
+    {
+      "libelle": "Vulcaniseur / Vulcaniseuse chaussures",
+      "libelle_court": "Vulcaniseur / Vulcaniseuse chaussures",
+      "code_ogr": 20721
+    }
+  ],
+  "definition": "Le Plasturgiste transforme des matières plastiques en produits finis ou semi-finis selon les spécifications techniques des secteurs industriels. Effectue des contrôles de conformité dimensionnels et visuels des produits en cours de production Opère sur des machines de moulage, d'extrusion ou de thermoformage pour façonner les plastiques Règle les équipements en optimisant les cadences et effectue la maintenance de premier niveau Respecte les normes de sécurité et les protocoles environnementaux dans la manipulation des matières plastiques",
+  "acces_metier": "Ce métier est accessible avec un niveau Bac à Bac + 5 BTS, Licence en plasturgie et matériaux composites ou Diplôme d'ingénieur spécialisé. Une certification en gestion, contrôle qualité des matériaux et des CACES seraient un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Apprécier visuellement la symétrie, la couleur, la régularité",
+              "code_ogr": 109150,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les anomalies ou dérives et leurs causes en fonction de normes et de consignes établies",
+              "code_ogr": 400816,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Comprendre, interpréter des données et documents techniques",
+              "code_ogr": 300124,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Elaborer et planifier un programme de production, d'exploitation",
+              "code_ogr": 300174,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Approvisionner une machine en matière première ou en produit",
+              "code_ogr": 300208,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conduire une ligne de production",
+              "code_ogr": 400860,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maîtriser les caractéristiques d'un produit ou d'un matériau",
+              "code_ogr": 300207,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Monter et régler une installation, une machine",
+              "code_ogr": 300135,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter et conduire des équipements en fonction de la production à réaliser et selon les procédures établies",
+              "code_ogr": 400795,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la transformation de matières (plastique, caoutchouc, ...) sur machine de thermoformage",
+              "code_ogr": 106335,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier, diagnostiquer et traiter une anomalie, un dysfonctionnement, un risque et évaluer l'urgence d'une intervention interne et/ou externe",
+              "code_ogr": 400894,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Organiser ou surveiller des phases de fabrication",
+              "code_ogr": 300173,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller l'approvisionnement des machines, des installations et le flux des matières ou des produits",
+              "code_ogr": 104854,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser la qualité des process",
+              "code_ogr": 300250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler certaines caractéristiques des produits en prélevant des échantillons de produits selon des instructions afin d'identifier les écarts",
+              "code_ogr": 400803,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité des produits finis",
+              "code_ogr": 482508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler un moyen de production",
+              "code_ogr": 123560,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier des non-conformités",
+              "code_ogr": 105456,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Surveiller la qualité des produits reçus pour garantir leur fraîcheur",
+              "code_ogr": 400817,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Identifier un produit",
+              "code_ogr": 125728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller le flux et l'avancée de produits sur une ligne de production ou de convoyage et effectuer des interventions de déblocage et de retrait d'éléments",
+              "code_ogr": 114853,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier les caractéristiques et la qualité des approvisionnements et matières pour les formats à produire",
+              "code_ogr": 400841,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Réduire les coûts, les consommations, les rejets",
+              "code_ogr": 300310,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Trier les produits, pièces, matériaux et les orienter vers les filières de valorisation ou d'élimination",
+              "code_ogr": 108740,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Contrôler des flux",
+              "code_ogr": 124018,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer à l'oral en milieu professionnel",
+              "code_ogr": 300410,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Evaluer le résultat de ses actions",
+              "code_ogr": 300495,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des matériaux en plastiques et composites",
+              "code_ogr": 105976,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des plastiques",
+              "code_ogr": 106347,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines à extrusion",
+              "code_ogr": 106329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des matériaux de garnissage",
+              "code_ogr": 118951,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Engins de manutention non motorisés (transpalette, diable, etc.)",
+              "code_ogr": 101829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines à compression",
+              "code_ogr": 106328,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Machines à injection",
+              "code_ogr": 106331,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'instruments de mesure (gabarit, balance, ...)",
+              "code_ogr": 105305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques techniques des moules",
+              "code_ogr": 106171,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de machines à injection soufflage",
+              "code_ogr": 106332,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Ingénieur spécialisé en procédés et polymères, diplômé de l'école nationale supérieure du pétrole et des moteurs",
+              "code_ogr": 514510,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro plastiques et composites",
+              "code_ogr": 521967,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école polytechnique universitaire de l'université d'Aix-Marseille spécialité matériaux",
+              "code_ogr": 522432,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien des matériaux composites",
+              "code_ogr": 522060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ingénieur diplômé de l'école européenne de chimie, polymères et matériaux de Strasbourg de l'université de Strasbourg",
+              "code_ogr": 522430,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestion de projets et de risques industriels",
+              "code_ogr": 477116,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Plasturgie",
+              "code_ogr": 400994,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Programmation de machine à commandes numériques",
+              "code_ogr": 102884,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures de conduite d'installation en mode automatique",
+              "code_ogr": 105819,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de contrôle visuel",
+              "code_ogr": 125619,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de réglage",
+              "code_ogr": 105822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Marquage à chaud",
+              "code_ogr": 106341,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes environnementales liées au matériel",
+              "code_ogr": 493151,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des stocks de matières premières",
+              "code_ogr": 476801,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de recyclage des plastiques",
+              "code_ogr": 518796,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réglage de machines de finition de matière plastique ou caoutchouc",
+              "code_ogr": 116563,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprise industrielle",
+          "code_ogr": 512382
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "106",
+      "libelle": "Industrie - Chimie",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "H3202 - Monteur régleur / Monteuse régleuse en plasturgie",
+      "code_org_rome_cible": 295,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H3102 - Conducteur / Conductrice d'installation de pâte à papier",
+      "code_org_rome_cible": 293,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "H3101 - Conducteur / Conductrice de machines à papier ou carton",
+      "code_org_rome_cible": 292,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2802 - Opérateur / Opératrice de fabrication en matériaux de construction",
+      "code_org_rome_cible": 274,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "H3301 - Conducteur / Conductrice de ligne de conditionnement",
+      "code_org_rome_cible": 297,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1302 - Technicien / Technicienne de maintenance d'installations automatisées",
+      "code_org_rome_cible": 311,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "E1304 - Agent / Agente de façonnage et routage",
+      "code_org_rome_cible": 135,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2301 - Agent / Agente d'exploitation des réseaux d'assainissement",
+      "code_org_rome_cible": 420,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "E1315 - Conducteur / Conductrice de machines de reliure automatique",
+      "code_org_rome_cible": 510313,
+      "ordre_mobilite": 10
+    }
+  ]
+}

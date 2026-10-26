@@ -1,0 +1,110 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510262,
+    "code_rome": "K1913",
+    "libelle": "Médiateur / Médiatrice judiciaire",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1901"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.58,
+      "matched_terms": [
+        "droit",
+        "judiciaire"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1901",
+      "title_terms": [
+        "judiciaire"
+      ],
+      "specific_title_terms": [
+        "judiciaire"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.PF.06",
+          "title": "Droit notarial",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=253",
+          "selection_score": 68.224,
+          "shared_terms": [
+            "droit",
+            "notarial"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.05",
+          "title": "Droit de l’immobilier",
+          "page": 252,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=252",
+          "selection_score": 67.8842,
+          "shared_terms": [
+            "droit",
+            "immobilier"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.04",
+          "title": "Organisation judiciaire",
+          "page": 51,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=51",
+          "selection_score": 62.9754,
+          "shared_terms": [
+            "judiciaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.PF.01",
+          "title": "Conseils juridiques dans un contexte amiable ou dans une situation contentieuse",
+          "page": 230,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=230",
+          "selection_score": 76.2539,
+          "shared_terms": [
+            "amiable",
+            "conseil",
+            "juridique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EA.01",
+          "title": "Audit et conseils liés aux pratiques et procédures d’une organisation ou d’un service",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=199",
+          "selection_score": 50.8539,
+          "shared_terms": [
+            "conseil",
+            "procedure"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

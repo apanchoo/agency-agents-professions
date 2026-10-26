@@ -1,0 +1,604 @@
+{
+  "numero": 528,
+  "rome": {
+    "code_rome": "N1202",
+    "intitule": "Agent / Agente de transit",
+    "code_ogr": 506
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente consignataire de navire",
+      "libelle_court": "Agent / Agente consignataire de navire",
+      "code_ogr": 10369
+    },
+    {
+      "libelle": "Agent / Agente de fret aérien",
+      "libelle_court": "Agent / Agente de fret aérien",
+      "code_ogr": 10460
+    },
+    {
+      "libelle": "Agent / Agente de sûreté fret",
+      "libelle_court": "Agent / Agente de sûreté fret",
+      "code_ogr": 10616
+    },
+    {
+      "libelle": "Agent / Agente de transit aérien",
+      "libelle_court": "Agent / Agente de transit aérien",
+      "code_ogr": 10633
+    },
+    {
+      "libelle": "Agent / Agente de transit export",
+      "libelle_court": "Agent / Agente de transit export",
+      "code_ogr": 10634
+    },
+    {
+      "libelle": "Agent / Agente de transit import",
+      "libelle_court": "Agent / Agente de transit import",
+      "code_ogr": 10635
+    },
+    {
+      "libelle": "Agent / Agente de transit maritime",
+      "libelle_court": "Agent / Agente de transit maritime",
+      "code_ogr": 10636
+    },
+    {
+      "libelle": "Consignataire maritime",
+      "libelle_court": "Consignataire maritime",
+      "code_ogr": 13517
+    },
+    {
+      "libelle": "Employé / Employée de consignation maritime",
+      "libelle_court": "Employé / Employée de consignation maritime",
+      "code_ogr": 14762
+    },
+    {
+      "libelle": "Employé / Employée de cotation maritime",
+      "libelle_court": "Employé / Employée de cotation maritime",
+      "code_ogr": 14763
+    },
+    {
+      "libelle": "Employé / Employée de courtage maritime",
+      "libelle_court": "Employé / Employée de courtage maritime",
+      "code_ogr": 14764
+    },
+    {
+      "libelle": "Employé / Employée de réservation fret maritime (booking)",
+      "libelle_court": "Employé / Employée de réservation fret maritime (booking)",
+      "code_ogr": 14784
+    },
+    {
+      "libelle": "Employé / Employée de transit",
+      "libelle_court": "Employé / Employée de transit",
+      "code_ogr": 14789
+    },
+    {
+      "libelle": "Employé / Employée de transit international",
+      "libelle_court": "Employé / Employée de transit international",
+      "code_ogr": 14790
+    },
+    {
+      "libelle": "Employé / Employée de transit maritime",
+      "libelle_court": "Employé / Employée de transit maritime",
+      "code_ogr": 14791
+    },
+    {
+      "libelle": "Employé / Employée d'exploitation de transit aérien",
+      "libelle_court": "Employé / Employée d'exploitation de transit aérien",
+      "code_ogr": 14795
+    },
+    {
+      "libelle": "Technicien / Technicienne d'opérations multi modales de transport international de marchandises",
+      "libelle_court": "Technicien(ne) op multi modales transport inter march",
+      "code_ogr": 20017
+    },
+    {
+      "libelle": "Technicien / Technicienne gestionnaire de transit",
+      "libelle_court": "Technicien / Technicienne gestionnaire de transit",
+      "code_ogr": 20163
+    }
+  ],
+  "definition": "L'agent de transit assure la gestion des opérations de transport international de marchandises (à l'import comme à l'export). Organise et supervise le transport de marchandises à l'international Coordonne toutes les étapes de la prestation de transport avec les différents acteurs du transport maritime, aérien et terrestre Assure le respect des réglementations douanières et de sûreté Gère les aléas qui peuvent survenir lors du transit Gère la documentation nécessaire pour le transit des marchandises Contribue à garantir une prestation qui respecte les objectifs en termes de qualité de service, de satisfaction client et de rentabilité.",
+  "acces_metier": "Cet emploi est accessible à partir d'un diplôme de niveau BAC +2 en transport logistique ou commerce international. La pratique de l'anglais est exigée, celle d'une autre langue étrangère peut apporter un plus.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Adapter sa communication selon les interlocuteurs et les médias utilisés",
+              "code_ogr": 403822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils digitaux (communication, applications, objets connectés)",
+              "code_ogr": 405260,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité des données",
+              "code_ogr": 300253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Renseigner des outils de traçabilité de l'activité",
+              "code_ogr": 513349,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Renseigner et tenir à jour des outils de suivi de l'activité (tableaux de bord, relevés d'incidents, qualité, etc.)",
+              "code_ogr": 513352,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Evaluer les risques liés au transport de marchandises spécifiques",
+              "code_ogr": 486176,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Identifier les incidents sur les différentes étapes, impactant les délais et la conformité des opérations de transit",
+              "code_ogr": 513089,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Coordonner et contrôler les prestations associées (douane, stockage, emballage, handling, manutention...)",
+              "code_ogr": 512954,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier et contrôler les zones de stockage des marchandises en transit",
+              "code_ogr": 513083,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser un plan de chargement des marchandises",
+              "code_ogr": 110473,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Contribuer à l'élaboration d'un plan de transport dans un contexte international",
+              "code_ogr": 512922,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner des opérations de transport de produits spécifiques",
+              "code_ogr": 512953,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Créer et vérifier les documents de transport de marchandises (Air way, Bill of Landing, etc.)",
+              "code_ogr": 512962,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer une réservation de fret dans les différents modes de transport",
+              "code_ogr": 513000,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre l'acheminement des marchandises, informer le client sur le déroulement de la prestation et présenter des solutions en cas d'anomalies",
+              "code_ogr": 513411,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter les informations de livraison et ajuster les plans en conséquence",
+              "code_ogr": 485802,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Contrôler les documents liés à la circulation internationale des marchandises (facture douanière, crédit documentaire, etc.)",
+              "code_ogr": 512943,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les documents de transport et de suivi des opérations",
+              "code_ogr": 513071,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer, suivre ou contrôler la facturation d'opérations de transit ou de douane : règlement fournisseurs, taxes douanières, Déclaration d'Echanges de Biens (DEB)",
+              "code_ogr": 113362,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Appliquer le cadre défini pour réduire l'impact environnemental lors des prestations",
+              "code_ogr": 512817,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la conformité des pratiques avec les réglementations en vigueur",
+              "code_ogr": 505591,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Analyser et interpréter la demande et les besoins du client (interne/externe) à partir des informations fournies",
+              "code_ogr": 512801,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Appliquer une grille tarifaire",
+              "code_ogr": 512823,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Calculer les marges, la rentabilité d'un produit ou d'une activité",
+              "code_ogr": 122032,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir l'avis et les remarques d'un client",
+              "code_ogr": 122327,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer, lire et rédiger des documents techniques, des rapports, des notes en anglais",
+              "code_ogr": 404863,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interagir au quotidien avec le réseau d'agents ou de correspondants",
+              "code_ogr": 513110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Participer à la circulation et au partage des informations au sein de l'équipe",
+              "code_ogr": 513177,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer les urgences et les imprévus dans le transit",
+              "code_ogr": 484331,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir une veille réglementaire et technique",
+              "code_ogr": 486092,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rapporter les incidents et anomalies rencontrés",
+              "code_ogr": 121866,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de gestion de fret",
+              "code_ogr": 481046,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence pro mention logistique et transports internationaux",
+              "code_ogr": 491621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel organisateur de transports aériens ou maritimes de marchandises",
+              "code_ogr": 512494,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS gestion des transports et logistique associée",
+              "code_ogr": 512394,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BUT spécialité management de la logistique et des transports parcours mobilité et supply chain connectées",
+              "code_ogr": 512398,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS commerce international",
+              "code_ogr": 490873,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Titre professionnel technicien supérieur en méthodes et exploitation logistique",
+              "code_ogr": 491624,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Commerce international",
+              "code_ogr": 118718,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ecosystème portuaire et aéroportuaire",
+              "code_ogr": 512537,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Typologies d'envoi en mode routier, aérien ou maritime",
+              "code_ogr": 512590,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques de la chaîne logistique (Supply Chain)",
+              "code_ogr": 124892,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels spécifiques au secteur (Port Community System, Cargo Community Systemetc.)",
+              "code_ogr": 512600,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interculturelle",
+              "code_ogr": 119743,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de gestion des transports (TMS : Transport Management System)",
+              "code_ogr": 126045,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système d'Information Géographique (SIG)",
+              "code_ogr": 119432,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Obligations et procédures en matière de sûreté du fret",
+              "code_ogr": 512647,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementations nationales et internationales, pour les transports terrestres, aérien ou maritime",
+              "code_ogr": 512661,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réglementation du commerce international (Incoterms, ...)",
+              "code_ogr": 102316,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Optimisation des modes de transport",
+              "code_ogr": 512728,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication et de négociation",
+              "code_ogr": 404573,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et techniques de tarification du fret routier, maritime, aérien",
+              "code_ogr": 512731,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'import/export",
+              "code_ogr": 110109,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        },
+        {
+          "libelle": "Zone nationale",
+          "code_ogr": 300817
+        },
+        {
+          "libelle": "Zone régionale",
+          "code_ogr": 23381
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En milieu industriel",
+          "code_ogr": 489918
+        },
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        },
+        {
+          "libelle": "En zone portuaire",
+          "code_ogr": 300786
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N1205 - Responsable de service transit",
+      "code_org_rome_cible": 488741,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N1204 - Coordinateur / Coordinatrice transit en import - export",
+      "code_org_rome_cible": 488601,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N1203 - Déclarant / Déclarante en douane",
+      "code_org_rome_cible": 488586,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N1201 - Affréteur / Affréteuse",
+      "code_org_rome_cible": 505,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N1116 - Inventoriste",
+      "code_org_rome_cible": 489168,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N4203 - Agent / Agente d'exploitation en transport routier de marchandises",
+      "code_org_rome_cible": 530,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N4401 - Aiguilleur / Aiguilleure du rail",
+      "code_org_rome_cible": 534,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1402 - Commercial / Commerciale grands comptes et entreprises",
+      "code_org_rome_cible": 103,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N3203 - Ouvrier / Ouvrière de manutention portuaire",
+      "code_org_rome_cible": 522,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "N1207 - Chef / Cheffe de groupe affrètement",
+      "code_org_rome_cible": 489175,
+      "ordre_mobilite": 11
+    }
+  ]
+}

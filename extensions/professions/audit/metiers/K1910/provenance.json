@@ -1,0 +1,107 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510013,
+    "code_rome": "K1910",
+    "libelle": "Commissaire à la Cour des comptes",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1904"
+  },
+  "but": [
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 16.083,
+      "matched_terms": [
+        "jurid"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1904",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.08",
+          "title": "Institutions publiques 1",
+          "page": 55,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=55",
+          "selection_score": 80.6507,
+          "shared_terms": [
+            "institution",
+            "publique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.08",
+          "title": "Institutions publiques 2",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=78",
+          "selection_score": 79.8263,
+          "shared_terms": [
+            "institution",
+            "publique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.AJ.01",
+          "title": "Finances publiques",
+          "page": 142,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=142",
+          "selection_score": 71.7369,
+          "shared_terms": [
+            "finance",
+            "publique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.EA.01",
+          "title": "Audit et conseils liés aux pratiques et procédures d’une organisation ou d’un service",
+          "page": 199,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=199",
+          "selection_score": 82.9237,
+          "shared_terms": [
+            "audit",
+            "lies",
+            "procedure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.AJ.02",
+          "title": "Rédaction et/ou contrôle d’actes administratifs",
+          "page": 91,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=91",
+          "selection_score": 71.5214,
+          "shared_terms": [
+            "administratif",
+            "controle",
+            "redaction"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

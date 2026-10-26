@@ -1,0 +1,515 @@
+{
+  "numero": 321,
+  "rome": {
+    "code_rome": "J1305",
+    "intitule": "Ambulancier / Ambulancière",
+    "code_ogr": 342
+  },
+  "appellations": [
+    {
+      "libelle": "Ambulancier / Ambulancière urgentiste",
+      "libelle_court": "Ambulancier / Ambulancière urgentiste",
+      "code_ogr": 10929
+    },
+    {
+      "libelle": "Ambulancier chef de bord / Ambulancière cheffe de bord",
+      "libelle_court": "Ambulancier chef de bord / Ambulancière cheffe de bord",
+      "code_ogr": 513569
+    },
+    {
+      "libelle": "Ambulancier hospitalier / Ambulancière hospitalière",
+      "libelle_court": "Ambulancier hospitalier / Ambulancière hospitalière",
+      "code_ogr": 10928
+    },
+    {
+      "libelle": "Conducteur / Conductrice de Véhicule Sanitaire",
+      "libelle_court": "Conducteur / Conductrice de Véhicule Sanitaire",
+      "code_ogr": 13229
+    },
+    {
+      "libelle": "Conducteur / Conductrice de Véhicule Sanitaire Léger (VSL)",
+      "libelle_court": "Conducteur / Conductrice de Véhicule Sanitaire Léger (VSL)",
+      "code_ogr": 13230
+    },
+    {
+      "libelle": "Conducteur ambulancier / Conductrice ambulancière",
+      "libelle_court": "Conducteur ambulancier / Conductrice ambulancière",
+      "code_ogr": 12853
+    },
+    {
+      "libelle": "Conducteur ambulancier / Conductrice ambulancière de services d'urgence",
+      "libelle_court": "Conducteur(trice) ambulancier(ère) de services d'urgence",
+      "code_ogr": 12854
+    },
+    {
+      "libelle": "Conducteur ambulancier hospitalier / Conductrice ambulancière hospitalière",
+      "libelle_court": "Conducteur(trice) ambulancier(ère) hospitalier(ère)",
+      "code_ogr": 12855
+    }
+  ],
+  "definition": "L'ambulancier assure un rôle crucial dans les services de transports sanitaires, offrant une assistance rapide et compétente. Transporte les patients vers les établissements de soins en respectant les règles de sécurité et les urgences médicales Assure le confort et la sécurité des patients pendant le transport Réalise les premiers soins de surveillance et d'assistance des patients pendant le transport Gère les équipements médicaux et veille à leur bon fonctionnement Communique avec le personnel médical et les services d'urgence (SMUR) pour assurer une prise en charge efficace Maintient les dossiers de transport et les rapports d'intervention à jour",
+  "acces_metier": "Cet emploi est accessible avec le Diplôme d'Etat d'ambulancier, un permis B hors période probatoire et une attestation préfectorale d'aptitude à la conduite d'ambulance, un certificat médical de non contre-indications à l'exercice de la profession, une attestation médicale d'immunisation et de vaccinations obligatoires. Le permis C peut également être requis pour la conduite de certains véhicules sanitaires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Contribuer au bien-être physique d'une personne",
+              "code_ogr": 300597,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contribuer au bien-être psychologique d'une personne",
+              "code_ogr": 300598,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encourager les patients à exprimer leurs inquiétudes et questions",
+              "code_ogr": 506990,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer rapidement les besoins médicaux des patients, assurer leur surveillance et rapporter les changements et évolutions",
+              "code_ogr": 513036,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prodiguer les gestes professionnels appropriés ou dictés par le médecin",
+              "code_ogr": 513228,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer, installer un dispositif médico-technique",
+              "code_ogr": 300143,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir le véhicule sanitaire en état de propreté",
+              "code_ogr": 506980,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier le fonctionnement des équipements du véhicule sanitaire, repérer les dysfonctionnements",
+              "code_ogr": 107387,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre en compte les dates de péremption des fournitures",
+              "code_ogr": 513210,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Installer le patient dans le véhicule sanitaire",
+              "code_ogr": 513106,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder au brancardage d'un patient",
+              "code_ogr": 116715,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Renseigner des documents médico-administratifs",
+              "code_ogr": 124221,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les horaires et itinéraires prévus",
+              "code_ogr": 487069,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer et trier des déchets, des produits",
+              "code_ogr": 300298,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer avec l'entourage de la personne transportée",
+              "code_ogr": 512874,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Echanger de l'information sur la surveillance médicale avec le personnel hospitalier",
+              "code_ogr": 512993,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir une relation professionnelle de confiance et faciliter la communication avec la personne transportée",
+              "code_ogr": 513027,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les protocoles de sécurité sanitaire",
+              "code_ogr": 500921,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de réactivité",
+              "code_ogr": 300473,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Ambulance de secours et de soins d'urgence (ASSU)",
+              "code_ogr": 403018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance des équipements médicaux",
+              "code_ogr": 495815,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ambulance",
+              "code_ogr": 107395,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Diplôme d'Etat d'ambulancier",
+              "code_ogr": 512440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ambulancier [Nouvelle-Calédonie]",
+              "code_ogr": 515148,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Procédures d'urgence et de premiers secours",
+              "code_ogr": 103885,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manutention de patients",
+              "code_ogr": 119644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Protocoles de transfert inter-hospitalier",
+              "code_ogr": 493359,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire de la responsabilité civile et pénale",
+              "code_ogr": 404564,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle de matériel et d'équipements médico-techniques",
+              "code_ogr": 107391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation de l'aide médicale d'urgence",
+              "code_ogr": 107397,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Grille de codification Sécurité Sociale",
+              "code_ogr": 107204,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Procédures de rapport d'incident",
+              "code_ogr": 478754,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Patients",
+          "code_ogr": 300838
+        },
+        {
+          "libelle": "Personnes médicalisées",
+          "code_ogr": 300841
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Fonctionnaire",
+          "code_ogr": 403100
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises privées de transport sanitaire",
+          "code_ogr": 512377
+        },
+        {
+          "libelle": "Etablissement de santé",
+          "code_ogr": 38126
+        },
+        {
+          "libelle": "Etablissement social ou médico-social (EHPAD, résidence senior, ...)",
+          "code_ogr": 400010
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    },
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "J1303 - Assistant / Assistante médico-technique",
+      "code_org_rome_cible": 340,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "J1502 - Cadre de santé d'unité de soins ou de service paramédical",
+      "code_org_rome_cible": 358,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1405 - Conseiller / Conseillère en information médicale",
+      "code_org_rome_cible": 106,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1414 - Chargé / Chargée de mission santé publique",
+      "code_org_rome_cible": 509923,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1220 - Médiateur / Médiatrice en santé",
+      "code_org_rome_cible": 509756,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "J1501 - Aide-soignant / Aide-soignante",
+      "code_org_rome_cible": 357,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "G1215 - Educateur sportif / Educatrice sportive Santé",
+      "code_org_rome_cible": 404967,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "D1436 - Assistant / Assistante de régulation médicale (ARM)",
+      "code_org_rome_cible": 510165,
+      "ordre_mobilite": 9
+    }
+  ]
+}

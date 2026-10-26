@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 377,
+    "code_rome": "K1303",
+    "libelle": "Garde d'enfant",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1303"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.649,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.09",
+          "title": "Développement de l’enfant et de l’adolescent",
+          "page": 619,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=619",
+          "selection_score": 105.0945,
+          "shared_terms": [
+            "adolescent",
+            "enfant"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.10",
+          "title": "Techniques d’entretien / Psychologie de la communication verbale et non verbale",
+          "page": 242,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=242",
+          "selection_score": 81.504,
+          "shared_terms": [
+            "entretien",
+            "non",
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.CGE3S.10",
+          "title": "Psychologie adaptée",
+          "page": 493,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=493",
+          "selection_score": 68.5017,
+          "shared_terms": [
+            "adaptee",
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.ES.05",
+          "title": "Etablir un diagnostic socio-éducatif et participer à la réalisation d’un projet socio-éducatif",
+          "page": 411,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=411",
+          "selection_score": 40.6465,
+          "shared_terms": [
+            "realisation",
+            "socio"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.AS.04",
+          "title": "Produire et délivrer une communication professionnelle adaptée aux publics cibles",
+          "page": 229,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=229",
+          "selection_score": 38.2178,
+          "shared_terms": [
+            "adaptee",
+            "public"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

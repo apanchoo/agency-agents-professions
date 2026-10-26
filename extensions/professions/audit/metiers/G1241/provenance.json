@@ -1,0 +1,106 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510396,
+    "code_rome": "G1241",
+    "libelle": "Directeur / Directrice de centre de séjour de vacances",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "G1203"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.87,
+      "matched_terms": [
+        "educat"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1203",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.09",
+          "title": "Développement de l’enfant et de l’adolescent",
+          "page": 619,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=619",
+          "selection_score": 104.8879,
+          "shared_terms": [
+            "adolescent",
+            "enfant"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.07",
+          "title": "Psychologie des groupes",
+          "page": 239,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=239",
+          "selection_score": 66.8327,
+          "shared_terms": [
+            "groupe",
+            "psychologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.AS.10",
+          "title": "Techniques d’entretien",
+          "page": 289,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=289",
+          "selection_score": 56.2845,
+          "shared_terms": [
+            "entretien"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ES.04",
+          "title": "Concevoir un accompagnement éducatif adapté à la situation de la personne et/ou du groupe",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=335",
+          "selection_score": 72.4915,
+          "shared_terms": [
+            "adapte",
+            "educatif",
+            "groupe"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.ES.04",
+          "title": "Repérer les modes d’accompagnement éducatifs adaptés à la situation de la personne et/ou du groupe",
+          "page": 360,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=360",
+          "selection_score": 59.3094,
+          "shared_terms": [
+            "adapte",
+            "educatif",
+            "groupe"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,795 @@
+{
+  "numero": 33711,
+  "rome": {
+    "code_rome": "I1633",
+    "intitule": "Agent / Agente de maintenance nautique",
+    "code_ogr": 515399
+  },
+  "appellations": [
+    {
+      "libelle": "Caréneur / Caréneuse",
+      "libelle_court": "Caréneur / Caréneuse",
+      "code_ogr": 517844
+    },
+    {
+      "libelle": "Chargé / Chargée d'entretien des bateaux",
+      "libelle_court": "Chargé / Chargée d'entretien des bateaux",
+      "code_ogr": 521741
+    },
+    {
+      "libelle": "Réparateur / Réparatrice de bateau",
+      "libelle_court": "Réparateur / Réparatrice de bateau",
+      "code_ogr": 521742
+    },
+    {
+      "libelle": "Technicien / Technicienne de maintenance du nautisme",
+      "libelle_court": "Technicien / Technicienne de maintenance du nautisme",
+      "code_ogr": 19832
+    }
+  ],
+  "definition": "L'agent de maintenance nautique, un professionnel essentiel pour la pérennité et la sécurité des équipements maritimes. Assure la maintenance préventive et corrective des bateaux et équipements nautiques Réalise des diagnostics de pannes et effectue les réparations nécessaires Contrôle et remplace les pièces usées ou défectueuses Veille au respect des normes de sécurité et d'hygiène Peut participer à la préparation des bateaux pour des compétitions ou des événements spécifiques Gère l'inventaire des pièces détachées et des fournitures nécessaires à la maintenance",
+  "acces_metier": "Cet emploi est accessible avec un Bac pro ou des titres professionnels spécifiques. Le CQP peut également être pertinent. La certification de formation à la sécurité (CFS) est obligatoire pour exercer ce métier.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Former les nouveaux employés aux procédures de sécurité",
+              "code_ogr": 483228,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Vérifier les niveaux de carburant avant le départ",
+              "code_ogr": 516785,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conception",
+          "items": [
+            {
+              "libelle": "Organiser des plans de navigation",
+              "code_ogr": 516771,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier les itinéraires maritimes en fonction des prévisions",
+              "code_ogr": 517730,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Effectuer des réglages précis sur des équipements de navigation",
+              "code_ogr": 516908,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier des contraintes techniques",
+              "code_ogr": 124811,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installer des accessoires de sécurité nautique",
+              "code_ogr": 516767,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Naviguer avec des instruments de cartographie marine",
+              "code_ogr": 516770,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des ajustements sur des voiles",
+              "code_ogr": 516772,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Appliquer des couches de protection sur les surfaces nautiques",
+              "code_ogr": 516763,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Poser des circuits et équipements électriques",
+              "code_ogr": 121613,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Analyser les besoins de maintenance des bateaux",
+              "code_ogr": 483225,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la propreté de la zone de travail",
+              "code_ogr": 403326,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Diagnostiquer les pannes de moteurs marins",
+              "code_ogr": 516765,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la maintenance préventive des équipements de navigation",
+              "code_ogr": 106961,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir des installations et équipements électriques",
+              "code_ogr": 121612,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir l'équipement nautique",
+              "code_ogr": 124549,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir la propreté des surfaces de pont",
+              "code_ogr": 516768,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir les équipements en bon état de fonctionnement",
+              "code_ogr": 400206,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'espace de stockage à bord",
+              "code_ogr": 516781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser le rangement dans un espace de stockage",
+              "code_ogr": 126064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la maintenance de premier niveau de moteurs marins",
+              "code_ogr": 114969,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un diagnostic technique",
+              "code_ogr": 300185,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer des petits moteurs nautiques",
+              "code_ogr": 516773,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réparer et entretenir des coques polyester",
+              "code_ogr": 114968,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Résoudre les problèmes techniques",
+              "code_ogr": 503471,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Effectuer des inspections de sécurité régulières",
+              "code_ogr": 483229,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques de navigation",
+              "code_ogr": 516778,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier des interventions de maintenance",
+              "code_ogr": 122329,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer des kits de sécurité maritime",
+              "code_ogr": 516783,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser le chargement de matériel nautique",
+              "code_ogr": 516774,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tester la fonctionnalité des équipements de sécurité",
+              "code_ogr": 516775,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler l'étanchéité",
+              "code_ogr": 106742,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité de peinture sur les coques",
+              "code_ogr": 516764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler les réparations",
+              "code_ogr": 116706,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks de pièces de rechange",
+              "code_ogr": 483226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manœuvrer des équipements de levage nautique",
+              "code_ogr": 516769,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger des rapports de maintenance détaillés",
+              "code_ogr": 502170,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Analyser les conditions météorologiques pour la navigation",
+              "code_ogr": 509040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre des normes environnementales maritimes",
+              "code_ogr": 516780,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir et orienter les clients sur les quais",
+              "code_ogr": 516776,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller sur l'entretien des équipements nautiques",
+              "code_ogr": 516777,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Informer et conseiller les clients et les utilisateurs sur l'utilisation et l'entretien des équipements",
+              "code_ogr": 106962,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir et analyser les besoins client",
+              "code_ogr": 300366,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer une communication claire et efficace avec l'équipe",
+              "code_ogr": 483667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Favoriser un environnement de travail collaboratif",
+              "code_ogr": 402226,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer le respect des réglementations environnementales",
+              "code_ogr": 402289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les urgences nautiques",
+              "code_ogr": 516779,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la réglementation maritime",
+              "code_ogr": 506516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre les normes de sécurité maritime",
+              "code_ogr": 483230,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des logiciels de gestion de maintenance",
+              "code_ogr": 483235,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des outils de communication maritime",
+              "code_ogr": 516784,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des cordages",
+              "code_ogr": 106966,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'équipements de levage en chantier naval",
+              "code_ogr": 479891,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des matériaux composites pour la construction navale",
+              "code_ogr": 479893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance des équipements de navigation",
+              "code_ogr": 515651,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance préventive de petits navires",
+              "code_ogr": 516172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appareils électroniques de navigation",
+              "code_ogr": 125019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Outillage mécanique",
+              "code_ogr": 106963,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "CQP mécanicien en réparation navale",
+              "code_ogr": 491252,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro maintenance nautique",
+              "code_ogr": 491248,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Connaissance des systèmes de communication en mer",
+              "code_ogr": 477826,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electrotechnique",
+              "code_ogr": 104546,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electricité",
+              "code_ogr": 102717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Installation de systèmes hydrauliques",
+              "code_ogr": 104425,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation de signaux maritimes",
+              "code_ogr": 515714,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion de maintenance",
+              "code_ogr": 499112,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion de la documentation technique maritime",
+              "code_ogr": 515718,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de propulsion marine",
+              "code_ogr": 477823,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des systèmes de sécurité maritime",
+              "code_ogr": 477819,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des stocks de pièces détachées",
+              "code_ogr": 477820,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mécanique marine",
+              "code_ogr": 521133,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des systèmes de navigation moderne",
+              "code_ogr": 515721,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des opérations de maintenance préventive",
+              "code_ogr": 478360,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de projets de rénovation de bateaux",
+              "code_ogr": 477828,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mécanique/Mécatronique marine",
+              "code_ogr": 106968,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Principes de fonctionnement d'un moteur",
+              "code_ogr": 106827,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Procédures d'utilisation de bateaux",
+              "code_ogr": 116686,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets en mer",
+              "code_ogr": 479091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité à bord des navires (personnes et marchandises)",
+              "code_ogr": 110319,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Traitements de coques",
+              "code_ogr": 106978,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes environnementales maritimes",
+              "code_ogr": 515716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité",
+              "code_ogr": 103130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des procédures de nettoyage à bord",
+              "code_ogr": 116685,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité et prévention des risques en milieu marin",
+              "code_ogr": 515719,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de diagnostic de pannes nautiques",
+              "code_ogr": 477829,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de calfatage",
+              "code_ogr": 479892,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de peinture marine",
+              "code_ogr": 515712,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vernissage pour bois marins",
+              "code_ogr": 477824,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparation de systèmes électriques marins",
+              "code_ogr": 515711,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de polissage de coque",
+              "code_ogr": 477818,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation d'hélices",
+              "code_ogr": 515720,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation de fibre de verre",
+              "code_ogr": 515713,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des interventions d'urgence sur bateaux",
+              "code_ogr": 515717,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de moulage pour pièces marines",
+              "code_ogr": 477825,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soudure pour applications marines",
+              "code_ogr": 103814,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation de voiles",
+              "code_ogr": 477821,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de réparation de moteurs agricoles",
+              "code_ogr": 481615,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de traitement anti-corrosion",
+              "code_ogr": 477830,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En environnement humide",
+          "code_ogr": 511359
+        },
+        {
+          "libelle": "En milieu maritime",
+          "code_ogr": 400034
+        },
+        {
+          "libelle": "En zone portuaire",
+          "code_ogr": 300786
+        },
+        {
+          "libelle": "Exposition possible à gaz, aérosol, fumées ...",
+          "code_ogr": 403022
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "84",
+      "libelle": "Industries",
+      "principal": false
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1634 - Accastilleur / Accastilleuse",
+      "code_org_rome_cible": 515411,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "I1605 - Mécanicien / Mécanicienne en mécanique marine ou navale",
+      "code_org_rome_cible": 329,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "I1601 - Préparateur / Préparatrice de bateau",
+      "code_org_rome_cible": 325,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "I1323 - Technicien / Technicienne de maintenance ferroviaire",
+      "code_org_rome_cible": 509403,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "I1326 - Responsable d'équipe maintenance",
+      "code_org_rome_cible": 510453,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "B1815 - Technicien voilier / Technicienne voilière",
+      "code_org_rome_cible": 515454,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1441 - Technico-commercial / Technico-commerciale de l'industrie et des services nautiques",
+      "code_org_rome_cible": 515444,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2213 - Menuisier / Menuisière en construction nautique",
+      "code_org_rome_cible": 509693,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N3114 - Lamaneur / Lamaneuse",
+      "code_org_rome_cible": 515432,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "I1105 - Responsable de maintenance et d'exploitation",
+      "code_org_rome_cible": 488930,
+      "ordre_mobilite": 11
+    }
+  ]
+}

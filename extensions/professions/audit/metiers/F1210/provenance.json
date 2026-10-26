@@ -1,0 +1,193 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510445,
+    "code_rome": "F1210",
+    "libelle": "Directeur / Directrice de travaux TP - Travaux Publics",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1201"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 94.322,
+      "matched_terms": [
+        "construction",
+        "travaux public"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1201",
+      "title_terms": [
+        "travaux public"
+      ],
+      "specific_title_terms": [
+        "travaux public"
+      ],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.15",
+          "title": "Marchés de travaux",
+          "page": 179,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=179",
+          "selection_score": 63.0724,
+          "shared_terms": [
+            "marche",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.04",
+          "title": "Gestion d’entreprises et législation du travail",
+          "page": 174,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=174",
+          "selection_score": 61.6819,
+          "shared_terms": [
+            "legislation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.05",
+          "title": "Coût global",
+          "page": 175,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=175",
+          "selection_score": 51.1805,
+          "shared_terms": [
+            "cout"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.TP.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel) du domaine des TP",
+          "page": 222,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=222",
+          "selection_score": 61.8215,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "plan"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BEC.05",
+          "title": "Etablissement d’une installation (plan d’installation de chantier, budget et matériel)",
+          "page": 379,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=379",
+          "selection_score": 61.142,
+          "shared_terms": [
+            "budget",
+            "chantier",
+            "plan"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "hse",
+      "title": "Hygiène - Sécurité - Environnement",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 17.453,
+      "matched_terms": [
+        "environnement",
+        "securite"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1201",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf",
+      "programme_sha256": "013228619dc4e8fb6728f5637b3c673176726e5be20ac2950dc52496227ec571",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.SDMRPTE.03",
+          "title": "Droit de la santé et de la sécurité au travail",
+          "page": 78,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=78",
+          "selection_score": 59.0655,
+          "shared_terms": [
+            "droit",
+            "sante",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.SDMRPTE.02",
+          "title": "Gestion des coactivités et principaux risques sur chantier",
+          "page": 100,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=100",
+          "selection_score": 43.2894,
+          "shared_terms": [
+            "chantier",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.04",
+          "title": "Chimie des produits nocifs pour l’homme et l’environnement",
+          "page": 60,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=60",
+          "selection_score": 38.8288,
+          "shared_terms": [
+            "homme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.SDMRPTE.03",
+          "title": "Conseiller un organisateur d’événement en matière de sécurité du public et d’impact environnemental",
+          "page": 74,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=74",
+          "selection_score": 44.0909,
+          "shared_terms": [
+            "matiere",
+            "public",
+            "securite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.SDMRPTE.02",
+          "title": "Concevoir un plan de gestion des risques liés aux coactivités",
+          "page": 93,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/hygi-ne-s-curit--environnement-30849.pdf#page=93",
+          "selection_score": 37.2523,
+          "shared_terms": [
+            "plan",
+            "risque"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

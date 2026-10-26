@@ -1,0 +1,630 @@
+{
+  "numero": 546,
+  "rome": {
+    "code_rome": "N2204",
+    "intitule": "Agent / Agente de trafic aérien",
+    "code_ogr": 515
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'opérations aériennes",
+      "libelle_court": "Agent / Agente d'opérations aériennes",
+      "code_ogr": 10726
+    },
+    {
+      "libelle": "Agent / Agente d'opérations aériennes de l'armée",
+      "libelle_court": "Agent / Agente d'opérations aériennes de l'armée",
+      "code_ogr": 10725
+    },
+    {
+      "libelle": "Agent / Agente technique de préparation des vols",
+      "libelle_court": "Agent / Agente technique de préparation des vols",
+      "code_ogr": 10776
+    },
+    {
+      "libelle": "Chef / Cheffe avion",
+      "libelle_court": "Chef / Cheffe avion",
+      "code_ogr": 12003
+    },
+    {
+      "libelle": "Chef / Cheffe d'équipe agents de piste aéroportuaire",
+      "libelle_court": "Chef / Cheffe d'équipe agents de piste aéroportuaire",
+      "code_ogr": 12389
+    },
+    {
+      "libelle": "Chef d'équipe assistant / Cheffe assistante avion",
+      "libelle_court": "Chef d'équipe assistant / Cheffe assistante avion",
+      "code_ogr": 12390
+    },
+    {
+      "libelle": "Coordinateur / Coordinatrice des opérations de fret aérien",
+      "libelle_court": "Coordinateur / Coordinatrice des opérations de fret aérien",
+      "code_ogr": 13687
+    },
+    {
+      "libelle": "Coordonnateur / Coordonnatrice armement catering",
+      "libelle_court": "Coordonnateur / Coordonnatrice armement catering",
+      "code_ogr": 13698
+    },
+    {
+      "libelle": "Coordonnateur / Coordonnatrice avion",
+      "libelle_court": "Coordonnateur / Coordonnatrice avion",
+      "code_ogr": 13699
+    },
+    {
+      "libelle": "Coordonnateur / Coordonnatrice de piste aéroport",
+      "libelle_court": "Coordonnateur / Coordonnatrice de piste aéroport",
+      "code_ogr": 13703
+    },
+    {
+      "libelle": "Coordonnateur / Coordonnatrice handling",
+      "libelle_court": "Coordonnateur / Coordonnatrice handling",
+      "code_ogr": 13717
+    },
+    {
+      "libelle": "Instructeur / Instructrice de défense sol air",
+      "libelle_court": "Instructeur / Instructrice de défense sol air",
+      "code_ogr": 518155
+    },
+    {
+      "libelle": "Responsable d'exploitation de piste aéroport",
+      "libelle_court": "Responsable d'exploitation de piste aéroport",
+      "code_ogr": 18979
+    },
+    {
+      "libelle": "Responsable d'exploitation des vols",
+      "libelle_court": "Responsable d'exploitation des vols",
+      "code_ogr": 18987
+    },
+    {
+      "libelle": "Technicien coordinateur / Technicienne coordinatrice avion",
+      "libelle_court": "Technicien coordinateur / Technicienne coordinatrice avion",
+      "code_ogr": 19702
+    }
+  ],
+  "definition": "L'agent de trafic aérien joue un rôle crucial dans la gestion et la sécurité des flux aériens. Coordonne et régule le mouvement des aéronefs au sol et en vol Assure la communication entre les pilotes et les services de contrôle Surveille et analyse les informations météorologiques pour informer les équipages Gère les situations d'urgence et assure une réaction rapide en cas d'incidents Planifie les itinéraires de vol pour optimiser la sécurité et l'efficacité Maintient à jour les connaissances sur les réglementations aériennes et les procédures de sécurité",
+  "acces_metier": "Cet emploi est accessible avec une Licence de pilote de ligne ou une Certification de contrôleur aérien, qui sont obligatoires. Des qualifications supplémentaires comme un Brevet de pilote d'avion ou un Diplôme d'ingénieur aéronautique peuvent être bénéfiques. Les scénarios de vol S1 à S4 et l'Habilitation au pilotage de drone professionnel sont des certifications proposées mais non obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la liaison avec les services d'urgence",
+              "code_ogr": 486639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'utilisation des ressources aéroportuaires",
+              "code_ogr": 516645,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier et adapter si nécessaire, l'activité de l'équipe, assigner les tâches",
+              "code_ogr": 400889,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier l'affectation des équipements et des équipes",
+              "code_ogr": 110289,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tenir compte des compétences des collaborateurs dans la répartition des tâches",
+              "code_ogr": 400887,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Faciliter la communication entre les différents acteurs aériens",
+              "code_ogr": 516640,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Enseigner, développer des compétences",
+              "code_ogr": 300022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser la formation continue du personnel de trafic aérien",
+              "code_ogr": 516641,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Implémenter des technologies avancées pour le suivi des vols",
+              "code_ogr": 516647,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Anticiper la conduite à tenir dans les situations anormales et les situations d'urgence",
+              "code_ogr": 400666,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler les procédures de sécurité avant le vol",
+              "code_ogr": 516637,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Développer des stratégies pour réduire les retards aériens",
+              "code_ogr": 516644,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques potentiels de collision et prendre les mesures préventives nécessaires",
+              "code_ogr": 503570,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les situations de crise et coordonner les interventions d'urgence",
+              "code_ogr": 504013,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Vérifier la documentation technique et les formalités de transport (vol commercial)",
+              "code_ogr": 400837,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Coordonner les mouvements au sol des aéronefs",
+              "code_ogr": 516636,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réguler le trafic aérien et élaborer des modifications de plan de vol en fonction des urgences",
+              "code_ogr": 110236,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Etablir des rapports détaillés sur les incidents aériens",
+              "code_ogr": 516642,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Vérifier la conformité des plans de vol avec les réglementations",
+              "code_ogr": 516638,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Surveiller les conditions météorologiques pouvant affecter les vols",
+              "code_ogr": 503564,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Action publique",
+          "items": [
+            {
+              "libelle": "Se coordonner avec les autorités internationales pour les vols transfrontaliers",
+              "code_ogr": 516646,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Analyser les informations de vol pour optimiser les trajectoires",
+              "code_ogr": 516635,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Analyser les performances de vol pour améliorer les procédures",
+              "code_ogr": 516639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser des opérations de préparation technique des vols",
+              "code_ogr": 110301,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Assurer un rôle d'interface entre les différents services de l'entreprise",
+              "code_ogr": 400641,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Rendre compte de son action, de risques ou d'anomalies au responsable",
+              "code_ogr": 400151,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre et échanger les informations de vol avec le personnel de bord et le personnel technique au sol",
+              "code_ogr": 110168,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Collecter les données techniques de vol ou d'escale",
+              "code_ogr": 110287,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Evaluer l'efficacité des mesures de gestion du trafic",
+              "code_ogr": 516643,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques techniques des aéronefs",
+              "code_ogr": 106997,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des infrastructures aéroportuaires (pistes d'atterrissage, ...)",
+              "code_ogr": 110245,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion aéroportuaire",
+              "code_ogr": 516117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Spécificités des matériels et équipements aéroportuaires",
+              "code_ogr": 110296,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Logiciels aéronautiques",
+              "code_ogr": 119044,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation des systèmes de navigation aérienne",
+              "code_ogr": 499390,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordination avec les équipes au sol",
+              "code_ogr": 493850,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais technique",
+              "code_ogr": 110150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Opérations de coordination de piste",
+              "code_ogr": 110300,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Terminologie aéronautique (IATA, alphabet aéronautique, ...)",
+              "code_ogr": 110177,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Application des normes de sécurité en aéronautique",
+              "code_ogr": 516308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'avitaillement en carburant",
+              "code_ogr": 107019,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation du transport aérien",
+              "code_ogr": 104083,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Dossier de vol (plan de vol, de chargement, devis de masse)",
+              "code_ogr": 300712,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Fonctionnement et caractéristiques des aéroports (nationaux et internationaux)",
+              "code_ogr": 110295,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures de sécurité en zone aéroportuaire",
+              "code_ogr": 515508,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Code de l'aviation civile",
+              "code_ogr": 109964,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Formation aux procédures aériennes",
+              "code_ogr": 515641,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de chargement des matières dangereuses",
+              "code_ogr": 110298,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des situations d'urgence aérienne",
+              "code_ogr": 495449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sûreté aéroportuaire",
+              "code_ogr": 107018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Système de suivi de trafic aérien",
+              "code_ogr": 119062,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des horaires de vol",
+              "code_ogr": 515636,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'élaboration de plan de chargement d'engins (devis de masse, de centrage, ...)",
+              "code_ogr": 110297,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits aériens",
+              "code_ogr": 515635,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de la circulation aérienne",
+              "code_ogr": 515630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication avec les équipages de vol",
+              "code_ogr": 515631,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion du stress",
+              "code_ogr": 478065,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse de la densité du trafic aérien",
+              "code_ogr": 515632,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Interprétation des données radar",
+              "code_ogr": 515629,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des itinéraires aériens",
+              "code_ogr": 515633,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des communications radio",
+              "code_ogr": 515626,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des incidents aériens",
+              "code_ogr": 515640,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance de l'espace aérien",
+              "code_ogr": 515638,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En zone aéroportuaire",
+          "code_ogr": 300788
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N2211 - Planificateur régulateur vol / Planificatrice régulatrice vol",
+      "code_org_rome_cible": 515450,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N2215 - Coordonnateur / Coordonnatrice zone avion",
+      "code_org_rome_cible": 515437,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N2217 - Chef d'équipe contrôleur aérien / Cheffe d'équipe contrôleuse aérienne",
+      "code_org_rome_cible": 509648,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N2206 - Pilote de drone",
+      "code_org_rome_cible": 489039,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N2202 - Contrôleur aérien / Contrôleuse aérienne",
+      "code_org_rome_cible": 513,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1303 - Approvisionneur / Approvisionneuse logistique",
+      "code_org_rome_cible": 509,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N1204 - Coordinateur / Coordinatrice transit en import - export",
+      "code_org_rome_cible": 488601,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "N1202 - Agent / Agente de transit",
+      "code_org_rome_cible": 506,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H1403 - Gestionnaire de flux de production",
+      "code_org_rome_cible": 227,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "N2208 - Contrôleur / Contrôleuse de la circulation et de la défense aérienne",
+      "code_org_rome_cible": 510602,
+      "ordre_mobilite": 10
+    }
+  ]
+}

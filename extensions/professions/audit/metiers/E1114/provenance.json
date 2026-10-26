@@ -1,0 +1,191 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509400,
+    "code_rome": "E1114",
+    "libelle": "Reporter / Reportrice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "E1106"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 22.178,
+      "matched_terms": [
+        "editorial",
+        "information",
+        "journal"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.INFONUM.15",
+          "title": "Recherches iconographiques, audio ou vidéo",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=243",
+          "selection_score": 110.5825,
+          "shared_terms": [
+            "audio",
+            "iconographique",
+            "video"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.JOU.22",
+          "title": "Écritures et techniques journalistiques (presse, web, radio, TV, Photo)",
+          "page": 346,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=346",
+          "selection_score": 74.9853,
+          "shared_terms": [
+            "ecriture",
+            "journalistique",
+            "presse",
+            "web"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.JOU.18",
+          "title": "Techniques d’interview",
+          "page": 342,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=342",
+          "selection_score": 74.6349,
+          "shared_terms": [
+            "interview"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.JOU.05",
+          "title": "Réaliser un reportage pour la presse écrite",
+          "page": 322,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=322",
+          "selection_score": 71.7474,
+          "shared_terms": [
+            "presse",
+            "reportage"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.JOU.02",
+          "title": "Produire un reportage multimédia et proposer une stratégie de diffusion",
+          "page": 403,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=403",
+          "selection_score": 67.3261,
+          "shared_terms": [
+            "diffusion",
+            "multimedia",
+            "reportage"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "mmi",
+      "title": "Métiers du multimédia et de l'Internet",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 18.867,
+      "matched_terms": [
+        "graph",
+        "multimedia"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "E1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf",
+      "programme_sha256": "b7e303261861bcc2322a5827d4bbf1702808bf83d8264efb5f934008b6625453",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Écriture multimédia et narration",
+          "page": 116,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=116",
+          "selection_score": 87.2418,
+          "shared_terms": [
+            "ecriture",
+            "multimedia",
+            "narration"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.10",
+          "title": "Production audio et vidéo",
+          "page": 90,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=90",
+          "selection_score": 70.1067,
+          "shared_terms": [
+            "audio",
+            "video"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.06",
+          "title": "Référencement",
+          "page": 114,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=114",
+          "selection_score": 59.6589,
+          "shared_terms": [
+            "referencement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.04",
+          "title": "Produire un contenu audio et vidéo",
+          "page": 50,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=50",
+          "selection_score": 85.0474,
+          "shared_terms": [
+            "audio",
+            "contenu",
+            "video"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.CREA.02",
+          "title": "Produire du contenu multimédia",
+          "page": 131,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-du-multim-dia-et-de-l-internet-30867.pdf#page=131",
+          "selection_score": 57.3802,
+          "shared_terms": [
+            "contenu",
+            "multimedia"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

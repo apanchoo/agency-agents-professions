@@ -1,0 +1,115 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509907,
+    "code_rome": "F1135",
+    "libelle": "Chargé / Chargée d'affaires BTP",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1106"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "code_parent_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 17.186,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1106",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [
+        12
+      ],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.07",
+          "title": "Technologie des Travaux Publics 1",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=75",
+          "selection_score": 65.8126,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.08",
+          "title": "Technologie des Travaux Publics 5",
+          "page": 253,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=253",
+          "selection_score": 65.5975,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.05",
+          "title": "Technologie des Travaux Publics 4",
+          "page": 154,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=154",
+          "selection_score": 65.589,
+          "shared_terms": [
+            "public",
+            "technologie",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.BAT.02",
+          "title": "Contre-étude et suivi de travaux de l’OS à la levée des réserves en Bâtiment",
+          "page": 167,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=167",
+          "selection_score": 103.4512,
+          "shared_terms": [
+            "batiment",
+            "levee",
+            "reserve",
+            "suivi",
+            "travaux"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.TP.02",
+          "title": "Contre-étude et suivi de travaux de l’OS à la levée des réserves en TP",
+          "page": 243,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=243",
+          "selection_score": 99.9102,
+          "shared_terms": [
+            "levee",
+            "reserve",
+            "suivi",
+            "travaux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

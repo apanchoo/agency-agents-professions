@@ -1,0 +1,104 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 180,
+    "code_rome": "G1101",
+    "libelle": "Agent / Agente d'accueil touristique",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "N",
+    "code_rome_parent": "G1101"
+  },
+  "but": [
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.565,
+      "matched_terms": [
+        "organis"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "G1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.06",
+          "title": "Règlementation spécifique culturelle, artistique, sportive ou de tourisme",
+          "page": 398,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=398",
+          "selection_score": 53.2667,
+          "shared_terms": [
+            "reglementation",
+            "specifique",
+            "tourisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.MACAST.10",
+          "title": "Sources de financement spécifiques culturelles, artistiques, sportives ou de tourisme",
+          "page": 366,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=366",
+          "selection_score": 30.4877,
+          "shared_terms": [
+            "specifique",
+            "tourisme"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MACAST.07",
+          "title": "Outils de communication numérique culturelle, artistique, sportive ou de tourisme",
+          "page": 399,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=399",
+          "selection_score": 30.3887,
+          "shared_terms": [
+            "numerique",
+            "tourisme"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MACAST.01",
+          "title": "Piloter un projet aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 369,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=369",
+          "selection_score": 25.7846,
+          "shared_terms": [
+            "touristique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "6.MACAST.01",
+          "title": "Piloter et rendre compte d’un projet aux enjeux culturels, artistiques, sportifs ou touristiques",
+          "page": 387,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=387",
+          "selection_score": 24.2798,
+          "shared_terms": [
+            "touristique"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

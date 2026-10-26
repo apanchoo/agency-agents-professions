@@ -1,0 +1,411 @@
+{
+  "numero": 34,
+  "rome": {
+    "code_rome": "A1401",
+    "intitule": "Cueilleur / Cueilleuse de fruits",
+    "code_ogr": 15
+  },
+  "appellations": [
+    {
+      "libelle": "Cueilleur / Cueilleuse de cerises",
+      "libelle_court": "Cueilleur / Cueilleuse de cerises",
+      "code_ogr": 13853
+    },
+    {
+      "libelle": "Cueilleur / Cueilleuse de pêches",
+      "libelle_court": "Cueilleur / Cueilleuse de pêches",
+      "code_ogr": 13856
+    },
+    {
+      "libelle": "Cueilleur / Cueilleuse de poires",
+      "libelle_court": "Cueilleur / Cueilleuse de poires",
+      "code_ogr": 13857
+    },
+    {
+      "libelle": "Cueilleur / Cueilleuse de pommes",
+      "libelle_court": "Cueilleur / Cueilleuse de pommes",
+      "code_ogr": 13858
+    },
+    {
+      "libelle": "Porteur / Porteuse de hottes",
+      "libelle_court": "Porteur / Porteuse de hottes",
+      "code_ogr": 17892
+    },
+    {
+      "libelle": "Vendangeur / Vendangeuse",
+      "libelle_court": "Vendangeur / Vendangeuse",
+      "code_ogr": 20510
+    }
+  ],
+  "definition": "Le Cueilleur de fruits exerce un métier au cœur de la nature, il est un acteur essentiel des exploitations fruitières. Récolte différents types de fruits selon la saison Assure la sélection des fruits selon leur maturité pour garantir la qualité Transporte les fruits récoltés vers les zones de stockage Peut participer à l'entretien des arbres fruitiers et des plantations Peut effectuer le tri et le conditionnement des fruits",
+  "acces_metier": "Cet emploi est accessible sans qualification spécifique. Des formations internes peuvent être proposées pour la manipulation en sécurité des outils de cueillette.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Contrôler la maturité d'un fruit",
+              "code_ogr": 122813,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un arbre, une plantation",
+              "code_ogr": 122825,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler délicatement des produits fragiles pour éviter de les endommager",
+              "code_ogr": 510977,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Récolter un produit à maturité et selon les consignes de calibrage",
+              "code_ogr": 122853,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélectionner des fruits pour la vente directe",
+              "code_ogr": 510980,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des équipements de cueillette spécifiques",
+              "code_ogr": 506497,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Assurer la propreté de la zone de travail",
+              "code_ogr": 403326,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Nettoyer et entretenir les équipements et machines utilisés",
+              "code_ogr": 119691,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser des zones de cueillette",
+              "code_ogr": 506495,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler la qualité et la conformité d'un produit",
+              "code_ogr": 300255,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Conditionner les produits dans des caisses ou des conteneurs pour faciliter leur transport sans les abimer",
+              "code_ogr": 510979,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réceptionner et expédier des commandes",
+              "code_ogr": 115630,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Trier, ranger des produits, des matières premières",
+              "code_ogr": 300262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Transport",
+          "items": [
+            {
+              "libelle": "Transporter des marchandises",
+              "code_ogr": 300274,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Gérer les déchets de cueillette de manière écologique",
+              "code_ogr": 506498,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les arbres et les plantes pour détecter les signes de maladies ou de parasites et informer les responsables agricoles si nécessaire",
+              "code_ogr": 510978,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les horaires de cueillette fixés selon les conditions météorologiques",
+              "code_ogr": 506499,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les procédures de sécurité lors de la manutention des charges",
+              "code_ogr": 484042,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation d'outils agricoles",
+              "code_ogr": 123060,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Variétés de fruits et légumes",
+              "code_ogr": 101850,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BPA option travaux des productions horticoles spécialité arboriculture fruitière",
+              "code_ogr": 490707,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Gestes et postures de manutention",
+              "code_ogr": 100016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pathologies végétales",
+              "code_ogr": 100105,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cycles de croissance des fruits",
+              "code_ogr": 492760,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes qualité",
+              "code_ogr": 113245,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Normes d'hygiène et de sécurité",
+              "code_ogr": 100144,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Identification des fruits mûrs",
+              "code_ogr": 495639,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de stockage des fruits",
+              "code_ogr": 498809,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de cueillette sélective",
+              "code_ogr": 498011,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En environnement climatique difficile",
+          "code_ogr": 300790
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail durant les vacances scolaires",
+          "code_ogr": 403826
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Exploitation agricole",
+          "code_ogr": 403960
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "79",
+      "libelle": "Agriculture et élevage",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1444 - Aide agricole en production fruitière",
+      "code_org_rome_cible": 510021,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "H2102 - Conducteur / Conductrice de machines en industrie alimentaire",
+      "code_org_rome_cible": 236,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "A1419 - Ouvrier agricole polyvalent / Ouvrière agricole polyvalente",
+      "code_org_rome_cible": 403955,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "A1210 - Ouvrier forestier / Ouvrière forestière",
+      "code_org_rome_cible": 488859,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1602 - Commis / Commise de cuisine",
+      "code_org_rome_cible": 199,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N1103 - Préparateur / Préparatrice de commandes",
+      "code_org_rome_cible": 502,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "H3302 - Agent / Agente de conditionnement",
+      "code_org_rome_cible": 298,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1507 - Employé / Employée de rayon libre-service",
+      "code_org_rome_cible": 116,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H2105 - Agent / Agente de production en industrie alimentaire",
+      "code_org_rome_cible": 509557,
+      "ordre_mobilite": 9
+    }
+  ]
+}

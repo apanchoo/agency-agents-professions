@@ -21,6 +21,7 @@ on:
       - "support/**"
       - "spatial-computing/**"
       - "specialized/**"
+      - "professions/**"
       # Changing the linter itself has to run it. Without these the whole-roster
       # job below never fires, and a new rule ships untested: the color check
       # went in this way and nothing in CI had ever looked at a color value.
@@ -43,7 +44,7 @@ jobs:
           FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- \
             ':(glob)academic/**/*.md' ':(glob)design/**/*.md' ':(glob)engineering/**/*.md' ':(glob)finance/**/*.md' ':(glob)game-development/**/*.md' ':(glob)gis/**/*.md' ':(glob)healthcare/**/*.md' ':(glob)marketing/**/*.md' ':(glob)paid-media/**/*.md' ':(glob)sales/**/*.md' ':(glob)security/**/*.md' ':(glob)product/**/*.md' \
             ':(glob)project-management/**/*.md' ':(glob)research/**/*.md' ':(glob)testing/**/*.md' ':(glob)support/**/*.md' \
-            ':(glob)spatial-computing/**/*.md' ':(glob)specialized/**/*.md')
+            ':(glob)spatial-computing/**/*.md' ':(glob)specialized/**/*.md' ':(glob)professions/**/*.md')
           {
             echo "files<<ENDOFLIST"
             echo "$FILES"
@@ -70,7 +71,11 @@ jobs:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
         run: |
           chmod +x scripts/check-agent-originality.sh
-          ./scripts/check-agent-originality.sh $CHANGED_FILES
+          # Structured profession records use the dedicated coverage and content checks.
+          ORIGINAL_FILES=$(printf '%s\n' "$CHANGED_FILES" | grep -v '^professions/' || true)
+          if [ -n "$ORIGINAL_FILES" ]; then
+            ./scripts/check-agent-originality.sh $ORIGINAL_FILES
+          fi
 
   lint-all:
     name: Whole roster, when the linter changes

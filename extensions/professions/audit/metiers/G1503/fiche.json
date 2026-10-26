@@ -1,0 +1,601 @@
+{
+  "numero": 198,
+  "rome": {
+    "code_rome": "G1503",
+    "intitule": "Gouvernant / Gouvernante d'étage en hôtellerie",
+    "code_ogr": 197
+  },
+  "appellations": [
+    {
+      "libelle": "Aide gouvernant / Aide gouvernante en hôtellerie",
+      "libelle_court": "Aide gouvernant / Aide gouvernante en hôtellerie",
+      "code_ogr": 10848
+    },
+    {
+      "libelle": "Assistant gouvernant / Assistante gouvernante en hôtellerie",
+      "libelle_court": "Assistant gouvernant / Assistante gouvernante en hôtellerie",
+      "code_ogr": 11357
+    },
+    {
+      "libelle": "Chef / Cheffe de rang de room service",
+      "libelle_court": "Chef / Cheffe de rang de room service",
+      "code_ogr": 38581
+    },
+    {
+      "libelle": "Chef / Cheffe de room service",
+      "libelle_court": "Chef / Cheffe de room service",
+      "code_ogr": 12310
+    },
+    {
+      "libelle": "Gouvernant / Gouvernante d'hôtel",
+      "libelle_court": "Gouvernant / Gouvernante d'hôtel",
+      "code_ogr": 15385
+    },
+    {
+      "libelle": "Gouvernant / Gouvernante en établissement de santé",
+      "libelle_court": "Gouvernant / Gouvernante en établissement de santé",
+      "code_ogr": 518490
+    },
+    {
+      "libelle": "Gouvernant / Gouvernante en établissement hôtelier",
+      "libelle_court": "Gouvernant / Gouvernante en établissement hôtelier",
+      "code_ogr": 15387
+    },
+    {
+      "libelle": "Gouvernant / Gouvernante en hôtellerie",
+      "libelle_court": "Gouvernant / Gouvernante en hôtellerie",
+      "code_ogr": 15388
+    },
+    {
+      "libelle": "Logisticien / Logisticienne d'étage",
+      "libelle_court": "Logisticien / Logisticienne d'étage",
+      "code_ogr": 519149
+    },
+    {
+      "libelle": "Premier valet / Première femme de chambre",
+      "libelle_court": "Premier valet / Première femme de chambre",
+      "code_ogr": 17979
+    },
+    {
+      "libelle": "Responsable d'étage",
+      "libelle_court": "Responsable d'étage",
+      "code_ogr": 18960
+    }
+  ],
+  "definition": "Le Gouvernant d'étage supervise et coordonne le travail quotidien des équipes de nettoyage et d'entretien des chambres d'un établissement hôtelier afin de garantir un accueil de qualité au client. Contrôle la qualité de la propreté et de la présentation des chambres et des espaces communs Gère les stocks de linge, de produits d'accueil et d'entretien, et s'assure de leur renouvellement Traite les demandes spécifiques des clients et veille à leur satisfaction Forme et encadre le personnel d'étage, en assurant le respect des standards de l'établissement Peut participer à la gestion des budgets alloués aux services d'étages",
+  "acces_metier": "Ce métier est accessible avec un diplôme de niveau Bac à Bac + 3 en hôtellerie. Il est également accessible avec un niveau CAP et une expérience professionnelle confirmée.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer des temps de brief ou de debrief",
+              "code_ogr": 490122,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Effectuer le suivi administratif (pointages, etc.) et définir les plannings",
+              "code_ogr": 403369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre les directives et la politique de l'entreprise",
+              "code_ogr": 403070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser les effectifs, l'adéquation et l'allocation des ressources",
+              "code_ogr": 300435,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier et organiser l'activité du personnel relevant de sa responsabilité",
+              "code_ogr": 489827,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Répartir les postes de travail",
+              "code_ogr": 400096,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Etre attentif à la bonne intégration de chaque nouveau collaborateur",
+              "code_ogr": 403602,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recruter et intégrer une personne",
+              "code_ogr": 300004,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Evaluer des acquis d'apprentissage, de formation ou d'expérience",
+              "code_ogr": 300018,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Approvisionner un chariot de ménage ou chariot de linge",
+              "code_ogr": 124101,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler l'état de propreté d'un lieu",
+              "code_ogr": 123603,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des commandes et des livraisons",
+              "code_ogr": 119859,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer la liaison avec les autres départements de l'établissement",
+              "code_ogr": 483764,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer la relation avec les fournisseurs, sous-traitants, prestataires",
+              "code_ogr": 300316,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Encourager les écogestes et la réduction de l'empreinte environnementale",
+              "code_ogr": 489291,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Informer, renseigner, orienter une personne sur les prestations et services proposés",
+              "code_ogr": 300621,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le service des petits-déjeuners en salle ou en chambre, selon l'établissement",
+              "code_ogr": 104175,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Traiter les demandes particulières d'installation",
+              "code_ogr": 104181,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Proposer des innovations pour améliorer la qualité de service",
+              "code_ogr": 485309,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Recueillir l'avis et les remarques d'un client",
+              "code_ogr": 122327,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Transmettre un avis ou une remarque client au service concerné",
+              "code_ogr": 122481,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser le personnel à l'organisation, la qualité, la sécurité",
+              "code_ogr": 121048,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Expliquer et faire respecter les règles et procédures",
+              "code_ogr": 300449,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des produits d'entretien",
+              "code_ogr": 104167,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prestations hôtelières",
+              "code_ogr": 117659,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre professionnel gouvernant en hôtellerie",
+              "code_ogr": 522584,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gouvernant d'hôtel",
+              "code_ogr": 522655,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gouvernant en hôtellerie [Polynésie Française]",
+              "code_ogr": 491013,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gouvernant en établissement sanitaire et médico-social",
+              "code_ogr": 522644,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CQP gouvernant d'hôtel",
+              "code_ogr": 491012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention organisation et gestion des établissements hôteliers et de restauration",
+              "code_ogr": 489656,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Un des meilleurs ouvriers de France groupe métiers de la restauration et de l'hôtellerie classe gouvernant-gouvernante des services hôteliers",
+              "code_ogr": 522550,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de réservation",
+              "code_ogr": 119527,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Management opérationnel",
+              "code_ogr": 121075,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de logiciels de gestion hôtelière",
+              "code_ogr": 117667,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des besoins des clients",
+              "code_ogr": 121691,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Planning d'occupation des chambres",
+              "code_ogr": 104182,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'exploitation hôtelière",
+              "code_ogr": 104110,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de propreté",
+              "code_ogr": 102096,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Critères de tri sélectif",
+              "code_ogr": 108735,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Cadre réglementaire environnemental",
+              "code_ogr": 100015,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de réservation des prestations",
+              "code_ogr": 104173,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Tous types de public",
+          "code_ogr": 513769
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires fractionnés",
+          "code_ogr": 400005
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Hôtellerie",
+          "code_ogr": 489574
+        },
+        {
+          "libelle": "Prestataire de services",
+          "code_ogr": 512165
+        },
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "102",
+      "libelle": "Hôtellerie et restauration",
+      "principal": true
+    },
+    {
+      "code": "101",
+      "libelle": "Tourisme",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1504 - Gouvernant général / Gouvernante générale en hôtellerie",
+      "code_org_rome_cible": 518489,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1802 - Maître / Maîtresse d'hôtel",
+      "code_org_rome_cible": 207,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1401 - Adjoint / Adjointe de la direction en hôtellerie-restauration",
+      "code_org_rome_cible": 191,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1403 - Responsable de service en établissement touristique",
+      "code_org_rome_cible": 193,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1703 - Réceptionniste",
+      "code_org_rome_cible": 205,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1508 - Responsable de caisses",
+      "code_org_rome_cible": 117,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "M1506 - Manager de proximité",
+      "code_org_rome_cible": 488608,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2203 - Responsable de secteur en propreté de locaux",
+      "code_org_rome_cible": 418,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "G1701 - Concierge d'hôtel",
+      "code_org_rome_cible": 203,
+      "ordre_mobilite": 10
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "numero": 32941,
+  "rome": {
+    "code_rome": "K1212",
+    "intitule": "Ministre du culte",
+    "code_ogr": 489963
+  },
+  "appellations": [
+    {
+      "libelle": "Aumônier / Aumônière",
+      "libelle_court": "Aumônier / Aumônière",
+      "code_ogr": 489971
+    },
+    {
+      "libelle": "Aumônier / Aumônière militaire",
+      "libelle_court": "Aumônier / Aumônière militaire",
+      "code_ogr": 489972
+    },
+    {
+      "libelle": "Chef / Cheffe de culte",
+      "libelle_court": "Chef / Cheffe de culte",
+      "code_ogr": 489967
+    },
+    {
+      "libelle": "Diacre",
+      "libelle_court": "Diacre",
+      "code_ogr": 518011
+    },
+    {
+      "libelle": "Ecclésiastique",
+      "libelle_court": "Ecclésiastique",
+      "code_ogr": 518012
+    },
+    {
+      "libelle": "Imam",
+      "libelle_court": "Imam",
+      "code_ogr": 489975
+    },
+    {
+      "libelle": "Pasteur / Pasteure",
+      "libelle_court": "Pasteur / Pasteure",
+      "code_ogr": 489976
+    },
+    {
+      "libelle": "Pope",
+      "libelle_court": "Pope",
+      "code_ogr": 517969
+    },
+    {
+      "libelle": "Prêtre / Prêtresse",
+      "libelle_court": "Prêtre / Prêtresse",
+      "code_ogr": 489974
+    },
+    {
+      "libelle": "Rabbin / Rabbine",
+      "libelle_court": "Rabbin / Rabbine",
+      "code_ogr": 489973
+    }
+  ],
+  "definition": "Le ministre du culte exerce des fonctions religieuses (célébration des rituels religieux, accompagnement, prédication, ...) et apporte un soutien spirituel et moral aux membres de sa communauté religieuse. Administre et gère les affaires courantes de la communauté Mène des activités caritatives ou de bienfaisance, de soutien aux plus démunis et participe à la vie communautaire Peut enseigner la doctrine religieuse Peut collaborer avec d'autres organisations pour mener des projets sociaux, humanitaires et religieux",
+  "acces_metier": "De nombreuses religions et institutions religieuses proposent des programmes de formation théologique, spirituelle et pastorale pour préparer les individus à exercer en tant que ministre du culte. Ces formations ne sont pas obligatoires sur le plan légal, mais elles sont souvent requises par les institutions religieuses pour l'ordination ou la reconnaissance en tant que ministre du culte.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Concevoir des animations selon les types de publics",
+              "code_ogr": 125671,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Célèbrer les offices et les cérémonies religieuses",
+              "code_ogr": 405254,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer et coordonner les activités de la structure en lien avec les bénévoles",
+              "code_ogr": 405188,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer un réseau, une communauté",
+              "code_ogr": 300471,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entrer en contact avec la population et promouvoir les initiatives (réunions de concertation, consultations, ...)",
+              "code_ogr": 107874,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévenir et résoudre les conflits",
+              "code_ogr": 300441,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Accompagner des temps de prière ou de méditation",
+              "code_ogr": 405256,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Assurer une médiation",
+              "code_ogr": 300036,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller, accompagner une personne",
+              "code_ogr": 300014,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Enseigner les principes et la doctrine religieuse",
+              "code_ogr": 405255,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Proposer un accompagnement spirituel, une écoute, des conseils aux personnes démunies",
+              "code_ogr": 405257,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des actions de développement ou de maintien du lien social ou familial",
+              "code_ogr": 115112,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
+              "code_ogr": 400211,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Créer, organiser ou coordonner un évènement",
+              "code_ogr": 300123,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en oeuvre des actions de communication",
+              "code_ogr": 300110,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Organiser et planifier une activité",
+              "code_ogr": 300636,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Orienter une personne vers des partenaires relais",
+              "code_ogr": 123916,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Collaborer avec des équipes multidisciplinaires",
+              "code_ogr": 404783,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Encadrer un public",
+              "code_ogr": 300607,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée",
+              "code_ogr": 489933,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Favoriser l'entente, la collaboration",
+              "code_ogr": 300468,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prendre la parole en public",
+              "code_ogr": 300413,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer et animer une réunion, un groupe de travail, un atelier",
+              "code_ogr": 300469,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser un public",
+              "code_ogr": 300028,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Travailler en groupe, en réseau",
+              "code_ogr": 300470,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer une situation conflictuelle",
+              "code_ogr": 300480,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité et les droits des individus",
+              "code_ogr": 486270,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Evaluer le résultat de ses actions",
+              "code_ogr": 300495,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Dialogue interreligieux et compréhension mutuelle",
+              "code_ogr": 514812,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sciences religieuses et théologie",
+              "code_ogr": 124830,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques socio-culturelles des publics",
+              "code_ogr": 107774,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interculturelle",
+              "code_ogr": 119743,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Projet d'animation",
+              "code_ogr": 121634,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'entretien individuel",
+              "code_ogr": 477741,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'animation pour enfants et adultes",
+              "code_ogr": 481520,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques pédagogiques",
+              "code_ogr": 100090,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Adolescents",
+          "code_ogr": 300818
+        },
+        {
+          "libelle": "Adultes",
+          "code_ogr": 300820
+        },
+        {
+          "libelle": "Enfants",
+          "code_ogr": 300825
+        },
+        {
+          "libelle": "Familles",
+          "code_ogr": 300830
+        },
+        {
+          "libelle": "Patients",
+          "code_ogr": 300838
+        },
+        {
+          "libelle": "Personnes âgées",
+          "code_ogr": 300839
+        },
+        {
+          "libelle": "Personnes en situation de handicap",
+          "code_ogr": 300840
+        },
+        {
+          "libelle": "Personnes médicalisées",
+          "code_ogr": 300841
+        },
+        {
+          "libelle": "Personnes sous main de justice",
+          "code_ogr": 300842
+        },
+        {
+          "libelle": "Public scolaire",
+          "code_ogr": 300847
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Salarié secteur public",
+          "code_ogr": 403104
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Association",
+          "code_ogr": 300849
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "111",
+      "libelle": "Service public, défense et sécurité",
+      "principal": false
+    },
+    {
+      "code": "109",
+      "libelle": "Social",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "K1218 - Responsable de maison de quartier",
+      "code_org_rome_cible": 509687,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1204 - Médiateur social / Médiatrice sociale",
+      "code_org_rome_cible": 371,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "K1101 - Conseiller conjugal et familial / Conseillère conjugale et familiale",
+      "code_org_rome_cible": 364,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1802 - Chargé / Chargée de développement économique et local",
+      "code_org_rome_cible": 399,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "K1403 - Directeur / Directrice d'établissement pour personnes âgées",
+      "code_org_rome_cible": 381,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1312 - Accueillant familial / Accueillante familiale thérapeutique auprès d'adultes",
+      "code_org_rome_cible": 488338,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1206 - Animateur coordinateur socioculturel / Animatrice coordinatrice socioculturelle",
+      "code_org_rome_cible": 373,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1205 - Agent / Agente d'accueil social",
+      "code_org_rome_cible": 372,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "K2107 - Professeur / Professeure de collège et de lycée",
+      "code_org_rome_cible": 410,
+      "ordre_mobilite": 10
+    }
+  ]
+}

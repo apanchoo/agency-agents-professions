@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 13,
+    "code_rome": "A1302",
+    "libelle": "Agent / Agente de diagnostic et de contrôle en agriculture",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": null,
+    "code_rome_parent": "A1302"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "code_rome_cite_dans_programme",
+      "reviewed_by_human": false,
+      "score": 26.675,
+      "matched_terms": [
+        "agricol",
+        "aliment",
+        "environnement"
+      ],
+      "direct_rome_pages": [
+        17
+      ],
+      "parent_rome": "A1302",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R4.AGRO.10",
+          "title": "Règlementation et utilisation des produits phytosanitaires",
+          "page": 164,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=164",
+          "selection_score": 101.8,
+          "shared_terms": [
+            "phytosanitaire",
+            "produit",
+            "reglementation",
+            "utilisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.DN.08",
+          "title": "Hygiène Qualité et Sécurité Alimentaire",
+          "page": 422,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=422",
+          "selection_score": 64.6083,
+          "shared_terms": [
+            "alimentaire",
+            "hygiene",
+            "securite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.AGRO.10",
+          "title": "Productions animales 1",
+          "page": 140,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=140",
+          "selection_score": 53.2429,
+          "shared_terms": [
+            "animale",
+            "production"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.BMB.03",
+          "title": "Diagnostic et suivi biologique d’une pathologie",
+          "page": 276,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=276",
+          "selection_score": 70.0372,
+          "shared_terms": [
+            "biologique",
+            "diagnostic",
+            "pathologie"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SEE.04",
+          "title": "Echantillonner une matrice environnementale et mettre en oeuvre le dosage d’un polluant",
+          "page": 611,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=611",
+          "selection_score": 47.131,
+          "shared_terms": [
+            "dosage",
+            "environnementale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

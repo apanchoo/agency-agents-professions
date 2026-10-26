@@ -1,0 +1,584 @@
+{
+  "numero": 273,
+  "rome": {
+    "code_rome": "I1503",
+    "intitule": "Technicien / Technicienne en risques technologiques",
+    "code_ogr": 324
+  },
+  "appellations": [
+    {
+      "libelle": "Opérateur / Opératrice en défense Nucléaire, Biologique et Chimique (NBC)",
+      "libelle_court": "Opérateur(trice) en défense NBC",
+      "code_ogr": 17199
+    },
+    {
+      "libelle": "Spécialiste en défense Nucléaire, Biologique et Chimique -NBC-",
+      "libelle_court": "Spécialiste en défense Nucléaire, Biologique et Chimique NBC",
+      "code_ogr": 19506
+    }
+  ],
+  "definition": "Le Technicien en risques technologiques prévient et évalue les risques liés aux technologies utilisées en menant des opérations d'assainissement, de décontamination ou de maintenance en milieu nucléaire, bactériologique ou chimique. Identifie les sources de dangers potentiels dans les installations industrielles lors d'inspections et audits de sécurité Met en place des procédures de sécurité et des plans d'intervention en cas d'incident selon des règles de sécurité et sanitaires strictes Rédige des rapports d'inspection, d'incident et tient à jour les registres de sécurité et les documents réglementaires Sensibilise, forme les employés aux risques technologiques et aux mesures de prévention par les bonnes pratiques de sécurité",
+  "acces_metier": "Ce métier est accessible avec un niveau Bac + 3 à bac + 5 Licence professionnelle en prévention des risques, Diplôme d'Ingénieur en sécurité industrielle ou un Master en gestion des risques technologiques. Les habilitations telles que Radioprotection niveau 1 et 2 ou Socle Commun Nucléaire niveau 1 et 2 peuvent être demandées.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Démonter des équipements ou matériaux contaminés",
+              "code_ogr": 124365,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la préparation logistique des matériels et des équipements d'intervention",
+              "code_ogr": 106936,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une intervention nécessitant une habilitation",
+              "code_ogr": 124184,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser les opérations de soudage en respectant les normes de sécurité",
+              "code_ogr": 106259,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Réaliser la pose et la dépose d'échafaudage ou de calorifuge",
+              "code_ogr": 114961,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser le montage et la mise en place de protections collectives (écran, sas, paroi, ...)",
+              "code_ogr": 114960,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Contrôler la conformité d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un diagnostic technique",
+              "code_ogr": 300185,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser une opération de maintenance",
+              "code_ogr": 300183,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Anticiper des dangers, problèmes ou besoins matériels et techniques",
+              "code_ogr": 300477,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler le fonctionnement d'un équipement, d'une machine, d'une installation",
+              "code_ogr": 300172,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler une zone sensible avant d'intervenir",
+              "code_ogr": 512950,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir et mettre en oeuvre des protocoles de sécurité",
+              "code_ogr": 300150,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Délimiter un périmètre de sécurité",
+              "code_ogr": 121239,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer une situation de crise",
+              "code_ogr": 300400,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Limiter les risques de propagation de pollution ou d'accident",
+              "code_ogr": 106939,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter la gestion des risques",
+              "code_ogr": 300399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relever les mesures et détecter les atteintes ou dépassement de seuil de contamination, de toxicité ou de pollution",
+              "code_ogr": 106937,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir une zone de stockage",
+              "code_ogr": 124441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler un engin de manutention ou de chantier",
+              "code_ogr": 300264,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser l'étiquetage de produits",
+              "code_ogr": 102912,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evacuer des déchets sensibles",
+              "code_ogr": 124708,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Récupérer et reconditionner les agents pollueurs et matériaux contaminés",
+              "code_ogr": 300557,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réduire l'empreinte environnementale de son activité",
+              "code_ogr": 402008,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Sensibiliser et former les personnels aux consignes de sécurité et de prévention",
+              "code_ogr": 402299,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Gérer une situation d'urgence",
+              "code_ogr": 300481,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser des outils de communication numérique",
+              "code_ogr": 405261,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de matériel de pompage",
+              "code_ogr": 106943,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de contrôle et mesure",
+              "code_ogr": 104606,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de détecteurs de gaz",
+              "code_ogr": 476945,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques du matériel de décontamination",
+              "code_ogr": 106942,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Titre d'ingénieur diplômé par l'Etat spécialité gestion des risques",
+              "code_ogr": 514716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manager des risques industriels (MS)",
+              "code_ogr": 522530,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention gestion des risques industriels et technologiques",
+              "code_ogr": 514546,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Radioprotection",
+              "code_ogr": 106945,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Génie civil",
+              "code_ogr": 106594,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Atomiques et chimiques",
+              "code_ogr": 118850,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Electromécanique",
+              "code_ogr": 105666,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Méthodes d'assainissement radioactif, chimique et bactériologique",
+              "code_ogr": 106944,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Plans de Prévention des Risques Technologiques (PPRT)",
+              "code_ogr": 116842,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance des équipements de chantier",
+              "code_ogr": 116772,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réglementation du transport de matières et produits dangereux",
+              "code_ogr": 101424,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de sécurité en laboratoire",
+              "code_ogr": 497016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Codes et symboles",
+              "code_ogr": 101204,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gestion des déchets nucléaires",
+              "code_ogr": 106946,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'entretien des équipements de décontamination",
+              "code_ogr": 116773,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Veille technologique en métrologie",
+              "code_ogr": 103167,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités de stockage d'agents pollueurs ou de matériaux pollués",
+              "code_ogr": 117504,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de mesure de la radioactivité",
+              "code_ogr": 476770,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de démantèlement",
+              "code_ogr": 106955,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques d'étalonnage",
+              "code_ogr": 105901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Techniques de confinement",
+              "code_ogr": 106953,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de calorifugeage",
+              "code_ogr": 106954,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Militaire",
+          "code_ogr": 403099
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En milieu nucléaire",
+          "code_ogr": 23383
+        },
+        {
+          "libelle": "En zone à atmosphère contrôlée",
+          "code_ogr": 300784
+        },
+        {
+          "libelle": "Manipulation de produits à risques",
+          "code_ogr": 300791
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Travail dans des environnements hostiles et dangereux",
+          "code_ogr": 400047
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Mobilisable en urgence",
+          "code_ogr": 511474
+        },
+        {
+          "libelle": "Travail en astreinte",
+          "code_ogr": 300804
+        },
+        {
+          "libelle": "Travail par roulement",
+          "code_ogr": 300808
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Industries chimiques",
+          "code_ogr": 490159
+        },
+        {
+          "libelle": "Organisme militaire",
+          "code_ogr": 511846
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "98",
+      "libelle": "Architecture, études et normes",
+      "principal": false
+    },
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": false
+    },
+    {
+      "code": "80",
+      "libelle": "Environnement",
+      "principal": true
+    },
+    {
+      "code": "81",
+      "libelle": "Maintenance, entretien et nettoyage",
+      "principal": false
+    },
+    {
+      "code": "105",
+      "libelle": "Recherche",
+      "principal": false
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "I1514 - Technicien / Technicienne en dépollution",
+      "code_org_rome_cible": 519930,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "I1505 - Technicien / Technicienne logistique combustible nucléaire",
+      "code_org_rome_cible": 488281,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "I1324 - Technicien / Technicienne d'installation d'équipements industriels",
+      "code_org_rome_cible": 509409,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "I1327 - Technicien / Technicienne de maintenance en matériel biomédical",
+      "code_org_rome_cible": 509662,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "H1522 - Technicien / Technicienne en contrôles et essais non destructifs (CND END)",
+      "code_org_rome_cible": 488632,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1136 - Chef / Cheffe de projet éolien",
+      "code_org_rome_cible": 509938,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K2317 - Technicien / Technicienne d'exploitation d'eau potable",
+      "code_org_rome_cible": 509901,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "H1303 - Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel (HSE)",
+      "code_org_rome_cible": 224,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H2707 - Technicien / Technicienne essais en industrie nucléaire",
+      "code_org_rome_cible": 509386,
+      "ordre_mobilite": 10
+    }
+  ]
+}

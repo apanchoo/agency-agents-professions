@@ -1,0 +1,102 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 404045,
+    "code_rome": "K1307",
+    "libelle": "Animateur / Animatrice petite enfance",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": null,
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1303"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 19.157,
+      "matched_terms": [
+        "educat",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1303",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.ASSC.09",
+          "title": "Processus et dynamique de groupes",
+          "page": 643,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=643",
+          "selection_score": 124.5223,
+          "shared_terms": [
+            "dynamique",
+            "groupe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.07",
+          "title": "Démarches participatives",
+          "page": 713,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=713",
+          "selection_score": 101.8025,
+          "shared_terms": [
+            "participative"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.11",
+          "title": "Courants de l’ASSC",
+          "page": 621,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=621",
+          "selection_score": 96.4196,
+          "shared_terms": [
+            "courant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ASSC.05",
+          "title": "Observer, comprendre, questionner le sens des pratiques de l’animation professionnelle et rendre-compte des méthodes d’intervention observées",
+          "page": 607,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=607",
+          "selection_score": 39.9455,
+          "shared_terms": [
+            "observer"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.ASSC.03",
+          "title": "Élaborer un projet adapté à un public identifié dans la perspective d’un stage en se donnant les moyens d’impliquer les publics à toutes les étapes de la démarche",
+          "page": 605,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=605",
+          "selection_score": 33.8114,
+          "shared_terms": [
+            "etape"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

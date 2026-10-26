@@ -1,0 +1,113 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 488783,
+    "code_rome": "K1210",
+    "libelle": "Educateur / Educatrice de la protection judiciaire de la jeunesse",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "K1207"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 96.92,
+      "matched_terms": [
+        "educat",
+        "insertion",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1207",
+      "title_terms": [
+        "educat"
+      ],
+      "specific_title_terms": [
+        "educat"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R1.ASSC.09",
+          "title": "Développement de l’enfant et de l’adolescent",
+          "page": 619,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=619",
+          "selection_score": 105.1882,
+          "shared_terms": [
+            "adolescent",
+            "enfant"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CGE3S.11",
+          "title": "Systèmes de protection sociale français",
+          "page": 539,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=539",
+          "selection_score": 60.0218,
+          "shared_terms": [
+            "protection",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.AS.12",
+          "title": "Ethique",
+          "page": 244,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=244",
+          "selection_score": 58.1369,
+          "shared_terms": [
+            "ethique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.AS.03",
+          "title": "Concevoir et mettre en œuvre une intervention sociale individuelle et/ou collective",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=297",
+          "selection_score": 73.1973,
+          "shared_terms": [
+            "collective",
+            "individuelle",
+            "sociale",
+            "uvre"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CGE3S.04",
+          "title": "Etudier la situation d’une personne ou d’une famille afin de les informer sur les aides sociales mobilisables",
+          "page": 526,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=526",
+          "selection_score": 69.413,
+          "shared_terms": [
+            "famille",
+            "informer",
+            "sociale"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

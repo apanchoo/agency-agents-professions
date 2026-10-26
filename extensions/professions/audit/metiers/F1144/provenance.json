@@ -1,0 +1,105 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515417,
+    "code_rome": "F1144",
+    "libelle": "Architecte naval / Architecte navale",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "F1101"
+  },
+  "but": [
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.631,
+      "matched_terms": [
+        "construction"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1101",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.08",
+          "title": "Stabilité des constructions 1",
+          "page": 132,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=132",
+          "selection_score": 76.5312,
+          "shared_terms": [
+            "construction",
+            "stabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.11",
+          "title": "Stabilité des constructions 3",
+          "page": 335,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=335",
+          "selection_score": 76.2908,
+          "shared_terms": [
+            "construction",
+            "stabilite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.06",
+          "title": "Stabilité des constructions 2",
+          "page": 155,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=155",
+          "selection_score": 76.2861,
+          "shared_terms": [
+            "construction",
+            "stabilite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.RAPEB.06",
+          "title": "Proposition de solutions d’amélioration du bâti tout en contrôlant les coûts dans le cadre d’une rénovation lourde d’un bâtiment",
+          "page": 301,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=301",
+          "selection_score": 54.9203,
+          "shared_terms": [
+            "couts",
+            "proposition",
+            "renovation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.RAPEB.02",
+          "title": "Etude de faisabilité de réhabilitation",
+          "page": 323,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=323",
+          "selection_score": 47.8625,
+          "shared_terms": [
+            "faisabilite"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

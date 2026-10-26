@@ -1,0 +1,115 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 510283,
+    "code_rome": "K1413",
+    "libelle": "Directeur / Directrice d'établissement à caractère social",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "O",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1403"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 91.978,
+      "matched_terms": [
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1403",
+      "title_terms": [
+        "social"
+      ],
+      "specific_title_terms": [
+        "social"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CGE3S.10",
+          "title": "Politiques territoriales de santé et d’action sociale",
+          "page": 582,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=582",
+          "selection_score": 127.205,
+          "shared_terms": [
+            "action",
+            "politique",
+            "sante",
+            "sociale"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.CGE3S.07",
+          "title": "Droit appliqué aux secteurs de la santé, social et médico-social",
+          "page": 536,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=536",
+          "selection_score": 83.8153,
+          "shared_terms": [
+            "droit",
+            "sante",
+            "social"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.CGE3S.08",
+          "title": "Acteurs et dynamiques du sanitaire, social et médico-social",
+          "page": 491,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=491",
+          "selection_score": 74.2012,
+          "shared_terms": [
+            "sanitaire",
+            "social"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.CGE3S.03",
+          "title": "Participer à une démarche de projet dans un établissement ou service sanitaire et social",
+          "page": 479,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=479",
+          "selection_score": 137.099,
+          "shared_terms": [
+            "etablissement",
+            "sanitaire",
+            "social"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CGE3S.03",
+          "title": "Assurer une veille réglementaire sur les champs de la qualité et de l’autorisation pour une structure sanitaire et/ou médico sociale",
+          "page": 568,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=568",
+          "selection_score": 100.4804,
+          "shared_terms": [
+            "sanitaire",
+            "sociale",
+            "structure",
+            "veille"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

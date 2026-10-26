@@ -1,0 +1,117 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 509935,
+    "code_rome": "K1416",
+    "libelle": "Directeur / Directrice des services pénitentiaires d'insertion et de probation (DSPIP)",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1403"
+  },
+  "but": [
+    {
+      "programme_id": "cs",
+      "title": "Carrières sociales",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 93.885,
+      "matched_terms": [
+        "insertion",
+        "social"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1403",
+      "title_terms": [
+        "insertion"
+      ],
+      "specific_title_terms": [
+        "insertion"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf",
+      "programme_sha256": "b10a0ed8de2880b40e9f8276786f5b3100912f9ae8453acf6d9e675b4c84fa18",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.11",
+          "title": "Coordination de projet et direction de structures",
+          "page": 717,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=717",
+          "selection_score": 88.7195,
+          "shared_terms": [
+            "coordination",
+            "direction",
+            "structure"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.ASSC.10",
+          "title": "Pratiques d’intervention et de médiation auprès de publics spécifiques",
+          "page": 716,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=716",
+          "selection_score": 78.6408,
+          "shared_terms": [
+            "aupre",
+            "intervention",
+            "mediation",
+            "public"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.CGE3S.12",
+          "title": "Gestion et encadrement d’équipe / Santé au travail",
+          "page": 518,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=518",
+          "selection_score": 74.8927,
+          "shared_terms": [
+            "encadrement",
+            "sante"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.CGE3S.03",
+          "title": "Analyser le fonctionnement d’un projet mené dans une structure sanitaire et/ou médico sociale",
+          "page": 525,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=525",
+          "selection_score": 63.7083,
+          "shared_terms": [
+            "fonctionnement",
+            "sanitaire",
+            "sociale",
+            "structure"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.CGE3S.03",
+          "title": "Assurer une veille réglementaire sur les champs de la qualité et de l’autorisation pour une structure sanitaire et/ou médico sociale",
+          "page": 568,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-sociales-30819.pdf#page=568",
+          "selection_score": 55.7148,
+          "shared_terms": [
+            "sanitaire",
+            "sociale",
+            "structure",
+            "veille"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

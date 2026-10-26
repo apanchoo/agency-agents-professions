@@ -1,3 +1,40 @@
+# Agency Agents — Professional Edition
+
+This independent derivative combines the upstream **Agency Agents** specialist roster with **1,923 English-language profession agents and companion skills**.
+
+The purpose is to connect tool-specific specialists with complete professional roles: choose a specialist for a narrow technical assignment, a profession agent for the wider role, or combine their deliverables where the scopes complement each other. Original upstream agent definitions are preserved.
+
+## What this edition adds
+
+- A registered `professions/` division, recognized by the upstream converters and installer.
+- English profession names in folders, with stable identifier suffixes.
+- Standalone native agents under `professions/<profession>/`, plus companion skills under `extensions/professions/skills/`.
+- Practical expertise, workflows, deliverables and acceptance criteria integrated directly into runtime instructions.
+- Construction sources, curriculum mapping, original documents and attribution retained separately in the extension audit, outside agent instructions.
+
+Browse the [professional catalog](PROFESSIONS.md), the [interactive catalog](extensions/professions/catalog.html), or the [library guide](extensions/professions/README.md). The original reference PDFs are preserved in their original language; operational agents, skills, folder names and this guide are in English. Machine-assisted terminology still deserves review for specialized or high-stakes use.
+
+## Use with the existing tooling
+
+```bash
+./scripts/convert.sh --tool codex
+./scripts/install.sh --tool codex --division professions --agent profession-software-developer-m1805
+```
+
+Select the roles you need. Companion skills can be copied as complete folders into the skill directory supported by your tool; no global installation is performed by this repository itself.
+
+## Website and maintenance
+
+The [Docusaurus site](https://apanchoo.github.io/agency-agents-professions/) includes a Chakra UI landing page, searchable agent and skill explorer, and an English field guide. GitHub Actions tests and publishes the site from `main`.
+
+Renovate prepares dependency updates; patch and minor updates can merge after required checks, while major updates remain reviewable. Native security alerts, dependency auditing and CodeQL complement these updates. See [security policy](SECURITY.md).
+
+This is an independent derivative with the original history and an `upstream` remote. The repository is public to support GitHub Pages on this account. The MIT license and source-specific attribution are preserved in [extension attribution](extensions/professions/ATTRIBUTION.md).
+
+The original project documentation follows below.
+
+---
+
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.

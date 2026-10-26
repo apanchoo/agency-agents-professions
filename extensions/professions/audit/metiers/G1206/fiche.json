@@ -1,0 +1,526 @@
+{
+  "numero": 173,
+  "rome": {
+    "code_rome": "G1206",
+    "intitule": "Croupier / Croupière",
+    "code_ogr": 187
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant / Assistante clientèle Machines à Sous - MAS",
+      "libelle_court": "Assistant / Assistante clientèle Machines à Sous - MAS",
+      "code_ogr": 38330
+    },
+    {
+      "libelle": "Bout de table",
+      "libelle_court": "Bout de table",
+      "code_ogr": 11580
+    },
+    {
+      "libelle": "Chef / Cheffe de boule",
+      "libelle_court": "Chef / Cheffe de boule",
+      "code_ogr": 12071
+    },
+    {
+      "libelle": "Chef / Cheffe de partie de boule",
+      "libelle_court": "Chef / Cheffe de partie de boule",
+      "code_ogr": 12197
+    },
+    {
+      "libelle": "Chef / Cheffe de partie de jeux",
+      "libelle_court": "Chef / Cheffe de partie de jeux",
+      "code_ogr": 12198
+    },
+    {
+      "libelle": "Chef / Cheffe de table",
+      "libelle_court": "Chef / Cheffe de table",
+      "code_ogr": 12377
+    },
+    {
+      "libelle": "Croupier / Croupière bout de table",
+      "libelle_court": "Croupier / Croupière bout de table",
+      "code_ogr": 13849
+    },
+    {
+      "libelle": "Croupier / Croupière de boule",
+      "libelle_court": "Croupier / Croupière de boule",
+      "code_ogr": 13850
+    },
+    {
+      "libelle": "Employé / Employée des jeux",
+      "libelle_court": "Employé / Employée des jeux",
+      "code_ogr": 14792
+    },
+    {
+      "libelle": "Valet de jeux de table",
+      "libelle_court": "Valet de jeux de table",
+      "code_ogr": 20501
+    }
+  ],
+  "definition": "Le Croupier anime les tables de jeux dans le respect des règles afin d'offrir un service clientèle de qualité et contribuer à l'atmosphère du casino. Gère une ou plusieurs tables de jeux (tels que la roulette, le blackjack ou le poker) Veille à l'application stricte des règles et procédures de jeux Contrôle et échange des jetons pour les joueurs en assurant une gestion précise des transactions Interagit avec les joueurs à la table et alerte en cas de comportement inadéquat Peut animer la salle de machines à sous",
+  "acces_metier": "Ce métier est accessible avec une formation de croupier de niveau Bac. Aucune qualification n'est demandée pour intégrer la formation. Un agrément de jeu délivré par le ministère de l'Intérieur sera nécessaire.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Animation",
+          "items": [
+            {
+              "libelle": "Animer des jeux de cartes",
+              "code_ogr": 300515,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer des jeux de dés",
+              "code_ogr": 300516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer des jeux de roue",
+              "code_ogr": 300517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer des salles de machines à sous",
+              "code_ogr": 104040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Animer la table de jeu",
+              "code_ogr": 300543,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Ranger des équipements de jeux",
+              "code_ogr": 125649,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser les opérations d'ouverture et de fermeture d'une table de jeu",
+              "code_ogr": 518432,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Transmettre une technique, un savoir-faire",
+              "code_ogr": 300021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Observer et repérer les changements de comportement des joueurs",
+              "code_ogr": 518434,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Réaliser la maintenance de premier niveau",
+              "code_ogr": 102175,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vérifier le fonctionnement des équipements de jeux",
+              "code_ogr": 104030,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Détecter les comportements suspects",
+              "code_ogr": 140956,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer, prévenir, et gérer les risques et la sécurité",
+              "code_ogr": 300149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Assurer l'exactitude des opérations de décompte, de paiement des gains et de collecte des paris perdus",
+              "code_ogr": 518433,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procéder aux paiements et au ramassage des mises",
+              "code_ogr": 518435,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires",
+              "code_ogr": 300339,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Accueillir, informer et orienter les clients",
+              "code_ogr": 490153,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux attentes d'un client",
+              "code_ogr": 300364,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Répondre aux demandes d'information",
+              "code_ogr": 486851,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement avec l'équipe et les clients",
+              "code_ogr": 403448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Parler une ou plusieurs langues étrangères",
+              "code_ogr": 300411,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Alerter, demander un appui ou un arbitrage",
+              "code_ogr": 300474,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Argumenter pour résoudre des conflits ou des malentendus",
+              "code_ogr": 482865,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter des règles, des consignes, normes et procédures opérationnelles",
+              "code_ogr": 300448,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Respecter les règles et consignes de rangement et de nettoyage de son poste de travail",
+              "code_ogr": 405079,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Mobiliser sa concentration tout au long d'un processus",
+              "code_ogr": 405056,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des équipements de jeux",
+              "code_ogr": 300695,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "BTS management commercial opérationnel",
+              "code_ogr": 489599,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Identification de signes d'addiction",
+              "code_ogr": 107858,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Stratégies d'intervention des joueurs (signaux visuels, langage du corps, ...)",
+              "code_ogr": 104043,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipulation d'objets de jeux (jetons, cartes, ...)",
+              "code_ogr": 104041,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation des jeux et loteries",
+              "code_ogr": 102145,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes de sécurité et d'accessibilité des espaces et des établissements recevant du public",
+              "code_ogr": 100091,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de contrôle des équipements de jeux",
+              "code_ogr": 104036,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Modalités d'approvisionnement de machines à sous",
+              "code_ogr": 117630,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de gestion de conflits",
+              "code_ogr": 110161,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de brassage ou battage de cartes de jeux",
+              "code_ogr": 104042,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Adultes",
+          "code_ogr": 300820
+        }
+      ]
+    },
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Contrat travail saisonnier",
+          "code_ogr": 403098
+        },
+        {
+          "libelle": "Intérim",
+          "code_ogr": 403101
+        },
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail de nuit",
+          "code_ogr": 300803
+        },
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Structure de loisirs, culturelle ou touristique",
+          "code_ogr": 300878
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "93",
+      "libelle": "Sport, animation et loisir",
+      "principal": false
+    },
+    {
+      "code": "101",
+      "libelle": "Tourisme",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "G1205 - Opérateur / Opératrice d'attraction",
+      "code_org_rome_cible": 186,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "G1703 - Réceptionniste",
+      "code_org_rome_cible": 205,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "G1101 - Agent / Agente d'accueil touristique",
+      "code_org_rome_cible": 180,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "G1303 - Conseiller / Conseillère en voyages",
+      "code_org_rome_cible": 190,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "G1502 - Employé / Employée d'hôtel",
+      "code_org_rome_cible": 196,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1508 - Responsable de caisses",
+      "code_org_rome_cible": 117,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1408 - Conseiller / Conseillère clientèle à distance",
+      "code_org_rome_cible": 109,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1204 - Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+      "code_org_rome_cible": 90,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1506 - Manager de proximité",
+      "code_org_rome_cible": 488608,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 10
+    }
+  ]
+}

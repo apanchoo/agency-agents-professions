@@ -1,0 +1,546 @@
+{
+  "numero": 111,
+  "rome": {
+    "code_rome": "D1208",
+    "intitule": "Esthéticien / Esthéticienne",
+    "code_ogr": 94
+  },
+  "appellations": [
+    {
+      "libelle": "Cosméticien / Cosméticienne",
+      "libelle_court": "Cosméticien / Cosméticienne",
+      "code_ogr": 13757
+    },
+    {
+      "libelle": "Employé / Employée d'institut de beauté",
+      "libelle_court": "Employé / Employée d'institut de beauté",
+      "code_ogr": 14798
+    },
+    {
+      "libelle": "Esthéticien / Esthéticienne à domicile",
+      "libelle_court": "Esthéticien / Esthéticienne à domicile",
+      "code_ogr": 14891
+    },
+    {
+      "libelle": "Esthéticien praticien / Esthéticienne praticienne",
+      "libelle_court": "Esthéticien praticien / Esthéticienne praticienne",
+      "code_ogr": 14892
+    },
+    {
+      "libelle": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
+      "libelle_court": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
+      "code_ogr": 14893
+    },
+    {
+      "libelle": "Esthéticien-manucure / Esthéticienne-manucure",
+      "libelle_court": "Esthéticien-manucure / Esthéticienne-manucure",
+      "code_ogr": 14894
+    },
+    {
+      "libelle": "Maquilleur beauté / Maquilleuse beauté",
+      "libelle_court": "Maquilleur beauté / Maquilleuse beauté",
+      "code_ogr": 16381
+    },
+    {
+      "libelle": "Maquilleur corporel / Maquilleuse corporelle",
+      "libelle_court": "Maquilleur corporel / Maquilleuse corporelle",
+      "code_ogr": 510357
+    },
+    {
+      "libelle": "Opérateur / Opératrice de bronzage par ultraviolets - UV",
+      "libelle_court": "Opérateur / Opératrice de bronzage par ultraviolets - UV",
+      "code_ogr": 38445
+    },
+    {
+      "libelle": "Vendeur / Vendeuse en produits de beauté",
+      "libelle_court": "Vendeur / Vendeuse en produits de beauté",
+      "code_ogr": 510241
+    }
+  ],
+  "definition": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés. Réalise des soins du visage et du corps adaptés aux clients Propose et vend des produits de beauté et de soin Effectue des épilations et prépare la peau avant et après les soins Conseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements Gère les rendez-vous et maintient l'espace de travail propre et accueillant Peut réaliser des soins spécifiques comme le maquillage ou la manucure",
+  "acces_metier": "Cet emploi est accessible avec un CAP en soins esthétiques et corporels. Un diplôme de niveau BAC (Brevet Professionnel, ...) ou BAC +2 (BTS, ...) en esthétique-cosmétique peut être requis.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller sur la mise en valeur de son image personnelle",
+              "code_ogr": 126129,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Analyser les caractéristiques de la peau pour adapter le maquillage",
+              "code_ogr": 507405,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir des maquillages",
+              "code_ogr": 120139,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Pratiquer des techniques manuelles drainantes, relaxantes, raffermissantes et stimulantes",
+              "code_ogr": 102062,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Prodiguer des soins corporels et esthétiques",
+              "code_ogr": 300043,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des maquillages",
+              "code_ogr": 109189,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des soins d'épilation",
+              "code_ogr": 102054,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des soins de manucure, pédicure",
+              "code_ogr": 101917,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des soins de pose de faux-cils, bijoux de peau, tatouages temporaires",
+              "code_ogr": 102057,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des soins du visage et du corps",
+              "code_ogr": 102050,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser un raccord de maquillage ou de coiffure",
+              "code_ogr": 109191,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Mettre à jour un dossier, une base de données",
+              "code_ogr": 300431,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Entretenir un outil ou un matériel",
+              "code_ogr": 124629,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenir une hygiène stricte du matériel et de l'environnement de travail",
+              "code_ogr": 504340,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Veiller à la conformité des machines et des soins des séances d'UV, spa, sauna, hammam",
+              "code_ogr": 114145,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer les agendas et planifier des rendez-vous",
+              "code_ogr": 120722,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procéder à l'encaissement",
+              "code_ogr": 300303,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Maintenir à jour les connaissances des tendances de maquillage",
+              "code_ogr": 507409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Présenter et expliquer des techniques d'esthétique et de maquillage",
+              "code_ogr": 300542,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Assurer la confidentialité des informations des clients",
+              "code_ogr": 483316,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Avoir le sens du service",
+              "code_ogr": 399999,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de créativité, d'inventivité",
+              "code_ogr": 300497,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des parfums",
+              "code_ogr": 102052,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'appareils de soins esthétiques",
+              "code_ogr": 499002,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de pinceaux et éponges de maquillage",
+              "code_ogr": 499239,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de dermographe",
+              "code_ogr": 102063,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de produits de fixation de maquillage",
+              "code_ogr": 499248,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits cosmétiques",
+              "code_ogr": 493326,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Bac pro esthétique, cosmétique, parfumerie",
+              "code_ogr": 513992,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS métiers de l'esthétique, de la cosmétique et de la parfumerie option B formation-marques",
+              "code_ogr": 514067,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "CAP esthétique cosmétique parfumerie",
+              "code_ogr": 514116,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS métiers de l'esthétique, de la cosmétique et de la parfumerie option A management",
+              "code_ogr": 514066,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BTS métiers de l'esthétique, de la cosmétique et de la parfumerie option C cosmétologie",
+              "code_ogr": 514068,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Merchandising / Marchandisage",
+              "code_ogr": 121250,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des allergies cutanées liées au maquillage",
+              "code_ogr": 492694,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'écoute active",
+              "code_ogr": 107926,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de maquillage corporel",
+              "code_ogr": 109205,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soins corporels",
+              "code_ogr": 498786,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Esthétique",
+              "code_ogr": 514759,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparation de la peau pour le maquillage",
+              "code_ogr": 496756,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vente",
+              "code_ogr": 498870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soins de la peau",
+              "code_ogr": 498787,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de maquillage",
+              "code_ogr": 102199,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de formation individuelle",
+              "code_ogr": 126285,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de maquillage anti-âge",
+              "code_ogr": 498251,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de soins anti-âge",
+              "code_ogr": 498783,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Au domicile d'un particulier",
+          "code_ogr": 300778
+        },
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail le samedi",
+          "code_ogr": 23374
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "86",
+      "libelle": "Service à la personne",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "D1231 - Responsable espace bien-être",
+      "code_org_rome_cible": 509646,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "D1237 - Socio-esthéticien / Socio-esthéticienne",
+      "code_org_rome_cible": 509811,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "L1501 - Maquilleur / Maquilleuse spectacle",
+      "code_org_rome_cible": 447,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "K1311 - Assistant / Assistante de vie aux familles",
+      "code_org_rome_cible": 488323,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1214 - Vendeur / Vendeuse en prêt-à-porter",
+      "code_org_rome_cible": 100,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1222 - Masseur / Masseuse bien-être",
+      "code_org_rome_cible": 489570,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "D1241 - Conseiller / Conseillère en image personnelle",
+      "code_org_rome_cible": 510278,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1621 - Assistant administratif / Assistante administrative multilingue",
+      "code_org_rome_cible": 510208,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "J1402 - Diététicien / Diététicienne",
+      "code_org_rome_cible": 346,
+      "ordre_mobilite": 10
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 11
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "numero": 552,
+  "rome": {
+    "code_rome": "N3101",
+    "intitule": "Officier / Officière de port",
+    "code_ogr": 517
+  },
+  "appellations": [
+    {
+      "libelle": "Capitaine de port",
+      "libelle_court": "Capitaine de port",
+      "code_ogr": 11670
+    },
+    {
+      "libelle": "Commandant / Commandante de port",
+      "libelle_court": "Commandant / Commandante de port",
+      "code_ogr": 12735
+    },
+    {
+      "libelle": "Commissaire de bord marine",
+      "libelle_court": "Commissaire de bord marine",
+      "code_ogr": 12770
+    },
+    {
+      "libelle": "Lieutenant / Lieutenante de port",
+      "libelle_court": "Lieutenant / Lieutenante de port",
+      "code_ogr": 16189
+    },
+    {
+      "libelle": "Officier / Officière de port adjoint (lieutenant)",
+      "libelle_court": "Officier / Officière de port adjoint (lieutenant)",
+      "code_ogr": 517811
+    },
+    {
+      "libelle": "Officier / Officière de vigie de port",
+      "libelle_court": "Officier / Officière de vigie de port",
+      "code_ogr": 17024
+    },
+    {
+      "libelle": "Officier de port (capitaine) / Officière de port (capitaine)",
+      "libelle_court": "Officier de port (capitaine) / Officière de port (capitaine)",
+      "code_ogr": 517812
+    }
+  ],
+  "definition": "L'Officier de port joue un rôle crucial dans la gestion et la sécurité des activités portuaires. Supervise les opérations de trafic maritime au sein du port Coordonne les activités de pilotage, de remorquage et d'amarrage des navires Assure la sécurité des biens et des personnes dans la zone portuaire Gère les situations d'urgence et coordonne les interventions nécessaires Contrôle l'application des réglementations maritimes et portuaires Participe à la planification et au développement des infrastructures portuaires",
+  "acces_metier": "Cet emploi est accessible avec un Brevet de capitaine de première classe de la navigation maritime, obligatoire pour exercer. Des qualifications supplémentaires comme un Brevet de capitaine de port ou une Certification de gestion portuaire peuvent être utiles, mais ne sont pas obligatoires.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Animer, coordonner une équipe",
+              "code_ogr": 300440,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la coordination des services portuaires lors des escales",
+              "code_ogr": 506304,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Assurer la liaison avec les services d'urgence",
+              "code_ogr": 486639,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faciliter la communication entre les différents acteurs portuaires",
+              "code_ogr": 506312,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser les rotations des équipes de travail portuaire",
+              "code_ogr": 516519,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des Ressources Humaines",
+          "items": [
+            {
+              "libelle": "Mettre en place des actions de gestion de ressources humaines",
+              "code_ogr": 119337,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Evaluer les besoins en formation du personnel portuaire",
+              "code_ogr": 516522,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en place des formations pour le personnel portuaire",
+              "code_ogr": 506319,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Concevoir des systèmes de gestion des déchets portuaires",
+              "code_ogr": 516529,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Recueillir les données techniques et élaborer la feuille de route de la traversée (horaires, distances, météo, etc.)",
+              "code_ogr": 110312,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Aménagement",
+          "items": [
+            {
+              "libelle": "Concevoir des plans de développement pour le port",
+              "code_ogr": 506322,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Planifier et superviser les travaux de construction portuaire",
+              "code_ogr": 516527,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Maintenir les équipements de navigation en bon état",
+              "code_ogr": 516518,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser et coordonner les opérations de surveillance d'un site portuaire (protection incendie, plan d'urgence, ...) et élaborer des plans d'urgence d'intervention",
+              "code_ogr": 115606,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Superviser la maintenance des équipements portuaires",
+              "code_ogr": 506313,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les opérations de pilotage des navires",
+              "code_ogr": 506309,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Contrôler le fonctionnement d'un dispositif de sécurité",
+              "code_ogr": 104016,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les interventions en cas de pollution marine",
+              "code_ogr": 506310,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer des inspections de sécurité régulières",
+              "code_ogr": 483229,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques liés aux activités portuaires",
+              "code_ogr": 506316,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Planifier les opérations de maintenance des équipements",
+              "code_ogr": 125310,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des audits de sécurité portuaire",
+              "code_ogr": 506320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Superviser les opérations de nettoyage et de maintenance du port",
+              "code_ogr": 516526,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller les opérations de remorquage et d'amarrage",
+              "code_ogr": 516516,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Analyser les performances opérationnelles du port",
+              "code_ogr": 506318,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'utilisation des infrastructures portuaires",
+              "code_ogr": 506305,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller la qualité de l'eau dans la zone portuaire",
+              "code_ogr": 516531,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Logistique",
+          "items": [
+            {
+              "libelle": "Analyser les besoins de transport maritime",
+              "code_ogr": 484890,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordonner les opérations de chargement et de déchargement",
+              "code_ogr": 110684,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les communications radio avec les navires et les autorités",
+              "code_ogr": 516515,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser des opérations portuaires et de transports maritimes de marchandise",
+              "code_ogr": 119094,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser et planifier l'affectation des équipements portuaires ou maritimes (portiques, navires, ...)",
+              "code_ogr": 110426,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Organiser la circulation maritime dans le port",
+              "code_ogr": 506308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planifier ou coordonner l'activité d'équipes portuaires ou du personnel maritime sédentaire",
+              "code_ogr": 110427,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Optimiser les procédures de passage en douane",
+              "code_ogr": 516520,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Gérer les relations avec les clients et les fournisseurs du port",
+              "code_ogr": 516523,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Elaborer, suivre et piloter un budget",
+              "code_ogr": 300323,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Contrôler l'application des réglementations maritimes en port",
+              "code_ogr": 506307,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveiller l'application des réglementations environnementales",
+              "code_ogr": 516521,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Analyser les conditions météorologiques pour la navigation",
+              "code_ogr": 509040,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôler l'accès et la sécurité du port",
+              "code_ogr": 516517,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Elaborer des politiques de gestion des déchets portuaires",
+              "code_ogr": 506326,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer l'impact des activités portuaires sur l'environnement local",
+              "code_ogr": 516528,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mener des études d'impact environnemental pour les projets portuaires",
+              "code_ogr": 506327,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'utilisation des ressources énergétiques du port",
+              "code_ogr": 516530,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir les pratiques de développement durable dans le port",
+              "code_ogr": 506325,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des indicateurs de performance portuaire",
+              "code_ogr": 506323,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Développer des stratégies pour augmenter l'efficacité portuaire",
+              "code_ogr": 506315,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etablir des partenariats stratégiques pour le développement portuaire",
+              "code_ogr": 506321,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Implémenter des technologies pour améliorer la gestion du trafic",
+              "code_ogr": 516524,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Mettre en œuvre des politiques de réduction des émissions polluantes",
+              "code_ogr": 508561,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piloter une activité",
+              "code_ogr": 300487,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer des améliorations des services portuaires",
+              "code_ogr": 506317,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Se coordonner avec les autorités locales pour le développement portuaire",
+              "code_ogr": 516525,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer et coopérer avec les autorités maritimes",
+              "code_ogr": 501117,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Relayer de l'information",
+              "code_ogr": 300451,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter la réglementation maritime",
+              "code_ogr": 506516,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Suivre les normes de sécurité maritime",
+              "code_ogr": 483230,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Avoir l'esprit d'équipe",
+              "code_ogr": 300465,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Etre force de proposition",
+              "code_ogr": 300467,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de leadership",
+              "code_ogr": 300489,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels de gestion de fret",
+              "code_ogr": 481046,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Navire remorqueur portuaire",
+              "code_ogr": 120469,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Analyse statistique des données portuaires",
+              "code_ogr": 515531,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion de l'information nautique",
+              "code_ogr": 515521,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des ressources portuaires",
+              "code_ogr": 515560,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anglais maritime",
+              "code_ogr": 100253,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Coordination des services de pilotage",
+              "code_ogr": 515519,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des ressources humaines portuaires",
+              "code_ogr": 515526,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimisation de l'espace portuaire",
+              "code_ogr": 515527,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Optimisation des flux de marchandises",
+              "code_ogr": 481181,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Logiciel professionnel de transport maritime",
+              "code_ogr": 119056,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluation des performances portuaires",
+              "code_ogr": 515532,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance des opérations de chargement",
+              "code_ogr": 515518,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Communication interne portuaire",
+              "code_ogr": 515530,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion financière des activités portuaires",
+              "code_ogr": 515529,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification des mouvements de navires",
+              "code_ogr": 515520,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation du transport de marchandises",
+              "code_ogr": 104084,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des situations d'urgence en port",
+              "code_ogr": 515523,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Maintenance préventive des équipements portuaires",
+              "code_ogr": 116698,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité à bord des navires (personnes et marchandises)",
+              "code_ogr": 110319,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Connaissance des normes environnementales maritimes",
+              "code_ogr": 515716,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation portuaire",
+              "code_ogr": 110320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réglementation sécurité incendie",
+              "code_ogr": 101449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles de sécurité maritime",
+              "code_ogr": 100246,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Contrôle des procédures de sécurité portuaire",
+              "code_ogr": 515522,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Droit maritime",
+              "code_ogr": 100248,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Gestion des équipements portuaires",
+              "code_ogr": 495157,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication et de négociation",
+              "code_ogr": 404573,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse des données maritimes",
+              "code_ogr": 492088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des risques portuaires",
+              "code_ogr": 495435,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Supervision de la maintenance des infrastructures portuaires",
+              "code_ogr": 515525,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de résolution de conflits portuaires",
+              "code_ogr": 498711,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de remorquage",
+              "code_ogr": 110358,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Lieux et déplacements",
+      "items": [
+        {
+          "libelle": "Zone départementale",
+          "code_ogr": 23378
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En zone portuaire",
+          "code_ogr": 300786
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "113",
+      "libelle": "Logistique et transport",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "N3115 - Capitaine de yacht",
+      "code_org_rome_cible": 515436,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "N3112 - Commissaire de bord",
+      "code_org_rome_cible": 515403,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "N3107 - Pilote fluvial / Pilote fluviale",
+      "code_org_rome_cible": 510026,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "N3106 - Officier / Officière de la marine marchande",
+      "code_org_rome_cible": 509805,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "N3105 - Pilote hauturier / Pilote hauturière",
+      "code_org_rome_cible": 509510,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "N3211 - Directeur de port / Directrice de port",
+      "code_org_rome_cible": 515449,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "N3201 - Responsable d'exploitation transport maritime",
+      "code_org_rome_cible": 520,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "K1702 - Responsable de sécurité civile et de secours",
+      "code_org_rome_cible": 392,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1742 - Contrôleur / Contrôleuse des espaces maritimes",
+      "code_org_rome_cible": 510592,
+      "ordre_mobilite": 9
+    }
+  ]
+}

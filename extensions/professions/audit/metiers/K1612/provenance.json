@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 520265,
+    "code_rome": "K1612",
+    "libelle": "Conservateur / Conservatrice d'archives",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": null,
+    "transition_demo": null,
+    "emploi_reglemente": "O",
+    "emploi_cadre": "O",
+    "code_rome_parent": "K1601"
+  },
+  "but": [
+    {
+      "programme_id": "infocom",
+      "title": "Information - Communication",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 19.338,
+      "matched_terms": [
+        "communication",
+        "patrimoine"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "K1601",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf",
+      "programme_sha256": "fa2d4d69e77a4a3eb96258591abe0b090992fc5bd258200c9742a5c137020b20",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.INFONUM.10",
+          "title": "Politique d’archivage et de conservation",
+          "page": 297,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=297",
+          "selection_score": 106.5254,
+          "shared_terms": [
+            "archivage",
+            "conservation",
+            "politique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.MLP.06",
+          "title": "Gestion, connaissance et valorisation des fonds",
+          "page": 561,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=561",
+          "selection_score": 83.5228,
+          "shared_terms": [
+            "fonds",
+            "valorisation"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.MLP.08",
+          "title": "Histoire et politiques culturelles",
+          "page": 511,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=511",
+          "selection_score": 77.2802,
+          "shared_terms": [
+            "culturelle",
+            "histoire",
+            "politique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.JOU.04",
+          "title": "Réaliser une revue de presse",
+          "page": 321,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=321",
+          "selection_score": 83.9476,
+          "shared_terms": [
+            "presse",
+            "revue"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.MLP.03",
+          "title": "Suivre l’actualité du livre et du patrimoine",
+          "page": 453,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/information-communication-30852.pdf#page=453",
+          "selection_score": 70.2028,
+          "shared_terms": [
+            "livre",
+            "patrimoine"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

@@ -1,0 +1,660 @@
+{
+  "numero": 22,
+  "rome": {
+    "code_rome": "B1501",
+    "intitule": "Facteur / Factrice d'instruments à clavier",
+    "code_ogr": 43
+  },
+  "appellations": [
+    {
+      "libelle": "Accordeur / Accordeuse de pianos",
+      "libelle_court": "Accordeur / Accordeuse de pianos",
+      "code_ogr": 10230
+    },
+    {
+      "libelle": "Accordeur-réparateur / Accordeuse-réparatrice de pianos",
+      "libelle_court": "Accordeur-réparateur / Accordeuse-réparatrice de pianos",
+      "code_ogr": 10231
+    },
+    {
+      "libelle": "Fabricant / Fabricante d'accordéons",
+      "libelle_court": "Fabricant / Fabricante d'accordéons",
+      "code_ogr": 15022
+    },
+    {
+      "libelle": "Facteur / Factrice de clavecins",
+      "libelle_court": "Facteur / Factrice de clavecins",
+      "code_ogr": 15045
+    },
+    {
+      "libelle": "Facteur / Factrice de pianos",
+      "libelle_court": "Facteur / Factrice de pianos",
+      "code_ogr": 15048
+    },
+    {
+      "libelle": "Facteur / Factrice d'orgues",
+      "libelle_court": "Facteur / Factrice d'orgues",
+      "code_ogr": 15055
+    },
+    {
+      "libelle": "Monteur / Monteuse en cordes de piano",
+      "libelle_court": "Monteur / Monteuse en cordes de piano",
+      "code_ogr": 16815
+    },
+    {
+      "libelle": "Restaurateur / Restauratrice de pianos",
+      "libelle_court": "Restaurateur / Restauratrice de pianos",
+      "code_ogr": 19224
+    }
+  ],
+  "definition": "Le facteur d'instruments à clavier est un professionnel dont l'activité principale est la préparation, l'entretien et la réparation des instruments, certains nécessitant des savoir-faire et outils spécifiques tels l'orgue ou l'accordéon. Conseille les clients sur le choix et l'entretien de leurs instruments Participe à la fabrication artisanale ou semi-industrielle des instruments, de leurs composants Accorde les instruments pour garantir leur qualité sonore Peut personnaliser les instruments selon les spécifications des musiciens",
+  "acces_metier": "Cet emploi est accessible avec un diplôme de niveau CAP à Bac +2 en facture instrumentale. Le cursus fait partie des formations aux métiers d'art. Une spécialisation complémentaire est nécessaire pour certains types d'instrument.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller, accompagner une personne",
+              "code_ogr": 300014,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Former des apprentis sur les techniques de facture instrumentale",
+              "code_ogr": 503947,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Création artistique",
+          "items": [
+            {
+              "libelle": "Accorder un instrument de musique",
+              "code_ogr": 123974,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Concevoir un instrument de musique",
+              "code_ogr": 125073,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Optimiser l'acoustique des instruments à clavier",
+              "code_ogr": 501353,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Tester la qualité sonore des instruments à clavier",
+              "code_ogr": 501349,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Ajuster des éléments façonnés",
+              "code_ogr": 124982,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Appliquer un traitement, un produit",
+              "code_ogr": 300214,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fabriquer, façonner les parties d'un instrument de musique",
+              "code_ogr": 125350,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer du matériel en prévision d'un travail",
+              "code_ogr": 300152,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Préparer l'instrument de musique : procéder aux opérations de réglage, d'accord ou d'harmonisation",
+              "code_ogr": 511342,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des opérations en mécanique de précision",
+              "code_ogr": 484284,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser la finition d'un produit, d'un article, d'un ouvrage",
+              "code_ogr": 300226,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser un travail de précision nécessitant le sens de la minutie",
+              "code_ogr": 405118,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régler la sonorité d'un instrument de musique",
+              "code_ogr": 125800,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Régler les mécanismes de précision des claviers",
+              "code_ogr": 501348,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Construction",
+          "items": [
+            {
+              "libelle": "Assembler des structures en bois",
+              "code_ogr": 486418,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Diagnostiquer et résoudre les problèmes acoustiques des instruments",
+              "code_ogr": 503453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer la maintenance de premier niveau des outillages et des équipements",
+              "code_ogr": 119210,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Entretenir un instrument de musique",
+              "code_ogr": 125256,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Gérer les incidents et les problèmes techniques",
+              "code_ogr": 120517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Restaurer des instruments anciens",
+              "code_ogr": 503447,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réparer un instrument de musique",
+              "code_ogr": 125799,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Choisir le matériau en conformité avec le cahier des charges",
+              "code_ogr": 118052,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Contrôler la qualité des matériaux et des produits finis",
+              "code_ogr": 485576,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Définir des besoins en approvisionnement",
+              "code_ogr": 125971,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer le stock de matériaux",
+              "code_ogr": 483878,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Rédiger un rapport, un compte rendu d'activité",
+              "code_ogr": 300408,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative et financière d'une activité",
+              "code_ogr": 300307,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Expertiser et estimer un instrument de musique",
+              "code_ogr": 511346,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Favoriser le réemploi ou le recyclage des matériaux récupérés",
+              "code_ogr": 400851,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Promouvoir l'utilisation de matériaux naturels et écologiques",
+              "code_ogr": 511348,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Analyser les besoins des clients pour proposer des services adaptés",
+              "code_ogr": 400723,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Conseiller les clients sur les options de location",
+              "code_ogr": 501781,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Fournir un service de qualité",
+              "code_ogr": 403285,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Promouvoir les instruments de musique auprès des professionnels",
+              "code_ogr": 503064,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre ou louer des instruments de musique",
+              "code_ogr": 126370,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre ou louer des produits ou des services",
+              "code_ogr": 300368,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Expliquer les choix techniques aux clients",
+              "code_ogr": 400694,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Maintenir un environnement de travail propre et organisé",
+              "code_ogr": 483320,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les délais de production pour répondre aux demandes des clients",
+              "code_ogr": 404169,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Mobiliser sa concentration tout au long d'un processus",
+              "code_ogr": 405056,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Valoriser ses compétences, son parcours, son expertise",
+              "code_ogr": 300501,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des instruments de musique",
+              "code_ogr": 102128,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Caractéristiques et propriétés des bois et dérivés du bois",
+              "code_ogr": 104893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Piano droit, piano à queue",
+              "code_ogr": 125793,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés des métaux",
+              "code_ogr": 100665,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils de précision manuels",
+              "code_ogr": 478882,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "DMA facture instrumentale option piano",
+              "code_ogr": 514396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Bac pro artisanat et métiers d'art - facteur d'orgues option tuyautier",
+              "code_ogr": 513986,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BMA spécialité technicien en facture instrumentale option piano",
+              "code_ogr": 514012,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "BMA spécialité technicien en facture instrumentale option accordéon",
+              "code_ogr": 514009,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "DMA facture instrumentale option accordéon",
+              "code_ogr": 514394,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Matériaux acoustiques",
+              "code_ogr": 492991,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sélection des matériaux pour résonance",
+              "code_ogr": 497448,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Propriétés acoustiques des matériaux",
+              "code_ogr": 493346,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Argumentation commerciale",
+              "code_ogr": 100381,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organologie",
+              "code_ogr": 100842,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pratique d'un instrument de musique",
+              "code_ogr": 126207,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Méthodes d'analyse en acoustique",
+              "code_ogr": 117392,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Lecture de plans et de schémas",
+              "code_ogr": 103070,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité et ergonomie dans l'atelier de fabrication",
+              "code_ogr": 497419,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de vernissage",
+              "code_ogr": 105180,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de vente",
+              "code_ogr": 498870,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de restauration",
+              "code_ogr": 101898,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de montage de cordes",
+              "code_ogr": 100814,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de polissage du bois",
+              "code_ogr": 480916,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de tension de cordes d'instruments",
+              "code_ogr": 100816,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Publics spécifiques",
+      "items": [
+        {
+          "libelle": "Clientèle de particuliers",
+          "code_ogr": 490503
+        },
+        {
+          "libelle": "Clientèle de professionnels",
+          "code_ogr": 490504
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Activités de motricité fine (dextérité...)",
+          "code_ogr": 403019
+        },
+        {
+          "libelle": "En atelier",
+          "code_ogr": 403092
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "Station assise prolongée",
+          "code_ogr": 403025
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Commerce de proximité",
+          "code_ogr": 405307
+        },
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        },
+        {
+          "libelle": "Institution culturelle",
+          "code_ogr": 489413
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "87",
+      "libelle": "Artisanat d'art, audiovisuel et spectacle",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "B1503 - Facteur / Factrice d'instruments à vent",
+      "code_org_rome_cible": 509888,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "B1502 - Facteur / Factrice d'instruments de musique anciens",
+      "code_org_rome_cible": 509353,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "B1504 - Facteur / Factrice de percussions",
+      "code_org_rome_cible": 509773,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "H2206 - Menuisier / Menuisière",
+      "code_org_rome_cible": 242,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "L1202 - Musicien / Musicienne",
+      "code_org_rome_cible": 439,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "K1607 - Conservateur / Conservatrice des antiquités et objets d'art",
+      "code_org_rome_cible": 489080,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "K2111 - Formateur / Formatrice",
+      "code_org_rome_cible": 414,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "L1508 - Ingénieur / Ingénieure du son",
+      "code_org_rome_cible": 454,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "K1808 - Chargé / Chargée de développement culturel",
+      "code_org_rome_cible": 509882,
+      "ordre_mobilite": 9
+    }
+  ]
+}

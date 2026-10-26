@@ -1,0 +1,497 @@
+{
+  "numero": 486,
+  "rome": {
+    "code_rome": "M1401",
+    "intitule": "Enquêteur / Enquêtrice sondage",
+    "code_ogr": 467
+  },
+  "appellations": [
+    {
+      "libelle": "Agent / Agente d'enquêtes",
+      "libelle_court": "Agent / Agente d'enquêtes",
+      "code_ogr": 10659
+    },
+    {
+      "libelle": "Assistant / Assistante d'enquêtes terrain",
+      "libelle_court": "Assistant / Assistante d'enquêtes terrain",
+      "code_ogr": 11264
+    },
+    {
+      "libelle": "Chargé / Chargée d'enquêtes",
+      "libelle_court": "Chargé / Chargée d'enquêtes",
+      "code_ogr": 11877
+    },
+    {
+      "libelle": "Enquêteur / Enquêtrice au téléphone",
+      "libelle_court": "Enquêteur / Enquêtrice au téléphone",
+      "code_ogr": 14840
+    },
+    {
+      "libelle": "Enquêteur / Enquêtrice des ménages",
+      "libelle_court": "Enquêteur / Enquêtrice des ménages",
+      "code_ogr": 14843
+    },
+    {
+      "libelle": "Enquêteur / Enquêtrice d'opinion",
+      "libelle_court": "Enquêteur / Enquêtrice d'opinion",
+      "code_ogr": 14844
+    },
+    {
+      "libelle": "Enquêteur / Enquêtrice statistique",
+      "libelle_court": "Enquêteur / Enquêtrice statistique",
+      "code_ogr": 510100
+    },
+    {
+      "libelle": "Enquêteur / Enquêtrice terrain",
+      "libelle_court": "Enquêteur / Enquêtrice terrain",
+      "code_ogr": 14847
+    },
+    {
+      "libelle": "Enquêteur client / Enquêtrice cliente mystère",
+      "libelle_court": "Enquêteur client / Enquêtrice cliente mystère",
+      "code_ogr": 14841
+    },
+    {
+      "libelle": "Sondeur enquêteur / Sondeuse enquêtrice",
+      "libelle_court": "Sondeur enquêteur / Sondeuse enquêtrice",
+      "code_ogr": 38939
+    }
+  ],
+  "definition": "L'Enquêteur de sondage récolte des informations essentielles pour analyser les tendances et les opinions de la population. Réalise des enquêtes de terrain pour collecter des données sur les opinions et comportements Interagit directement avec les participants pour garantir une collecte de données fiable et éthique Utilise des logiciels statistiques pour enregistrer et faciliter le traitement des données recueillies Peut contribuer à la conception des questionnaires adaptés à la cible Peut participer à l'analyse des résultats des sondages pour en extraire des données statistiques",
+  "acces_metier": "Cet emploi est accessible sans diplôme spécifique. Une formation de niveau Bac à Bac +3 en communication, statistiques ou en sciences sociales peut être un atout.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Communication, Multimédia",
+          "items": [
+            {
+              "libelle": "Mener des entretiens pour recueillir des informations",
+              "code_ogr": 507782,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Préparer un entretien",
+              "code_ogr": 121760,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les consignes et la méthodologie d'enquête prédéfinie",
+              "code_ogr": 505395,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Recherche, Innovation",
+          "items": [
+            {
+              "libelle": "Evaluer l'opérationnalité de questionnaires, de grilles avant le lancement d'une enquête",
+              "code_ogr": 123029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Guider une personne lors d'une enquête",
+              "code_ogr": 123367,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Identifier les cibles d'une enquête",
+              "code_ogr": 123369,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Recueillir des informations de manière anonyme",
+              "code_ogr": 505391,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser des enquêtes et des sondages en ligne",
+              "code_ogr": 120596,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser une enquête",
+              "code_ogr": 124121,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Analyser les résultats d'une enquête",
+              "code_ogr": 123368,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Classer les données collectées d'une enquête",
+              "code_ogr": 117352,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Préparer l'intervention, le matériel et les supports d'une enquête",
+              "code_ogr": 123953,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Gérer des conflits lors d'entretiens",
+              "code_ogr": 505394,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Qualité",
+          "items": [
+            {
+              "libelle": "Contrôler le déroulement d'une enquête",
+              "code_ogr": 122053,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer des stratégies d'approche des répondants",
+              "code_ogr": 505399,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Emettre un appel ou une relance téléphonique des clients ou des prospects",
+              "code_ogr": 400697,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer clairement les instructions aux participants",
+              "code_ogr": 486380,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Effectuer un reporting régulier à la hiérarchie",
+              "code_ogr": 403441,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "S'adapter à son interlocuteur",
+              "code_ogr": 403893,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Transmettre les résultats d'enquêtes au superviseur",
+              "code_ogr": 511005,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Collecter et analyser des données, des informations",
+              "code_ogr": 300452,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Collecter les résultats d'une enquête",
+              "code_ogr": 121724,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser des sessions de collecte de données",
+              "code_ogr": 505397,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter la confidentialité des informations",
+              "code_ogr": 300450,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des synthèses d'informations recueillies",
+              "code_ogr": 505396,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser des outils de communication numérique",
+              "code_ogr": 405261,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre à l'écoute, faire preuve d'empathie",
+              "code_ogr": 300412,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de contrôle de soi",
+              "code_ogr": 300478,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser son travail selon les priorités et les objectifs",
+              "code_ogr": 300483,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Licence mention sciences sociales",
+              "code_ogr": 491376,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence pro mention métiers du décisionnel et de la statistique",
+              "code_ogr": 514564,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention psychologie",
+              "code_ogr": 491356,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master sciences humaines et sociales mention sciences des religions et sociétés",
+              "code_ogr": 514674,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention mathématiques appliquées, statistique",
+              "code_ogr": 404665,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention sciences économiques et sociales",
+              "code_ogr": 514661,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Licence mention sociologie",
+              "code_ogr": 514531,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Master mention sciences sociales",
+              "code_ogr": 491377,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Utilisation de logiciels d'analyse statistique",
+              "code_ogr": 499066,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyse statistique des données",
+              "code_ogr": 492155,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Création et analyse de questionnaires",
+              "code_ogr": 116420,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Méthodes d'enquête",
+              "code_ogr": 102459,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Règlement Général européen sur la Protection des Données (RGPD)",
+              "code_ogr": 119308,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes de sondage d'opinion",
+              "code_ogr": 124129,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'enquête par visite mystère",
+              "code_ogr": 124130,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Méthodes d'enquête de consommation",
+              "code_ogr": 124128,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques de communication avec le public",
+              "code_ogr": 481517,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de communication orales, écrites et numériques",
+              "code_ogr": 100541,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En contact avec du public",
+          "code_ogr": 403020
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Travail en autonomie et en situation isolée",
+          "code_ogr": 490468
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail en horaires décalés",
+          "code_ogr": 300805
+        },
+        {
+          "libelle": "Travail en journée",
+          "code_ogr": 300806
+        },
+        {
+          "libelle": "Travail selon un rythme irrégulier et des pics d'activité",
+          "code_ogr": 403095
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises et milieux professionnels",
+          "code_ogr": 405348
+        },
+        {
+          "libelle": "Organisme public",
+          "code_ogr": 405349
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "94",
+      "libelle": "Communication et marketing",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "M1425 - Agent recenseur / Agente recenseuse",
+      "code_org_rome_cible": 509903,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "M1421 - Panéliste",
+      "code_org_rome_cible": 509569,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "M1613 - Télésecrétaire",
+      "code_org_rome_cible": 488885,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1401 - Assistant commercial / Assistante commerciale",
+      "code_org_rome_cible": 102,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "E1112 - Chargé / Chargée de communication",
+      "code_org_rome_cible": 488921,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "D1403 - Conseiller commercial / Conseillère commerciale auprès des particuliers",
+      "code_org_rome_cible": 104,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "D1415 - Chargé / Chargée de relation client",
+      "code_org_rome_cible": 488868,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "M1430 - Chargé / Chargée d'études commerciales",
+      "code_org_rome_cible": 510157,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "M1411 - Consultant / Consultante en énergie renouvelable",
+      "code_org_rome_cible": 488756,
+      "ordre_mobilite": 9
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 515440,
+    "code_rome": "A1319",
+    "libelle": "Ingénieur / Ingénieure écologue",
+    "transition_eco": "Emploi Vert",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "N",
+    "emploi_cadre": "O",
+    "code_rome_parent": "A1303"
+  },
+  "but": [
+    {
+      "programme_id": "gb",
+      "title": "Génie biologique",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 95.342,
+      "matched_terms": [
+        "ecolog",
+        "environnement"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "A1303",
+      "title_terms": [
+        "ecolog"
+      ],
+      "specific_title_terms": [
+        "ecolog"
+      ],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf",
+      "programme_sha256": "d808ee7e1a094add009e27dfc5bb4a8d9652536424cccb8abd7d0c49d6983bc8",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R6.SEE.04",
+          "title": "Protection des milieux naturels",
+          "page": 697,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=697",
+          "selection_score": 115.5985,
+          "shared_terms": [
+            "naturel",
+            "protection"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.SEE.12",
+          "title": "Etude de la biodiversité 2",
+          "page": 625,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=625",
+          "selection_score": 110.8806,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R1.SEE.14",
+          "title": "Etude de la biodiversité 1",
+          "page": 601,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=601",
+          "selection_score": 108.2488,
+          "shared_terms": [
+            "biodiversite"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "1.SEE.03",
+          "title": "Identifier et caractériser des êtres vivants dans leur environnement",
+          "page": 584,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=584",
+          "selection_score": 130.3498,
+          "shared_terms": [
+            "etres",
+            "vivant"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "2.SEE.03",
+          "title": "Decrire un milieu et sa biodiversité",
+          "page": 610,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-biologique-30825.pdf#page=610",
+          "selection_score": 125.8253,
+          "shared_terms": [
+            "biodiversite",
+            "milieu"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

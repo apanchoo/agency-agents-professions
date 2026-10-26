@@ -1,0 +1,234 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 521022,
+    "code_rome": "M1435",
+    "libelle": "Chargé de tracking vérificateur / Chargée de tracking vérificatrice",
+    "transition_eco": "Emploi Blanc",
+    "transition_num": "O",
+    "transition_demo": null,
+    "emploi_reglemente": "N",
+    "emploi_cadre": null,
+    "code_rome_parent": "M1403"
+  },
+  "but": [
+    {
+      "programme_id": "gea",
+      "title": "Gestion des entreprises et des administrations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.702,
+      "matched_terms": [
+        "controler l'utilisation et la diffusion des œuvres afin d'assurer le suivi des droits et des exploitations. verifie que les sommes percues via la sacem correspondent a la diffusion des oeuvres recense les tournees en france ou a l'etranger et verifie la collecte par la societe de gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf",
+      "programme_sha256": "7b59c0920431befcac569ebb95517e3661337c74524242eb64ea9ac0838176f5",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.CG2P.10",
+          "title": "Outils et pilotage de l’organisation : Système d’information décisionnel, tableaux de bord et reporting approfondi",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=235",
+          "selection_score": 69.834,
+          "shared_terms": [
+            "bord",
+            "reporting",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R6.GC2F.09",
+          "title": "Contrôle de gestion : Méthode des coûts cibles et tableaux de bord",
+          "page": 176,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=176",
+          "selection_score": 54.1445,
+          "shared_terms": [
+            "bord",
+            "tableaux"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.GEMA.10",
+          "title": "Outils et pilotage de l’organisation : Outils de gestion du manager",
+          "page": 313,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=313",
+          "selection_score": 39.4932,
+          "shared_terms": [
+            "manager"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.GEMA.03",
+          "title": "Manager l’activité dans le respect du cadrage",
+          "page": 300,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=300",
+          "selection_score": 40.9894,
+          "shared_terms": [
+            "manager"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.GEMA.02",
+          "title": "Construire un business plan pour vérifier la faisabilité d’une nouvelle activité",
+          "page": 280,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-des-entreprises-et-des-administrations-30846.pdf#page=280",
+          "selection_score": 37.6826,
+          "shared_terms": [
+            "plan",
+            "verifier"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "cj",
+      "title": "Carrières juridiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 14.564,
+      "matched_terms": [
+        "droit"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf",
+      "programme_sha256": "e5dd9b91ff8025734f295dc49b4e44eca2063e569ca170b13f4734c47e5f2cc2",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R2.05",
+          "title": "Droit des contrats",
+          "page": 75,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=75",
+          "selection_score": 50.382,
+          "shared_terms": [
+            "contrat",
+            "droit"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.PF.02",
+          "title": "Droit des sociétés",
+          "page": 235,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=235",
+          "selection_score": 47.1524,
+          "shared_terms": [
+            "droit",
+            "societe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.PF.01",
+          "title": "Droit des contrats approfondi",
+          "page": 248,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/carri-res-juridiques-30816.pdf#page=248",
+          "selection_score": 41.097,
+          "shared_terms": [
+            "contrat",
+            "droit"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gaco",
+      "title": "Gestion administrative et commerciale des organisations",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 13.489,
+      "matched_terms": [
+        "gestion"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "M1403",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf",
+      "programme_sha256": "9f3e96870a78e080e4abf2f7a7806250c1f08cf7fdef5acf15da83df3d473899",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R5.MDFS.08",
+          "title": "Droit des sociétés",
+          "page": 230,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=230",
+          "selection_score": 47.2168,
+          "shared_terms": [
+            "droit",
+            "societe"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.MRPE.06",
+          "title": "Reporting et audit",
+          "page": 152,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=152",
+          "selection_score": 36.7694,
+          "shared_terms": [
+            "reporting"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R2.07",
+          "title": "Traitement de l’information",
+          "page": 88,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=88",
+          "selection_score": 33.9129,
+          "shared_terms": [
+            "traitement"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.MRPE.02",
+          "title": "Construire un plan d’affaires",
+          "page": 119,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=119",
+          "selection_score": 21.5003,
+          "shared_terms": [
+            "plan"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.MCMO.01",
+          "title": "Piloter un projet aux enjeux commerciaux",
+          "page": 292,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/gestion-administrative-et-commerciale-des-organisations-30843.pdf#page=292",
+          "selection_score": 20.5527,
+          "shared_terms": [
+            "enjeux"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

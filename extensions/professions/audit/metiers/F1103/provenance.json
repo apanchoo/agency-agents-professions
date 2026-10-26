@@ -1,0 +1,192 @@
+{
+  "rome": {
+    "producer": "France Travail (anciennement Pôle emploi)",
+    "version": "62",
+    "published": "19/10/2026",
+    "archive": "sources/rome-official.zip",
+    "member": "unix_fiche_emploi_metier_v462.json",
+    "encoding": "iso-8859-15",
+    "url": "https://api.francetravail.fr/api-nomenclatureemploi/v1/open-data/json",
+    "sha256": "eaf2923df8b51b6d7819f21e5eedd2c8e1689ccb42d6f356770169bb3178432f"
+  },
+  "rome_metadata": {
+    "code_ogr": 144,
+    "code_rome": "F1103",
+    "libelle": "Diagnostiqueur / Diagnostiqueuse immobilier",
+    "transition_eco": "Emploi stratégique pour la Transition écologique",
+    "transition_num": "N",
+    "transition_demo": "N",
+    "emploi_reglemente": "O",
+    "emploi_cadre": "N",
+    "code_rome_parent": "F1103"
+  },
+  "but": [
+    {
+      "programme_id": "mt2e",
+      "title": "Métiers de la transition et de l'efficacité énergétiques",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.265,
+      "matched_terms": [
+        "energe"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf",
+      "programme_sha256": "aada61676004fb01e22e960baeeb774466815bac5e2c0d9fd6115896d9491d61",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.EXPLOIT.03",
+          "title": "Études réglementaires en énergétique du bâtiment",
+          "page": 135,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=135",
+          "selection_score": 65.8898,
+          "shared_terms": [
+            "batiment",
+            "energetique",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.REAL.04",
+          "title": "Prévention des risques et incendies",
+          "page": 554,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=554",
+          "selection_score": 59.1112,
+          "shared_terms": [
+            "incendie",
+            "risque"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R5.OPTIM.02",
+          "title": "Réhabilitation énergétique et environnementale des bâtiments",
+          "page": 430,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=430",
+          "selection_score": 52.4051,
+          "shared_terms": [
+            "batiment",
+            "energetique",
+            "environnementale"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "4.OPTIM.03",
+          "title": "Études thermique et environnementale réglementaires sur un bâtiment en phase de conception",
+          "page": 394,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=394",
+          "selection_score": 59.1457,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "environnementale",
+            "reglementaire"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "5.OPTIM.01",
+          "title": "Optimisation de la performance énergétique et environnementale d’un bâtiment, d’un site ou d’une installation dans le cadre d’un projet de conception ou d’un audit énergétique",
+          "page": 424,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/m-tiers-de-la-transition-et-de-l-efficacit-nerg-tiques-30864.pdf#page=424",
+          "selection_score": 56.6471,
+          "shared_terms": [
+            "batiment",
+            "conception",
+            "energetique",
+            "environnementale",
+            "performance"
+          ]
+        }
+      ]
+    },
+    {
+      "programme_id": "gccd",
+      "title": "Génie civil - Construction durable",
+      "basis": "rapprochement_editorial_domaine_et_termes",
+      "reviewed_by_human": false,
+      "score": 15.045,
+      "matched_terms": [
+        "batiment"
+      ],
+      "direct_rome_pages": [],
+      "parent_rome": "F1103",
+      "title_terms": [],
+      "specific_title_terms": [],
+      "parent_rome_pages": [],
+      "programme_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf",
+      "programme_sha256": "a4aa2122f0eabc59896c4012136b80e3583e54a42924897447c158c658956836",
+      "modules": [
+        {
+          "kind": "ressource",
+          "code": "R3.12",
+          "title": "Gestion technique et pathologies",
+          "page": 136,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=136",
+          "selection_score": 54.8761,
+          "shared_terms": [
+            "pathologie"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R3.10",
+          "title": "Physique et Énergétique du bâtiment 1",
+          "page": 134,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=134",
+          "selection_score": 39.1923,
+          "shared_terms": [
+            "batiment",
+            "energetique"
+          ]
+        },
+        {
+          "kind": "ressource",
+          "code": "R4.08",
+          "title": "Physique et Énergétique du bâtiment 2",
+          "page": 157,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=157",
+          "selection_score": 38.4202,
+          "shared_terms": [
+            "batiment",
+            "energetique"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.TP.06",
+          "title": "Diagnostic, pathologie et réparation d’un ouvrage",
+          "page": 198,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=198",
+          "selection_score": 83.2654,
+          "shared_terms": [
+            "diagnostic",
+            "pathologie",
+            "reparation"
+          ]
+        },
+        {
+          "kind": "sae",
+          "code": "3.RAPEB.06",
+          "title": "Diagnostic d’un bâtiment dans le cadre d’une rénovation thermique et structurelle d’un bâtiment",
+          "page": 275,
+          "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-12/g-nie-civil-construction-durable-30831.pdf#page=275",
+          "selection_score": 56.3549,
+          "shared_terms": [
+            "batiment",
+            "diagnostic",
+            "renovation"
+          ]
+        }
+      ]
+    }
+  ],
+  "editorial": "Workflows, livrables et critères proposés par le générateur ; pas une norme ni une équivalence officielle."
+}

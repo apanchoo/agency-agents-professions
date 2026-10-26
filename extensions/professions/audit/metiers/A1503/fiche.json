@@ -1,0 +1,567 @@
+{
+  "numero": 68,
+  "rome": {
+    "code_rome": "A1503",
+    "intitule": "Toiletteur / Toiletteuse d'animaux",
+    "code_ogr": 34
+  },
+  "appellations": [
+    {
+      "libelle": "Assistant toiletteur / Assistante toiletteuse",
+      "libelle_court": "Assistant toiletteur / Assistante toiletteuse",
+      "code_ogr": 11355
+    },
+    {
+      "libelle": "Baigneur-peigneur / Baigneuse-peigneuse d'animaux",
+      "libelle_court": "Baigneur-peigneur / Baigneuse-peigneuse d'animaux",
+      "code_ogr": 11485
+    },
+    {
+      "libelle": "Toiletteur / Toiletteuse canin",
+      "libelle_court": "Toiletteur / Toiletteuse canin",
+      "code_ogr": 20348
+    },
+    {
+      "libelle": "Toiletteur / Toiletteuse pour chiens",
+      "libelle_court": "Toiletteur / Toiletteuse pour chiens",
+      "code_ogr": 20350
+    },
+    {
+      "libelle": "Tondeur / Tondeuse d'animaux",
+      "libelle_court": "Tondeur / Tondeuse d'animaux",
+      "code_ogr": 20363
+    }
+  ],
+  "definition": "Réalise des soins d'hygiène ou d'entretien selon les besoins et les caractéristiques de l'animal de compagnie. Peut conseiller et vendre des produits de soin, des accessoires et de l'alimentation pour animaux. Peut diriger un salon de toilettage.",
+  "acces_metier": "Cet emploi est accessible avec un certificat de toiletteur canin délivré par la Chambre des Métiers et de l'Artisanat. Cette formation peut être suivie en alternance. Les vaccinations antirabique et antitétanique peuvent être requises.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Conseiller, accompagner une personne",
+              "code_ogr": 300014,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Soin",
+          "items": [
+            {
+              "libelle": "Dispenser des soins d'esthétique à un animal",
+              "code_ogr": 113917,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Détecter les contre-indications traumatiques, inflammatoires, infectieuses et adapter la prise en charge ou orienter vers les partenaires de soins",
+              "code_ogr": 107575,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Evaluer le comportement et l'état de santé d'un animal",
+              "code_ogr": 119351,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier le motif de consultation, le degré d'urgence et informer le propriétaire de l'animal sur les modalités de prise en charge",
+              "code_ogr": 100408,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Manipuler des animaux",
+              "code_ogr": 100409,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Proposer un traitement adapté",
+              "code_ogr": 122577,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser les soins d'hygiène et de confort des animaux",
+              "code_ogr": 114151,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Sensibiliser au bien-être animal",
+              "code_ogr": 400567,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sélectionner le matériel et les produits et préparer l'animal au toilettage par désinfection, douche, ...",
+              "code_ogr": 100447,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Vérifier l'aspect de l'animal et orienter si nécessaire le propriétaire vers un vétérinaire, un éducateur canin",
+              "code_ogr": 100446,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Data et Nouvelles technologies",
+          "items": [
+            {
+              "libelle": "Renseigner le dossier de suivi de l'animal et proposer des soins ultérieurs",
+              "code_ogr": 100450,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Maintenance, Réparation",
+          "items": [
+            {
+              "libelle": "Désinfecter et décontaminer un équipement",
+              "code_ogr": 107356,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Entretenir, nettoyer un espace, un lieu, un local",
+              "code_ogr": 300282,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Assurer le suivi des stocks en temps réel",
+              "code_ogr": 116932,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gérer les stocks",
+              "code_ogr": 300260,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+              "code_ogr": 123660,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion administrative et comptable",
+          "items": [
+            {
+              "libelle": "Gérer une caisse",
+              "code_ogr": 118069,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Assurer la gestion administrative d'une activité",
+              "code_ogr": 124377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Négocier avec les fournisseurs pour les achats de produits",
+              "code_ogr": 120979,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion et contrôle",
+          "items": [
+            {
+              "libelle": "Réaliser des opérations comptables",
+              "code_ogr": 300318,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Droit, contentieux et négociation",
+          "items": [
+            {
+              "libelle": "Respecter les règles d'éthique et de déontologie",
+              "code_ogr": 300447,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Détruire des déchets",
+              "code_ogr": 124337,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Trier et orienter les déchets selon leur traitement ou leur valorisation futurs",
+              "code_ogr": 400528,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Relation client",
+          "items": [
+            {
+              "libelle": "Accueillir le client et l'installer",
+              "code_ogr": 101901,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Accueillir, orienter, renseigner un public",
+              "code_ogr": 300361,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Conseiller des produits, outils ou services aux clients en fonction de leurs besoins",
+              "code_ogr": 404007,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Identifier la demande (toilettage saisonnier, traitement antiparasitaire, ...) du propriétaire de l'animal et planifier l'intervention",
+              "code_ogr": 100445,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Développement commercial",
+          "items": [
+            {
+              "libelle": "Développer et fidéliser la relation client",
+              "code_ogr": 300379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Organiser, aménager un espace de vente",
+              "code_ogr": 300375,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Vendre une prestation ou un produit",
+              "code_ogr": 122351,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Identifier les priorités d'intervention (contrôles, relevés, ...) en fonction de la planification annuelle et déterminer le matériel approprié",
+              "code_ogr": 100133,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+              "code_ogr": 300446,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser les outils numériques",
+              "code_ogr": 300426,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve d'autonomie",
+              "code_ogr": 300460,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Animaux de compétition",
+              "code_ogr": 100472,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation d'outils manuels de podologie animale",
+              "code_ogr": 100428,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de nettoyage",
+              "code_ogr": 100259,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Produits animaliers",
+              "code_ogr": 100449,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de contention animale",
+              "code_ogr": 119112,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de matériel de toilettage",
+              "code_ogr": 100452,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Certifications et habilitations",
+          "items": [
+            {
+              "libelle": "Toiletteur animal",
+              "code_ogr": 405242,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Toiletteur canin et félin (BTM)",
+              "code_ogr": 405022,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Toiletteur canin, félin et NAC (CTM)",
+              "code_ogr": 405013,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Comportements animaliers",
+              "code_ogr": 480553,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nutrition animale",
+              "code_ogr": 118972,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Soins aux animaux",
+              "code_ogr": 300751,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Anatomie animale",
+              "code_ogr": 100429,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Pathologies animales",
+              "code_ogr": 100149,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Normes sanitaires",
+              "code_ogr": 478822,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles d'hygiène et d'asepsie",
+              "code_ogr": 100414,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de stérilisation du matériel",
+              "code_ogr": 100453,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de désinfection des surfaces",
+              "code_ogr": 100262,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Normes d'hygiène et de sécurité",
+              "code_ogr": 100144,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures d'accueil des animaux",
+              "code_ogr": 100455,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Procédures de prévention des risques sanitaires",
+              "code_ogr": 100454,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Techniques d'approche et de manipulation des animaux",
+              "code_ogr": 100088,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de toilettage",
+              "code_ogr": 100271,
+              "coeur_metier": "Principale"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        },
+        {
+          "libelle": "Travailleur indépendant",
+          "code_ogr": 403106
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En environnement bruyant",
+          "code_ogr": 300824
+        },
+        {
+          "libelle": "Port de tenue professionnelle ou d'uniforme",
+          "code_ogr": 402011
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Port et manipulation de charges lourdes ou encombrantes",
+          "code_ogr": 300795
+        },
+        {
+          "libelle": "Station debout prolongée",
+          "code_ogr": 300800
+        }
+      ]
+    },
+    {
+      "libelle": "Horaires et durée du travail",
+      "items": [
+        {
+          "libelle": "Travail les week-ends et jours fériés",
+          "code_ogr": 23376
+        },
+        {
+          "libelle": "Travail saisonnier",
+          "code_ogr": 400040
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "85",
+      "libelle": "Santé",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "A1501 - Auxiliaire vétérinaire",
+      "code_org_rome_cible": 32,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "K1302 - Assistant / Assistante de vie dépendance",
+      "code_org_rome_cible": 376,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "J1301 - Agent / Agente de service hospitalier (ASH)",
+      "code_org_rome_cible": 338,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "D1210 - Vendeur / Vendeuse en animalerie",
+      "code_org_rome_cible": 96,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "M1601 - Chargé / Chargée d'accueil",
+      "code_org_rome_cible": 474,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "A1403 - Aide d'élevage agricole",
+      "code_org_rome_cible": 17,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "A1408 - Eleveur / Eleveuse d'animaux sauvages",
+      "code_org_rome_cible": 22,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "J1309 - Agent / Agente de stérilisation de service hospitalier",
+      "code_org_rome_cible": 404043,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "J1303 - Assistant / Assistante médico-technique",
+      "code_org_rome_cible": 340,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "D1507 - Employé / Employée de rayon libre-service",
+      "code_org_rome_cible": 116,
+      "ordre_mobilite": 10
+    }
+  ]
+}

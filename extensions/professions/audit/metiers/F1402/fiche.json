@@ -1,0 +1,523 @@
+{
+  "numero": 185,
+  "rome": {
+    "code_rome": "F1402",
+    "intitule": "Boutefeu",
+    "code_ogr": 157
+  },
+  "appellations": [
+    {
+      "libelle": "Abatteur / Abatteuse de carrière",
+      "libelle_court": "Abatteur / Abatteuse de carrière",
+      "code_ogr": 10200
+    },
+    {
+      "libelle": "Abatteur de mines / Abatteuse de mines",
+      "libelle_court": "Abatteur de mines / Abatteuse de mines",
+      "code_ogr": 517870
+    },
+    {
+      "libelle": "Aide-boutefeu",
+      "libelle_court": "Aide-boutefeu",
+      "code_ogr": 521787
+    },
+    {
+      "libelle": "Artificier / Artificière de carrière",
+      "libelle_court": "Artificier / Artificière de carrière",
+      "code_ogr": 11149
+    },
+    {
+      "libelle": "Artificier de carrières, mines / Artificière de carrières, mines",
+      "libelle_court": "Artificièr(ère) de carrières, mines",
+      "code_ogr": 517871
+    },
+    {
+      "libelle": "Débiteur / Débitrice de pierre",
+      "libelle_court": "Débiteur / Débitrice de pierre",
+      "code_ogr": 13891
+    },
+    {
+      "libelle": "Extracteur / Extractrice de roches",
+      "libelle_court": "Extracteur / Extractrice de roches",
+      "code_ogr": 15020
+    },
+    {
+      "libelle": "Extracteur de carrières / Extractrice de carrières",
+      "libelle_court": "Extracteur de carrières / Extractrice de carrières",
+      "code_ogr": 517874
+    },
+    {
+      "libelle": "Maître / Maîtresse Boutefeu",
+      "libelle_court": "Maître / Maîtresse Boutefeu",
+      "code_ogr": 517876
+    },
+    {
+      "libelle": "Préposé / Préposée aux tirs de mines",
+      "libelle_court": "Préposé / Préposée aux tirs de mines",
+      "code_ogr": 18048
+    },
+    {
+      "libelle": "Tireur / Tireuse de mines",
+      "libelle_court": "Tireur / Tireuse de mines",
+      "code_ogr": 20332
+    }
+  ],
+  "definition": "Le boutefeu exécute les travaux de minage et d'abattage permettant la production et l'exploitation de minerais et de roches, la réalisation de terrassements, d'assainissement ou de travaux souterrains sur les chantiers de travaux publics, en carrières et opérations de minage. Contrôle la zone de sécurité pour le chargement des tirs Mène des opérations de chargement et de connexion de la chaîne pyrotechnique (avec des aides éventuelles) Sait lire un plan de tir et le mettre en œuvre Maîtrise les contraintes (géologiques, environnementales, etc.) Réalise une implantation simple à partir de repères Surveille et évalue l'efficacité des explosions pour optimiser les résultats Respecte et applique les réglementations environnementales lors des opérations de tir",
+  "acces_metier": "Ce métier est accessible avec des certifications spécifiques telles que le Certificat de Préposé au Tir (CPT) obtenu après une formation de 35h et effectuer des recyclages annuels auprès d'organismes de formation agréés.",
+  "competences": {
+    "savoir_faire": {
+      "enjeux": [
+        {
+          "libelle": "Management",
+          "items": [
+            {
+              "libelle": "Argumenter sur les meilleures pratiques de sécurité en carrière",
+              "code_ogr": 517013,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Conseil, Transmission",
+          "items": [
+            {
+              "libelle": "Informer et former le personnel sur les nouveautés techniques et réglementaires",
+              "code_ogr": 517034,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Production, Fabrication",
+          "items": [
+            {
+              "libelle": "Abattre le front de taille par explosion ou par opérations mécaniques",
+              "code_ogr": 103369,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Analyser la géologie du site pour une extraction optimale",
+              "code_ogr": 517016,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Démolir un site à l'explosif",
+              "code_ogr": 122036,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Déterminer l'emplacement d'une charge explosive selon le plan de tir",
+              "code_ogr": 122146,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Extraire des roches",
+              "code_ogr": 122634,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Implémenter des solutions technologiques pour le suivi des opérations",
+              "code_ogr": 517029,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Innover dans les techniques d'extraction pour réduire l'impact environnemental",
+              "code_ogr": 517025,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Manipuler des produits dangereux ou fragiles",
+              "code_ogr": 300216,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Positionner les charges et les détonateurs selon le plan de tir",
+              "code_ogr": 121823,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Réaliser et contrôler les connexions et les bourrages",
+              "code_ogr": 400839,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utiliser un outil, une machine, un équipement, une installation",
+              "code_ogr": 300153,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Prévention des risques",
+          "items": [
+            {
+              "libelle": "Collaborer avec les équipes pour optimiser les procédures de sécurité",
+              "code_ogr": 517011,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Evaluer les risques liés à l'utilisation d'explosifs",
+              "code_ogr": 517022,
+              "coeur_metier": "Principale"
+            },
+            {
+              "libelle": "Réaliser des audits de sécurité réguliers pour prévenir les accidents",
+              "code_ogr": 517030,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécuriser le périmètre d'intervention",
+              "code_ogr": 121159,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Gestion des stocks",
+          "items": [
+            {
+              "libelle": "Organiser et contrôler un approvisionnement",
+              "code_ogr": 300261,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Pilotage et maîtrise des coûts",
+          "items": [
+            {
+              "libelle": "Optimiser l'utilisation des ressources pour réduire les coûts",
+              "code_ogr": 516966,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Protection des personnes et de l'environnement",
+          "items": [
+            {
+              "libelle": "Evaluer l'impact environnemental des opérations d'extraction",
+              "code_ogr": 517032,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Stratégie de développement",
+          "items": [
+            {
+              "libelle": "Optimiser les méthodes d'extraction pour augmenter l'efficacité",
+              "code_ogr": 517021,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Communication",
+          "items": [
+            {
+              "libelle": "Communiquer efficacement les consignes de sécurité aux collègues",
+              "code_ogr": 517012,
+              "coeur_metier": "Principale"
+            }
+          ]
+        },
+        {
+          "libelle": "Organisation",
+          "items": [
+            {
+              "libelle": "Agir rapidement en cas d'urgence pour minimiser les dommages",
+              "code_ogr": 484998,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Respecter les normes de sécurité et d'environnement en vigueur",
+              "code_ogr": 490066,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Développement des compétences",
+          "items": [
+            {
+              "libelle": "Développer ses compétences en manipulation d'équipements spécifiques",
+              "code_ogr": 517014,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoir_etre_professionnel": {
+      "enjeux": [
+        {
+          "libelle": "Savoir-être professionnels",
+          "items": [
+            {
+              "libelle": "Etre ouvert aux changements",
+              "code_ogr": 300479,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de persévérance",
+              "code_ogr": 300485,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de rigueur et de précision",
+              "code_ogr": 300490,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Faire preuve de sens des responsabilités",
+              "code_ogr": 300461,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    },
+    "savoirs": {
+      "categories": [
+        {
+          "libelle": "Produits, outils et matières",
+          "items": [
+            {
+              "libelle": "Caractéristiques des minerais",
+              "code_ogr": 126296,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Types d'explosifs",
+              "code_ogr": 103377,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Utilisation de cordeau détonant",
+              "code_ogr": 103371,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Systèmes de navigation et de géolocalisation (GPS professionnels, applis mobiles)",
+              "code_ogr": 482087,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Caractéristiques des roches (alluvionnaires, massives, ornementales, etc.)",
+              "code_ogr": 122204,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Domaines d'expertise",
+          "items": [
+            {
+              "libelle": "Evaluation des impacts environnementaux",
+              "code_ogr": 476950,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Capacité à travailler en équipe",
+              "code_ogr": 479792,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Planification de l'extraction",
+              "code_ogr": 515889,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Restauration écologique des sites miniers",
+              "code_ogr": 515899,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Nature d'un gisement",
+              "code_ogr": 123753,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Prévention des risques géologiques",
+              "code_ogr": 515897,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Géologie",
+              "code_ogr": 103272,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Gestion des déchets de mine",
+              "code_ogr": 515895,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Normes et procédés",
+          "items": [
+            {
+              "libelle": "Réglementation en pyrotechnie",
+              "code_ogr": 103378,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Procédures de sécurité en carrière",
+              "code_ogr": 515891,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Calcul de tirs de fragmentation",
+              "code_ogr": 103379,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Surveillance de la qualité des matériaux extraits",
+              "code_ogr": 515914,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Règles et consignes de sécurité",
+              "code_ogr": 101506,
+              "coeur_metier": null
+            }
+          ]
+        },
+        {
+          "libelle": "Techniques professionnelles",
+          "items": [
+            {
+              "libelle": "Utilisation de dynamite en sécurité",
+              "code_ogr": 515893,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Techniques de mesure de profondeur",
+              "code_ogr": 515887,
+              "coeur_metier": null
+            },
+            {
+              "libelle": "Sécurité des sites miniers",
+              "code_ogr": 515884,
+              "coeur_metier": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "contextes_travail": [
+    {
+      "libelle": "Statut d'emploi",
+      "items": [
+        {
+          "libelle": "Salarié secteur privé (CDI, CDD)",
+          "code_ogr": 403103
+        }
+      ]
+    },
+    {
+      "libelle": "Conditions de travail et risques professionnels",
+      "items": [
+        {
+          "libelle": "Déplacements professionnels",
+          "code_ogr": 300779
+        },
+        {
+          "libelle": "En extérieur",
+          "code_ogr": 300783
+        },
+        {
+          "libelle": "Manipulation d'un engin, équipement ou outil dangereux",
+          "code_ogr": 300794
+        },
+        {
+          "libelle": "Port d'équipement de protection individuelle (EPI) : gants, chaussures, casque, protections auditives",
+          "code_ogr": 38055
+        },
+        {
+          "libelle": "Risques de chutes",
+          "code_ogr": 511229
+        },
+        {
+          "libelle": "Sur chantier",
+          "code_ogr": 403962
+        },
+        {
+          "libelle": "Travail dans des environnements hostiles et dangereux",
+          "code_ogr": 400047
+        }
+      ]
+    },
+    {
+      "libelle": "Types de structures",
+      "items": [
+        {
+          "libelle": "Entreprises de travaux publics",
+          "code_ogr": 521049
+        }
+      ]
+    }
+  ],
+  "secteurs_activite": [
+    {
+      "code": "99",
+      "libelle": "Bâtiment et travaux publics (BTP)",
+      "principal": true
+    }
+  ],
+  "mobilites": [
+    {
+      "rome_cible": "F1403 - Foreur / Foreuse pétrole et gaz",
+      "code_org_rome_cible": 515419,
+      "ordre_mobilite": 1
+    },
+    {
+      "rome_cible": "F1404 - Technicien / Technicienne de forage pétrole et gaz",
+      "code_org_rome_cible": 519487,
+      "ordre_mobilite": 2
+    },
+    {
+      "rome_cible": "F1128 - Géotechnicien / Géotechnicienne",
+      "code_org_rome_cible": 509414,
+      "ordre_mobilite": 3
+    },
+    {
+      "rome_cible": "F1107 - Géomètre",
+      "code_org_rome_cible": 148,
+      "ordre_mobilite": 4
+    },
+    {
+      "rome_cible": "F1208 - Conducteur / Conductrice de travaux publics",
+      "code_org_rome_cible": 509797,
+      "ordre_mobilite": 5
+    },
+    {
+      "rome_cible": "F1202 - Chef / Cheffe de chantier bâtiment",
+      "code_org_rome_cible": 151,
+      "ordre_mobilite": 6
+    },
+    {
+      "rome_cible": "F1201 - Conducteur / Conductrice de travaux du bâtiment",
+      "code_org_rome_cible": 150,
+      "ordre_mobilite": 7
+    },
+    {
+      "rome_cible": "F1209 - Chef / Cheffe de chantier travaux publics",
+      "code_org_rome_cible": 510010,
+      "ordre_mobilite": 8
+    },
+    {
+      "rome_cible": "I1304 - Technicien / Technicienne de maintenance industrielle",
+      "code_org_rome_cible": 313,
+      "ordre_mobilite": 9
+    },
+    {
+      "rome_cible": "H1303 - Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel (HSE)",
+      "code_org_rome_cible": 224,
+      "ordre_mobilite": 10
+    }
+  ]
+}
