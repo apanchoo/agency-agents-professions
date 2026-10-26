@@ -1,39 +1,93 @@
-# Agency Agents — Professional Edition
+<div align="center">
 
-This independent derivative combines the upstream **Agency Agents** specialist roster with **1,923 English-language profession agents and companion skills**.
+# 🧭 Agency Agents · Professional Edition
 
-The purpose is to connect tool-specific specialists with complete professional roles: choose a specialist for a narrow technical assignment, a profession agent for the wider role, or combine their deliverables where the scopes complement each other. Original upstream agent definitions are preserved.
+**Specialist thinking. Professional depth. One place to find both.**
 
-## What this edition adds
+[![Explore the live agent and skill directory — 2,206 agents and 1,923 companion skills](docs/assets/professional-library.svg)](https://apanchoo.github.io/agency-agents-professions/)
 
-- A registered `professions/` division, recognized by the upstream converters and installer.
-- English profession names in folders, with stable identifier suffixes.
-- Standalone native agents under `professions/<profession>/`, plus companion skills under `extensions/professions/skills/`.
-- Practical expertise, workflows, deliverables and acceptance criteria integrated directly into runtime instructions.
-- Construction sources, curriculum mapping, original documents and attribution retained separately in the extension audit, outside agent instructions.
+[![Explore the live site](https://img.shields.io/badge/Explore_the_live_site-172c28?style=for-the-badge&logo=githubpages&logoColor=c7f275)](https://apanchoo.github.io/agency-agents-professions/)
+[![Read the field guide](https://img.shields.io/badge/Read_the_field_guide-c7f275?style=for-the-badge&logo=readthedocs&logoColor=172c28)](https://apanchoo.github.io/agency-agents-professions/docs/intro/)
 
-Browse the [professional catalog](PROFESSIONS.md), the [interactive catalog](extensions/professions/catalog.html), or the [library guide](extensions/professions/README.md). The original reference PDFs are preserved in their original language; operational agents, skills, folder names and this guide are in English. Machine-assisted terminology still deserves review for specialized or high-stakes use.
+[![GitHub stars](https://img.shields.io/github/stars/apanchoo/agency-agents-professions?style=flat-square&logo=github&label=Stars&color=c7f275)](https://github.com/apanchoo/agency-agents-professions/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/apanchoo/agency-agents-professions?style=flat-square&logo=github&label=Forks&color=c7f275)](https://github.com/apanchoo/agency-agents-professions/forks)
+[![Website checks and deployment](https://img.shields.io/github/actions/workflow/status/apanchoo/agency-agents-professions/site.yml?branch=main&style=flat-square&label=Website)](https://github.com/apanchoo/agency-agents-professions/actions/workflows/site.yml)
+[![Latest commit](https://img.shields.io/github/last-commit/apanchoo/agency-agents-professions?style=flat-square&color=245b43)](https://github.com/apanchoo/agency-agents-professions/commits/main/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-245b43?style=flat-square)](LICENSE)
 
-## Use with the existing tooling
+**[🔎 Search the directory](https://apanchoo.github.io/agency-agents-professions/explorer/)** · **[📖 Learn the workflow](https://apanchoo.github.io/agency-agents-professions/docs/agents-and-skills/)** · **[⚡ Install a role](https://apanchoo.github.io/agency-agents-professions/docs/installation/)**
+
+</div>
+
+---
+
+## 🌍 Your next expert is a search away
+
+Start with the **[live library](https://apanchoo.github.io/agency-agents-professions/)**: search by job, capability or domain, filter the roster, and open a role to read its **Agent**, **Skill**, **Expertise** and **Methods**. Copy the Markdown or jump straight to its source file. Everything is browsable before you install anything.
+
+| 🎭 Specialist agents | 🧭 Profession agents | 🧰 Companion skills | 🔎 Searchable agents |
+| :---: | :---: | :---: | :---: |
+| **283** | **1,923** | **1,923** | **2,206** |
+| Focused technical perspectives | Complete professional roles | Practical methods and references | One connected directory |
+
+**Try an assignment:** [💻 Software Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=software%20developer&type=profession) · [🎨 Frontend Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=frontend%20developer&type=agency) · [🏭 Industrial Quality Manager](https://apanchoo.github.io/agency-agents-professions/explorer/?q=industrial%20quality%20manager&type=profession)
+
+## ✨ Why this edition exists
+
+A focused specialist can solve a precise technical problem. A profession agent brings the wider working context: what to investigate, which methods to apply, what to deliver, and how to judge the result. This edition brings those perspectives together, with the original **[Agency Agents](https://github.com/msitarzewski/agency-agents)** roster preserved.
+
+| What you get | Why it helps |
+| :--- | :--- |
+| 🧠 **A role with working depth** | Expertise, workflows, deliverables and acceptance criteria in the instructions. |
+| 🧰 **A skill that travels with the role** | Reusable operating guidance, plus detailed expertise and practice references. |
+| 🗂️ **Names you can navigate** | English profession names in folders, with stable identifier suffixes. |
+| 🔌 **The existing Agency tooling** | A registered `professions/` division supported by the converters and installer. |
+| 📚 **A separate evidence trail** | Construction sources and attribution stay in the audit material, outside runtime instructions. |
+
+All operational agents, companion skills and folder names are **in English**. Original reference documents retain their original language. Terminology was translated with machine assistance; specialist wording can still benefit from editorial review.
+
+## ⚡ From discovery to a working role
+
+**1. Find the right scope.** Use the **[explorer](https://apanchoo.github.io/agency-agents-professions/explorer/)** to choose a specialist, a profession, or complementary roles.
+
+**2. Load the instructions.** Open a role on the site and copy its Markdown, or use the repository tooling from a local checkout:
 
 ```bash
+# Generate integrations for Codex
 ./scripts/convert.sh --tool codex
+
+# Install one professional role
 ./scripts/install.sh --tool codex --division professions --agent profession-software-developer-m1805
 ```
 
-Select the roles you need. Companion skills can be copied as complete folders into the skill directory supported by your tool; no global installation is performed by this repository itself.
+For a companion skill, copy its **whole folder**, including `references/`, into the skill directory supported by your tool. See the **[installation guide](https://apanchoo.github.io/agency-agents-professions/docs/installation/)** for details.
 
-## Website and maintenance
+**3. Give it a concrete assignment.** Provide inputs, constraints and a definition of success. Use the role's methods and acceptance criteria to check the output.
 
-The [Docusaurus site](https://apanchoo.github.io/agency-agents-professions/) includes a Chakra UI landing page, searchable agent and skill explorer, and an English field guide. GitHub Actions tests and publishes the site from `main`.
+## 🗺️ Find your way around
 
-Renovate prepares dependency updates; patch and minor updates can merge after required checks, while major updates remain reviewable. Native security alerts, dependency auditing and CodeQL complement these updates. See [security policy](SECURITY.md).
+| Destination | What's inside |
+| :--- | :--- |
+| **[🌐 Live website](https://apanchoo.github.io/agency-agents-professions/)** | The starting point: explore the library and open the field guide. |
+| **[🔎 Agent & skill explorer](https://apanchoo.github.io/agency-agents-professions/explorer/)** | Search, filters, full instructions and Markdown copying. |
+| **[📖 Field guide](https://apanchoo.github.io/agency-agents-professions/docs/intro/)** | How agents, skills and tool integrations work together. |
+| **[🧭 Profession catalog](PROFESSIONS.md)** | A browsable index of the added professional roles. |
+| **[🎭 Native agents](professions/)** | Self-contained definitions for the Agency converters. |
+| **[🧰 Companion skills](extensions/professions/skills/)** | Practical instructions with their expertise and method references. |
+| **[📚 Library guide & attribution](extensions/professions/README.md)** | Structure, generation, source material and provenance. |
 
-This is an independent derivative with the original history and an `upstream` remote. The repository is public to support GitHub Pages on this account. The MIT license and source-specific attribution are preserved in [extension attribution](extensions/professions/ATTRIBUTION.md).
+## 🤝 Built on the Agency, open to contribution
 
-The original project documentation follows below.
+This is an independent derivative of **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)**, retaining its history and original agent definitions. Thank you to the upstream authors and contributors for the foundation.
+
+Found a rough translation, a missing method or an unclear acceptance criterion? **[Open an issue](https://github.com/apanchoo/agency-agents-professions/issues)** or propose an improvement. If the library helps you, **[⭐ star this repository](https://github.com/apanchoo/agency-agents-professions)** so others can find it.
+
+The MIT license and [source-specific attribution](extensions/professions/ATTRIBUTION.md) are preserved. See the [security policy](SECURITY.md) for vulnerability reporting.
 
 ---
+
+<details>
+<summary><strong>🎭 Explore the original Agency Agents documentation and specialist roster</strong></summary>
 
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
@@ -1220,3 +1274,5 @@ To everyone who has opened a PR, filed an issue, started a Discussion, or simply
 Made with ❤️ by the community, for the community
 
 </div>
+
+</details>
