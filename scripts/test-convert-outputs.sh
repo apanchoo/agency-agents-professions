@@ -96,14 +96,12 @@ done < <(divisions_from_json)
 N="$(wc -l < "$SOURCES" | tr -d ' ')"
 [[ "$N" -gt 0 ]] || { echo "ERROR: no source agents found." >&2; exit 2; }
 
-# --- generate: every converted tool, sequentially, into a scratch dir ---------
+# --- generate: every converted tool, with bounded parallelism -----------------
 TOOLS="antigravity gemini-cli opencode cursor aider windsurf openclaw qwen zcode kimi codex osaurus hermes vibe dsh"
 if [[ -z "$OUT" ]]; then
   OUT="$TMP/out"; mkdir -p "$OUT"
-  for t in $TOOLS; do
-    "$SCRIPT_DIR/convert.sh" --tool "$t" --out "$OUT" >/dev/null 2>&1 \
-      || { echo "ERROR: convert.sh --tool $t failed." >&2; exit 1; }
-  done
+  "$SCRIPT_DIR/convert.sh" --parallel --jobs 4 --out "$OUT" >"$TMP/conversion.log" 2>&1 \
+    || { tail -n 60 "$TMP/conversion.log" >&2; echo "ERROR: conversion failed." >&2; exit 1; }
 fi
 
 # --- check: invariants + manifest (python does the parsing) -------------------
