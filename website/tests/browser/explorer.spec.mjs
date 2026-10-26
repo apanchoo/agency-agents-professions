@@ -35,6 +35,7 @@ test('domain options wrap inside the viewport and filter the cards',async({page}
  await domain.click();
  const list=page.getByRole('listbox',{name:'Domain',exact:true});
  await expect(list).toBeVisible();
+ await expect(list.getByRole('option')).toHaveCount(33);
  const box=await list.boundingBox();
  expect(box.x).toBeGreaterThanOrEqual(0);expect(box.x+box.width).toBeLessThanOrEqual(321);
  expect(box.y).toBeGreaterThanOrEqual(0);expect(box.y+box.height).toBeLessThanOrEqual(801);

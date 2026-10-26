@@ -19,7 +19,7 @@ export default function Explorer(){
   setTab(documents[next][0]);setCopied(false);document.getElementById('document-tab-'+documents[next][0])?.focus();
  }
  const base=useBaseUrl('/catalog/');
- const domains=useMemo(()=>[...new Set(catalog.records.map(r=>r.domain))].sort(),[]);
+ const domains=useMemo(()=>Array.from(new Set(catalog.records.map(r=>r.domain))).sort((a,b)=>a.localeCompare(b,'en')),[]);
  useEffect(()=>{const params=new URLSearchParams(window.location.search);setQuery(params.get('q')??'');if(['agency','profession'].includes(params.get('type')))setType(params.get('type'));},[]);
  useEffect(()=>setPage(1),[query,type,domain,skillsOnly]);
  const matches=useMemo(()=>filterRecords(catalog.records,{query,type,domain,skillsOnly}),[query,type,domain,skillsOnly]);
