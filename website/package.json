@@ -7,7 +7,7 @@
     "start": "npm run catalog && docusaurus start --host 127.0.0.1",
     "build": "npm run catalog && docusaurus build",
     "serve": "docusaurus serve --host 127.0.0.1 --port 4173",
-    "test": "npm run catalog && node --test tests/catalog.test.mjs",
+    "test": "npm run catalog && node --test tests/*.test.mjs",
     "test:e2e": "playwright test"
   },
   "dependencies": {
@@ -22,5 +22,5 @@
   },
   "devDependencies": {"@playwright/test": "1.64.1"},
   "engines": {"node": ">=22"},
-  "overrides": {"tinypool": "2.2.0", "serialize-javascript": "7.1.4"}
+  "overrides": {"tinypool": "2.2.0", "serialize-javascript": "7.1.4", "sockjs": {"uuid": "11.1.1"}}
 }
