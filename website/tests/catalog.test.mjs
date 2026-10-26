@@ -18,6 +18,15 @@ test('empty searches and pagination do not leak stale results',()=>{
  assert.equal(results.length,0);assert.deepEqual(paginate(results,7).items,[]);
  const last=paginate(catalog.records,999);assert.equal(last.page,last.totalPages);assert.ok(last.items.length>0);
 });
+
+test('each displayed domain selects its exact nonempty group',()=>{
+ for(const domain of new Set(catalog.records.map(record=>record.domain))){
+  assert.equal(domain,domain.trim());
+  const expected=catalog.records.filter(record=>record.domain===domain);
+  assert.deepEqual(filterRecords(catalog.records,{domain}),expected);
+  assert.ok(expected.length>0);
+ }
+});
 test('role documents and companion skills are available as inert JSON',async()=>{
  const role=catalog.records.find(r=>r.title==='Software Developer'&&r.type==='profession');
  const artifact=JSON.parse(await readFile(new URL('../static/catalog/'+role.id+'.json',import.meta.url),'utf8'));

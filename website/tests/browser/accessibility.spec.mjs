@@ -48,6 +48,14 @@ test('320px reflow, 200% text enlargement and increased text spacing', async ({p
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1)).toBe(true);
     await expect(page.locator('main h1').first()).toBeVisible();
     if (route.includes('explorer')) {
+      const domain = page.getByRole('combobox', {name: 'Domain', exact: true});
+      await domain.click();
+      const list = page.getByRole('listbox', {name: 'Domain', exact: true});
+      const bounds = await list.boundingBox();
+      expect(bounds.x + bounds.width).toBeLessThanOrEqual(641);
+      expect(await list.evaluate(el => el.scrollWidth <= el.clientWidth + 1)).toBe(true);
+      expect(await textIssues(page)).toEqual([]);
+      await page.keyboard.press('Escape');
       await page.getByLabel('Search agents and skills').fill('software developer');
       await page.getByRole('button').filter({has: page.getByRole('heading', {name: 'Software Developer', exact: true})}).click();
       await expect(page.getByRole('dialog')).toBeVisible();

@@ -1,14 +1,19 @@
 <div align="center">
 
+<a href="https://apanchoo.github.io/agency-agents-professions/"><img src="website/static/img/mark.svg" alt="Agency Professions — open the live library" width="96" height="96"></a>
+
 # 🧭 Agency Agents · Professional Edition
 
 **Specialist thinking. Professional depth. One place to find both.**
+
+🇫🇷 **1,923 profession agents built from France Travail’s ROME occupational reference data.**
 
 [![Explore the live agent and skill directory — 2,206 agents and 1,923 companion skills](website/static/img/professional-library.svg)](https://apanchoo.github.io/agency-agents-professions/)
 
 [![Explore the live site](https://img.shields.io/badge/Explore_the_live_site-172c28?style=for-the-badge&logo=githubpages&logoColor=c7f275)](https://apanchoo.github.io/agency-agents-professions/)
 [![Read the field guide](https://img.shields.io/badge/Read_the_field_guide-c7f275?style=for-the-badge&logo=readthedocs&logoColor=172c28)](https://apanchoo.github.io/agency-agents-professions/docs/intro/)
 
+[![Built from France Travail open data](https://img.shields.io/badge/Built_from-France_Travail_ROME-245b43?style=flat-square)](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html?type=article)
 [![GitHub stars](https://img.shields.io/github/stars/apanchoo/agency-agents-professions?style=flat-square&logo=github&label=Stars&color=c7f275)](https://github.com/apanchoo/agency-agents-professions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/apanchoo/agency-agents-professions?style=flat-square&logo=github&label=Forks&color=c7f275)](https://github.com/apanchoo/agency-agents-professions/forks)
 [![Website checks and deployment](https://img.shields.io/github/actions/workflow/status/apanchoo/agency-agents-professions/site.yml?branch=main&style=flat-square&label=Website)](https://github.com/apanchoo/agency-agents-professions/actions/workflows/site.yml)
@@ -31,6 +36,16 @@ Start with the **[live library](https://apanchoo.github.io/agency-agents-profess
 | Focused technical perspectives | Complete professional roles | Practical methods and references | One connected directory |
 
 **Try an assignment:** [💻 Software Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=software%20developer&type=profession) · [🎨 Frontend Developer](https://apanchoo.github.io/agency-agents-professions/explorer/?q=frontend%20developer&type=agency) · [🏭 Industrial Quality Manager](https://apanchoo.github.io/agency-agents-professions/explorer/?q=industrial%20quality%20manager&type=profession)
+
+## 🇫🇷 Real professions, grounded in France Travail data
+
+The professional library starts with **France Travail's ROME occupational reference data**: **1,923 profession records** transformed into English-language agents and companion skills, with working methods, expertise, deliverables and acceptance criteria.
+
+We use **ROME 4.0, version 62**, published on **19 October 2026** and retrieved on **26 October 2026**. The profiles are enriched with practical methods drawn from French national BUT curricula, then adapted into instructions for concrete assignments.
+
+**[Explore the France Travail open data source →](https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html?type=article)** · **[Read the full attribution and adaptation notes →](extensions/professions/ATTRIBUTION.md)**
+
+This is an independent adaptation, not an official France Travail product or an endorsement. Original records, source documents and provenance remain separate from the operational agents and skills.
 
 ## ✨ Why this edition exists
 

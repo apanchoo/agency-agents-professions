@@ -900,3 +900,40 @@ main a:not(.example-card):not(.primary-action):not(.secondary-action):not(.closi
   .result-card, .example-card, .search-bar, .detail-tabs button[aria-selected=true] { border: 1px solid ButtonText; }
   :is(button, a, input, select):focus-visible { outline: 3px solid Highlight; }
 }
+
+/* A bounded listbox avoids native select popups extending beyond the screen. */
+.domain-field { position: relative; width: 18rem; max-width: 100%; min-width: 0; }
+.domain-field > label { display: block; font-size: 1rem; color: var(--muted); margin-bottom: .5rem; }
+.domain-trigger {
+  display: flex; align-items: center; justify-content: space-between; gap: .75rem;
+  width: 100%; min-height: 3rem; padding: .65rem; text-align: left;
+  font-size: 1.125rem; line-height: 1.5; color: var(--ink); background: var(--paper);
+  border: 1px solid var(--control-border); border-radius: .2rem; cursor: pointer;
+}
+.domain-trigger > span:first-child { min-width: 0; overflow-wrap: anywhere; }
+.domain-trigger > span:last-child { flex-shrink: 0; }
+.domain-options {
+  position: absolute; inset-inline: 0; top: calc(100% + .5rem); z-index: 20;
+  width: 100%; max-width: calc(100vw - 2rem); overflow-y: auto; overflow-x: hidden;
+  overscroll-behavior: contain; scroll-padding: .3rem; padding: .3rem;
+  border: 1px solid var(--control-border); border-radius: .3rem;
+  background: var(--paper); box-shadow: 0 .75rem 2rem #172c2826;
+}
+.domain-options[data-side=top] { top: auto; bottom: calc(100% + .5rem); }
+.domain-options [role=option] {
+  display: flex; align-items: center; justify-content: space-between; gap: .6rem;
+  min-height: 3rem; padding: .65rem .75rem; font-size: 1.125rem; line-height: 1.5;
+  color: var(--ink); cursor: pointer; border: 2px solid transparent; border-radius: .2rem;
+}
+.domain-options [role=option] > span:first-child { min-width: 0; overflow-wrap: anywhere; }
+.domain-options [role=option][data-active=true] { border-color: var(--ink); background: #e8eddd; }
+.domain-options [role=option][aria-selected=true] { font-weight: 650; }
+.role-card-heading { display: flex; align-items: center; gap: .85rem; }
+.role-card-heading .role-tags { flex: 1; min-width: 0; }
+.domain-icon {
+  display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0;
+  width: 2.75rem; height: 2.75rem; padding: .6rem; border-radius: .5rem;
+  color: #245b43; background: #e8eddd; border: 1px solid #bcc9ad;
+}
+.domain-icon svg { width: 100%; height: 100%; }
+@media (max-width: 720px) { .domain-field { flex: 1 1 100%; width: 100%; } }

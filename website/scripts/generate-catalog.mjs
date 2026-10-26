@@ -20,6 +20,7 @@ function field(text, key) {
 }
 async function add(record, content) {
   if(ids.has(record.id)) throw Error(`Duplicate catalog identifier: ${record.id}`);
+  record.domain=record.domain.trim();
   ids.add(record.id);records.push(record);
   await writeFile(path.join(output, record.id+'.json'), JSON.stringify(content));
 }
