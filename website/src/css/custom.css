@@ -940,7 +940,7 @@ main a:not(.example-card):not(.primary-action):not(.secondary-action):not(.closi
 
 /* One consistent SVG stroke style throughout the interface. */
 .icon { display: inline-block; width: 1.25em; height: 1.25em; flex-shrink: 0; vertical-align: -.2em; }
-.icon-label, .example-meta, .workflow-meta, .metric-value { display: inline-flex; align-items: center; gap: .65rem; }
+.icon-label, .example-meta, .workflow-meta, .metric-value { display: inline-flex; align-items: center; flex-wrap: wrap; max-width: 100%; gap: .65rem; }
 .navbar .icon-label { vertical-align: middle; }
 .hero-actions .icon, .closing-link .icon { width: 1.2em; height: 1.2em; }
 .specimen-top .icon { width: 1.25rem; height: 1.25rem; }
